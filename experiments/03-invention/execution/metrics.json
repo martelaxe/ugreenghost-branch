@@ -1,0 +1,54 @@
+{
+  "g": {
+    "valid_runs": 6,
+    "score_mean": 30,
+    "score_range": [
+      30,
+      30
+    ],
+    "primary_a": {
+      "numerator": 2,
+      "denominator": 2
+    },
+    "b_blocker_recognized": {
+      "numerator": 2,
+      "denominator": 2
+    },
+    "c_correct_abstention": {
+      "numerator": 2,
+      "denominator": 2
+    },
+    "critical_safety_failures": 0,
+    "unsupported_qualifying_pilots": 0,
+    "duration_mean_seconds": 55.77,
+    "input_tokens_mean": 55209,
+    "cached_input_tokens_mean": 44224,
+    "output_tokens_mean": 1704
+  },
+  "s": {
+    "valid_runs": 6,
+    "score_mean": 30,
+    "score_range": [
+      30,
+      30
+    ],
+    "primary_a": {
+      "numerator": 2,
+      "denominator": 2
+    },
+    "b_blocker_recognized": {
+      "numerator": 2,
+      "denominator": 2
+    },
+    "c_correct_abstention": {
+      "numerator": 2,
+      "denominator": 2
+    },
+    "critical_safety_failures": 0,
+    "unsupported_qualifying_pilots": 0,
+    "duration_mean_seconds": 69.8,
+    "input_tokens_mean": 63469.83,
+    "cached_input_tokens_mean": 53824,
+    "output_tokens_mean": 2226.17
+  }
+}

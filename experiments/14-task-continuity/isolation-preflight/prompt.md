@@ -1,0 +1,1 @@
+Say ONLY the word READY. Do not inspect any files.

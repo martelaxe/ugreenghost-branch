@@ -1,0 +1,17 @@
+test_access_failure_is_incomplete (__main__.Tests.test_access_failure_is_incomplete) ... ok
+test_completed_with_readback (__main__.Tests.test_completed_with_readback) ... ok
+test_completed_without_readback_is_unverified (__main__.Tests.test_completed_without_readback_is_unverified) ... ok
+test_failed_never_verified (__main__.Tests.test_failed_never_verified) ... ok
+test_limited_is_incomplete (__main__.Tests.test_limited_is_incomplete) ... ok
+test_links_resolve (__main__.Tests.test_links_resolve) ... ok
+test_multiple_categories_are_ambiguous (__main__.Tests.test_multiple_categories_are_ambiguous) ... ok
+test_no_false_coverage_complete (__main__.Tests.test_no_false_coverage_complete) ... ok
+test_no_platform_approval (__main__.Tests.test_no_platform_approval) ... ok
+test_no_user_approval (__main__.Tests.test_no_user_approval) ... ok
+test_pending_not_complete (__main__.Tests.test_pending_not_complete) ... ok
+test_sources_unchanged (__main__.Tests.test_sources_unchanged) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.000s
+
+OK

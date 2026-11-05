@@ -1,0 +1,26 @@
+{
+  "A": {
+    "paths": 186,
+    "mismatches": {},
+    "independent_minimum_moves": 18,
+    "key_minimum_moves": 18
+  },
+  "B": {
+    "paths": 186,
+    "mismatches": {},
+    "independent_minimum_moves": 137,
+    "key_minimum_moves": 137
+  },
+  "C": {
+    "paths": 186,
+    "mismatches": {},
+    "independent_minimum_moves": 80,
+    "key_minimum_moves": 80
+  },
+  "D": {
+    "paths": 24,
+    "mismatches": {},
+    "independent_minimum_moves": 0,
+    "key_minimum_moves": 0
+  }
+}

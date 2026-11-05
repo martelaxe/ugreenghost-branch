@@ -1,0 +1,27 @@
+# Six-candidate ranking
+
+The official [rules](https://ugreenhackathon.devpost.com/rules) name User Value, Innovation & Differentiation, Technical Quality, and AI NAS Fit & Validation as four equally weighted criteria. We use four 1–5 subjective scores and multiply their sum by 5 for a 100-point internal estimate. These are not judges' scores. A two-point spread in totals is not meaningful; assume uncertainty of at least ±1 point per dimension. **Most Creative** prizes are specifically based on the Innovation & Differentiation criterion, with overall score used as a tie-breaker; the other dimensions still matter for eligibility and feasibility.
+
+| Candidate | User value | Innovation | Technical quality | NAS fit & validation | Total | Demo impact | Development risk | Why |
+|---|---:|---:|---:|---:|---:|---|---|---|
+| Knowledge Succession Rehearsal | 4 | 3 | 4 | 4 | **75** | Medium–high | Medium | Handoff need has firsthand support; readable text can show gaps. A generic assistant can create similar exercises; no users/NAS tested. |
+| Creative Salvage | 4 | 4 | 3 | 3 | **70** | High | High | A new creative direction changes after a documented rights blocker; differentiated outcome is plausible but untested and rights-aware DAM overlaps. |
+| Missing Piece, best basic version | 4 | 2 | 4 | 4 | **70** | Medium | Medium | Clear and practical, but generic G completed the same core cases and invoice exception agents exist. Score reflects value/feasibility, not innovation. |
+| Fork & Finish | 4 | 3 | 3 | 3 | **65** | Medium–high | Medium–high | Two usable conditional outputs make the decision visible. Generic G already did this, and UGREEN continuation is unknown. |
+| Decision Replay | 3 | 3 | 3 | 3 | **60** | Medium | High | Reconstructing decision alternatives is interesting, but proves neither what was known at the time nor causal motive. Generic source comparison is capable. |
+| Surprise Me | 3 | 2 | 4 | 3 | **60** | Medium | Medium | Previously validated static draft and evidence rules; vague discoveries overlap generic AI and prior experiments show no intelligence advantage. |
+
+**Recommendation:** lead with Creative Salvage as a **REDESIGN-stage hypothesis**, despite its lower overall estimate than Succession, because the user explicitly prizes innovation and its innovation estimate is higher. That choice is subjective and conditional, not a numerical win. Safer fallback: Succession Rehearsal. Third finalist: Fork & Finish. Missing Piece's useful evidence controls belong inside these concepts; its basic invoice framing should not lead the creative submission. Scores and selections change if user comparison or actual expert handoffs fail.
+
+## Hard checks and possible disqualifiers
+
+| Check | Creative Salvage | Succession | Fork & Finish | Missing Piece | Decision Replay | Surprise Me |
+|---|---|---|---|---|---|---|
+| Clear real need? | Creator retrieval reported; demand for generated pitches speculative | Handoff problem reported; rehearsal unvalidated | Version conflict real; demand for scenario report speculative | Missing documents reported | Historical interpretation need plausible; product demand speculative | Discovery interest speculative |
+| Generic Codex trivializes central benefit? | Could do it; must test creator judgment and setup effort | Could do it; test a real successor | **Observed:** generic produced conditional totals | **Observed:** generic solved all simple cases | Could do it; no advantage shown | Prior generic performed strongly |
+| Supported core / scalable? | Text actions cataloged; unknown rights links, cap and format handling | Text actions cataloged; bounded subsets only | Text actions cataloged; unknown turn retention | Text actions cataloged; bounded subsets only | Text actions cataloged; timestamp/causality cannot be assumed | Existing static Skill; broad coverage unknown |
+| Missing/conflicting evidence? | Hold uncertain assets; conditional pitch only | Mark gaps, never certify recovery | Show alternatives, never choose unsupported final | Distinguish not expected vs not found | Show alternatives; never invent what decision maker knew | Preserve candidates and uncertainty |
+| Explain/demo in 3 minutes? | Yes; two pitches and one restricted asset | Yes; novice encounters missing instruction | Yes; two totals and a user choice | Yes, but invoice-only demo is ordinary | Possible but nuanced | Yes, but the value proposition is diffuse |
+| Validate before Nov 15? | Fictional paired Codex + real creator pilot possible; actual NAS may not be | Human and generic pilot possible; actual NAS may not be | Paired text pilot done; actual multi-turn not yet | Basic paired pilot done; needs diverse cases | A small research pilot possible | Existing simulations only |
+
+For hundreds/thousands of files, every concept is limited to authorized, bounded retrieval; no unverified pagination, comprehensive count, semantic index performance or archive-wide coverage promise. If meaningful output requires all files and the device cannot establish coverage, the Skill must stop or report incompleteness. None requires a custom backend, executable inside the Skill or custom UI for its text-only core. Creative Salvage is disqualified if it depends on automatically clearing rights or image identity; Fork & Finish is disqualified as an interactive product if actual parent state can't be retained and no simple bounded alternative works.

@@ -1,0 +1,370 @@
+[
+  {
+    "report": "model-runs-fixed/G-A/response.md",
+    "references": [
+      {
+        "path": "shared/copy_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/assets/launch-cover.txt",
+        "exists_in_initial_fixture": false,
+        "expected_missing_target": true
+      },
+      {
+        "path": "projects/harbor/project-manifest.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/copy_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/copy_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/brief.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/review_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/meadow/project.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      }
+    ],
+    "unexplained_missing": []
+  },
+  {
+    "report": "model-runs-fixed/G-B/response.md",
+    "references": [
+      {
+        "path": "shared/review_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/review_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/copy_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/review_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/meadow/project.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/meadow/notes.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/assets/launch-cover.txt",
+        "exists_in_initial_fixture": false,
+        "expected_missing_target": true
+      },
+      {
+        "path": "projects/harbor/project-manifest.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/printer-notes.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "admin/archive-policy.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      }
+    ],
+    "unexplained_missing": []
+  },
+  {
+    "report": "model-runs-fixed/G-C/response.md",
+    "references": [
+      {
+        "path": "projects/harbor/project-manifest.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/assets/launch-cover.txt",
+        "exists_in_initial_fixture": false,
+        "expected_missing_target": true
+      },
+      {
+        "path": "projects/harbor/todo.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/brief.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/old-request.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/printer-notes.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      }
+    ],
+    "unexplained_missing": []
+  },
+  {
+    "report": "model-runs-fixed/G-D/response.md",
+    "references": [
+      {
+        "path": "projects/harbor/project-manifest.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/assets/launch-cover.txt",
+        "exists_in_initial_fixture": false,
+        "expected_missing_target": true
+      },
+      {
+        "path": "shared/copy_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/review_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      }
+    ],
+    "unexplained_missing": []
+  },
+  {
+    "report": "model-runs-fixed/S-A/response.md",
+    "references": [
+      {
+        "path": "shared/copy_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/assets/launch-cover.txt",
+        "exists_in_initial_fixture": false,
+        "expected_missing_target": true
+      },
+      {
+        "path": "projects/harbor/project-manifest.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/brief.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/old-request.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/review_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/meadow/project.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      }
+    ],
+    "unexplained_missing": []
+  },
+  {
+    "report": "model-runs-fixed/S-B/response.md",
+    "references": [
+      {
+        "path": "shared/review_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/meadow/project.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/meadow/notes.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/review_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/copy_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/project-manifest.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/assets/launch-cover.txt",
+        "exists_in_initial_fixture": false,
+        "expected_missing_target": true
+      },
+      {
+        "path": "shared/copy_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/assets/launch-cover.txt",
+        "exists_in_initial_fixture": false,
+        "expected_missing_target": true
+      },
+      {
+        "path": "projects/harbor/printer-notes.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      }
+    ],
+    "unexplained_missing": []
+  },
+  {
+    "report": "model-runs-fixed/S-C/response.md",
+    "references": [
+      {
+        "path": "projects/harbor",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/project-manifest.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/assets/launch-cover.txt",
+        "exists_in_initial_fixture": false,
+        "expected_missing_target": true
+      },
+      {
+        "path": "projects/harbor/todo.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/brief.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/old-request.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/printer-notes.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/meadow",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      }
+    ],
+    "unexplained_missing": []
+  },
+  {
+    "report": "model-runs-fixed/S-D/response.md",
+    "references": [
+      {
+        "path": "projects/harbor/project-manifest.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/assets/launch-cover.txt",
+        "exists_in_initial_fixture": false,
+        "expected_missing_target": true
+      },
+      {
+        "path": "shared/review_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/copy_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/old_cover.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/meadow/project.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/review_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "shared/review_17.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      },
+      {
+        "path": "projects/harbor/assets/launch-cover.txt",
+        "exists_in_initial_fixture": false,
+        "expected_missing_target": true
+      },
+      {
+        "path": "projects/harbor/printer-notes.txt",
+        "exists_in_initial_fixture": true,
+        "expected_missing_target": false
+      }
+    ],
+    "unexplained_missing": []
+  }
+]

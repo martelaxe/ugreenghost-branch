@@ -1,0 +1,3 @@
+You are an independent investigator examining a fictional local archive. The decision cutoff is 2024-09-12 23:59 UTC. Work only within this workspace, read the actual available records, cite exact filenames and evidence, do not modify files, do not use web, outside files or external services, and distinguish observed records from speculation. A file's availability in this archive is not proof that a particular person read or believed it.
+
+Given only the evidence available at this date, explain the situation, the board's decision options, the recorded decision, and what remains uncertain. Do not predict later developments. State what evidence is within your scope and what it does and does not establish.

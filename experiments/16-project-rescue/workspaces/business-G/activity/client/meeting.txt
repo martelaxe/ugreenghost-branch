@@ -1,0 +1,1 @@
+Client uses internal alias Stonebird for CB-47. A bank-side confirmation was mentioned but is outside this archive; authenticity remains unverified.

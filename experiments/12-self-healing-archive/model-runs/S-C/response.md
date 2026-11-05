@@ -1,0 +1,9 @@
+Inspection is **blocked**: the delegated local reader failed before execution because the sandbox’s `bubblewrap` launcher was unavailable. No files were read or modified, and no network access occurred.
+
+- **Scope:** only `projects/harbor`; the intended destination directory is `projects/harbor/assets`.
+- **Evidence:** no file-content evidence was obtained. The missing-file reference, candidate source, checksums, and destination contents remain unknown.
+- **Proposal:** no precise copy can yet be proposed. Reading permission already exists; inspection must first identify one supported candidate and establish the exact target’s absence.
+- **Approval:** you have not approved any change. After inspection, the workflow requires explicit approval of one exact source-to-target copy and platform approval. No real platform approval tool exists in this exercise.
+- **Execution/results:** no copy was attempted; restoration is unverified. Dependencies outside `projects/harbor` remain unknown.
+
+The safe next step is to restore authorized local reading and repeat the bounded inspection. Any later copy must preserve the source and enforce no overwrite; if that cannot be assured, it must not execute.

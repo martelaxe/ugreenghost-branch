@@ -1,0 +1,41 @@
+{
+  "answer_word_count": 297,
+  "pdf_bytes": 3945,
+  "pdf_pages": 1,
+  "all_ten_questions_extracted": true,
+  "zip_bytes": 8286,
+  "uncompressed_bytes": 16437,
+  "entries": [
+    {
+      "path": "SKILL.md",
+      "bytes": 6543,
+      "sha256": "1b0e03b76196cedefe8d93a4e63d64b90c050569b769e238e83e4f9cf59ebc02"
+    },
+    {
+      "path": "references/discovery.md",
+      "bytes": 2409,
+      "sha256": "466b1677aef0ec744a9be6f5c7a9d42856e7c66e938a5fafd1a0bdd3d51f27db"
+    },
+    {
+      "path": "references/evidence.md",
+      "bytes": 2845,
+      "sha256": "a3204fd58f16442f5e5188b12f0cad4e5e7c85acdb54e5e1bc3be1cb6d7eb2ad"
+    },
+    {
+      "path": "references/packet.md",
+      "bytes": 2166,
+      "sha256": "1d89e8cc83f371869cd03c884e6d0e4698ac3b16d414c4712f50be756c77e853"
+    },
+    {
+      "path": "references/safety.md",
+      "bytes": 2474,
+      "sha256": "8f408a9d89cdbca974f52f09574dfdda999ac552110ba1294aa4fde106b65163"
+    }
+  ],
+  "zip_crc_error": null,
+  "static_status": "static-pass",
+  "static_errors": 0,
+  "static_warnings": 0,
+  "zip_matches_checker_hashes": true,
+  "limits_ok": true
+}

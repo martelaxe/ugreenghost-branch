@@ -1,0 +1,3 @@
+Created [plan.json](/tmp/out/plan.json): 186 files—80 keep, 80 proposed moves, 26 deferred. No input files changed.
+
+Please clarify whether relocation within `historic/` is allowed, and resolve the metadata uncertainties and destination collisions identified in the plan.

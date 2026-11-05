@@ -1,0 +1,29 @@
+# Prior-art attempts to kill the six most unusual ideas
+
+Searched 27 October 2026 using functional terms, not invented names: capability-based file access and revocation; data clean rooms; automatic photo selection/substitution; UGREEN photo album contest entries; value-of-information clarification; bitemporal as-of versioned archives; archival redaction; agent skill vetting. Sources are public research or documentation and product descriptions; no hands-on competitor equivalence tests, exhaustive patent search, or proof of global novelty. UGREEN SkillHub was not exhaustively searchable in this session; [the public gallery](https://ugreenhackathon.devpost.com/project-gallery) and indexed entries were sampled.
+
+## 1. Consent-Bearing Object — partial prior art; unsupported as secure implementation
+
+[Tahoe-LAFS](https://github.com/tahoe-lafs/tahoe-lafs/blob/master/docs/architecture.rst) provides cryptographic read/write/verify capabilities; its own description warns transferred capabilities can be irrevocable. [AWS Clean Rooms](https://docs.aws.amazon.com/clean-rooms/latest/userguide/data-protection.html) and [NIST's data-level security scenarios](https://pages.nist.gov/zero-trust-architecture/VolumeD/UseCaseH.html) demonstrate controlled operations, data governance or revocation with substantial infrastructure. YoloFS gates access. Proposed residual: an owner-controlled personal-memory object exposing only a narrowly scoped AI interaction with future revocation and provenance, not unrestricted plaintext. No evidence this combined household use is unique; a recipient can record any output. Our Python mock is trivially bypassed, so a strong privacy or revocation claim is destroyed.
+
+## 2. What-If Exhibit — known components; possible combination, not established novelty
+
+[Publish-Safe Photo Review](https://devpost.com/software/publish-safe-photo-review) already proposes a UGREEN album after filtering do-not-publish people, explicitly as a Round 1 idea not a NAS run. [Script to Selects](https://devpost.com/software/script-to-selects) describes user-approved scene albums; [photo book editing](https://help.artifactuprising.com/hc/en-us/articles/360000314832-Adding-Removing-Photos-from-Layouts-in-the-Editor) supports swapping photos in fixed slots. [Snakemake](https://snakemake.readthedocs.io/en/stable/snakefiles/rules.html) supports dependency-driven and conditional execution. Residual hypothesis: preserve explicitly stated narrative beats while showing counterfactual substitution or an honest hole under a changed selection constraint, then optionally make an album. No reviewed source demonstrates this precise full interaction, but search is incomplete and it may be ordinary AI curation. It is not a novel dynamic album, a privacy system, or proof of creative superiority.
+
+## 3. One-Bit Workshop — close prior art; novelty largely fails
+
+[REVOIR](https://arxiv.org/abs/2609.37588) already formalizes deciding whether a clarification changes task reward; [active inference for context acquisition](https://arxiv.org/abs/2608.19202) studies question selection; [Nextcloud Assistant](https://docs.nextcloud.com/server/stable/user_manual/en/ai_assistant.html) provides file-aware tool-chaining. A source-grounded one-question physical workflow is a possible packaging, not a new active-learning algorithm. Our model asked a multi-option discriminating question; it did not compute optimal value of information. A generic assistant could do this. A novelty claim for question selection is rejected.
+
+## 4. Alternative Past Room — familiar temporal research
+
+[lakeFS](https://docs.lakefs.io/) offers branches, commits and isolated snapshots. [Bitemporal history](https://martinfowler.com/articles/bitemporal-history.html) separates effective time and record time. [DataLad](https://www.datalad.org/index.html) records data versions and provenance. Remaining product hypothesis is consumer-friendly, source-bounded reconstruction of what *could be known* at a moment, with explicit uncertainty about receipt time. File timestamps or model-generated stories do not establish a person's knowledge. No new temporal database or actual personal decision replay was built.
+
+## 5. Forgetting That Leaves a Hole — partial prior art
+
+The [born-digital archival workflow](https://journals.sagepub.com/doi/10.3233/SSW260020) includes provenance and selective entity-level redaction. Redacted records, tombstones, and data-lineage systems already represent omissions. Residual hypothesis: a personal generated artifact knowingly retains an unobtrusive gap after a consent restriction, rather than fabricating continuity. Whether the existence of the gap leaks sensitive information is itself a policy issue. No mechanism can recall knowledge already disclosed; no enforced redaction is demonstrated.
+
+## 6. Skill Quarantine — prior art destroys broad claim
+
+[SkillCAT](https://arxiv.org/abs/2606.13317) replays candidate patches before admitting them. [SkillFoundry](https://arxiv.org/abs/2604.03964) validates and evolves libraries; [NVIDIA's trust pipeline](https://docs.nvidia.com/skills) describes scanning, evaluation and signed skills; [Runtime Skill Audit](https://arxiv.org/abs/2606.11671) probes behavior. YoloFS addresses runtime effects. A household-facing quarantine interface might be useful, but “test a skill before use” is not a new invention, and static validation is not sandbox security.
+
+**Result:** No concept has a defensible global-novelty claim. One-Bit Workshop and broad Skill Quarantine are particularly close to existing work. The strongest distinction is a *specific combination and interaction*: explicit narrative slots + constrained recomposition + honest gaps, not merely the ability to search and make albums. Its meaningful incremental value over generic Uliya remains untested.

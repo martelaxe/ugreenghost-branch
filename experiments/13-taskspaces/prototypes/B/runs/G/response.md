@@ -1,0 +1,60 @@
+# April 2026 Monthly Activity Report
+
+## Summary
+
+April records document approval of four delivery milestones for the Harbor project, research and workshop preparation, and a workshop delivered to 12 attendees. The worklog records **9 hours**. A draft handout requires revision, with that work and a second workshop planned for May. The archive does not establish whether any of the four milestones were completed. [meeting.md](../../archive/notes/meeting.md) · [meeting-2.md](../../archive/notes/meeting-2.md) · [worklog.txt](../../archive/plans/worklog.txt) · [may-plan.txt](../../archive/plans/may-plan.txt)
+
+The April invoice register totals **$1,000**: $800 for a design workshop and $200 for printing. A payment note records $800 received against INV-12; the printing charge remains disputed. The $200 should therefore be reported separately as unresolved. [invoice.csv](../../archive/finance/invoice.csv) · [payment.txt](../../archive/finance/payment.txt)
+
+## Activity and time schedule
+
+| Date | Recorded activity | Hours recorded | Evidence |
+|---|---|---:|---|
+| April 3 | Harbor project approved four delivery milestones; workshop scheduled for April 18 | Not recorded | [meeting.md](../../archive/notes/meeting.md) |
+| April 6 | Research | 3 | [worklog.txt](../../archive/plans/worklog.txt) |
+| April 17 | Workshop preparation | 4 | [worklog.txt](../../archive/plans/worklog.txt) |
+| April 18 | Workshop delivery | 2 | [worklog.txt](../../archive/plans/worklog.txt) |
+| April 20 | Meeting recorded workshop delivery to 12 attendees and the need to revise the draft handout | Not recorded | [meeting-2.md](../../archive/notes/meeting-2.md) |
+| **Total** | **Explicitly logged time** | **9** | [worklog.txt](../../archive/plans/worklog.txt) |
+
+The April 18 delivery date is supported by the worklog and agrees with the date scheduled on April 3. The April 20 meeting confirms delivery but does not independently state its date. The nine-hour total covers only the worklog entries; meeting time and any other unlogged work cannot be quantified from the archive.
+
+## Financial supporting schedule
+
+| Invoice | Date | Description | Amount* | Recorded status and reconciliation |
+|---|---|---|---:|---|
+| INV-12 | April 21, 2026 | Design workshop | $800 | Register says “sent”; payment note records $800 received April 25 against this invoice |
+| INV-13 | April 22, 2026 | Printing | $200 | Register says “disputed”; payment note says discussion continues |
+| **Total listed** | | | **$1,000** | **$800 recorded received; $200 unresolved** |
+
+Sources: [invoice.csv](../../archive/finance/invoice.csv) · [payment.txt](../../archive/finance/payment.txt)
+
+\*The payment note uses the dollar symbol, but no currency code is supplied. The invoice register contains numeric amounts without a currency designation. No currency conversion has been applied.
+
+The payment note supports reporting INV-12 as settled in this report, while preserving the fact that its register status has not been updated. No payment is documented for INV-13. The archive does not clearly establish whether the printing entry represents customer billing or a vendor expense, so it is not classified here as revenue, an expense, or an undisputed receivable. [invoice.csv](../../archive/finance/invoice.csv) · [payment.txt](../../archive/finance/payment.txt) · [open-questions.txt](../../archive/notes/open-questions.txt)
+
+## Gaps, inconsistencies, and follow-up register
+
+| Issue | Evidence and reporting implication | Recommended follow-up |
+|---|---|---|
+| Milestone detail and completion evidence missing | Four milestones were approved, but their descriptions, deadlines, owners, and completion status are not supplied. Approval does not establish delivery. [meeting.md](../../archive/notes/meeting.md) | Obtain the milestone list and record progress against each item. |
+| Workshop attribution is incomplete | The Harbor meeting schedules a workshop, and later records describe workshop preparation and delivery without naming Harbor. Their dates align, but the project association is not explicit throughout. [meeting.md](../../archive/notes/meeting.md) · [worklog.txt](../../archive/plans/worklog.txt) · [meeting-2.md](../../archive/notes/meeting-2.md) | Confirm the project association and link the workshop records. |
+| Time coverage is incomplete | Nine hours are logged; meeting durations and revision time are absent. This supports a logged-hours total, not a complete measure of April effort. [worklog.txt](../../archive/plans/worklog.txt) · [meeting.md](../../archive/notes/meeting.md) · [meeting-2.md](../../archive/notes/meeting-2.md) | Confirm whether additional April time should be recorded. |
+| INV-12 status is stale | “Sent” in the register differs from the subsequent payment record. This is a status reconciliation issue, not evidence of nonpayment. [invoice.csv](../../archive/finance/invoice.csv) · [payment.txt](../../archive/finance/payment.txt) | Reconcile the register to the April 25 payment and retain payment verification. |
+| Printing dispute remains unresolved | The notes expressly state that no final agreement is in the archive. The relationship between the vendor dispute and the invoice entry is not fully explained. [open-questions.txt](../../archive/notes/open-questions.txt) · [invoice.csv](../../archive/finance/invoice.csv) | Confirm the parties, accounting direction, disputed basis, and final agreed amount. |
+| Financial context is missing | Currency code, counterparties, tax treatment, and payment terms are not supplied in the available financial records. [invoice.csv](../../archive/finance/invoice.csv) · [payment.txt](../../archive/finance/payment.txt) | Obtain full invoice and payment documentation before formal accounting treatment. |
+| Handout revision and next workshop remain planned | April notes call for revision; May plans include the revised handout and another workshop. Completion, ownership, and dates are not documented. [meeting-2.md](../../archive/notes/meeting-2.md) · [may-plan.txt](../../archive/plans/may-plan.txt) | Assign owners and dates, then retain completion evidence. |
+
+These are gaps in the supplied archive, not proof that the underlying work, agreements, or supporting documents do not exist elsewhere. No source files or financial statuses have been changed.
+
+## May handover
+
+Carry forward two planned activities: revise the draft handout and schedule a second workshop. Neither is counted as completed April work. Also carry forward reconciliation of INV-12, resolution of the printing dispute, and confirmation of milestone progress. The first two activities are explicit May plans; the reconciliation and evidence tasks are recommendations from this review. [may-plan.txt](../../archive/plans/may-plan.txt)
+
+## Scope and exclusions
+
+- **March exploration and scheduling:** background only; excluded from April activity and time totals because the note assigns it to March. [march.txt](../../archive/notes/march.txt)
+- **2025 invoice for $250:** excluded from April invoice totals. The archive provides no April transaction or carry-forward connection for it. [old-invoice.txt](../../archive/finance/old-invoice.txt)
+- **May planned work:** included only as handover context, not as April delivery or hours. [may-plan.txt](../../archive/plans/may-plan.txt)
+- **Personal grocery list:** excluded because it has no documented connection to the reporting activity. [personal.txt](../../archive/other/personal.txt)
+- **Disputed printing amount:** retained in the financial schedule for visibility, but excluded from recorded receipts and any claim of settled value. [invoice.csv](../../archive/finance/invoice.csv) · [payment.txt](../../archive/finance/payment.txt)

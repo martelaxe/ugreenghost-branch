@@ -1,0 +1,55 @@
+{
+  "results": {
+    "baseline": {
+      "excluded_declared_colors": [],
+      "selected": {
+        "arrival": "fictional-assets/arrival-red.svg",
+        "workshop": "fictional-assets/workshop-red.svg",
+        "ending": "fictional-assets/ending-green.svg"
+      },
+      "missing_roles": []
+    },
+    "no-red": {
+      "excluded_declared_colors": [
+        "red"
+      ],
+      "selected": {
+        "arrival": "fictional-assets/arrival-blue.svg",
+        "workshop": "fictional-assets/workshop-blue.svg",
+        "ending": "fictional-assets/ending-green.svg"
+      },
+      "missing_roles": []
+    },
+    "no-red-or-blue": {
+      "excluded_declared_colors": [
+        "blue",
+        "red"
+      ],
+      "selected": {
+        "arrival": null,
+        "workshop": null,
+        "ending": "fictional-assets/ending-green.svg"
+      },
+      "missing_roles": [
+        "arrival",
+        "workshop"
+      ]
+    }
+  },
+  "source_hashes_before": {
+    "ending-green.svg": "77f3620a45fe093423f5c3aaefcbddf24719c2253bf22683e8924db988af6ce9",
+    "arrival-blue.svg": "7b53db14fb6d207a872308800728914660b7ec10c33e80129107b6b1ec8009eb",
+    "workshop-red.svg": "b12fbcae1ecffefd55b433eeecc4c72152e6cb89eb7debc757efb752250bddef",
+    "arrival-red.svg": "87b958d373987f4ee8e40df27cf8b7df6b01b1b28d417db360f49fe6f869d7b7",
+    "workshop-blue.svg": "ed754b14fbac737bdeac94d9b3fd373d53c5f392e0d3fe3d8c3b1a2ce7321049"
+  },
+  "source_hashes_after": {
+    "ending-green.svg": "77f3620a45fe093423f5c3aaefcbddf24719c2253bf22683e8924db988af6ce9",
+    "arrival-blue.svg": "7b53db14fb6d207a872308800728914660b7ec10c33e80129107b6b1ec8009eb",
+    "workshop-red.svg": "b12fbcae1ecffefd55b433eeecc4c72152e6cb89eb7debc757efb752250bddef",
+    "arrival-red.svg": "87b958d373987f4ee8e40df27cf8b7df6b01b1b28d417db360f49fe6f869d7b7",
+    "workshop-blue.svg": "ed754b14fbac737bdeac94d9b3fd373d53c5f392e0d3fe3d8c3b1a2ce7321049"
+  },
+  "sources_unchanged": true,
+  "runtime": "local deterministic Python using hand-authored fixture labels; no AI or NAS"
+}

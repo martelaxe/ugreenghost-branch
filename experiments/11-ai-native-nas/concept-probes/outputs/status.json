@@ -1,0 +1,76 @@
+{
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "medium",
+  "runs": [
+    {
+      "name": "impact",
+      "exit": 0,
+      "response": true,
+      "seconds": 29.6,
+      "workspace": "/tmp/ugreen11probes-98y3vdu1/impact/work",
+      "before": {
+        "admin/inventory.txt": "f25590cc8b7071d60fbc318dfc52ba1dcda8123f63ae9e2c1c2bf3888d7746c5",
+        "admin/vendor-note.txt": "a6ec9d97cc7f2a21e1f3e8b8bec60fc2d8611b33c69c3d254c5f2707ab624e75",
+        "assets/shared/cover.txt": "24d63c18c4c54b3335d3a701625612380bd32a8cb392336e58a6c72594d4903d",
+        "assets/shared/cover_old.txt": "0e977af812cb41bc937a226479fe7a61ec081cb5aa23337a4d5e71eb83e743f7",
+        "personal/meeting.txt": "6153923b2cea096085572c7ea42625798f134ce0c53fe49e57064b7bd3552ea7",
+        "personal/supplies.txt": "efe595b8a057abd683c9de3339d9091431208fbe50dfa8925caf1d56885a9bff",
+        "projects/autumn/production.md": "d051ade2f5e296c1b6051e5cd817fe90d7866df05823047513d217b5e96a2338",
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831",
+        "projects/old/record.md": "d20e6c648acbe7caaa172548fd366cbbffd5e2111f1b21432283e307938bd50d",
+        "projects/summer/readme.md": "d99d17df64df0ac20d3f4006c95e6b29b69631b4a8d11310433aa62bbc42f8b6",
+        "projects/winter/readme.md": "a01b44b7048cb84acad44ead2c495e3edc645d75349990ab69b72382df9c5749",
+        "projects/winter/status.md": "83deb63b89c81068547983c6d538e93da1668b3cd9148a85a78c4070512f76ad"
+      },
+      "after": {
+        "admin/inventory.txt": "f25590cc8b7071d60fbc318dfc52ba1dcda8123f63ae9e2c1c2bf3888d7746c5",
+        "admin/vendor-note.txt": "a6ec9d97cc7f2a21e1f3e8b8bec60fc2d8611b33c69c3d254c5f2707ab624e75",
+        "assets/shared/cover.txt": "24d63c18c4c54b3335d3a701625612380bd32a8cb392336e58a6c72594d4903d",
+        "assets/shared/cover_old.txt": "0e977af812cb41bc937a226479fe7a61ec081cb5aa23337a4d5e71eb83e743f7",
+        "personal/meeting.txt": "6153923b2cea096085572c7ea42625798f134ce0c53fe49e57064b7bd3552ea7",
+        "personal/supplies.txt": "efe595b8a057abd683c9de3339d9091431208fbe50dfa8925caf1d56885a9bff",
+        "projects/autumn/production.md": "d051ade2f5e296c1b6051e5cd817fe90d7866df05823047513d217b5e96a2338",
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831",
+        "projects/old/record.md": "d20e6c648acbe7caaa172548fd366cbbffd5e2111f1b21432283e307938bd50d",
+        "projects/summer/readme.md": "d99d17df64df0ac20d3f4006c95e6b29b69631b4a8d11310433aa62bbc42f8b6",
+        "projects/winter/readme.md": "a01b44b7048cb84acad44ead2c495e3edc645d75349990ab69b72382df9c5749",
+        "projects/winter/status.md": "83deb63b89c81068547983c6d538e93da1668b3cd9148a85a78c4070512f76ad"
+      }
+    },
+    {
+      "name": "rebuild",
+      "exit": 0,
+      "response": true,
+      "seconds": 47.19,
+      "workspace": "/tmp/ugreen11probes-98y3vdu1/rebuild/work",
+      "before": {
+        "materials/fold.txt": "f2da16dacbbedc76e4a26966da053bfbb3ea4d0155e3cc735bc49123be1d6b5a",
+        "materials/image-index.txt": "97ebc342ee1be2c21c1f0871a8453d06faf4d8a11e202505886bdb66622291f7",
+        "materials/notes.txt": "cd6950ff71e922def26630cba9f38915a937960fd49b9e70d1d3fa96e36740a1",
+        "personal/market.txt": "34ef67fb0799a52939a7ee25ccd7e24699ed8644eba28b761ff3f9b48e234309",
+        "personal/receipt.txt": "79da036cc412d86ff2604350090848fe6ebf4db6828c1d8221d092954677e516",
+        "planning/meeting.txt": "08cba1430bbd603601f7c225a0e9570f67c9017156a7309c88c7adce6ce96297",
+        "planning/time.txt": "b8d65157aac757634a1964af57aaed0f1159ec290f3fd76d133930c3bc52bf62",
+        "planning/venue.txt": "bdb1b7f2a7880336c4f9013aa04bcf0141acde7107e40a8d837141e4b23ea140",
+        "project/old-notes.txt": "c044adba835155f3d13ed5d0acee289929c406859feb5f5ac5d98184e25d6766",
+        "project/purpose.txt": "85f66d9307b86fe25dbd2d5d9b83c58ae4b9a69644e8ff4bc7282834a8199d9c",
+        "project/steps.txt": "6843926a69852d8654b43d374e7c23b9599869290c30d22565b0adfaa0a98ebf",
+        "rights/use.txt": "a3af915d6c6fb7ac3c1ec5ccd131b70625b77172db4bef45d272397005c9d8f4"
+      },
+      "after": {
+        "materials/fold.txt": "f2da16dacbbedc76e4a26966da053bfbb3ea4d0155e3cc735bc49123be1d6b5a",
+        "materials/image-index.txt": "97ebc342ee1be2c21c1f0871a8453d06faf4d8a11e202505886bdb66622291f7",
+        "materials/notes.txt": "cd6950ff71e922def26630cba9f38915a937960fd49b9e70d1d3fa96e36740a1",
+        "personal/market.txt": "34ef67fb0799a52939a7ee25ccd7e24699ed8644eba28b761ff3f9b48e234309",
+        "personal/receipt.txt": "79da036cc412d86ff2604350090848fe6ebf4db6828c1d8221d092954677e516",
+        "planning/meeting.txt": "08cba1430bbd603601f7c225a0e9570f67c9017156a7309c88c7adce6ce96297",
+        "planning/time.txt": "b8d65157aac757634a1964af57aaed0f1159ec290f3fd76d133930c3bc52bf62",
+        "planning/venue.txt": "bdb1b7f2a7880336c4f9013aa04bcf0141acde7107e40a8d837141e4b23ea140",
+        "project/old-notes.txt": "c044adba835155f3d13ed5d0acee289929c406859feb5f5ac5d98184e25d6766",
+        "project/purpose.txt": "85f66d9307b86fe25dbd2d5d9b83c58ae4b9a69644e8ff4bc7282834a8199d9c",
+        "project/steps.txt": "6843926a69852d8654b43d374e7c23b9599869290c30d22565b0adfaa0a98ebf",
+        "rights/use.txt": "a3af915d6c6fb7ac3c1ec5ccd131b70625b77172db4bef45d272397005c9d8f4"
+      }
+    }
+  ]
+}

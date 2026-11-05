@@ -1,0 +1,51 @@
+{
+  "workload": "large",
+  "strategy": "adaptive",
+  "rep": 0,
+  "branch": "metadata",
+  "estimated_saved_bytes": 50335856.0,
+  "wall_seconds": 0.04937303399856319,
+  "counts": {
+    "identical": 6,
+    "different": 18,
+    "source_only": 0,
+    "destination_only": 0,
+    "unverified": 0
+  },
+  "paths": {
+    "group_00/item_0000.bin": "identical",
+    "group_01/item_0001.bin": "different",
+    "group_02/item_0002.bin": "different",
+    "group_03/item_0003.bin": "different",
+    "group_04/item_0013.bin": "different",
+    "group_05/item_0014.bin": "different",
+    "group_06/item_0015.bin": "different",
+    "group_08/item_0017.bin": "different",
+    "group_00/item_0009.bin": "identical",
+    "group_00/item_0018.bin": "different",
+    "group_01/item_0010.bin": "identical",
+    "group_01/item_0019.bin": "different",
+    "group_02/item_0011.bin": "different",
+    "group_02/item_0020.bin": "different",
+    "group_03/item_0012.bin": "identical",
+    "group_03/item_0021.bin": "different",
+    "group_04/item_0004.bin": "different",
+    "group_04/item_0022.bin": "different",
+    "group_05/item_0005.bin": "different",
+    "group_05/item_0023.bin": "different",
+    "group_06/item_0006.bin": "different",
+    "group_07/item_0007.bin": "different",
+    "group_07/item_0016.bin": "identical",
+    "group_08/item_0008.bin": "identical"
+  },
+  "list_complete": {
+    "source": true,
+    "destination": true
+  },
+  "operations": 82,
+  "stats": 48,
+  "hashes": 32,
+  "bytes": 67112428,
+  "errors": 0,
+  "log": "runs/reference/large-adaptive-0.jsonl"
+}

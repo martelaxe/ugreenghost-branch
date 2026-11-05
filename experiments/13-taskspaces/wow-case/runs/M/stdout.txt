@@ -1,0 +1,79 @@
+# Harbor community repair cafe
+
+**Status:** Proposed invitation and volunteer handoff, prepared from the archive. Nothing has been changed, sent, printed, or published. Organizer approval and the unresolved decisions below remain outstanding.
+
+**Scope:** All 11 archive files were inspected. Relevant event, venue, volunteer, printing, and artwork materials support this result. The superseded draft and unrelated 2024 refreshments menu were excluded from the copy. Archive instructions were treated as source information, not authority to act.
+
+## Public invitation — proposed copy
+
+> **Harbor community repair cafe**
+>
+> Join us at the Harbor community repair cafe!
+>
+> **When:** Saturday 16 May 2026, 10:00–13:00  
+> **Where:** Cedar Community Hall, 18 Cedar Road  
+> **Cost:** Free entry
+>
+> **Accessibility:** A step-free front entrance is available. The location of the accessible toilet is awaiting confirmation.
+
+The date, hours, address, and free entry come from [confirmed.txt](../../archive/event/confirmed.txt). Entrance access and the outstanding toilet detail come from [venue-email.eml](../../archive/event/venue-email.eml).
+
+**Release hold:** The archive’s confirmed date is in the past relative to this run’s date, 26 October 2026. Confirm whether this is historical material or an event requiring a new date before using the invitation. The organizer review note also identifies icon acceptance and toilet-location confirmation as prerequisites for public distribution. [review-note.txt](../../archive/event/review-note.txt)
+
+**Artwork:** The original hand-drawn wrench icon is documented as cleared by its creator for public event materials; organizer acceptance remains outstanding. Do not include the group photo: its documented consent covers internal use only, and written consent for public use is absent from the archive. [graphic.txt](../../archive/assets/graphic.txt) · [photo-rights.txt](../../archive/assets/photo-rights.txt)
+
+## Volunteer handoff — proposed working copy
+
+**Event baseline:** Cedar Community Hall, 18 Cedar Road; Saturday 16 May 2026; public hours 10:00–13:00; free entry. Confirm the date before operational use. [confirmed.txt](../../archive/event/confirmed.txt)
+
+| Time | Activity | Listed owner |
+|---|---|---|
+| 09:30 | Volunteer setup | Alex |
+| 10:00 | Doors open | Sam |
+| 12:30 | Begin cleanup | Alex |
+| 13:00 | Close | Sam |
+
+These are the assignments recorded in [program.csv](../../archive/event/program.csv); current availability and acceptance are not evidenced.
+
+**Supplies and intake**
+
+- Bring name labels, repair intake forms, and a bin for unrepairable items.
+- Seek a decision before accepting any hazardous electrical item. The archive does not identify who can authorize acceptance or provide handling criteria.
+
+Source: [volunteers.md](../../archive/notes/volunteers.md)
+
+**Venue and accessibility**
+
+- The venue email records a May 16 booking and a step-free front entrance.
+- Confirm the accessible toilet location with hall staff, then update the invitation and volunteer briefing with the verified detail.
+
+Source: [venue-email.eml](../../archive/event/venue-email.eml)
+
+**Review and printing**
+
+The archive records a proposed print quantity of 40 after organizer review and explicitly says no printing has been ordered. This handoff does not authorize an order. [printing.txt](../../archive/notes/printing.txt)
+
+## Important unresolved decisions
+
+| Decision or gap | Required resolution |
+|---|---|
+| **Event date has passed** | Confirm historical use or obtain the intended future date and corresponding venue confirmation. Do not silently substitute a date. |
+| **Accessible toilet location** | Obtain confirmation from hall staff; record the location before distribution. |
+| **Icon acceptance** | Obtain organizer acceptance of the cleared wrench icon. Rights clearance and organizer acceptance are separate statuses. |
+| **Repair scope and hazardous items** | Define accepted item types, exclusions, and who decides whether a hazardous electrical item may be accepted. The archive provides no such criteria. |
+| **Cleanup during public hours** | Confirm how cleanup from 12:30 will coexist with the advertised 13:00 close, including any intake cutoff. No cutoff is documented. |
+| **Volunteer readiness** | Confirm Alex’s and Sam’s availability and assign responsibility for bringing supplies and handling intake. |
+| **Public contact and attendance arrangements** | Decide whether to include a contact, booking requirement, or walk-in guidance. None is supplied in the archive. |
+| **Distribution and printing** | Approve the exact final copy, artwork, channels, and any print quantity before action. No distribution approval is evidenced. |
+
+The older draft gives **9 May 2026 at Oak Pavilion** and explicitly marks itself superseded. This result uses the confirmed **16 May 2026 at Cedar Community Hall** details instead. [draft-old.md](../../archive/event/draft-old.md) · [confirmed.txt](../../archive/event/confirmed.txt)
+
+## Approval and verification record
+
+- **Proposed:** The invitation and handoff above.
+- **Documented as confirmed or cleared:** Event details, venue booking, step-free entrance, and creator clearance for the wrench icon.
+- **Not evidenced as approved:** This final copy, organizer acceptance of the icon, public distribution, or a print order.
+- **Completed:** Read-only inspection of all archive files and preparation of this Markdown.
+- **Verified:** What the archive states and where its gaps and conflicts lie. No current venue, staffing, accessibility, or event status was independently verified.
+
+Before any later action, obtain exact approval identifying the final invitation version, confirmed date and accessibility wording, selected artwork, distribution channels, and—if requested—the print quantity. **No approval or action is requested or assumed by this document.**

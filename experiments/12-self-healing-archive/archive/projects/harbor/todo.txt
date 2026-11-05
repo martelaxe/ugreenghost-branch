@@ -1,0 +1,1 @@
+Before launch check that the cover asset is present in assets/launch-cover.txt.

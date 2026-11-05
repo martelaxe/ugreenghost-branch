@@ -1,0 +1,15 @@
+test_both_denied (__main__.TestAdapter.test_both_denied) ... ok
+test_changed_source (__main__.TestAdapter.test_changed_source) ... ok
+test_collision_preserved (__main__.TestAdapter.test_collision_preserved) ... ok
+test_destination_parent_missing (__main__.TestAdapter.test_destination_parent_missing) ... ok
+test_missing_source (__main__.TestAdapter.test_missing_source) ... ok
+test_no_gateway_approval (__main__.TestAdapter.test_no_gateway_approval) ... ok
+test_no_user_approval (__main__.TestAdapter.test_no_user_approval) ... ok
+test_success_copy_and_preserve (__main__.TestAdapter.test_success_copy_and_preserve) ... ok
+test_verification_failure (__main__.TestAdapter.test_verification_failure) ... ok
+test_write_failure (__main__.TestAdapter.test_write_failure) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.030s
+
+OK

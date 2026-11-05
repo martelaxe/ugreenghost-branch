@@ -1,0 +1,1 @@
+Clean the work table at the end of each shift.

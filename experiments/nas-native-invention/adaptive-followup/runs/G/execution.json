@@ -1,0 +1,19 @@
+{
+  "condition": "G",
+  "exit_code": 0,
+  "elapsed_seconds": 96.62,
+  "model_requested": "gpt-6.1-sol",
+  "reasoning": "low",
+  "fresh_codex_process": true,
+  "shell_tool_calls": 4,
+  "usage": {
+    "input_tokens": 168063,
+    "cached_input_tokens": 138496,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 9332,
+    "reasoning_output_tokens": 109
+  },
+  "response_exists": true,
+  "isolation": "outer bwrap root and fixture read-only; project, temporary and known history paths masked; writable /tmp/out. Host paths and adapter fault config remain visible; network isolation not independently verified. Inner codex danger-full-access only inside outer wrapper.",
+  "nas_runtime": false
+}

@@ -1,0 +1,4 @@
+Settlement statement
+Service: CB-48, River Box
+Revision 3, accepted
+Three installments: 100, 300, 400.

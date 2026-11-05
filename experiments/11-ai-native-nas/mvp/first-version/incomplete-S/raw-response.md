@@ -1,0 +1,9 @@
+**The target is missing, so the effects of moving it cannot be confirmed.** Local checks found neither `assets/shared/cover.txt` nor `archive/unused/cover.txt`.
+
+- **Direct evidence — Autumn Walk:** [program.md](/tmp/work/projects/autumn/program.md:1) names `../../assets/shared/cover.txt`, which resolves to the proposed target. It says the layout refers to that source and the exported PDF is absent. [production.md](/tmp/work/projects/autumn/production.md:1) connects publication work to that cover and sponsor notes. **Inference:** Autumn publication work could need reference updates or investigation of an already missing asset; application breakage is unverified.
+- **Unresolved possibility — Winter guide:** [status.md](/tmp/work/projects/winter/status.md:1) says a cover remains referenced by its README, but gives no asset path. That README was not found, so a connection to this target is unconfirmed.
+- **Historical, distinct asset:** [summer/readme.md](/tmp/work/projects/summer/readme.md:1) and [old/record.md](/tmp/work/projects/old/record.md:1) reference `cover_old.txt`. [cover_old.txt](/tmp/work/assets/shared/cover_old.txt:2) describes retired, distinct content; it is not evidence of an interchangeable replacement.
+
+**Coverage:** The full authorized workspace was inventoried: 10 files discovered, selected and read, within the Skill’s 50-path/20-document limits. No read failures or truncation occurred. Applications and external copies remain unchecked; [inventory.txt](/tmp/work/admin/inventory.txt:1) explicitly disclaims complete coverage, and [vendor-note.txt](/tmp/work/admin/vendor-note.txt:1) identifies possible separate print-partner files.
+
+**Safe next step:** Hold the move and first reconcile the missing target with Autumn’s recorded reference. Establish which actual asset the layout uses before preparing any move or reference changes. No files were modified.

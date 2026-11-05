@@ -1,0 +1,5 @@
+I couldn’t check what would be affected by moving `assets/cover.svg`. The local command runner failed to start because its sandbox dependency, `bwrap`, is unavailable. A second local interface also failed before reading the workspace.
+
+The authorized scope was `/tmp/ugreen-final-p_0zfbek`, with the supplied limits of up to 50 discovered paths and 20 selected documents. **No files were inventoried or reviewed**, and I couldn’t verify that the target exists. References, application usage and the effect of a move remain unknown. The destination folder is also unspecified, so destination-specific path effects cannot yet be assessed.
+
+The next step is to restore the local sandbox’s `bwrap` dependency and rerun the read-only check; provide the intended destination when it is known. Until the check can be completed, keep the file in its current location. No action was executed.

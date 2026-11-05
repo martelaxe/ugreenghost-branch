@@ -1,0 +1,63 @@
+# Harbor community repair cafe
+
+**Prepared for organizer review. Nothing has been changed, sent, printed, or published.** Public distribution remains on hold pending the organizer’s decision on the icon and confirmation of the accessible toilet location. The recorded event date, 16 May 2026, is now past; confirm the intended use of this invitation before distributing it. The archive does not establish whether the event took place. [confirmed.txt](../../archive/event/confirmed.txt) · [review-note.txt](../../archive/event/review-note.txt)
+
+## Public invitation — copy to use after review
+
+> # Harbor community repair cafe
+>
+> Join us at the Harbor community repair cafe!
+>
+> **Saturday 16 May 2026 · 10:00–13:00**  
+> **Cedar Community Hall, 18 Cedar Road**  
+> **Entry is free.**
+>
+> **Accessibility:** A step-free front entrance is available. The accessible toilet location is awaiting confirmation with hall staff.
+
+Date, time, venue, address and free entry are confirmed in the archive. The venue confirms the step-free front entrance; it does not confirm the accessible toilet location. Replace the final accessibility sentence with verified information before release. [confirmed.txt](../../archive/event/confirmed.txt) · [venue-email.eml](../../archive/event/venue-email.eml) · [review-note.txt](../../archive/event/review-note.txt)
+
+## Volunteer handoff
+
+### Schedule
+
+| Time | Activity | Recorded owner |
+|---|---|---|
+| 09:30 | Volunteer setup | Alex |
+| 10:00 | Doors open | Sam |
+| 12:30 | Begin cleanup | Alex |
+| 13:00 | Close | Sam |
+
+Source: [program.csv](../../archive/event/program.csv)
+
+### Setup and intake
+
+- Bring name labels, repair intake forms and a bin for unrepairable items.
+- Ask before accepting any hazardous electrical item. The notes do not identify whom to ask or provide acceptance criteria; resolve this before intake opens.
+- Coordinate cleanup from 12:30 while the event remains open until 13:00. The archive does not specify a last-intake time.
+
+Sources: [volunteers.md](../../archive/notes/volunteers.md) · [program.csv](../../archive/event/program.csv)
+
+### Invitation materials and printing
+
+- **Graphic:** The original hand-drawn wrench icon is cleared by its creator for public event materials. Organizer acceptance is still required. The archive provides a text description, not a usable image asset. [graphic.txt](../../archive/assets/graphic.txt) · [review-note.txt](../../archive/event/review-note.txt)
+- **Photo:** Exclude the Harbor group photo from public materials. Consent covers internal use only; written public-use consent is absent from this archive. [photo-rights.txt](../../archive/assets/photo-rights.txt)
+- **Printing:** The note proposes 40 copies after organizer review and states that no printing has been ordered. This is a future handoff instruction, not approval to print now. [printing.txt](../../archive/notes/printing.txt)
+
+## Decisions needed before use
+
+| Decision | Required resolution |
+|---|---|
+| Intended date and use | Confirm whether this is a historical invitation or whether a new event date is needed. Do not silently replace the confirmed date. |
+| Accessible toilet | Confirm its location with hall staff and update the public copy. |
+| Icon | Obtain the organizer’s acceptance; if used, obtain the actual cleared artwork. |
+| Hazardous electrical items | Name the person volunteers must consult and establish acceptance criteria. |
+| Intake and cleanup | Decide when intake ends and how repairs continue during cleanup. |
+| Public scope and contact | Confirm any item restrictions and an enquiry contact if these should appear publicly. Neither is supplied in the archive. |
+
+The first three decisions concern release readiness; the intake decisions concern volunteer readiness. The archive supplies no repair categories, repair guarantees, booking arrangements or contact details, so none have been invented.
+
+## Source boundaries and continuation state
+
+The old draft’s **9 May / Oak Pavilion** details are explicitly superseded and excluded. The **2024 refreshments menu** is unrelated historical material and supplies no evidence of refreshments for this event. [draft-old.md](../../archive/event/draft-old.md) · [old-menu.txt](../../archive/other/old-menu.txt)
+
+**Handoff state:** Invitation text and volunteer instructions are prepared above from the available materials. Source discrepancies and missing evidence are identified. Organizer decisions, venue follow-up, artwork selection, distribution and printing remain outstanding; no approval or external verification has been obtained.

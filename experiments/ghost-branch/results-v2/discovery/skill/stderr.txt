@@ -1,0 +1,4 @@
+WARNING: failed to clean up stale arg0 temp dirs: Permission denied (os error 13)
+2026-10-28T06:29:11.660841Z  WARN codex_rollout::list: state db discrepancy during find_thread_path_by_id_str_in_subdir: falling_back
+2026-10-28T06:29:31.977093Z  WARN codex_core::hook_runtime: after_agent hook failed; continuing turn_id=01a18132-d510-7090-a995-8b548e48ff71 hook_name=legacy_notify error=No such file or directory (os error 2)
+2026-10-28T06:29:31.986074Z  WARN codex_core::shell_snapshot: Failed to delete shell snapshot at AbsolutePathBuf("/mnt/c/Users/RkLop/.codex/shell_snapshots/01a18132-c6c5-7d53-b3c6-8db48cffd94f.1793168951397176905.sh"): Os { code: 2, kind: NotFound, message: "No such file or directory" }

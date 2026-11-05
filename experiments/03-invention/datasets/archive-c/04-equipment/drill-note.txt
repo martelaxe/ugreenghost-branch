@@ -1,0 +1,1 @@
+Workshop drill requires the operator to check the guard before switching it on.

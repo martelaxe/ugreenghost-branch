@@ -1,0 +1,53 @@
+{
+  "technical_ok": true,
+  "calls": [
+    {
+      "exit_code": 0,
+      "error": null,
+      "thread_id": "01a17a55-7d69-71c1-af2f-995b99641fa7",
+      "usage": {
+        "input_tokens": 49071,
+        "cached_input_tokens": 34688,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1311,
+        "reasoning_output_tokens": 0
+      },
+      "turn_completed": true,
+      "successful_commands": 3,
+      "command": [
+        "codex",
+        "exec",
+        "--ignore-user-config",
+        "--ephemeral",
+        "--skip-git-repo-check",
+        "--sandbox",
+        "read-only",
+        "-m",
+        "gpt-6-luna",
+        "-c",
+        "model_reasoning_effort=\"low\"",
+        "-c",
+        "web_search=\"disabled\"",
+        "--cd",
+        "/tmp/ugreen05-benchmark-qyi7a92s/a-g2/workspace",
+        "--output-last-message",
+        "/tmp/ugreen05-benchmark-qyi7a92s/a-g2/raw/report.md",
+        "--json",
+        "-"
+      ]
+    }
+  ],
+  "coverage": "model-selected; audit event logs for actual files",
+  "tag": "a-g2",
+  "archive": "a",
+  "method": "g",
+  "replicate": 2,
+  "started_utc": "2026-10-26T22:29:45.331378+00:00",
+  "ended_utc": "2026-10-26T22:30:05.037130+00:00",
+  "duration_seconds": 19.706,
+  "workspace_integrity": true,
+  "report_present": true,
+  "requested_model": "gpt-6-luna",
+  "requested_reasoning": "low",
+  "backend_identity_echoed": false
+}

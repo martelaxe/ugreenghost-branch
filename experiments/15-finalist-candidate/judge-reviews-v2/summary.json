@@ -1,0 +1,23 @@
+[
+  {
+    "label": "judge-owner",
+    "exit": 0,
+    "has_final": true,
+    "elapsed_seconds": 56.83,
+    "tool_commands_count": 15
+  },
+  {
+    "label": "judge-engineer",
+    "exit": 0,
+    "has_final": true,
+    "elapsed_seconds": 55.42,
+    "tool_commands_count": 7
+  },
+  {
+    "label": "judge-creative",
+    "exit": 0,
+    "has_final": true,
+    "elapsed_seconds": 59.6,
+    "tool_commands_count": 3
+  }
+]

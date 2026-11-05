@@ -1,0 +1,55 @@
+## Public invitation — prepared for organizer review
+
+# Harbor Community Repair Cafe
+
+Join us at the Harbor community repair cafe!
+
+**When:** Saturday 16 May 2026, 10:00–13:00  
+**Where:** Cedar Community Hall, 18 Cedar Road  
+**Entry:** Free
+
+**Accessibility:** A step-free front entrance is available. The accessible toilet location still needs confirmation with hall staff.
+
+Event details: [confirmed.txt](../../archive/event/confirmed.txt). Accessibility information: [venue-email.eml](../../archive/event/venue-email.eml).
+
+**Release status:** Hold public distribution until the organizer confirms the accessible toilet location and decides whether the wrench icon is acceptable. Update the accessibility sentence with the confirmed information before release. [review-note.txt](../../archive/event/review-note.txt)
+
+## Volunteer handoff
+
+### Schedule
+
+| Time | Activity | Owner |
+|---|---|---|
+| 09:30 | Volunteer setup | Alex |
+| 10:00 | Doors open | Sam |
+| 12:30 | Begin cleanup | Alex |
+| 13:00 | Close | Sam |
+
+Source: [program.csv](../../archive/event/program.csv).
+
+### Preparation and intake
+
+- Bring name labels, repair intake forms, and a bin for unrepairable items.
+- Ask before accepting any hazardous electrical item. The notes do not identify whom to ask; resolve this before intake begins.
+
+Source: [volunteers.md](../../archive/notes/volunteers.md).
+
+### Public materials and printing
+
+- The original hand-drawn wrench icon is cleared by its creator for public event materials. Organizer acceptance remains pending. [graphic.txt](../../archive/assets/graphic.txt), [review-note.txt](../../archive/event/review-note.txt)
+- Do not use the Harbor group photo in public materials under the permissions documented here. Participants agreed to internal use only; written consent for public use is not present in the archive. [photo-rights.txt](../../archive/assets/photo-rights.txt)
+- The printing note calls for 40 copies after organizer review and states that no printing has been ordered. No printing is authorized by this handoff; the user has not approved any change. [printing.txt](../../archive/notes/printing.txt)
+
+## Important unresolved decisions
+
+| Decision or confirmation | Required next step |
+|---|---|
+| Accessible toilet location | Confirm with hall staff and update the invitation before public distribution. [venue-email.eml](../../archive/event/venue-email.eml), [review-note.txt](../../archive/event/review-note.txt) |
+| Wrench icon acceptance | Obtain the organizer’s decision before public distribution. Creator clearance is already documented. [graphic.txt](../../archive/assets/graphic.txt), [review-note.txt](../../archive/event/review-note.txt) |
+| Hazardous electrical intake | Identify who can authorize acceptance and how volunteers should contact them. The notes require asking first but provide no named decision-maker. [volunteers.md](../../archive/notes/volunteers.md) |
+| Repair scope and attendee instructions | Confirm which items can be brought, any limits, and whether booking is needed. The supplied brief and program do not specify these details; the invitation makes no promises about them. [brief.md](../../archive/event/brief.md), [program.csv](../../archive/event/program.csv) |
+| Intended use of the dated invitation | The confirmed date is 16 May 2026, which has already passed as of this task. Confirm whether this is historical material or whether a new event date is intended before release. Do not substitute a new date without confirmation. [confirmed.txt](../../archive/event/confirmed.txt) |
+
+The April 1 draft’s **9 May / Oak Pavilion** details are explicitly superseded and have not been used. [draft-old.md](../../archive/event/draft-old.md)
+
+No files were changed, and nothing was sent, printed, or published.

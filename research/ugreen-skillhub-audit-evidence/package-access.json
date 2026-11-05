@@ -1,0 +1,969 @@
+[
+  {
+    "id": 129,
+    "name": "Study & review plan",
+    "identifier": "ugreen/ugreen-knowledge-review-planning",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 142,
+    "name": "Album creation",
+    "identifier": "ugreen/ug-photo-album-create",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 143,
+    "name": "Photo timeline",
+    "identifier": "ugreen/ug-photo-time-location",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 146,
+    "name": "File search",
+    "identifier": "ugreen/ug-file-readonly",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 141,
+    "name": "UGREEN NAS official knowledge Q&A",
+    "identifier": "ugreen/ugreen-nas-official-rag-qa",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 32,
+    "name": "Document intelligent Q&A",
+    "identifier": "ugreen/ugreen-document-qa",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 126,
+    "name": "Mind map",
+    "identifier": "ugreen/ugreen-learning-cards-mindmaps",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 133,
+    "name": "File renaming",
+    "identifier": "ugreen/ug-file-rename-classify",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 137,
+    "name": "Personalized recommendations",
+    "identifier": "ugreen/ug-media-recommendation",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 147,
+    "name": "File management",
+    "identifier": "ugreen/ug-file-basic-mutation",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 128,
+    "name": "Audio transcription & knowledge extraction",
+    "identifier": "ugreen/ugreen-audio-transcription-knowledge-extraction",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 34,
+    "name": "Document translation",
+    "identifier": "ugreen/ugreen-document-translation",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 124,
+    "name": "Note organization & linking",
+    "identifier": "ugreen/ugreen-note-organization-linking",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 35,
+    "name": "Structured field extraction",
+    "identifier": "ugreen/ugreen-document-structured-extraction",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 131,
+    "name": "File deduplication",
+    "identifier": "ugreen/ug-file-dedupe",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 130,
+    "name": "Natural language photo search",
+    "identifier": "ugreen/ug-photo-search-router",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 33,
+    "name": "Cross-document retrieval & summarization",
+    "identifier": "ugreen/ugreen-cross-document-retrieval-summary",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 145,
+    "name": "File tagging",
+    "identifier": "ugreen/ug-file-tags",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 132,
+    "name": "File cleanup",
+    "identifier": "ugreen/ug-file-cleanup",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 125,
+    "name": "Knowledge graph visualization",
+    "identifier": "ugreen/ugreen-knowledge-graph-visualization",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 144,
+    "name": "File organization",
+    "identifier": "ugreen/ug-file-organization",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 138,
+    "name": "Event query",
+    "identifier": "ugreen/event-understanding",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 139,
+    "name": "Identity recognition",
+    "identifier": "ugreen/identity-resolve",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 140,
+    "name": "Event evidence",
+    "identifier": "ugreen/event-evidence",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 127,
+    "name": "Topic retrieval & Q&A",
+    "identifier": "ugreen/ugreen-topic-search-qa",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 136,
+    "name": "Local music recommendations",
+    "identifier": "ugreen/ug-media-music-control",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 135,
+    "name": "Local media playback",
+    "identifier": "ugreen/ug-media-video-control",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 134,
+    "name": "Smart subtitle matching",
+    "identifier": "ugreen/ug-media-video-subtitle",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 36,
+    "name": "Intelligent writing assistance",
+    "identifier": "ugreen/ugreen-writing-assistance",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 31,
+    "name": "Document summarization",
+    "identifier": "ugreen/ugreen-document-summary",
+    "source": "UGREEN SkillHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": false,
+    "listed_size": null
+  },
+  {
+    "id": 111,
+    "name": "agentMemory Skill",
+    "identifier": "webzler/agentMemory",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 119471,
+    "package_bytes": 119471,
+    "zip_entry_count": 45,
+    "skill_paths": [
+      "agentMemory-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/111-0.md",
+        "size": 2212,
+        "sha256": "17160641b60bf153f7e55a127b9c954ca06ebd457040394a13f5c3f6758b34ae"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 111,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 1227,
+    "name": "Podcast Transcript TXT",
+    "identifier": "KingJing1/podcast-transcript-txt-skill",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v0.1.0",
+    "has_package_url": true,
+    "listed_size": 40556,
+    "package_bytes": 40556,
+    "zip_entry_count": 19,
+    "skill_paths": [
+      "podcast-transcript-txt-skill-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/1227-0.md",
+        "size": 6650,
+        "sha256": "165ce41c3a723f468c93dd7ab0ed2c8475e6c06dc595d5a3f63a60b1a24fff19"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 1227,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 1337,
+    "name": "ink.skill — 长篇网络小说写作系统",
+    "identifier": "PapainTea/ink-skill",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 207838,
+    "package_bytes": 207838,
+    "zip_entry_count": 77,
+    "skill_paths": [
+      "ink-skill-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/1337-0.md",
+        "size": 16130,
+        "sha256": "a03a74e90022fc70702342cc268b2c985acf92c78a6b08d69216aa02616c04de"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 1337,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 482,
+    "name": "Bili Note",
+    "identifier": "Rimagination/bili-note",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 912923,
+    "package_bytes": 912923,
+    "zip_entry_count": 30,
+    "skill_paths": [
+      "bili-note-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/482-0.md",
+        "size": 22520,
+        "sha256": "c4d80165a0bbc12742bca01f7efba37287af6e9f66b668729c453c75c2ec244d"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 482,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 241,
+    "name": "Jikji Local File Discovery Skill",
+    "identifier": "NomaDamas/jikji",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 727414,
+    "package_bytes": 727414,
+    "zip_entry_count": 415,
+    "skill_paths": [
+      "jikji-main/crates/jikji-agent/assets/jikji/SKILL.md",
+      "jikji-main/skills/jikji/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/241-0.md",
+        "size": 6391,
+        "sha256": "0c5b39dc93242393e7795bfe2f5df44369a384f355d4d58f42508698d07136ca"
+      },
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/241-1.md",
+        "size": 6391,
+        "sha256": "0c5b39dc93242393e7795bfe2f5df44369a384f355d4d58f42508698d07136ca"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 241,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 521,
+    "name": "FN2 — market research & research agents",
+    "identifier": "fn2ai/fn2-openclaw-skill",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 23224,
+    "package_bytes": 23224,
+    "zip_entry_count": 16,
+    "skill_paths": [
+      "fn2-openclaw-skill-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/521-0.md",
+        "size": 5041,
+        "sha256": "6688d867299cc258d3f621f5ea617bbd8723590de9560becda837df529f212e3"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 521,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 1155,
+    "name": "Reference — cross-tool session & memory recall for agents",
+    "identifier": "Kuberwastaken/reference",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 52662,
+    "package_bytes": 52662,
+    "zip_entry_count": 25,
+    "skill_paths": [
+      "reference-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/1155-0.md",
+        "size": 7468,
+        "sha256": "c78a952ac8a48b1ef579c0fda7afac3b3a9f1febe19ed6bd4124e355f7864275"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 1155,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 1347,
+    "name": "UAP / Declassified Release Analyzer",
+    "identifier": "ckpxgfnksd-max/uap-release-analyzer",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 34463,
+    "package_bytes": 34463,
+    "zip_entry_count": 19,
+    "skill_paths": [
+      "uap-release-analyzer-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/1347-0.md",
+        "size": 10339,
+        "sha256": "63cc40b4658dc5c0f93052c51a03b8d5c0a8b9a218ec5675a0d1a414919663ce"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 1347,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 1129,
+    "name": "Film Breakdown",
+    "identifier": "ahpxex/film-breakdown-skill",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 50605,
+    "package_bytes": 50605,
+    "zip_entry_count": 37,
+    "skill_paths": [
+      "film-breakdown-skill-master/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/1129-0.md",
+        "size": 10606,
+        "sha256": "e60403e15cd8d6f0733d968f6e28074f11cd9aa7d4ce49192785f54d51dedd4b"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 1129,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 317,
+    "name": "ContextSync Implementation Skill",
+    "identifier": "metisos/agent",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 27582,
+    "package_bytes": 27582,
+    "zip_entry_count": 10,
+    "skill_paths": [],
+    "status": "no_skill_md",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 317,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 1212,
+    "name": "影视文件命名规范",
+    "identifier": "skyzhao1223/media-naming-guide",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v0.1.0",
+    "has_package_url": true,
+    "listed_size": 15043,
+    "package_bytes": 15043,
+    "zip_entry_count": 9,
+    "skill_paths": [
+      "media-naming-guide-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/1212-0.md",
+        "size": 15716,
+        "sha256": "c7a7bf9c005549cd888e97310f76e834972621573826c10591fc9dbf777bc55d"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 1212,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 417,
+    "name": "Watch Video",
+    "identifier": "Newuxtreme/watch-video-skill",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 335252,
+    "package_bytes": 335252,
+    "zip_entry_count": 19,
+    "skill_paths": [
+      "watch-video-skill-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/417-0.md",
+        "size": 8380,
+        "sha256": "5a452cadc6be54586d3b9abe693703ac1ee8211a32ee74f91e439f08bfa776e1"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 417,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 371,
+    "name": "UX Wireframe Generator",
+    "identifier": "Magdoub/claude-wireframe-skill",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 493202,
+    "package_bytes": 493202,
+    "zip_entry_count": 15,
+    "skill_paths": [
+      "claude-wireframe-skill-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/371-0.md",
+        "size": 27731,
+        "sha256": "9a29e197b7061661c51167f3c5b75a943c753aa39594d16d8c9343aa395fac71"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 371,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 1024,
+    "name": "HA Git Backup — a two-circuit system",
+    "identifier": "NickoScope/ha-git-backup",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v0.8.0",
+    "has_package_url": true,
+    "listed_size": 878163,
+    "package_bytes": 878163,
+    "zip_entry_count": 128,
+    "skill_paths": [
+      "nickol-knx-mcp-main/skills/ha-git-backup/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/1024-0.md",
+        "size": 6978,
+        "sha256": "f31df71702691e921cc1207856b0858134f10fd8eea69e2d651f6fb10a00a6b2"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 1024,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 956,
+    "name": "DataClaw Sync",
+    "identifier": "UFOyyds/dataclaw-sync",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 12818,
+    "package_bytes": 12818,
+    "zip_entry_count": 9,
+    "skill_paths": [
+      "dataclaw-sync-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/956-0.md",
+        "size": 3669,
+        "sha256": "494205aeb17dc042088c1e50f15113460d03d0df2c4eadd15d46ce3d4609a208"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 956,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 37,
+    "name": "Agent Reach — 互联网能力路由器",
+    "identifier": "Panniantong/skill",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.5.0",
+    "has_package_url": true,
+    "listed_size": 594914,
+    "package_bytes": 594914,
+    "zip_entry_count": 137,
+    "skill_paths": [
+      "Agent-Reach-main/agent_reach/skill/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/37-0.md",
+        "size": 7536,
+        "sha256": "1513432e39fd038020f9622c5f7efebf7e9e00b9e01d5bb954ef83472bfc8ac1"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 37,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 722,
+    "name": "Transcribe — 音视频转写 Skill",
+    "identifier": "kkzeros/transcribe",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 37273,
+    "package_bytes": 37273,
+    "zip_entry_count": 22,
+    "skill_paths": [
+      "transcribe-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/722-0.md",
+        "size": 17366,
+        "sha256": "03f0bf05f46ecd3e7591c46955aad521d68fe8fae4eaae23beddd85beb58498a"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 722,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 1210,
+    "name": "Media Library Organizer",
+    "identifier": "Innei/media-library-organizer-skill",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 16549,
+    "package_bytes": 16549,
+    "zip_entry_count": 16,
+    "skill_paths": [
+      "media-library-organizer-skill-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/1210-0.md",
+        "size": 2599,
+        "sha256": "3e4bd12773ed1e321fd861ef1561485a7e2a9f5b9fc28b1ba41483efef4f795c"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 1210,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 1299,
+    "name": "Prototype → Figma",
+    "identifier": "alima-max/prototype-to-figma-skill",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 26684,
+    "package_bytes": 26684,
+    "zip_entry_count": 5,
+    "skill_paths": [
+      "prototype-to-figma-skill-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/1299-0.md",
+        "size": 31341,
+        "sha256": "cc2b21799ecb1a296193f5a99f9ded812354ffe0739cf6fbca923ecbf6185996"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 1299,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  },
+  {
+    "id": 481,
+    "name": "video-spec-builder",
+    "identifier": "feicaiclub/video-spec-builder",
+    "source": "GitHub",
+    "http": 200,
+    "code": 200,
+    "version": "v1.0.0",
+    "has_package_url": true,
+    "listed_size": 196042,
+    "package_bytes": 196042,
+    "zip_entry_count": 40,
+    "skill_paths": [
+      "video-spec-builder-main/SKILL.md"
+    ],
+    "saved": [
+      {
+        "path": "research/ugreen-skillhub-audit-evidence/actual-skill-files/481-0.md",
+        "size": 21163,
+        "sha256": "9ffd4cf73fe324e545a4e120146aa0beb9a6c0b5aa3465f0f56cc2c1a79fc0f4"
+      }
+    ],
+    "status": "read",
+    "initial_incorrect_hex_only_comparison": false,
+    "recheck": {
+      "id": 481,
+      "size_match": true,
+      "md5_encoding": "base64",
+      "md5_match": true
+    },
+    "note": "Initial hex-only check was invalid: API returns MD5 encoded in base64. See package-integrity-recheck.json."
+  }
+]

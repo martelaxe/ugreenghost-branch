@@ -1,0 +1,34 @@
+{
+  "checkFormatVersion": "2.0.0",
+  "status": "static-pass",
+  "target": {
+    "skillName": "family-recipe-detective"
+  },
+  "catalog": {
+    "checkedVersion": "2.0.0"
+  },
+  "files": [
+    {
+      "path": "references/expert-handoffs.md",
+      "sha256": "402f0e2f8053ea53cc168c8cbb3839cb938646240b4ccf748587eb3efa3b7a67"
+    },
+    {
+      "path": "references/output.md",
+      "sha256": "ac295ea9a8818185ba24ffe2c7858466fdf3a94b8d07d150b56dd28e7a8f7a9c"
+    },
+    {
+      "path": "references/reconstruction.md",
+      "sha256": "17f247ade4262b5bd182fdc16f956c16311b00b33ba4c680f8d4dc6a4e7b5113"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "e46a9780fc9aa81ae27641bb9c7735c20f973d8db31775c1e79f342a05bed33a"
+    }
+  ],
+  "summary": {
+    "errors": 0,
+    "warnings": 0,
+    "info": 0
+  },
+  "diagnostics": []
+}

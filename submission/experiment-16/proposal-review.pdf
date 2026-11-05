@@ -1,0 +1,116 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 2677 >>
+stream
+BT
+/F1 10 Tf
+13 TL
+40 760 Td
+(PROJECT RESCUE - ROUND 1 PROPOSAL \(REVIEW DRAFT\)) Tj T*
+() Tj T*
+(1. What does your Skill do? \(one sentence\)) Tj T*
+(   Project Rescue finds a context-supported candidate for a missing project file and) Tj T*
+(   proposes one approved copy that preserves the source.) Tj T*
+() Tj T*
+(2. Who is your target user, and what is their problem?) Tj T*
+(   Creators and small teams may have a missing project dependency while an existing) Tj T*
+(   usable copy has an opaque name, outdated alternatives, or another active use.) Tj T*
+() Tj T*
+(3. What is your solution?) Tj T*
+(   Compare the missing reference, review history and candidate records to identify a) Tj T*
+(   supported version; explain contradictions and stop when identity is ambiguous.) Tj T*
+() Tj T*
+(4. What is the main user flow?) Tj T*
+(   Authorize folders, investigate references and candidates, review one proposed) Tj T*
+(   source and destination, approve the exact operation, and independently verify the) Tj T*
+(   copy if the platform can safely execute it.) Tj T*
+() Tj T*
+(5. How is your idea different from existing tools or common AI solutions?) Tj T*
+(   The intended workflow combines cross-file identity evidence, shared-source) Tj T*
+(   preservation and approval-gated action across project types. Generic AI and) Tj T*
+(   application-specific relinking overlap; superior performance and uniqueness are not) Tj T*
+(   established.) Tj T*
+() Tj T*
+(6. Which UGREEN AI NAS features does your Skill use, and at which step?) Tj T*
+(   File-agent discovers, reads, checks paths and hashes, and conditionally copies;) Tj T*
+(   document-agent extracts and compares project references. All work stays within) Tj T*
+(   owner-authorized scopes.) Tj T*
+() Tj T*
+(7. What is your technical approach?) Tj T*
+(   A Markdown parent delegates to registered experts using actual completed results.) Tj T*
+(   The user supplies the goal and source and destination authorization. Separate owner) Tj T*
+(   and gateway approval are required; uncertain identity, collisions or unestablished) Tj T*
+(   atomic no-overwrite stop execution. Runtime model and data flows depend on UGREEN) Tj T*
+(   configuration.) Tj T*
+() Tj T*
+(8. What have you built so far? What is not built yet? What still needs testing on a) Tj T*
+(NAS?) Tj T*
+(   A Markdown Skill passed static checking. Local Codex identified intended candidates) Tj T*
+(   in two fictional archives; generic Codex did too. A separate local adapter copied) Tj T*
+(   one file with simulated approvals. Real NAS execution, safe copy semantics,) Tj T*
+(   approval resumption and readback remain untested.) Tj T*
+() Tj T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 1435 >>
+stream
+BT
+/F1 10 Tf
+13 TL
+40 760 Td
+(9. How will you test your Skill if you become a Finalist? Name two core test cases and) Tj T*
+(one edge case.) Tj T*
+(   Test a creative asset and a business record with misleading names and supported) Tj T*
+(   identity; confirm the shared source remains. Edge case: an occupied target or) Tj T*
+(   unavailable atomic no-overwrite must block the copy.) Tj T*
+() Tj T*
+(10. What are the known limits, risks, or outside dependencies of your Skill?) Tj T*
+(   It finds existing accessible files, not deleted bytes; identity and archive) Tj T*
+(   coverage may remain uncertain. Byte equality does not prove application repair.) Tj T*
+(   UGREEN expert results, data handling, gateway approvals and collision guarantees) Tj T*
+(   remain unknown. Stop when safety is not established.) Tj T*
+() Tj T*
+(THIRD-PARTY AND AI DISCLOSURE) Tj T*
+(Third-party and AI disclosure: No third-party executable components or open-source) Tj T*
+(libraries are included in the Skill. UGREEN Uliya Skill Creation Tool and NAS runtime) Tj T*
+(are supplied by UGREEN under its applicable terms) Tj T*
+(\(https://ai.ugreen.com/pages/hackathon-starter-kit\). OpenAI Codex was used for) Tj T*
+(research, drafting and local testing under OpenAI terms) Tj T*
+(\(https://openai.com/policies/terms-of-use/\). The target runtime model and any external) Tj T*
+(data flows depend on its configuration and require verification.) Tj T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000002925 00000 n 
+0000003051 00000 n 
+0000004537 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+4663
+%%EOF

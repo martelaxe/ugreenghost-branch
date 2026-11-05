@@ -1,0 +1,82 @@
+{
+  "case-01": {
+    "dataset": "C",
+    "condition": "S",
+    "rep": 1
+  },
+  "case-02": {
+    "dataset": "C",
+    "condition": "G",
+    "rep": 1
+  },
+  "case-03": {
+    "dataset": "A",
+    "condition": "G",
+    "rep": 1
+  },
+  "case-04": {
+    "dataset": "D",
+    "condition": "S",
+    "rep": 2
+  },
+  "case-05": {
+    "dataset": "B",
+    "condition": "G",
+    "rep": 2
+  },
+  "case-06": {
+    "dataset": "D",
+    "condition": "S",
+    "rep": 1
+  },
+  "case-07": {
+    "dataset": "B",
+    "condition": "G",
+    "rep": 1
+  },
+  "case-08": {
+    "dataset": "C",
+    "condition": "G",
+    "rep": 2
+  },
+  "case-09": {
+    "dataset": "D",
+    "condition": "G",
+    "rep": 2
+  },
+  "case-10": {
+    "dataset": "A",
+    "condition": "S",
+    "rep": 1
+  },
+  "case-11": {
+    "dataset": "A",
+    "condition": "G",
+    "rep": 2
+  },
+  "case-12": {
+    "dataset": "A",
+    "condition": "S",
+    "rep": 2
+  },
+  "case-13": {
+    "dataset": "D",
+    "condition": "G",
+    "rep": 1
+  },
+  "case-14": {
+    "dataset": "C",
+    "condition": "S",
+    "rep": 2
+  },
+  "case-15": {
+    "dataset": "B",
+    "condition": "S",
+    "rep": 2
+  },
+  "case-16": {
+    "dataset": "B",
+    "condition": "S",
+    "rep": 1
+  }
+}

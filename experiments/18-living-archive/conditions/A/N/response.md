@@ -1,0 +1,46 @@
+{
+  "title": "Fire, Rescue, Shelter: San Francisco, 1906",
+  "narrative_intent": "Connect urban fire, rescue amid wreckage, and temporary shelter through three documented scenes. This thematic arrangement does not establish a chronological sequence or show the same people moving between scenes.",
+  "summary_of_changes": "Replace unavailable Image 09 with eligible Image 04 and revise the first caption to attribute the building identification and date to its catalog record. Retain Images 05 and 14 and their captions. Image 09 originally supported active urban fire; Image 04 supports that same role through visible smoke around a multistory building and a catalog identification of the Palace Hotel on fire. Image 15 supports a broader city-fire claim but lacks the same building identification; Images 01, 02, 06, 08, 10, 11 and 13 chiefly support destruction or aftermath rather than this specific active-fire scene. Image 12 shows smoke and ruins but lacks the same building identification. Images 03 and 07 concern other dates and subjects. The rescue and shelter claims remain qualified by their source titles. No panel gap is necessary because Image 04 supports the original fire role. The exclusion in scenario.md is an availability restriction; rights.md records unchanged source metadata.",
+  "panels": [
+    {
+      "original_role": "Urban fire establishes the disaster threatening residents and their surroundings.",
+      "original_image_id": "09",
+      "role": "Urban fire establishes the disaster affecting the built city.",
+      "image_id": "04",
+      "caption": "Smoke surrounds a large building identified in the catalog as the Palace Hotel on fire, April 18, 1906.",
+      "visual_observation": "Smoke obscures part of a large multistory building. People and horses occupy the street below. The available photograph includes a surrounding print border.",
+      "evidence": "original.json, first panel, records Image 09's original fire role and caption. scenario.md excludes Image 09. catalog.md, entry 04, images/04.jpg: source title and description identify the Palace Hotel on fire during the earthquake and fire of April 18, 1906. catalog.md, entries 01–03, 06–08, 10–13 and 15, supplies the alternative subjects and dates. context.md establishes the earthquake, extensive fire damage and shelter needs. rights.md records Public domain or CC0 source metadata.",
+      "uncertainty": "The building's identity and exact date come from the catalog. Visible smoke does not identify the people, establish their danger or displacement, or show whether they were evacuating.",
+      "change": "Replace Image 09 with Image 04; revise the caption to distinguish visible smoke from catalog identification; narrow the role's claim about residents.",
+      "reason": "Image 09 supplied evidence of active urban fire, rather than merely later ruins. Image 04 visibly presents the same street-and-building scene and has an independent catalog record explicitly identifying the hotel on fire. It therefore supports the original fire role despite Image 09's unavailability. Image 15 could support general urban fire, while the destruction views would require changing the role toward aftermath. Visual similarity alone is not the basis for selection.",
+      "claim_status": "Fire claim retained through replacement; claims about residents' circumstances narrowed."
+    },
+    {
+      "original_role": "Rescue brings the narrative from damaged buildings to human vulnerability.",
+      "original_image_id": "05",
+      "role": "A scene cataloged as rescue connects structural destruction with human vulnerability.",
+      "image_id": "05",
+      "caption": "Among the wreckage: a scene cataloged as rescuing people from the ruins.",
+      "visual_observation": "Several figures cluster within a confined space filled with broken boards and structural debris.",
+      "evidence": "original.json, second panel. catalog.md, entry 05, images/05.jpg: source title 'San Francisco Earthquake of 1906, Rescuing people from the ruins - NARA - 522964.tif'; date circa April 1906; creator George W. Haley; catalog description 'Not stated'. scenario.md excludes only Image 09. rights.md records the collection's source rights metadata.",
+      "uncertainty": "The rescue interpretation comes from the source title. The visible scene alone does not establish identities, injuries, outcomes, exact location, or whether earthquake shaking or fire caused this wreckage.",
+      "change": "Retain Image 05 and its caption; make the source-qualified rescue interpretation explicit in the role.",
+      "reason": "The original image supplied a catalog-supported rescue scene, with visible figures amid debris. It remains eligible. Neither the street figures in Image 04 nor the ruin views establish rescue, so they would not preserve this role. No replacement is needed.",
+      "claim_status": "Retained with explicit attribution; individual circumstances and rescue outcomes remain unclaimed."
+    },
+    {
+      "original_role": "Temporary shelter shows a consequence for residents beyond the immediate destruction.",
+      "original_image_id": "14",
+      "role": "Temporary shelter shows a documented response to residents' needs beyond immediate destruction.",
+      "image_id": "14",
+      "caption": "Tents fill the camp identified in the catalog as Jefferson Square’s refugee camp.",
+      "visual_observation": "Numerous closely spaced tents occupy an open area bordered by trees, with buildings beyond.",
+      "evidence": "original.json, third panel. catalog.md, entry 14, images/14.jpg: source title 'San Francisco Earthquake of 1906, Jefferson Square refugee camp - NARA - 522960.tif'; date circa April 1906; creator George W. Haley. context.md states that the earthquake and fires left many residents needing shelter. scenario.md excludes only Image 09. rights.md records the collection's source rights metadata.",
+      "uncertainty": "The camp's name and purpose come from the catalog title. The photograph does not establish individual residents' identities, previous homes, length of stay, or connections to the preceding scenes.",
+      "change": "Retain Image 14 and its caption; clarify the role as shelter responding to documented needs.",
+      "reason": "The original image supplied visible tents and a catalog identification of a refugee camp, supported by context.md's account of shelter needs. It remains eligible. Ruin photographs cannot establish shelter provision, and Image 07's exposition structures do not support that claim. No replacement is needed.",
+      "claim_status": "Retained with catalog and contextual support; links to particular people or preceding scenes remain unclaimed."
+    }
+  ]
+}

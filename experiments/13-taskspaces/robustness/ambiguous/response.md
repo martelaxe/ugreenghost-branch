@@ -1,0 +1,18 @@
+## 2025 tax review — virtual grouping
+
+Actual observations from local reads; no expert responses, scenario actions, or file changes occurred.
+
+| Group | Sources and findings | Review needed |
+|---|---|---|
+| Equipment rental | [Receipt](inbox/receipt-k.txt) and [copy](inbox/receipt-copy.txt) contain identical text: $120, March 15, R-110. [Bank](inbox/bank.csv) records a matching $120 payment March 16. | Treat as one apparent transaction; avoid duplicate counting. |
+| Studio rent | [Original invoice](inbox/invoice-10.txt): $400. [Revised invoice](inbox/invoice-10-revised.txt): $360, explicitly replacing the original after an error. [Bank](inbox/bank.csv): $400 payment. | Use the revised invoice for review; reconcile the $40 difference. Refund or credit status is unknown. |
+| Service contract | [Contract](inbox/contract.txt): Harbor Studio provides design services. | Classification remains unresolved. |
+| Professional fee | [Membership note](inbox/membership.txt): $85; no receipt attached. | Obtain supporting receipt and review classification. |
+| Mixed travel | [Taxi note](inbox/mixed.txt): $30 conference-trip taxi involving both personal and business travel; allocation unknown. | Preserve mixed-use ambiguity; determine allocation from supporting travel records. |
+| Personal record | [Family gift](inbox/family.txt): $60 paint set for a birthday. | Keep separately identified as personal. |
+
+**Outside 2025 transaction grouping:** [2024 rent](inbox/old-invoice.txt), $350. Retain the [2026 rental return](inbox/rental-return.txt) as supporting context for R-110: equipment returned with no further fees.
+
+**Coverage:** Read all 12 files found in the current archive. These records do not establish deductibility or completeness beyond this archive. The [archive note](inbox/readme.md) also identifies mixed personal and business records.
+
+**Safe next step:** Review the revised rent invoice against the payment to resolve the $40 discrepancy, while leaving the taxi allocation unresolved until supported.

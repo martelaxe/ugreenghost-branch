@@ -1,0 +1,36 @@
+{
+  "answer_word_count": 281,
+  "pdf_bytes": 3780,
+  "pdf_pages": 1,
+  "all_ten_questions_extracted": true,
+  "zip_bytes": 7065,
+  "zip_uncompressed_bytes": 14305,
+  "zip_entries": [
+    {
+      "path": "SKILL.md",
+      "bytes": 5680,
+      "sha256": "efb75cc84282839929ad42c7394442adcb4dce1236874d101c5148a7f20d5fa5"
+    },
+    {
+      "path": "references/evidence-and-output.md",
+      "bytes": 2505,
+      "sha256": "bb66b795dd4bdeb03e8cda10fa6364a6266c08d861697253dd2df98d4b4d96f6"
+    },
+    {
+      "path": "references/safety-and-disclosure.md",
+      "bytes": 2419,
+      "sha256": "2207714a48b1ebd09ad5336bc9c48ea4100e4fa2ab6df0caccde5f3517e3b195"
+    },
+    {
+      "path": "references/workflow.md",
+      "bytes": 3701,
+      "sha256": "4ff5a28b21500c247e9c8afed5b2ac20c045e794967a1a72c715f34ef3f13164"
+    }
+  ],
+  "zip_crc_error": null,
+  "static_checker_status": "static-pass",
+  "static_errors": 0,
+  "static_warnings": 0,
+  "zip_matches_static_checked_files": true,
+  "size_limits_met": true
+}

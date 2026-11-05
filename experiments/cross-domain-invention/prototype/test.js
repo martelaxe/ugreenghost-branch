@@ -1,0 +1,15 @@
+const assert=require('node:assert/strict');
+const fixture=require('./data.js'); const {assess,makeTrial,decide}=require('./engine.js');
+const {a,b,c}=fixture.samples;
+assert.equal(assess(a,b).ready,true);
+assert.equal(assess(a,c).ready,false);
+assert.match(assess(a,c).issues.join(),/mic: missing/);
+assert.equal(assess(a,{...b,gain:'different'}).ready,false);
+assert.equal(makeTrial([a,c],false).state,'blocked');
+let t=makeTrial([a,b],false); assert.deepEqual(t.items.map(x=>x.id),['A','B']);
+t=makeTrial([a,b],true); assert.deepEqual(t.items.map(x=>x.id),['B','A']);
+assert.equal(decide(t,0).state,'revealed');
+assert.equal(decide(t,'unsure').choice,'unsure');
+assert.throws(()=>decide({state:'blocked'},0));
+assert.throws(()=>decide(t,3));
+console.log('PASS: 11 state, missing metadata, mismatch, order, reveal and rejection checks');

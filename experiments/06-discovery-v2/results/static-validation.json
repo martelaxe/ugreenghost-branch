@@ -1,0 +1,26 @@
+{
+  "checkFormatVersion": "2.0.0",
+  "status": "static-pass",
+  "target": {
+    "skillName": "surprise-me"
+  },
+  "catalog": {
+    "checkedVersion": "2.0.0"
+  },
+  "files": [
+    {
+      "path": "references/report-format.md",
+      "sha256": "f82b2cf4ce92731932197ac6d376b67cf8569aeed20a2b315f5b123121185dc2"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "4a0d361e551e0afece395d7782dc74b911efcd0224681397cf0d2db71e748c78"
+    }
+  ],
+  "summary": {
+    "errors": 0,
+    "warnings": 0,
+    "info": 0
+  },
+  "diagnostics": []
+}

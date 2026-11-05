@@ -1,0 +1,255 @@
+{
+  "supported_discovery": {
+    "disposition": "hypothesis",
+    "discovery": "Explore a small raised historic-harbor discussion aid using the existing schematic and acrylic technique.",
+    "evidence": [
+      {
+        "role": "need",
+        "path": "/fictional/harbor/reading-room.txt",
+        "quote": "The reading group reports that the historic harbor handout is difficult to follow in discussion."
+      },
+      {
+        "role": "asset_rights",
+        "path": "/fictional/harbor/archive.txt",
+        "quote": "The studio owns a historic harbor schematic and permits attributed internal prototypes."
+      },
+      {
+        "role": "technique",
+        "path": "/fictional/harbor/technique.txt",
+        "quote": "Staff previously made raised diagrams by stacking approved acrylic shapes."
+      },
+      {
+        "role": "equipment",
+        "path": "/fictional/harbor/equipment.txt",
+        "quote": "Laser L-2 passed inspection and can process the approved acrylic stock."
+      },
+      {
+        "role": "approval",
+        "path": "/fictional/harbor/allocation.txt",
+        "quote": "The manager may approve up to four existing staff hours for an internal prototype."
+      }
+    ],
+    "coverage": {
+      "status": "complete_for_mock_scope",
+      "details": "All discovered fixture texts and required evidence roles were returned."
+    },
+    "uncertainty": [
+      "Usefulness, fabrication time and participant interest are untested; manager approval remains necessary."
+    ],
+    "critical_blockers": [],
+    "safe_next_action": "Ask the manager to review a bounded internal prototype; verify stock and operator availability before fabrication.",
+    "expert_states": [
+      "file-agent",
+      "document-agent",
+      "knowledge-agent"
+    ],
+    "notice": "Fictional deterministic simulation; no NAS or real agent was accessed."
+  },
+  "critical_blocker": {
+    "disposition": "blocked",
+    "discovery": "Explore a small raised historic-harbor discussion aid using the existing schematic and acrylic technique.",
+    "evidence": [
+      {
+        "role": "need",
+        "path": "/fictional/harbor/reading-room.txt",
+        "quote": "The reading group reports that the historic harbor handout is difficult to follow in discussion."
+      },
+      {
+        "role": "asset_rights",
+        "path": "/fictional/harbor/archive.txt",
+        "quote": "The studio owns a historic harbor schematic and permits attributed internal prototypes."
+      },
+      {
+        "role": "technique",
+        "path": "/fictional/harbor/technique.txt",
+        "quote": "Staff previously made raised diagrams by stacking approved acrylic shapes."
+      },
+      {
+        "role": "equipment",
+        "path": "/fictional/harbor/equipment.txt",
+        "quote": "Laser L-2 failed inspection and must remain unavailable until repaired and cleared."
+      },
+      {
+        "role": "approval",
+        "path": "/fictional/harbor/allocation.txt",
+        "quote": "The manager may approve up to four existing staff hours for an internal prototype."
+      }
+    ],
+    "coverage": {
+      "status": "complete_for_mock_scope",
+      "details": "All discovered fixture texts and required evidence roles were returned."
+    },
+    "uncertainty": [
+      "Usefulness and participant interest are untested; no external pilot is approved."
+    ],
+    "critical_blockers": [
+      {
+        "path": "/fictional/harbor/equipment.txt",
+        "quote": "Laser L-2 failed inspection and must remain unavailable until repaired and cleared."
+      }
+    ],
+    "safe_next_action": "Do not operate L-2; seek manager approval for a non-fabrication review and verify repair and clearance before fabrication.",
+    "expert_states": [
+      "file-agent",
+      "document-agent",
+      "knowledge-agent"
+    ],
+    "notice": "Fictional deterministic simulation; no NAS or real agent was accessed."
+  },
+  "missing_source": {
+    "disposition": "incomplete",
+    "discovery": null,
+    "evidence": [
+      {
+        "role": "need",
+        "path": "/fictional/harbor/reading-room.txt",
+        "quote": "The reading group reports that the historic harbor handout is difficult to follow in discussion."
+      },
+      {
+        "role": "technique",
+        "path": "/fictional/harbor/technique.txt",
+        "quote": "Staff previously made raised diagrams by stacking approved acrylic shapes."
+      },
+      {
+        "role": "equipment",
+        "path": "/fictional/harbor/equipment.txt",
+        "quote": "Laser L-2 passed inspection and can process the approved acrylic stock."
+      },
+      {
+        "role": "approval",
+        "path": "/fictional/harbor/allocation.txt",
+        "quote": "The manager may approve up to four existing staff hours for an internal prototype."
+      }
+    ],
+    "coverage": {
+      "status": "incomplete",
+      "details": "knowledge-agent: essential evidence missing"
+    },
+    "uncertainty": [
+      "A discovery cannot be established from the available completed mock results.",
+      "Blockers have not been comprehensively assessed."
+    ],
+    "critical_blockers": null,
+    "missing_roles": [
+      "asset_rights"
+    ],
+    "safe_next_action": "Resolve the stated missing evidence or expert state before drawing a conclusion.",
+    "expert_states": [
+      "file-agent",
+      "document-agent",
+      "knowledge-agent"
+    ],
+    "notice": "Fictional deterministic simulation; no NAS or real agent was accessed."
+  },
+  "truncated_evidence": {
+    "disposition": "incomplete",
+    "discovery": null,
+    "evidence": [
+      {
+        "role": "document_content",
+        "path": "/fictional/harbor/allocation.txt",
+        "quote": "The manager may approve up to four existing staff hours for an internal prototype."
+      },
+      {
+        "role": "document_content",
+        "path": "/fictional/harbor/equipment.txt",
+        "quote": "Laser L-2 passed inspection and can process the approved acrylic stock."
+      },
+      {
+        "role": "document_content",
+        "path": "/fictional/harbor/reading-room.txt",
+        "quote": "The reading group reports that the historic harbor handout is difficult to follow in discussion."
+      },
+      {
+        "role": "document_content",
+        "path": "/fictional/harbor/technique.txt",
+        "quote": "Staff previously made raised diagrams by stacking approved acrylic shapes."
+      }
+    ],
+    "coverage": {
+      "status": "incomplete",
+      "details": "document-agent: content incomplete for /fictional/harbor/archive.txt"
+    },
+    "uncertainty": [
+      "A discovery cannot be established from the available completed mock results.",
+      "Blockers have not been comprehensively assessed."
+    ],
+    "critical_blockers": null,
+    "missing_roles": [],
+    "safe_next_action": "Resolve the stated missing evidence or expert state before drawing a conclusion.",
+    "expert_states": [
+      "file-agent",
+      "document-agent"
+    ],
+    "notice": "Fictional deterministic simulation; no NAS or real agent was accessed."
+  },
+  "expert_failure": {
+    "disposition": "incomplete",
+    "discovery": null,
+    "evidence": [],
+    "coverage": {
+      "status": "incomplete",
+      "details": "document-agent: failed"
+    },
+    "uncertainty": [
+      "A discovery cannot be established from the available completed mock results.",
+      "Blockers have not been comprehensively assessed."
+    ],
+    "critical_blockers": null,
+    "missing_roles": [],
+    "safe_next_action": "Resolve the stated missing evidence or expert state before drawing a conclusion.",
+    "expert_states": [
+      "file-agent",
+      "document-agent"
+    ],
+    "notice": "Fictional deterministic simulation; no NAS or real agent was accessed."
+  },
+  "approval_pending": {
+    "disposition": "incomplete",
+    "discovery": null,
+    "evidence": [
+      {
+        "role": "document_content",
+        "path": "/fictional/harbor/allocation.txt",
+        "quote": "The manager may approve up to four existing staff hours for an internal prototype."
+      },
+      {
+        "role": "document_content",
+        "path": "/fictional/harbor/archive.txt",
+        "quote": "The studio owns a historic harbor schematic and permits attributed internal prototypes."
+      },
+      {
+        "role": "document_content",
+        "path": "/fictional/harbor/equipment.txt",
+        "quote": "Laser L-2 passed inspection and can process the approved acrylic stock."
+      },
+      {
+        "role": "document_content",
+        "path": "/fictional/harbor/reading-room.txt",
+        "quote": "The reading group reports that the historic harbor handout is difficult to follow in discussion."
+      },
+      {
+        "role": "document_content",
+        "path": "/fictional/harbor/technique.txt",
+        "quote": "Staff previously made raised diagrams by stacking approved acrylic shapes."
+      }
+    ],
+    "coverage": {
+      "status": "incomplete",
+      "details": "knowledge-agent: waiting_approval"
+    },
+    "uncertainty": [
+      "A discovery cannot be established from the available completed mock results.",
+      "Blockers have not been comprehensively assessed."
+    ],
+    "critical_blockers": null,
+    "missing_roles": [],
+    "safe_next_action": "Resolve the stated missing evidence or expert state before drawing a conclusion.",
+    "expert_states": [
+      "file-agent",
+      "document-agent",
+      "knowledge-agent"
+    ],
+    "notice": "Fictional deterministic simulation; no NAS or real agent was accessed."
+  }
+}

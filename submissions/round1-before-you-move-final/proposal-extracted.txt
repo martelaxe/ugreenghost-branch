@@ -1,0 +1,39 @@
+Before You Move
+UGREEN AI NAS Hackathon — Round 1 proposal
+1. What does the Skill do?
+Before You Move is designed to show what a proposed file change might affect before the owner acts.
+2. Who is the target user, and what is their problem?
+NAS owners reorganizing long-lived projects may not know which documents refer to a file or why identical copies are
+kept.
+3. What is the solution?
+A read-only review links a proposed move, rename or deletion to returned references, possible copy roles and
+unresolved evidence.
+4. What is the main user flow?
+The owner supplies the target, intended change and authorized folders. The Skill requests a bounded search, examines
+returned references, optionally compares selected copies, and presents source evidence, unknowns and a specific next
+step.
+5. How does it differ from existing tools or common AI?
+UGREEN offers file search and deduplication. This proposed review combines path references and documented file roles
+with a pre-change decision. Generic AI can perform similar checks; our local tests did not establish superiority.
+6. Which UGREEN AI NAS features does it use, and when?
+For authorized paths, file-agent discovers and inspects files and may compare hashes. Document-agent examines
+relevant references. Knowledge-agent may seek supporting and contrary evidence.
+7. What is the technical approach?
+Markdown instructions direct registered experts to use documented ug-filesystem, ug-document and ug-knowledge
+operations. The owner authorizes the scope. The workflow requests no file changes. The configured Uliya model and any
+external processing depend on the device setup.
+8. What is built, and what still needs testing?
+The Skill and linked references pass the official static checker. Fictional local tests compared ordinary, detailed and
+Skill-guided requests. No UGREEN experts or NAS hardware were used; expert results and coverage remain unverified.
+9. How will you test the Skill as a finalist?
+Test a file referenced by two project notes, then two identical copies with different recorded roles. Edge case: relevant
+folders are outside the authorized scope; request permission and report the gap.
+10. What are the known limits, risks or dependencies?
+The Skill cannot establish a complete dependency graph or guarantee that a change is safe. It does not perform file
+changes. Expert output formats, source attribution, model configuration and actual NAS behavior require validation.
+Disclosures
+OpenAI Codex assisted with research, design, drafting and local tests. The Skill package contains no third-party libraries or executables.
+UGREEN Uliya and its registered experts are platform dependencies. The configured model provider may process authorized content externally;
+the entrant should verify that configuration and add any other applicable AI or third-party disclosures.
+ReportLab (BSD license, https://www.reportlab.com/) generated this PDF; pypdf (BSD-3-Clause, https://github.com/py-pdf/pypdf) checked its
+text. Neither is included in the Skill package.

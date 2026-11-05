@@ -1,0 +1,9 @@
+The two files have identical contents, but the collection identifies a current use for the working copy. **Keep `working/card.txt` in place while that project reference is in use.** No files were changed.
+
+- **Direct reference:** [project/layout.md](/tmp/ugreen-final-a_s62d9w/project/layout.md:1) says, “For the current workshop layout use ../working/card.txt” and identifies it as the project’s source. That relative path resolves to `working/card.txt`. Deleting it could affect the layout, though the reviewed material does not establish what an application would actually do.
+- **Archive role is unresolved:** [notes/transfer.md](/tmp/ugreen-final-a_s62d9w/notes/transfer.md:1) says a second copy was placed in the archive last year, but “its purpose has not been confirmed” and the offsite backup status is unknown.
+- **Byte comparison:** Both named files are 60 bytes and had the same SHA-256 hash at the time of this check. That establishes matching bytes at check time, not that their roles are interchangeable or that either is a backup.
+
+The concrete next step is to confirm why the archive copy was kept and whether a separate backup exists before deciding what to delete. Also verify any application or workflow that might use either path; live usage and references outside this collection were not checked.
+
+The authorized workspace contained four files, all of which were read, including the two copies and two reference documents. Discovery stayed within the requested defaults of 50 paths and 20 selected documents. The local read-only review completed; it cannot establish the absence of dependencies elsewhere or guarantee a later deletion is safe.

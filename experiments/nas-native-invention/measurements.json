@@ -1,0 +1,85 @@
+{
+  "G": {
+    "actual_counts": {
+      "identical": 240,
+      "different": 70,
+      "source_only": 20,
+      "destination_only": 20,
+      "unverified": 0
+    },
+    "expected_counts": {
+      "source_only": 20,
+      "identical": 240,
+      "different": 70,
+      "destination_only": 20
+    },
+    "counts_match": true,
+    "exception_errors": [],
+    "exception_entries": 110,
+    "duplicate_exception_entries": 0,
+    "identical_missing_paired_hashes": [],
+    "different_missing_evidence": [],
+    "complete_list_evidence": true,
+    "adapter_counts": {
+      "list": 2,
+      "sha256": 621
+    },
+    "adapter_errors": 0,
+    "out_of_scope_attempts": 0,
+    "hash_bytes": 7032320,
+    "distinct_hash_paths": 621,
+    "model_usage": {
+      "input_tokens": 147452,
+      "cached_input_tokens": 112384,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 3657,
+      "reasoning_output_tokens": 0
+    },
+    "wall_seconds": 37.59,
+    "shell_tool_calls": 623,
+    "reported_limitations": [],
+    "correctness_gate": true
+  },
+  "S": {
+    "actual_counts": {
+      "identical": 240,
+      "different": 70,
+      "source_only": 20,
+      "destination_only": 20,
+      "unverified": 0
+    },
+    "expected_counts": {
+      "source_only": 20,
+      "identical": 240,
+      "different": 70,
+      "destination_only": 20
+    },
+    "counts_match": true,
+    "exception_errors": [],
+    "exception_entries": 110,
+    "duplicate_exception_entries": 0,
+    "identical_missing_paired_hashes": [],
+    "different_missing_evidence": [],
+    "complete_list_evidence": true,
+    "adapter_counts": {
+      "list": 4,
+      "stat": 621,
+      "sha256": 541
+    },
+    "adapter_errors": 0,
+    "out_of_scope_attempts": 0,
+    "hash_bytes": 5336064,
+    "distinct_hash_paths": 540,
+    "model_usage": {
+      "input_tokens": 150424,
+      "cached_input_tokens": 114432,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 4151,
+      "reasoning_output_tokens": 77
+    },
+    "wall_seconds": 45.088,
+    "shell_tool_calls": 5,
+    "reported_limitations": [],
+    "correctness_gate": true
+  }
+}

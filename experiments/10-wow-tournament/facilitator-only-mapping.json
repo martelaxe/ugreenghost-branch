@@ -1,0 +1,10 @@
+{
+  "mapping": {
+    "A": "quest",
+    "B": "archaeologist",
+    "C": "fork",
+    "D": "alchemy"
+  },
+  "quest_solution": "BLUE 12",
+  "source_note": "Use evidence-checks.md to evaluate quotations and limitations."
+}

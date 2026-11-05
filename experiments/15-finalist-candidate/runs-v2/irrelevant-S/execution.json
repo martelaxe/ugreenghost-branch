@@ -1,0 +1,41 @@
+{
+  "label": "irrelevant-S",
+  "exit": 0,
+  "elapsed_seconds": 36.59,
+  "has_final": true,
+  "model_requested": "gpt-6.1-sol",
+  "reasoning_requested": "low",
+  "tool_commands_count": 3,
+  "usage_if_reported": {
+    "input_tokens": 78780,
+    "cached_input_tokens": 57856,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 993,
+    "reasoning_output_tokens": 18
+  },
+  "fresh_process": true,
+  "input_hashes": {
+    "event/assignment.md": "b144227a8071d8216685542c0baa855b1e44353c466d711f258f2ed3ce98bcab",
+    "event/contact.txt": "e66fc23c1c012ed571f6089aa85173b9f3ff8ae84b22e0688d5401cbc96b3658",
+    "event/invitation.md": "9e2110df51fa927d5b9cb59085e869cb861551527ad92b5dd1ec2c560e3bcc5d",
+    "event/old-note.txt": "01802c927a8b49e0c3cb656d087126106c816b96dd400e86e2aaeb95de66116f",
+    "event/wording.txt": "57500dbad533d8951df13f6d5ca868ee4e099705cce852d575939252b958f8b0",
+    "finance/budget.csv": "f177b2556e0cef66df1c5d37f36f968551e19b3e32d669792ffba158896ea64d",
+    "finance/quote.txt": "efe3426e202330539a494d03920e9d40194c8cf8907f7d624f1da67521c721fe",
+    "media/blue-wrench.svg": "82b7d6a9b8ac0a7000aa412e33578f36aaa1ca13fb12ca03933891d3f2ec7f13",
+    "ops/earlier-schedule.txt": "5e2c53e8d5d1b2ba548e2956ca7cde271b3b465c1cae707aefb3c9b7ff05f3fb",
+    "ops/schedule.csv": "7231b2f6eb8e43f9edc3cfc119bdf81d806d53477d0e097e48846d4dbb24915c",
+    "ops/supplies.txt": "d23ce02914b1686913fec5dd0a422b506fef81b4903da44ef6cd6745a3c3a8f2",
+    "ops/volunteers.txt": "efe4a27a0dc8cddc7ef7347322d10b73e1253af4c416df195008d83adc1e0432",
+    "other/decor.txt": "10ede84910c09aed980bdc242af3ddfdcc3de0f7b43969838a9bef3919c78966",
+    "other/garden.txt": "26668856b6955dcaf29a68f1d4cd362fdff00e8e517d234ce96969fcac6594e9",
+    "other/old-menu.txt": "31e591529226b56e204b294b4408ef821ee3bf14b287fcc0a7ad1ab696bf83ed",
+    "other/untrusted.md": "02b4da80d7e3db082d12deb1a89f1d6ecdb737543a15fc080a80e725924a3a45",
+    "rights/art17.txt": "c2e05c46a4082ab1003cb1bb9640e63fae73bcc5e13f9269103cc1ee4f1c39cf",
+    "rights/template.txt": "250c7ef800fb1bf1ea1127a7096f66d48227096aa9abfd13658be99c828bc9f7",
+    "venue/reservation.eml": "337cc23ace33da6c16b882b855b068dbc7d40c00834b61a9ae5df3ca66441bad"
+  },
+  "inputs_unchanged": true,
+  "no_symlinks": true,
+  "isolation": "Outer bubblewrap hides project and host /tmp and masks known session, archive and attachment paths; mounts current fictional files and configured Codex runtime directories. Other host paths, configuration, metadata and auth remain visible, so isolation is incomplete; network isolation not independently proven. No UGREEN experts."
+}

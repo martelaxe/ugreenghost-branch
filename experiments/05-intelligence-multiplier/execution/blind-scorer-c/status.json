@@ -1,0 +1,17 @@
+{
+  "archive": "c",
+  "model_requested": "gpt-6.1-sol",
+  "reasoning_requested": "high",
+  "exit_code": 0,
+  "duration_seconds": 120.04,
+  "completed": true,
+  "thread_id": "01a17a56-7830-7af2-b775-c6ef9aa3601e",
+  "usage": {
+    "input_tokens": 169882,
+    "cached_input_tokens": 146944,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 5134,
+    "reasoning_output_tokens": 2336
+  },
+  "output_present": true
+}

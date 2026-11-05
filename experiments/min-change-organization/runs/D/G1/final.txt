@@ -1,0 +1,1 @@
+Created [plan.json](/tmp/out/plan.json): all 24 files are already compliant. No moves, deferrals, collisions, or policy conflicts. No archive changes executed.

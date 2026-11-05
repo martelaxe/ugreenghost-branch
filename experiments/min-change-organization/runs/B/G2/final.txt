@@ -1,0 +1,3 @@
+Created [plan.json](/tmp/out/plan.json): 41 keep, 137 proposed moves, 8 deferred. No input files changed.
+
+Please clarify metadata for the four unreadable files and resolve the collisions detailed in the deferred rows.

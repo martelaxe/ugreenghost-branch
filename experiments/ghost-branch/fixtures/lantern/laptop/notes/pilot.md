@@ -1,0 +1,1 @@
+2024-10-05: Tested a ledger export prototype with a handful of stall records. Volunteers wanted to download the summary for spreadsheet review. The preview was internal; no release or deployment is recorded. Someone needs to review spreadsheet formula handling before any integration.

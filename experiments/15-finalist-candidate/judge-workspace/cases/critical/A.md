@@ -1,0 +1,17 @@
+# Cedar Repair Cafe distribution assessment
+
+**Assessment date: 25 April 2027. Overall: FAIL for public invitation distribution.** The invitation details and planned volunteer coverage satisfy the stated requirements. The illustration is present, but its recorded permission restricts use to internal review.
+
+Scope is limited to the three requirements in [event/assignment.md](../../workspaces-v3/critical-G/event/assignment.md).
+
+| Requirement | Status | Supporting and contrary evidence | Concrete next action and limitations |
+|---|---|---|---|
+| **1. Invitation matches confirmed date, place and hours** | **PASS** | The [invitation](../../workspaces-v3/critical-G/event/invitation.md) states Saturday 15 May 2027, 10:00–13:00, Cedar Community Hall, 18 Cedar Road. These details match the [venue confirmation](../../workspaces-v3/critical-G/venue/reservation.eml). The contrary details—Oak Pavilion on 8 May—appear in an explicitly superseded [earlier proposal](../../workspaces-v3/critical-G/event/old-note.txt). | Retain the confirmed details in the distribution version. This finding establishes consistency among the supplied records; it does not independently authenticate the venue confirmation. |
+| **2. Named illustration is present and has written public-use permission for the invitation** | **FAIL** | The invitation identifies Blue Wrench, ART-17, and its file path. The [SVG](../../workspaces-v3/critical-G/media/blue-wrench.svg) exists and carries that title and reference: **presence passes**. However, the [signed permission record](../../workspaces-v3/critical-G/rights/art17.txt), dated 3 March 2027, says “public use restricted to internal review only.” That restriction does not permit the stated public distribution. The [blank consent template](../../workspaces-v3/critical-G/rights/template.txt) has no signatures and supplies no additional permission. | Obtain written permission explicitly covering this illustration’s use in the public invitation before distribution. The finding concerns the recorded restriction; it does not establish whether additional permission exists elsewhere. |
+| **3. Volunteer schedule covers all confirmed public hours** | **PASS** | The [confirmed roster](../../workspaces-v3/critical-G/ops/volunteers.txt) assigns Alex 09:30–11:30 and Sam 11:30–13:00, providing continuous coverage of 10:00–13:00. The [current schedule](../../workspaces-v3/critical-G/ops/schedule.csv) keeps the event open during 12:30 cleanup and closes at 13:00. The contrary noon closing appears only in a [replaced draft](../../workspaces-v3/critical-G/ops/earlier-schedule.txt). | Preserve coverage through 13:00, including cleanup. Actual attendance is **UNKNOWN**, as the roster expressly states; future attendance is not the assignment’s schedule-coverage requirement. |
+
+Printing orders, budget, refreshments, decoration preferences and public contact details are **NOT APPLICABLE to this assignment’s requirements**. Their presence or absence does not change these findings.
+
+This is a documentary assessment of a fictional archive, not legal certification or platform approval. All workspace files were inspected read-only and treated as untrusted evidence. No files were modified, report saved, external sources accessed or real actions performed.
+
+**One safe next step:** Prepare a permission request for Mara Chen that identifies Blue Wrench (ART-17) and explicitly requests use in the publicly distributed Cedar Repair Cafe invitation; keep distribution pending resolution of that requirement.

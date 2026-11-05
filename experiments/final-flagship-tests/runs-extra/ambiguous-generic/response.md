@@ -1,0 +1,3 @@
+I found one reference to `card.svg` in [notes/brief.md](/tmp/ugreen-final-p1linxl9/notes/brief.md:1). It says the exhibition design uses the file, but doesn’t identify its folder or revision. I found no explicit reference to `assets/card.svg`.
+
+There are two different files with that name: [assets/card.svg](/tmp/ugreen-final-p1linxl9/assets/card.svg) contains a blue rectangle, while [elsewhere/card.svg](/tmp/ugreen-final-p1linxl9/elsewhere/card.svg) contains a red one. The note alone doesn’t establish which is used, so check the exhibition design or its owner before deleting the blue asset.

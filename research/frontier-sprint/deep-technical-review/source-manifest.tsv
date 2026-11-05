@@ -1,0 +1,14 @@
+source	url	http_status	sha256_response_bytes
+SKILL.state	https://arxiv.org/html/2608.26263v3	200	f671be22a76ba7a81b0a8892086df6a3fe98f90dac77f949f6c5be04732024ef
+Graph-of-Skills	https://arxiv.org/html/2604.05333v4	200	d2f75eb193bae45bd634661e0cb5548519a91fedebdf4708a281e50cee2233b7
+SkillAlign	https://arxiv.org/html/2609.07255v1	200	83a3db1cb883739b0e0eecc84583b9d36db2615abaf948d4db5fa2774754a4af
+HASP	https://arxiv.org/html/2605.17734v2	200	e7c8af219c0904be9cf253d75a3b7ad67d910ee2fe792c715d75effd48ddbd53
+EM2Mem	https://arxiv.org/html/2609.00551v1	200	c5aff9a76d9af022984c3d45a68ee4ec2520a7ba6ff5260be819a4ef511f20aa
+SyncSink README	https://raw.githubusercontent.com/JorenSix/SyncSink/8dc83d72e2af909a5e9f24c1e20c613c4cf81464/README.textile	200	e43057738b898b2cebf7953ff83fbe36aa2d838658dd07211e79f0464c07ad73
+SyncSink code	https://raw.githubusercontent.com/JorenSix/SyncSink/767ea0b106ba662a518cee97c8e54bd208d0029a/src/be/panako/syncsink/CrossCorrelation.java	200	b4aff2654c734b815f5a87cd54e72d5459e79eff3bc79baf16fb7f049b7f725c
+OHMS	https://journal.code4lib.org/articles/10643	200	92c4aeacacf21bee8e53146e7e262c45e1b3aeea7468363a709a64d66279d694
+Frigate	https://raw.githubusercontent.com/blakeblackshear/frigate/3931ab74a8f676011437360859e52036d37cf5a8/frigate/storage.py	200	36a7a090695767af4f22afe81be3b50881375c3fa9675a1360fe1ef7da16a7d5
+LESS	https://www.usenix.org/system/files/fast26-cheng.pdf	200	c35aff0f0f26072ca1fd11042e9341ddf91f617a8cf41077a31287be229a4f9f
+CORDS	https://www.usenix.org/system/files/conference/fast17/fast17-ganesan.pdf	200	228845e4e684d8cdd65e4277ef5363286b6a0c9d9e20b2ae2bbe765dcecf063a
+YoloFS	https://arxiv.org/html/2604.13536v5	200	ab81872f0779ff1f06b35bd860e0f750afada62bcbd96e25cf7184a070999ca7
+lakeFS	https://raw.githubusercontent.com/treeverse/lakeFS/9949f65f7841f07294a6b49e24ff3d40441e36e0/design/accepted/metadata_kv/index.md	200	dc52a608534af431ca8ec6d1a5b629759a84b3ce114a6b2bb92d90ed60cbafeb

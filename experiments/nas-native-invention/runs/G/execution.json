@@ -1,0 +1,19 @@
+{
+  "condition": "G",
+  "exit_code": 0,
+  "elapsed_seconds": 37.59,
+  "model_requested": "gpt-6.1-sol",
+  "reasoning": "low",
+  "fresh_codex_process": true,
+  "command_tool_count": 623,
+  "usage_reported": {
+    "input_tokens": 147452,
+    "cached_input_tokens": 112384,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 3657,
+    "reasoning_output_tokens": 0
+  },
+  "output_exists": true,
+  "outer_bwrap": "read-only host root and fixture; only /tmp/out writable plus selected Codex runtime binds. Project, temporary and known history paths masked. Host paths remain visible; network isolation not independently proven. Inner Codex uses danger-full-access to permit logging inside the outer sandbox.",
+  "nas_runtime": false
+}

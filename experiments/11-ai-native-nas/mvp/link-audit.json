@@ -1,0 +1,330 @@
+[
+  {
+    "case": "normal",
+    "method": "G",
+    "links": [
+      {
+        "target": "assets/shared/cover.txt:3",
+        "normalized_fixture_path": "assets/shared/cover.txt",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "projects/autumn/program.md:1",
+        "normalized_fixture_path": "projects/autumn/program.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "projects/autumn/production.md:1",
+        "normalized_fixture_path": "projects/autumn/production.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "projects/winter/readme.md:1",
+        "normalized_fixture_path": "projects/winter/readme.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "projects/winter/status.md:1",
+        "normalized_fixture_path": "projects/winter/status.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "projects/summer/readme.md:1",
+        "normalized_fixture_path": "projects/summer/readme.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "projects/old/record.md:1",
+        "normalized_fixture_path": "projects/old/record.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "admin/inventory.txt:1",
+        "normalized_fixture_path": "admin/inventory.txt",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "admin/vendor-note.txt:1",
+        "normalized_fixture_path": "admin/vendor-note.txt",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      }
+    ],
+    "missing_after_normalization": 0,
+    "note": "Only Markdown links checked. Valid line-number resolution and semantic entailment are not established."
+  },
+  {
+    "case": "normal",
+    "method": "S",
+    "links": [
+      {
+        "target": "/tmp/work/assets/shared/cover.txt:3",
+        "normalized_fixture_path": "assets/shared/cover.txt",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/projects/autumn/program.md:1",
+        "normalized_fixture_path": "projects/autumn/program.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/projects/autumn/production.md:1",
+        "normalized_fixture_path": "projects/autumn/production.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/projects/winter/readme.md:1",
+        "normalized_fixture_path": "projects/winter/readme.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/projects/winter/status.md:1",
+        "normalized_fixture_path": "projects/winter/status.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/projects/summer/readme.md:1",
+        "normalized_fixture_path": "projects/summer/readme.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/projects/old/record.md:1",
+        "normalized_fixture_path": "projects/old/record.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/assets/shared/cover_old.txt:2",
+        "normalized_fixture_path": "assets/shared/cover_old.txt",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/projects/autumn/program.md:2",
+        "normalized_fixture_path": "projects/autumn/program.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/admin/inventory.txt:1",
+        "normalized_fixture_path": "admin/inventory.txt",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/admin/vendor-note.txt:1",
+        "normalized_fixture_path": "admin/vendor-note.txt",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      }
+    ],
+    "missing_after_normalization": 0,
+    "note": "Only Markdown links checked. Valid line-number resolution and semantic entailment are not established."
+  },
+  {
+    "case": "incomplete",
+    "method": "G",
+    "links": [
+      {
+        "target": "/tmp/work/projects/autumn/program.md:1",
+        "normalized_fixture_path": "projects/autumn/program.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/projects/autumn/production.md:1",
+        "normalized_fixture_path": "projects/autumn/production.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/projects/winter/status.md:1",
+        "normalized_fixture_path": "projects/winter/status.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/projects/old/record.md:1",
+        "normalized_fixture_path": "projects/old/record.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/projects/summer/readme.md:1",
+        "normalized_fixture_path": "projects/summer/readme.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/assets/shared/cover_old.txt:2",
+        "normalized_fixture_path": "assets/shared/cover_old.txt",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/admin/inventory.txt:1",
+        "normalized_fixture_path": "admin/inventory.txt",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/admin/vendor-note.txt:1",
+        "normalized_fixture_path": "admin/vendor-note.txt",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      }
+    ],
+    "missing_after_normalization": 0,
+    "note": "Only Markdown links checked. Valid line-number resolution and semantic entailment are not established."
+  },
+  {
+    "case": "incomplete",
+    "method": "S",
+    "links": [
+      {
+        "target": "projects/autumn/program.md:1",
+        "normalized_fixture_path": "projects/autumn/program.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "projects/autumn/production.md:1",
+        "normalized_fixture_path": "projects/autumn/production.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "projects/winter/status.md:1",
+        "normalized_fixture_path": "projects/winter/status.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "projects/old/record.md:1",
+        "normalized_fixture_path": "projects/old/record.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "projects/summer/readme.md:1",
+        "normalized_fixture_path": "projects/summer/readme.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "assets/shared/cover_old.txt:2",
+        "normalized_fixture_path": "assets/shared/cover_old.txt",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "admin/inventory.txt:1",
+        "normalized_fixture_path": "admin/inventory.txt",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "admin/vendor-note.txt:1",
+        "normalized_fixture_path": "admin/vendor-note.txt",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      }
+    ],
+    "missing_after_normalization": 0,
+    "note": "Only Markdown links checked. Valid line-number resolution and semantic entailment are not established."
+  },
+  {
+    "case": "permission",
+    "method": "G",
+    "links": [
+      {
+        "target": "/tmp/work/projects/autumn/program.md:1",
+        "normalized_fixture_path": "projects/autumn/program.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/projects/autumn/program.md:2",
+        "normalized_fixture_path": "projects/autumn/program.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      }
+    ],
+    "missing_after_normalization": 0,
+    "note": "Only Markdown links checked. Valid line-number resolution and semantic entailment are not established."
+  },
+  {
+    "case": "permission",
+    "method": "S",
+    "links": [
+      {
+        "target": "/tmp/work/projects/autumn/program.md:1",
+        "normalized_fixture_path": "projects/autumn/program.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      },
+      {
+        "target": "/tmp/work/projects/autumn/program.md:2",
+        "normalized_fixture_path": "projects/autumn/program.md",
+        "source_exists_after_normalization": true,
+        "host_portable": false,
+        "reason": "Path points into temporary workspace or uses workspace-relative path with line suffix."
+      }
+    ],
+    "missing_after_normalization": 0,
+    "note": "Only Markdown links checked. Valid line-number resolution and semantic entailment are not established."
+  }
+]

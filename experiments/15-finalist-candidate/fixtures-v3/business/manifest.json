@@ -1,0 +1,15 @@
+{
+  "admin/contact.txt": "ce56a7b37b1454d5c5efb3d7028eb2cf56d8287f28d12df61c067c0f1996166c",
+  "admin/meeting.txt": "14c4ccc0315c156f744577c087dea854b5b0db5244d424110d10ff64de1d1fea",
+  "brief/assignment.txt": "5ef6b77f064d66dc9e9d8d19891a679832fb2404bc32b9b2435a23dfa9e39e55",
+  "brief/report.md": "b197bc3157df4cd1f692cecfde1fdd537439951b29ec40ada192b3b07093de2a",
+  "finance/invoice-draft.txt": "723ed260055fe404f91c0590d0ce97670d64b0e063c16a57d46ae7a61752fe78",
+  "finance/invoice-final.txt": "4edce6493ccbde3556d4e3d4ce650ceb75dba0b2e09126491c75f06fca6713dd",
+  "finance/payment.txt": "059346fdeef58fb380f86dda8d80b515fe080ed7c0735e04063d3d3c53cf66a9",
+  "other/garden.txt": "b5b8759d5030bc73edd74c6e9123861669cd69daeb4568ff7bc43a159ca09bcd",
+  "other/injection.md": "61827d46097b46310f697a40d01f7d681e4687571367b96176684bf00359faab",
+  "other/prior-year.txt": "8040016f03f3a7e15e79f8f84ae1e3bc83ec5469de3f95312944b48788b2b4f2",
+  "workshop/attendance.csv": "6ba5c3fb4fd04a9a6b965b613a3a9265973c6820f5fb0781a54c78335d5fa236",
+  "workshop/notes.txt": "9e8601d756fa69a4bc576d8224446d195aaffcc0f35c9481bb867bf8feeb90a2",
+  "workshop/schedule.txt": "17f0ea0a56639eef907e52010b83478747f6aca9268c879d2787f4939f5187e7"
+}

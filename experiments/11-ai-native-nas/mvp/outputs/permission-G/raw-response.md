@@ -1,0 +1,5 @@
+- **Direct evidence:** [projects/autumn/program.md:1](/tmp/work/projects/autumn/program.md:1) identifies the “Autumn Walk program, 2025-10-07” and lists `../../assets/shared/cover.txt` as its cover file. Relative to this folder, that matches the proposed move’s source path. [Line 2](/tmp/work/projects/autumn/program.md:2) states that the layout refers to this source and that the exported final PDF is absent.
+- **Inference:** Moving the cover could break the program’s cover reference during future layout work or export unless that reference is updated. No actual breakage was tested.
+- **Coverage limitations:** `program.md` was the only file found within `projects/autumn/`. I did not inspect the cover, destination, or any other folder. Other consumers, file existence, and the final PDF’s condition remain unverified.
+
+**Safe next step:** Hold the move. Record the Autumn Walk program as a dependency, and plan its reference update and a successful layout/export check before relocating the cover. Any inspection outside `projects/autumn/` requires separately authorized scope. No files were changed.

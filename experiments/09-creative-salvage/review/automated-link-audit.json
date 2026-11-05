@@ -1,0 +1,1146 @@
+[
+  {
+    "run": "A-G-1",
+    "markdown_links": [
+      {
+        "target": "/tmp/work/04-resources/venue.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/request.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/materials.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/demo-notes.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/shape-diagram.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/folded-water.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/craft-box.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/old-copy.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/old-plan.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/text-fragments.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/observations.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/tide-notes.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/printing.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/printing-quote.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/photo-terms.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/sound-terms.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/research.txt",
+        "status": "exists"
+      }
+    ],
+    "bad_count": 0,
+    "audited_count": 17,
+    "note": "Bare filenames and logical support require separate review."
+  },
+  {
+    "run": "A-G-2",
+    "markdown_links": [
+      {
+        "target": "</tmp/work/01-projects/folded-water/demo-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/workshop.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/shape-diagram.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/materials.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/craft-box.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/old-copy.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/folded-water.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/text-fragments.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/observations.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/tide-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/printing.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/research.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/workshop.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/text-fragments.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/tide-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/folded-water.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/tide-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/request.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/venue.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/calendar.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/printing-quote.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/photo-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/sound-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/photos-index.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/sound-index.txt>",
+        "status": "exists"
+      }
+    ],
+    "bad_count": 0,
+    "audited_count": 25,
+    "note": "Bare filenames and logical support require separate review."
+  },
+  {
+    "run": "A-S-1",
+    "markdown_links": [
+      {
+        "target": "</tmp/work/01-projects/folded-water/demo-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/materials.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/shape-diagram.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/old-copy.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/folded-water.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/photo-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/sound-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/craft-box.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/venue.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/concept.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/observations.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/text-fragments.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/tide-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/photos-index.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/photo-description.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/photo-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/sound-index.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/sound-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/research.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/printing-quote.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/printing.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/workshop.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/concept.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/request.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/calendar.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/venue.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/budget-draft.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/old-plan.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/other-materials.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/05-archive/receipts.txt>",
+        "status": "exists"
+      }
+    ],
+    "bad_count": 0,
+    "audited_count": 30,
+    "note": "Bare filenames and logical support require separate review."
+  },
+  {
+    "run": "A-S-2",
+    "markdown_links": [
+      {
+        "target": "</tmp/work/01-projects/folded-water/workshop.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/shape-diagram.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/folded-water.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/craft-box.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/materials.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/old-plan.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/other-materials.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/old-copy.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/concept.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/tide-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/text-fragments.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/observations.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/printing-quote.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/printing.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/research.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/venue.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/calendar.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/photo-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/photo-description.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/photos-index.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/sound-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/sound-index.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/request.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/venue.txt>",
+        "status": "exists"
+      }
+    ],
+    "bad_count": 0,
+    "audited_count": 24,
+    "note": "Bare filenames and logical support require separate review."
+  },
+  {
+    "run": "B-G-1",
+    "markdown_links": [
+      {
+        "target": "</tmp/work/01-projects/folded-water/demo-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/materials.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/craft-box.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/folded-water.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/old-copy.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/shape-diagram.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/tide-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/text-fragments.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/observations.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/research.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/printing-quote.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/printing.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/photos-index.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/photo-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/sound-index.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/sound-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/request.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/venue.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/calendar.txt>",
+        "status": "exists"
+      }
+    ],
+    "bad_count": 0,
+    "audited_count": 19,
+    "note": "Bare filenames and logical support require separate review."
+  },
+  {
+    "run": "B-G-2",
+    "markdown_links": [
+      {
+        "target": "/tmp/work/01-projects/tide-lines/observations.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/text-fragments.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/tide-notes.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/venue.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/printing-quote.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/printing.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/craft-box.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/request.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/research.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/photo-terms.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/sound-index.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/sound-terms.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/workshop.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/demo-notes.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/materials.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/craft-box.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/shape-diagram.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/old-copy.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/folded-water.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/old-plan.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/other-materials.txt",
+        "status": "exists"
+      }
+    ],
+    "bad_count": 0,
+    "audited_count": 21,
+    "note": "Bare filenames and logical support require separate review."
+  },
+  {
+    "run": "B-S-1",
+    "markdown_links": [
+      {
+        "target": "/tmp/work/03-rights/tide-notes.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/text-fragments.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/observations.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/venue.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/research.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/printing.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/printing-quote.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/craft-box.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/request.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/photo-terms.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/photos-index.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/sound-terms.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/sound-index.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/shape-diagram.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/demo-notes.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/craft-box.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/printing-quote.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/request.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/folded-water.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/old-copy.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/workshop.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/materials.txt",
+        "status": "exists"
+      }
+    ],
+    "bad_count": 0,
+    "audited_count": 22,
+    "note": "Bare filenames and logical support require separate review."
+  },
+  {
+    "run": "B-S-2",
+    "markdown_links": [
+      {
+        "target": "/tmp/work/01-projects/tide-lines/observations.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/text-fragments.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/tide-notes.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/venue.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/request.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/printing-quote.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/printing.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/photo-terms.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/sound-index.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/sound-terms.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/workshop.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/materials.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/demo-notes.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/folded-water.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/craft-box.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/shape-diagram.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/old-copy.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/concept.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/research.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/tide-notes.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/photos-index.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/photo-terms.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/general.txt",
+        "status": "exists"
+      }
+    ],
+    "bad_count": 0,
+    "audited_count": 23,
+    "note": "Bare filenames and logical support require separate review."
+  },
+  {
+    "run": "C-G-1",
+    "markdown_links": [
+      {
+        "target": "</tmp/work/01-projects/folded-water/workshop.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/materials.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/demo-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/shape-diagram.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/folded-water.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/craft-box.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/old-plan.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/other-materials.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/text-fragments.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/observations.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/tide-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/research.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/printing.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/printing-quote.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/photos-index.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/photo-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/sound-index.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/sound-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/venue.txt>",
+        "status": "exists"
+      }
+    ],
+    "bad_count": 0,
+    "audited_count": 19,
+    "note": "Bare filenames and logical support require separate review."
+  },
+  {
+    "run": "C-G-2",
+    "markdown_links": [
+      {
+        "target": "/tmp/work/01-projects/folded-water/workshop.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/materials.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/folded-water/shape-diagram.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/old-copy.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/folded-water.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/craft-box.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/concept.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/text-fragments.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/observations.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/01-projects/tide-lines/research.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/tide-notes.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/printing.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/request.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/calendar.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/venue.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/other-materials.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/04-resources/printing-quote.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/photo-terms.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/sound-terms.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/02-assets/notes/sound-index.txt",
+        "status": "exists"
+      },
+      {
+        "target": "/tmp/work/03-rights/general.txt",
+        "status": "exists"
+      }
+    ],
+    "bad_count": 0,
+    "audited_count": 21,
+    "note": "Bare filenames and logical support require separate review."
+  },
+  {
+    "run": "C-S-1",
+    "markdown_links": [
+      {
+        "target": "</tmp/work/01-projects/folded-water/workshop.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/demo-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/folded-water.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/shape-diagram.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/old-copy.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/craft-box.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/old-plan.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/other-materials.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/concept.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/tide-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/photo-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/photos-index.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/sound-index.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/sound-terms.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/research.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/request.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/calendar.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/venue.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/printing.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/printing-quote.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/04-resources/other-materials.txt>",
+        "status": "exists"
+      }
+    ],
+    "bad_count": 0,
+    "audited_count": 21,
+    "note": "Bare filenames and logical support require separate review."
+  },
+  {
+    "run": "C-S-2",
+    "markdown_links": [
+      {
+        "target": "</tmp/work/01-projects/folded-water/workshop.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/shape-diagram.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/materials.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/folded-water.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/old-copy.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/craft-box.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/old-plan.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/folded-water/demo-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/observations.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/craft-box.txt>; </tmp/work/04-resources/venue.txt>",
+        "status": "not-found"
+      },
+      {
+        "target": "</tmp/work/04-resources/calendar.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/concept.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/text-fragments.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/03-rights/tide-notes.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/research.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/photos-index.txt>; [photo terms](</tmp/work/03-rights/photo-terms.txt>",
+        "status": "not-found"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/sound-index.txt>; [sound terms](</tmp/work/03-rights/sound-terms.txt>",
+        "status": "not-found"
+      },
+      {
+        "target": "</tmp/work/04-resources/printing-quote.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/02-assets/notes/printing.txt>",
+        "status": "exists"
+      },
+      {
+        "target": "</tmp/work/01-projects/tide-lines/budget-draft.txt>; [materials availability](</tmp/work/04-resources/other-materials.txt>",
+        "status": "not-found"
+      }
+    ],
+    "bad_count": 4,
+    "audited_count": 20,
+    "note": "Bare filenames and logical support require separate review."
+  }
+]

@@ -1,0 +1,1 @@
+Template T-12 was used for water-saving notices in 2022, created by an outside illustrator. No adaptation permission is recorded.

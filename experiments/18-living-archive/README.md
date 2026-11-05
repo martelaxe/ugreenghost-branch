@@ -1,0 +1,5 @@
+# Experiment 18 — Living Archive
+
+Start with the [visual review](visual-review/index.html), the [blind comparison](visual-review/blind/index.html), and the [decision](../../docs/experiment-18-living-archive-decision.md). The [evaluation](evaluation.md) records the collection, visual input, methodology, conditions, rights and limitations. The exact model inputs and outputs live in `original/raw-run/` and `conditions/<case>/<method>/`; the excluded-image variants are in `workspaces/`. Wikimedia Commons image metadata and credits are in [attribution](fixtures/attribution.md).
+
+All image selection and captions came from actual fresh local Codex responses; the local renderer composed those outputs into static images. No UGREEN runtime, user approval, real-world rights change, external human review, automated persistent gallery, or final submission occurred. PNG styling was updated after the runs; `original/frozen-exhibit.png` preserves the actual original image shown to the later model runs.

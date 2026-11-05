@@ -1,0 +1,11 @@
+The available evidence suggests that **remember-browser login was a historical prototype**, while the current snapshot describes a different session mechanism. It does not establish when or why the prototype stopped being used, or whether it ever shipped.
+
+The prototype in [rememberBrowser.ts](/tmp/ghost-local-yrxktxf2/laptop/src/auth/rememberBrowser.ts) consists of one function that writes a supplied session token to browser `localStorage` under `lantern_session`. Its own source comment calls it historical and says not to execute it without a security review. The file does not show a login flow, token retrieval, expiration, logout, or any caller.
+
+The strongest evidence of a replacement is [operations.md](/tmp/ghost-local-yrxktxf2/current/docs/operations.md), which says session handling now depends on server-issued, HTTP-only cookies and refers to deployment configuration outside the archive. That is a documentation claim; the available current source does not include the session implementation or infrastructure to verify its behavior. The cookie description also does not establish whether users still have a “remember this browser” option or how long sessions last.
+
+I would classify the old function as **uncertain, security-sensitive work**, not code to restore as-is. Storing a session token in `localStorage` makes it accessible to JavaScript running on the page, unlike an HTTP-only cookie; the source’s security-review warning reinforces the need to investigate that choice. There is no available record of a specific security incident, failed rollout, or explicit decision to retire it.
+
+Both collections are incomplete: [current’s README](/tmp/ghost-local-yrxktxf2/current/README.md) calls it a snapshot, and [the laptop scope note](/tmp/ghost-local-yrxktxf2/laptop/notes/scope.md) describes a subset of experiments with missing meeting notes. The absence of other login files in these folders therefore cannot establish their absence elsewhere. The supplied screenshot shows a ledger export interface, not login behavior.
+
+A useful next step is to inspect the deployed session configuration and any unavailable authentication history, then establish the intended persistence, expiration, logout, and threat model before deciding whether a remember-browser feature is needed. No project code or tests were run.

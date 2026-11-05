@@ -1,0 +1,3 @@
+Created [plan.json](/tmp/out/plan.json): 186 files covered—41 keep, 137 proposed moves, 8 deferred. No archive files changed; no policy conflicts found.
+
+Please clarify how to resolve the occupied destination and three competing `shared.txt` records, and provide classification evidence for the four unreadable files.

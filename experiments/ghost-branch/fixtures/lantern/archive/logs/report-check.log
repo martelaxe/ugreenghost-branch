@@ -1,0 +1,1 @@
+2025-02-04 / intermediate prototype / report validation: FAIL - embedded commas in labels produce extra cells. Spreadsheet-formula injection was not tested. Recorded log only; no tests were run during this investigation.

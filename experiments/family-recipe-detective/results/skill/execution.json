@@ -1,0 +1,23 @@
+{
+  "mode": "skill",
+  "requested_model": "gpt-6.1-terra",
+  "effort": "low",
+  "exit": 0,
+  "seconds": 12.81,
+  "workspace": "/tmp/ugreen-recipe-c206t6nd",
+  "fixture_before": {
+    "cards/apple-loaf-card.png": "a997fb2cf1d39c20acb2685913d93f9d0de366a1ba50dc9f81d83985dc24cff1",
+    "memories/voice-transcript.txt": "9fe2af1231968cbf4ea56fc9848bb5e2066d4a1a01b50a33da1e5ba6ac016d59",
+    "notes/gathering.md": "0331fc471d3c0c3fb36af9949190077e34bb037a799702855fa32c002f238019",
+    "notes/not-the-loaf.md": "6905dbf620c61b08a1709351f4be850c0fb01498863af14a1efcdb58d0b70d0e"
+  },
+  "fixture_after": {
+    "cards/apple-loaf-card.png": "a997fb2cf1d39c20acb2685913d93f9d0de366a1ba50dc9f81d83985dc24cff1",
+    "memories/voice-transcript.txt": "9fe2af1231968cbf4ea56fc9848bb5e2066d4a1a01b50a33da1e5ba6ac016d59",
+    "notes/gathering.md": "0331fc471d3c0c3fb36af9949190077e34bb037a799702855fa32c002f238019",
+    "notes/not-the-loaf.md": "6905dbf620c61b08a1709351f4be850c0fb01498863af14a1efcdb58d0b70d0e"
+  },
+  "unchanged": true,
+  "response_exists": true,
+  "sandbox": "danger-full-access, task instructed read-only; not enforced or network isolated"
+}

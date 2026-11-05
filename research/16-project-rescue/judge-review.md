@@ -1,0 +1,11 @@
+# Independent simulated judge review
+
+Three fresh local Codex processes received anonymized G/S creative responses, the user request, selected actual creative evidence, actual local copy record, a concise NAS and competitor limitation statement, and one perspective each. They were not real users or judges. [Exact prompts, logs and responses](../../experiments/16-project-rescue/judge-runs/) and [supplied material](../../experiments/16-project-rescue/judge-material/) are retained. Each read the supplied files. The packet omitted the full fixture, actual copy source code and after snapshot, so reviewers correctly could not independently confirm some inventory, injection and filesystem claims from that packet. They did not review business or negative cases; assessment is correspondingly narrow. The four official criteria are equally weighted; these simulated 25-point normalized scales are our application, not an official point scale or winning probability.
+
+| Perspective | User value | Innovation | Technical | NAS fit | Total | Key objection |
+|---|---:|---:|---:|---:|---:|---|
+| NAS owner | 19 | 7 | 15 | 9 | 50 | Generic report matched the specialized core; NAS safety not verified. |
+| Skeptical engineer | 18 | 7 | 14 | 8 | 47 | Equal core output and unverified atomic copy / approvals; packet did not allow replay. |
+| Creativity focused | 19 | 9 | 15 | 10 | 53 | Useful puzzle but no demonstrated Skill advantage or memorable operating NAS action. |
+
+All three valued evidence-grounded identity across review → code → export and protection of a source used by another project. They considered ordinary Codex or Adobe Link Media the closest competitor. All identified actual NAS destination, no-overwrite, approvals and readback as the weakest assumption. All found asset identification modestly engaging but did not consider the evidence a compelling differentiated NAS product. They considered Round 1 defensible only as a candid prototype and suggested a concise evidence-versus-contradiction ledger. Two reviewers noted raw links are not portable in their review packet. The reviewers' judgments are simulated, not market evidence, and their suggestions are untested; adding them to the frozen Skill would require fair reruns.

@@ -1,0 +1,1 @@
+Cedar Repair Cafe distribution check. Requirements: (1) the invitation must match the confirmed date, place and hours; (2) the named illustration must be present and have written public-use permission for the invitation; (3) the volunteer schedule must cover the full confirmed public hours. These requirements apply only to this stated purpose.

@@ -1,0 +1,170 @@
+{
+  "requested_model": "gpt-6.1-sol",
+  "requested_reasoning": "medium",
+  "runs": [
+    {
+      "case": "normal",
+      "method": "G",
+      "exit": 0,
+      "has_output": true,
+      "seconds": 38.22,
+      "workspace": "/tmp/ugreen11mvp-wqka9z79/normal-G/work",
+      "before": {
+        "admin/inventory.txt": "f25590cc8b7071d60fbc318dfc52ba1dcda8123f63ae9e2c1c2bf3888d7746c5",
+        "admin/vendor-note.txt": "a6ec9d97cc7f2a21e1f3e8b8bec60fc2d8611b33c69c3d254c5f2707ab624e75",
+        "assets/shared/cover.txt": "24d63c18c4c54b3335d3a701625612380bd32a8cb392336e58a6c72594d4903d",
+        "assets/shared/cover_old.txt": "0e977af812cb41bc937a226479fe7a61ec081cb5aa23337a4d5e71eb83e743f7",
+        "personal/meeting.txt": "6153923b2cea096085572c7ea42625798f134ce0c53fe49e57064b7bd3552ea7",
+        "personal/supplies.txt": "efe595b8a057abd683c9de3339d9091431208fbe50dfa8925caf1d56885a9bff",
+        "projects/autumn/production.md": "d051ade2f5e296c1b6051e5cd817fe90d7866df05823047513d217b5e96a2338",
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831",
+        "projects/old/record.md": "d20e6c648acbe7caaa172548fd366cbbffd5e2111f1b21432283e307938bd50d",
+        "projects/summer/readme.md": "d99d17df64df0ac20d3f4006c95e6b29b69631b4a8d11310433aa62bbc42f8b6",
+        "projects/winter/readme.md": "a01b44b7048cb84acad44ead2c495e3edc645d75349990ab69b72382df9c5749",
+        "projects/winter/status.md": "83deb63b89c81068547983c6d538e93da1668b3cd9148a85a78c4070512f76ad"
+      },
+      "after": {
+        "admin/inventory.txt": "f25590cc8b7071d60fbc318dfc52ba1dcda8123f63ae9e2c1c2bf3888d7746c5",
+        "admin/vendor-note.txt": "a6ec9d97cc7f2a21e1f3e8b8bec60fc2d8611b33c69c3d254c5f2707ab624e75",
+        "assets/shared/cover.txt": "24d63c18c4c54b3335d3a701625612380bd32a8cb392336e58a6c72594d4903d",
+        "assets/shared/cover_old.txt": "0e977af812cb41bc937a226479fe7a61ec081cb5aa23337a4d5e71eb83e743f7",
+        "personal/meeting.txt": "6153923b2cea096085572c7ea42625798f134ce0c53fe49e57064b7bd3552ea7",
+        "personal/supplies.txt": "efe595b8a057abd683c9de3339d9091431208fbe50dfa8925caf1d56885a9bff",
+        "projects/autumn/production.md": "d051ade2f5e296c1b6051e5cd817fe90d7866df05823047513d217b5e96a2338",
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831",
+        "projects/old/record.md": "d20e6c648acbe7caaa172548fd366cbbffd5e2111f1b21432283e307938bd50d",
+        "projects/summer/readme.md": "d99d17df64df0ac20d3f4006c95e6b29b69631b4a8d11310433aa62bbc42f8b6",
+        "projects/winter/readme.md": "a01b44b7048cb84acad44ead2c495e3edc645d75349990ab69b72382df9c5749",
+        "projects/winter/status.md": "83deb63b89c81068547983c6d538e93da1668b3cd9148a85a78c4070512f76ad"
+      }
+    },
+    {
+      "case": "normal",
+      "method": "S",
+      "exit": 0,
+      "has_output": true,
+      "seconds": 38.31,
+      "workspace": "/tmp/ugreen11mvp-wqka9z79/normal-S/work",
+      "before": {
+        "admin/inventory.txt": "f25590cc8b7071d60fbc318dfc52ba1dcda8123f63ae9e2c1c2bf3888d7746c5",
+        "admin/vendor-note.txt": "a6ec9d97cc7f2a21e1f3e8b8bec60fc2d8611b33c69c3d254c5f2707ab624e75",
+        "assets/shared/cover.txt": "24d63c18c4c54b3335d3a701625612380bd32a8cb392336e58a6c72594d4903d",
+        "assets/shared/cover_old.txt": "0e977af812cb41bc937a226479fe7a61ec081cb5aa23337a4d5e71eb83e743f7",
+        "personal/meeting.txt": "6153923b2cea096085572c7ea42625798f134ce0c53fe49e57064b7bd3552ea7",
+        "personal/supplies.txt": "efe595b8a057abd683c9de3339d9091431208fbe50dfa8925caf1d56885a9bff",
+        "projects/autumn/production.md": "d051ade2f5e296c1b6051e5cd817fe90d7866df05823047513d217b5e96a2338",
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831",
+        "projects/old/record.md": "d20e6c648acbe7caaa172548fd366cbbffd5e2111f1b21432283e307938bd50d",
+        "projects/summer/readme.md": "d99d17df64df0ac20d3f4006c95e6b29b69631b4a8d11310433aa62bbc42f8b6",
+        "projects/winter/readme.md": "a01b44b7048cb84acad44ead2c495e3edc645d75349990ab69b72382df9c5749",
+        "projects/winter/status.md": "83deb63b89c81068547983c6d538e93da1668b3cd9148a85a78c4070512f76ad"
+      },
+      "after": {
+        "admin/inventory.txt": "f25590cc8b7071d60fbc318dfc52ba1dcda8123f63ae9e2c1c2bf3888d7746c5",
+        "admin/vendor-note.txt": "a6ec9d97cc7f2a21e1f3e8b8bec60fc2d8611b33c69c3d254c5f2707ab624e75",
+        "assets/shared/cover.txt": "24d63c18c4c54b3335d3a701625612380bd32a8cb392336e58a6c72594d4903d",
+        "assets/shared/cover_old.txt": "0e977af812cb41bc937a226479fe7a61ec081cb5aa23337a4d5e71eb83e743f7",
+        "personal/meeting.txt": "6153923b2cea096085572c7ea42625798f134ce0c53fe49e57064b7bd3552ea7",
+        "personal/supplies.txt": "efe595b8a057abd683c9de3339d9091431208fbe50dfa8925caf1d56885a9bff",
+        "projects/autumn/production.md": "d051ade2f5e296c1b6051e5cd817fe90d7866df05823047513d217b5e96a2338",
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831",
+        "projects/old/record.md": "d20e6c648acbe7caaa172548fd366cbbffd5e2111f1b21432283e307938bd50d",
+        "projects/summer/readme.md": "d99d17df64df0ac20d3f4006c95e6b29b69631b4a8d11310433aa62bbc42f8b6",
+        "projects/winter/readme.md": "a01b44b7048cb84acad44ead2c495e3edc645d75349990ab69b72382df9c5749",
+        "projects/winter/status.md": "83deb63b89c81068547983c6d538e93da1668b3cd9148a85a78c4070512f76ad"
+      }
+    },
+    {
+      "case": "incomplete",
+      "method": "G",
+      "exit": 0,
+      "has_output": true,
+      "seconds": 35.91,
+      "workspace": "/tmp/ugreen11mvp-wqka9z79/incomplete-G/work",
+      "before": {
+        "admin/inventory.txt": "f25590cc8b7071d60fbc318dfc52ba1dcda8123f63ae9e2c1c2bf3888d7746c5",
+        "admin/vendor-note.txt": "a6ec9d97cc7f2a21e1f3e8b8bec60fc2d8611b33c69c3d254c5f2707ab624e75",
+        "assets/shared/cover_old.txt": "0e977af812cb41bc937a226479fe7a61ec081cb5aa23337a4d5e71eb83e743f7",
+        "personal/meeting.txt": "6153923b2cea096085572c7ea42625798f134ce0c53fe49e57064b7bd3552ea7",
+        "personal/supplies.txt": "efe595b8a057abd683c9de3339d9091431208fbe50dfa8925caf1d56885a9bff",
+        "projects/autumn/production.md": "d051ade2f5e296c1b6051e5cd817fe90d7866df05823047513d217b5e96a2338",
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831",
+        "projects/old/record.md": "d20e6c648acbe7caaa172548fd366cbbffd5e2111f1b21432283e307938bd50d",
+        "projects/summer/readme.md": "d99d17df64df0ac20d3f4006c95e6b29b69631b4a8d11310433aa62bbc42f8b6",
+        "projects/winter/status.md": "83deb63b89c81068547983c6d538e93da1668b3cd9148a85a78c4070512f76ad"
+      },
+      "after": {
+        "admin/inventory.txt": "f25590cc8b7071d60fbc318dfc52ba1dcda8123f63ae9e2c1c2bf3888d7746c5",
+        "admin/vendor-note.txt": "a6ec9d97cc7f2a21e1f3e8b8bec60fc2d8611b33c69c3d254c5f2707ab624e75",
+        "assets/shared/cover_old.txt": "0e977af812cb41bc937a226479fe7a61ec081cb5aa23337a4d5e71eb83e743f7",
+        "personal/meeting.txt": "6153923b2cea096085572c7ea42625798f134ce0c53fe49e57064b7bd3552ea7",
+        "personal/supplies.txt": "efe595b8a057abd683c9de3339d9091431208fbe50dfa8925caf1d56885a9bff",
+        "projects/autumn/production.md": "d051ade2f5e296c1b6051e5cd817fe90d7866df05823047513d217b5e96a2338",
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831",
+        "projects/old/record.md": "d20e6c648acbe7caaa172548fd366cbbffd5e2111f1b21432283e307938bd50d",
+        "projects/summer/readme.md": "d99d17df64df0ac20d3f4006c95e6b29b69631b4a8d11310433aa62bbc42f8b6",
+        "projects/winter/status.md": "83deb63b89c81068547983c6d538e93da1668b3cd9148a85a78c4070512f76ad"
+      }
+    },
+    {
+      "case": "incomplete",
+      "method": "S",
+      "exit": 0,
+      "has_output": true,
+      "seconds": 43.69,
+      "workspace": "/tmp/ugreen11mvp-wqka9z79/incomplete-S/work",
+      "before": {
+        "admin/inventory.txt": "f25590cc8b7071d60fbc318dfc52ba1dcda8123f63ae9e2c1c2bf3888d7746c5",
+        "admin/vendor-note.txt": "a6ec9d97cc7f2a21e1f3e8b8bec60fc2d8611b33c69c3d254c5f2707ab624e75",
+        "assets/shared/cover_old.txt": "0e977af812cb41bc937a226479fe7a61ec081cb5aa23337a4d5e71eb83e743f7",
+        "personal/meeting.txt": "6153923b2cea096085572c7ea42625798f134ce0c53fe49e57064b7bd3552ea7",
+        "personal/supplies.txt": "efe595b8a057abd683c9de3339d9091431208fbe50dfa8925caf1d56885a9bff",
+        "projects/autumn/production.md": "d051ade2f5e296c1b6051e5cd817fe90d7866df05823047513d217b5e96a2338",
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831",
+        "projects/old/record.md": "d20e6c648acbe7caaa172548fd366cbbffd5e2111f1b21432283e307938bd50d",
+        "projects/summer/readme.md": "d99d17df64df0ac20d3f4006c95e6b29b69631b4a8d11310433aa62bbc42f8b6",
+        "projects/winter/status.md": "83deb63b89c81068547983c6d538e93da1668b3cd9148a85a78c4070512f76ad"
+      },
+      "after": {
+        "admin/inventory.txt": "f25590cc8b7071d60fbc318dfc52ba1dcda8123f63ae9e2c1c2bf3888d7746c5",
+        "admin/vendor-note.txt": "a6ec9d97cc7f2a21e1f3e8b8bec60fc2d8611b33c69c3d254c5f2707ab624e75",
+        "assets/shared/cover_old.txt": "0e977af812cb41bc937a226479fe7a61ec081cb5aa23337a4d5e71eb83e743f7",
+        "personal/meeting.txt": "6153923b2cea096085572c7ea42625798f134ce0c53fe49e57064b7bd3552ea7",
+        "personal/supplies.txt": "efe595b8a057abd683c9de3339d9091431208fbe50dfa8925caf1d56885a9bff",
+        "projects/autumn/production.md": "d051ade2f5e296c1b6051e5cd817fe90d7866df05823047513d217b5e96a2338",
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831",
+        "projects/old/record.md": "d20e6c648acbe7caaa172548fd366cbbffd5e2111f1b21432283e307938bd50d",
+        "projects/summer/readme.md": "d99d17df64df0ac20d3f4006c95e6b29b69631b4a8d11310433aa62bbc42f8b6",
+        "projects/winter/status.md": "83deb63b89c81068547983c6d538e93da1668b3cd9148a85a78c4070512f76ad"
+      }
+    },
+    {
+      "case": "permission",
+      "method": "G",
+      "exit": 0,
+      "has_output": true,
+      "seconds": 26.36,
+      "workspace": "/tmp/ugreen11mvp-wqka9z79/permission-G/work",
+      "before": {
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831"
+      },
+      "after": {
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831"
+      }
+    },
+    {
+      "case": "permission",
+      "method": "S",
+      "exit": 0,
+      "has_output": true,
+      "seconds": 30.53,
+      "workspace": "/tmp/ugreen11mvp-wqka9z79/permission-S/work",
+      "before": {
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831"
+      },
+      "after": {
+        "projects/autumn/program.md": "71c502a870b95c9da101bdcea06f4cd26cae216739b507e653c116df80114831"
+      }
+    }
+  ]
+}

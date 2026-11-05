@@ -1,0 +1,16 @@
+# UGREEN implementation map
+
+The installed UGREEN kit 0.7.3 / public catalog 2.0.0 supplies the following **catalog-level** mappings; no real runtime behavior has been tested. The [catalog](/home/martelaxe/ugreen-hackathon/resources/uliya-skill-kit/data/capability-catalog.json:1) is the source of action names, input fields, effects and approval labels. The parent uses registered expert delegation and never directly invokes child CLI actions; see [expert orchestration](/home/martelaxe/ugreen-hackathon/resources/uliya-skill-kit/references/expert-orchestration.md:1) and [CLI usage rules](/home/martelaxe/ugreen-hackathon/resources/uliya-skill-kit/references/cli-usage-rules.md:1).
+
+| Prototype stage | Documented mapping | What remains unverified |
+| --- | --- | --- |
+| Scoped file discovery | `ug-filesystem:find` → `file-agent`; required `path`, optional `pattern`, `type`, `max-depth`, `limit`; read / approval `none`. | Actual file/path IDs, access control, incomplete listings, pagination, and real coverage semantics. |
+| Document reading / comparison | `ug-document:qa`, `extract`, `reconcile` → `document-agent`. QA/extract require `query`; `file` is repeatable; caps and scope parameters are cataloged. | Format support, per-claim excerpts, exact source references, missing documents and truncation reporting. `full` does not prove complete reading. |
+| Supporting/contrary evidence | `ug-knowledge:collect-evidence` → `knowledge-agent`; required `query`, optional `path`, `extension`, `full`; read / approval `none`. | Real evidence schema, quote/source identity, conflict coverage, and whether references survive handoffs. |
+| Classification and response | Parent-level Markdown instructions ask for five dispositions and report fields. | Whether the actual parent model can generate, preserve, compare and semantically review candidates reliably within its runtime context. This is not a documented separate V2 code executor or verified output API. |
+| Optional save | `ug-knowledge:save-text` → `knowledge-agent`, cataloged state change / workflow approval. | Actual approval/resumption and output fields; omitted from the read-only core and draft. |
+| Optional organization | `ug-filesystem:cpmv` → `file-agent` is a gateway-approved state change. | Scope, conflicts, approvals and undo semantics; the prototype only proposes textual groupings and performs no moves. |
+
+The kit names `completed`, `failed`, `cancelled`, `waiting_user` and `waiting_approval` in [completion and errors](/home/martelaxe/ugreen-hackathon/resources/uliya-skill-kit/references/completion-and-errors.md:1), without a fully specified wire envelope. The `none` approval flags on documented read actions are catalog metadata, not proof of authorization or guaranteed runtime state.
+
+The local V2 inventory, exact-match and state logic cannot be bundled as executable Skill code. The Markdown-only prototype asks the parent and experts to attempt comparable reasoning and to disclose unknowns; it cannot guarantee the local implementation's behavior on NAS. If returned source IDs, excerpts, blocker evidence or coverage are missing, the Skill must report the gap instead of asserting `SUPPORTED`. No persistent graph, background monitoring, time-machine restoration, external service or interactive UI is assumed.

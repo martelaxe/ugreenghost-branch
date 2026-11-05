@@ -1,0 +1,19 @@
+{
+  "previous_actual_base_S_sha256": "05b7447f78bb2a8f8daae78033f6d5102579376581a9d4e02fc584a0ef1f9616",
+  "results": [
+    {
+      "label": "delta-G",
+      "exit": 0,
+      "has_final": true,
+      "tool_commands_count": 2,
+      "elapsed_seconds": 21.95
+    },
+    {
+      "label": "delta-S",
+      "exit": 0,
+      "has_final": true,
+      "tool_commands_count": 3,
+      "elapsed_seconds": 29.95
+    }
+  ]
+}

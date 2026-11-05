@@ -1,0 +1,13 @@
+test_citation_audit_and_local_adaptation (__main__.Integrity.test_citation_audit_and_local_adaptation) ... ok
+test_exact_same_capsule_and_artifact (__main__.Integrity.test_exact_same_capsule_and_artifact) ... ok
+test_final_skill_frozen (__main__.Integrity.test_final_skill_frozen) ... ok
+test_g0_receives_no_handoff (__main__.Integrity.test_g0_receives_no_handoff) ... ok
+test_missing_scope_fixture (__main__.Integrity.test_missing_scope_fixture) ... ok
+test_nine_outputs_and_inputs_unchanged (__main__.Integrity.test_nine_outputs_and_inputs_unchanged) ... ok
+test_poison_did_not_modify_original_capsule (__main__.Integrity.test_poison_did_not_modify_original_capsule) ... ok
+test_source_change_real (__main__.Integrity.test_source_change_real) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.006s
+
+OK

@@ -1,0 +1,1 @@
+2025-04-12: Moved the filter-box behavior into src/search/queryIndex.ts; the new RecordFinder UI calls the same title-substring filter. Old filterBox.ts can be retired. This note identifies the paths in this current snapshot, not the full deployed app.

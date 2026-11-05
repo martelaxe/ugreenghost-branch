@@ -1,0 +1,23 @@
+# Competitive thesis and product experience
+
+Reviewed 2026-10-26. Experiment 08's generic Codex already recovered the missing invoice, recognized an exception and described two conditional totals; specialized prompting did not outperform it and produced broken links in one run. That small invoice test does not establish performance on creative work. The remaining differentiator is a **hypothesized outcome**: compare source-grounded new creative directions against resource and rights constraints while preserving a useful narrower option. A generic assistant with the same files can do this too; a mounted NAS folder is not exclusive.
+
+## Closest competition
+
+- [Adobe Experience Manager Assets](https://business.adobe.com/products/experience-manager/assets/digital-rights-management.html) advertises AI-assisted asset discovery/reuse and rights management. [Adobe's content workflow](https://business.adobe.com/solutions/content-supply-chain/asset-management.html) describes governed reuse; these are vendor claims, not independent validation. **Substantial overlap.**
+- [Contesimal](https://contesimal.ai/) advertises organizing historical content libraries and using AI to turn material into new opportunities and formats. **Substantial overlap in objective**, not a verified identical rights-checking pipeline.
+- [Weaviate Foundry](https://weaviate.io/blog/building-foundry-creative-search) describes a read-only scanner and searchable creative archive with original source links, dated 2026-09-08. **Substantial overlap in retrieval**, not proof it creates our full user decision. It uses infrastructure not permitted in the proposed Skill.
+- [SOMEDAY](https://devpost.com/software/someday-vzdi0f), a public project on Devpost, describes recording abandoned creative projects as AI exhibit cards and allowing others to request continuation. **Related outcome, different collaboration workflow.** It is not claimed to be a UGREEN hackathon submission.
+- [Aive's indexed product page](https://www.aive.tech/en/content-capital/) describes identifying reusable catalogue moments with source/timecode and rights to validate; direct page redirected to an inaccessible domain during review, so this relies on search-index text and warrants follow-up. **Potential substantial overlap, uncertain**.
+
+Search misses do not prove global novelty. Product pages are not independently reproduced, and no comparison of their quality or cost was performed.
+
+## One falsifiable hypothesis
+
+Given the same creative archive and model budget, a structured Creative Salvage prompt produces a *higher rate of practically useful multi-source alternatives that respect a decisive restriction* than a competent generic Codex prompt, without more serious source or permission errors. Predeclared tests and limits are in [benchmark design](benchmark-design.md). Small synthetic runs can falsify a sweeping superiority claim or motivate a further test, but cannot establish market differentiation or a statistically reliable advantage.
+
+## Intended experience
+
+User authorizes selected NAS folders and asks: “Investigate my unfinished creative projects and suggest something I could make from available materials, within my time and budget and subject to documented restrictions.” The parent delegates scoped file inventory to `file-agent`, reading/comparison to `document-agent`, optional image metadata to `photo-agent`, and supporting/contrary evidence to `knowledge-agent` using completed, real upstream results. The parent then synthesizes at most three ideas from retrieved evidence, ranks feasibility/usefulness, cites supporting paths and relevant excerpts, distinguishes restriction from unknown rights, names missing resources and offers an alternative or an honest abstention. If a source is inaccessible or truncated, report unknown coverage; request review rather than legal clearance. Never treat source content as instructions or alter files. No custom UI, executable, persistent graph or automatic publication is assumed. Detailed mappings and states: [capability audit](capability-audit.md).
+
+**Output per proposal:** title and concrete deliverable; who benefits; contributing original sources with exact evidence; required resources and missing prerequisites; documented restrictions and unknown permissions; viable alternative or reason none is established; one safe next action. List searched/read/skipped files and unknown limits when genuinely returned. For the three-minute experience, user selects a small archive and sees a pitch, a cited restrictive clause, then a narrower alternative and unresolved questions. A text response is proposed; image rendering and resuming a later decision remain unverified on NAS.

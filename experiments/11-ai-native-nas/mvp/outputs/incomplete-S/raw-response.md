@@ -1,0 +1,10 @@
+The target is missing, so the move’s effects cannot be verified. Read-only checks found neither `assets/shared/cover.txt` nor the proposed destination directory `archive/unused`.
+
+- **Direct evidence:** [projects/autumn/program.md](projects/autumn/program.md:1) references `../../assets/shared/cover.txt`, which resolves to your target. It says the layout uses that source and the exported final PDF is absent. [projects/autumn/production.md](projects/autumn/production.md:1) records a prepublication check involving that cover and sponsor notes.
+- **Inference:** Autumn program production could be affected by changing this path. The reference does not establish that any application would break.
+- **Unverified possibility:** [projects/winter/status.md](projects/winter/status.md:1) mentions a cover referenced by a guide README. That README was not found, so this cannot be linked to your target.
+- **Historical evidence:** [projects/old/record.md](projects/old/record.md:1) and [projects/summer/readme.md](projects/summer/readme.md:1) reference `cover_old.txt`. [assets/shared/cover_old.txt](assets/shared/cover_old.txt:2) identifies it as retired with distinct content; it is not evidence of an interchangeable replacement.
+
+**Coverage:** The authorized scope was the full current workspace. All 10 discovered files were read, within the Skill’s limits of 50 returned paths and 20 selected documents. Application and external-copy coverage remains incomplete: [admin/inventory.txt](admin/inventory.txt:1) explicitly excludes a complete inventory, and [admin/vendor-note.txt](admin/vendor-note.txt:1) says the print partner’s separate files have not been checked.
+
+**Safe next step:** Leave the archive unchanged and reconcile the missing target with the Autumn layout reference before planning a move. No files were modified, and no external services were accessed.

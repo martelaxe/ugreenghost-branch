@@ -1,0 +1,36 @@
+{
+  "label": "NAS owner",
+  "exit": 0,
+  "elapsed_seconds": 58.79,
+  "has_final": true,
+  "model_requested": "gpt-6.1-sol",
+  "reasoning_requested": "low",
+  "tool_commands_count": 3,
+  "usage_if_reported": {
+    "input_tokens": 53380,
+    "cached_input_tokens": 43520,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 1530,
+    "reasoning_output_tokens": 10
+  },
+  "fresh_process": true,
+  "input_hashes": {
+    "archive/catalog/design-codes.txt": "7292f61580869eefdeaccaa8f65988b2e9bc001e68add1253ee7b5816c2cacc6",
+    "archive/catalog/production-register.csv": "ad25e4051c345ed02b80545521789a53301d65164c968fe4bb6a262c9c528139",
+    "archive/projects/cedar/layout.txt": "17a63bbe21b11fb8425d9a32ea5ba16609fbf845299ce90485de56433f25207b",
+    "archive/projects/cedar/notes.txt": "2cfbb33f71d7aaacea98c72471bb38f8bac1a5d46115ff75ad3396adfcbcb068",
+    "archive/projects/cedar/review.md": "d5a2d57566ff18498b359d77b94c98f0131ccece1e73df23b85eb15d326b0470",
+    "archive/projects/winter/board.md": "249013ad5a172c8bba3a0503ca0c59d63850d03584b06dcfb4d4f4e43e00152e",
+    "archive/shared/banner-final.svg": "3d38943cab357f2c6b54724ffb1cf7a995e0f5b34ec8bf27010d56235508bce6",
+    "archive/shared/lantern.svg": "e54a6d7728f2886440b26081e0b88fb2a57009e220af0ca77324a00548f9dfe7",
+    "archive/shared/q7.svg": "b54b91bc33582c053fc0b0f81fa7b529089c2d586d14190afd03551d54b292e8",
+    "context.txt": "ff194fbe96f033d69c6a518a370534e94132ff8b0455a742b308619e922cc40c",
+    "request.txt": "076a6b968518e6addaa52eae258f85723c579b8e815d1c1c5970adb961cb586e",
+    "results/local-copy.json": "b78a6e77c1952dc28996c6e140c5a4da169bb43812ac89df0d778cb0fa29eaaf",
+    "results/report-A.md": "8fdf157dbb57ea589c74d04e206a045971b11d8ba4f42dbe0798c37e4049fac0",
+    "results/report-B.md": "c2f7de660a86145d035d1f342f7f05ee794fa694eb943562ffa6c7dfe6eb4ab3"
+  },
+  "inputs_unchanged": true,
+  "no_symlinks": true,
+  "isolation": "Outer bubblewrap hides project and host /tmp and masks known session, archive and attachment paths; mounts current fictional files and configured Codex runtime directories. Other host paths, configuration, metadata and auth remain visible, so isolation is incomplete; network isolation not independently proven. No UGREEN experts."
+}

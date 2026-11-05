@@ -1,0 +1,7 @@
+Proposed move: `assets/shared/cover.txt` → `archive/unused/cover.txt`.
+
+- **Direct evidence:** [projects/autumn/program.md:1](/tmp/work/projects/autumn/program.md:1) identifies the “Autumn Walk program, 2025-10-07” and lists `../../assets/shared/cover.txt` as its cover file. That relative path resolves to the proposed target. Line 2 states that the program layout refers to this source file and that the exported final PDF is absent from the folder.
+- **Inference:** Future editing or rebuilding of that program could be affected if the layout still relies on the recorded location. The note does not establish that an application will break or that this work remains active.
+- **Coverage limitations:** Investigation stayed within `projects/autumn/`. One file was discovered, selected and read, within limits of 50 returned paths and 20 selected documents. The target, destination, layout and exported PDF were not inspected; dependencies elsewhere remain unknown. This is a reference-based assessment, not a verified preview of the move’s effects.
+
+**Safe next step:** Leave the file in place while confirming whether the Autumn Walk layout still uses this reference. Inspecting a layout outside `projects/autumn/` would require additional authorization.

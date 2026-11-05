@@ -1,0 +1,22 @@
+{
+  "substantive_answer_word_count": 304,
+  "questions": 10,
+  "pdf_pages": 2,
+  "pdf_bytes": 4887,
+  "pdf_sha256": "0078276fda55a0a0be54c59c8f8dbad0eaebfb436687b6f25d8609dc5e0543f9",
+  "zip_bytes": 3076,
+  "zip_sha256": "187654f388e77afc469270382c91fa28db2a71d48a9692ed9fedcdd180acd936",
+  "zip_entries": [
+    {
+      "path": "SKILL.md",
+      "uncompressed_bytes": 5610
+    },
+    {
+      "path": "references/disclosures.md",
+      "uncompressed_bytes": 788
+    }
+  ],
+  "skill_sha256": "6e433eb4facdb777de466f99bdab4666596aac39aedb5a6bb2f7d43f4c2f4371",
+  "pdf_validation": "Independently parsed with pypdf and rendered using PyMuPDF; two pages and required text present.",
+  "status": "review only; not submitted or published"
+}

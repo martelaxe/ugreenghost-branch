@@ -1,0 +1,1 @@
+Preserve original shared files; request approval before a storage change.

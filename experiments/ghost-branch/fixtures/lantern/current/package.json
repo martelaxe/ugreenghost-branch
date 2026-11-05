@@ -1,0 +1,1 @@
+{"name":"lantern-ledger","version":"2.4.0","private":true,"scripts":{"test":"vitest"},"dependencies":{"typescript":"^5.0.0"}}

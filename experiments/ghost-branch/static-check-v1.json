@@ -1,0 +1,38 @@
+{
+  "checkFormatVersion": "2.0.0",
+  "status": "static-pass",
+  "target": {
+    "skillName": "ghost-branch"
+  },
+  "catalog": {
+    "checkedVersion": "2.0.0"
+  },
+  "files": [
+    {
+      "path": "references/discovery.md",
+      "sha256": "466b1677aef0ec744a9be6f5c7a9d42856e7c66e938a5fafd1a0bdd3d51f27db"
+    },
+    {
+      "path": "references/evidence.md",
+      "sha256": "210e2e51d4ce32c885c3562a75ff801bd2a6cc6fb58ced1c8da6cdf890df2e6f"
+    },
+    {
+      "path": "references/packet.md",
+      "sha256": "8d397721e6ecdabc4638dad4ab6ea913e2555cf7efdde73c61137654dcdbe81f"
+    },
+    {
+      "path": "references/safety.md",
+      "sha256": "8f408a9d89cdbca974f52f09574dfdda999ac552110ba1294aa4fde106b65163"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "1b0e03b76196cedefe8d93a4e63d64b90c050569b769e238e83e4f9cf59ebc02"
+    }
+  ],
+  "summary": {
+    "errors": 0,
+    "warnings": 0,
+    "info": 0
+  },
+  "diagnostics": []
+}

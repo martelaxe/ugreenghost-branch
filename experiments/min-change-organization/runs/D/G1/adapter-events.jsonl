@@ -1,0 +1,25 @@
+{"operation": "list", "path": null, "bytes_read": 0, "ok": true, "count": 24, "elapsed_ms": 1.554}
+{"operation": "read", "path": "historic/finance/2022/item_e8a64c651ef4.jpg", "bytes_read": 70, "ok": true, "elapsed_ms": 0.14}
+{"operation": "read", "path": "historic/finance/2023/item_27d41ab681d3.csv", "bytes_read": 58, "ok": true, "elapsed_ms": 0.15}
+{"operation": "read", "path": "historic/finance/2023/item_2afb34972841.jpg", "bytes_read": 70, "ok": true, "elapsed_ms": 0.142}
+{"operation": "read", "path": "historic/finance/2024/item_e0892293f376.txt", "bytes_read": 70, "ok": true, "elapsed_ms": 0.14}
+{"operation": "read", "path": "historic/finance/2025/item_39aeda2a0c65.csv", "bytes_read": 58, "ok": true, "elapsed_ms": 0.139}
+{"operation": "read", "path": "historic/finance/2025/item_4033e9b9392c.json", "bytes_read": 83, "ok": true, "elapsed_ms": 0.141}
+{"operation": "read", "path": "historic/personal/2022/item_1eb145a617ad.jpg", "bytes_read": 71, "ok": true, "elapsed_ms": 0.141}
+{"operation": "read", "path": "historic/personal/2023/item_87cfce419c97.jpg", "bytes_read": 71, "ok": true, "elapsed_ms": 0.144}
+{"operation": "read", "path": "historic/projects/2022/item_f07e0f0388e5.csv", "bytes_read": 59, "ok": true, "elapsed_ms": 0.14}
+{"operation": "read", "path": "historic/projects/2024/item_bd6436e2d0cc.md", "bytes_read": 71, "ok": true, "elapsed_ms": 0.139}
+{"operation": "read", "path": "historic/projects/2025/item_8a03518a7ed4.csv", "bytes_read": 59, "ok": true, "elapsed_ms": 0.149}
+{"operation": "read", "path": "sorted/finance/2022/item_b1269b43e7c3.json", "bytes_read": 83, "ok": true, "elapsed_ms": 0.146}
+{"operation": "read", "path": "sorted/finance/2022/item_e7baf0d4f618.jpg", "bytes_read": 70, "ok": true, "elapsed_ms": 0.152}
+{"operation": "read", "path": "sorted/finance/2023/item_e9148c1b76bf.csv", "bytes_read": 58, "ok": true, "elapsed_ms": 0.14}
+{"operation": "read", "path": "sorted/finance/2025/item_85c19e03a0ea.json", "bytes_read": 83, "ok": true, "elapsed_ms": 0.142}
+{"operation": "read", "path": "sorted/finance/2025/item_ad7861c75dd0.md", "bytes_read": 70, "ok": true, "elapsed_ms": 0.146}
+{"operation": "read", "path": "sorted/personal/2023/item_179127a3f057.json", "bytes_read": 84, "ok": true, "elapsed_ms": 0.17}
+{"operation": "read", "path": "sorted/personal/2024/item_6516b0c340ac.json", "bytes_read": 84, "ok": true, "elapsed_ms": 0.163}
+{"operation": "read", "path": "sorted/personal/2024/item_ef59807a9934.md", "bytes_read": 71, "ok": true, "elapsed_ms": 0.153}
+{"operation": "read", "path": "sorted/projects/2022/item_14ea39f15746.md", "bytes_read": 71, "ok": true, "elapsed_ms": 0.18}
+{"operation": "read", "path": "sorted/projects/2022/item_19430d056fe7.txt", "bytes_read": 71, "ok": true, "elapsed_ms": 0.186}
+{"operation": "read", "path": "sorted/projects/2022/item_6c11b801fd82.json", "bytes_read": 84, "ok": true, "elapsed_ms": 0.257}
+{"operation": "read", "path": "sorted/projects/2024/item_a180a92e997c.jpg", "bytes_read": 71, "ok": true, "elapsed_ms": 0.15}
+{"operation": "read", "path": "sorted/projects/2025/item_2df2466c250d.pdf", "bytes_read": 71, "ok": true, "elapsed_ms": 0.154}

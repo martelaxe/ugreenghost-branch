@@ -1,0 +1,55 @@
+The three outputs are credible **local drafting demonstrations**, with good handling of conflicting records and permissions. They do not establish a working AI NAS product. My narrow preference is **violet, followed by amber, then blue**; the differences are small and subjective. These are not official UGREEN scores.
+
+Scores use the four equally weighted criteria named in [facts.md](facts.md), with my interpretation of 0–25 per criterion:
+
+| Anonymous result | User Value | Innovation & Differentiation | Technical Quality | AI NAS Fit & Validation | Total |
+|---|---:|---:|---:|---:|---:|
+| Blue | 22 | 9 | 19 | 7 | **57/100** |
+| Amber | 23 | 9 | 20 | 7 | **59/100** |
+| Violet | 23 | 10 | 21 | 7 | **61/100** |
+
+The mechanism is plausible: scoped file discovery, document extraction, synthesis with references, and optionally an approval-gated save. [facts.md](facts.md) describes possible delegation to file-agent, document-agent and knowledge-agent, but these outputs do not demonstrate that delegation. Nor do they verify UGREEN reference resolution, permission enforcement or save semantics. No custom UI, persistent task memory or arbitrary executable support should be inferred.
+
+**Blue — useful, clear, slightly less operationally complete.**
+
+[Blue’s response](runs/blue/response.md) produces a usable invitation and volunteer handoff. Its strongest benefit is distinguishing **creator clearance from organizer acceptance**: [graphic.txt](archive/assets/graphic.txt) clears the wrench icon for public materials, while [review-note.txt](archive/event/review-note.txt) still requires the organizer’s decision. It also correctly excludes the internally consented photo under [photo-rights.txt](archive/assets/photo-rights.txt).
+
+Its strongest objection is limited differentiation. The closest competitor from the supplied facts is **Nextcloud Assistant**, which already offers contextual chat and file-based Skills. This looks like a strong archive-reading prompt, with no demonstrated reusable product machinery.
+
+Actual evidence supports its main choices: [confirmed.txt](archive/event/confirmed.txt) supplies May 15 at Cedar Community Hall; [draft-old.md](archive/event/draft-old.md) explicitly supersedes May 8 at Oak Pavilion. Blue also correctly distinguishes free entry from potentially chargeable repairs.
+
+A material missed risk is the schedule overlap: [program.csv](archive/event/program.csv) starts cleanup at 12:30 while public hours continue until 13:00. Blue reproduces that accurately but does not flag the operational conflict. Its unverified assumption is that source-linked drafting can become reliable, permission-aware NAS operation; this local text does not test that transition.
+
+**Amber — the best balance of brevity and practical handoff.**
+
+[Amber’s response](runs/amber/response.md) adds useful operational judgment without overwhelming the invitation. Its strongest benefit is explicitly identifying cleanup during opening hours and asking volunteers to coordinate continued arrivals and repairs. It also distinguishes archive-supported event facts from independent verification and excludes the unrelated historical menu.
+
+Its strongest objection remains that quality of prose is doing most of the work. The closest supplied competitor is **Synology Office AI**, described in [facts.md](facts.md) as drafting with file references. Amber demonstrates careful synthesis, but no technical integration or measured advantage over that baseline.
+
+Its permission handling matches the actual records: [printing.txt](archive/notes/printing.txt) proposes 40 copies after review and says no printing has been ordered; Amber treats printing as a future step. Its accessible-toilet hold also matches [venue-email.eml](archive/event/venue-email.eml) and [review-note.txt](archive/event/review-note.txt).
+
+A material missed risk is that the roster is presented simply as “Owner.” [program.csv](archive/event/program.csv) records names but does not establish that Alex or Sam accepted those assignments. Amber does not falsely claim attendance, but a volunteer handoff could easily be read as settled staffing. Its unverified assumption is that these correct distinctions will persist across larger, messier archives. It feels like a polished prompt output, with the beginnings of a repeatable workflow.
+
+**Violet — strongest evidence discipline, with some unnecessary process.**
+
+[Violet’s response](runs/violet/response.md) most clearly separates recorded facts, proposed steps and completed actions. Its strongest benefit is recognizing that named volunteers are **recorded assignments**, with acceptance or attendance unverified. It also flags cleanup overlap, missing intake authority, and the difference between “date present” style evidence and actual operational readiness.
+
+Its strongest objection is procedural weight. The added requirement for “exact approval” of text, graphic and distribution actions is a proposed safeguard, not a requirement established in those exact terms by the archive. Violet should label that policy addition more explicitly. Otherwise, useful caution can become unnecessary approval friction.
+
+The closest competitor is **Nextcloud Assistant’s file-based Skills**. Violet offers the clearest outline for a reusable Skill, but still feels like a disciplined prompt and worksheet rather than an implemented product.
+
+Its evidence is particularly strong on the apparent graphic conflict: [graphic.txt](archive/assets/graphic.txt) says “approved alternate,” yet [review-note.txt](archive/event/review-note.txt) requires organizer acceptance. Violet preserves both facts rather than treating “approved” as universal authorization. However, its claim that all 11 archive files were read is a self-report; the response alone is not an execution trace. NAS enforcement and reliable approval capture remain unverified.
+
+**The additional examples support breadth, but not platform validation.**
+
+I inspected all three other results and relevant underlying sources:
+
+- [Other A](other/A/result.md) correctly flags the **$40 discrepancy** between the $360 replacement invoice in [invoice-10-revised.txt](other/A/archive/inbox/invoice-10-revised.txt) and the $400 payment in [bank.csv](other/A/archive/inbox/bank.csv). That supports reconciliation reasoning, not verified tax classification.
+- [Other B](other/B/result.md) distinguishes $1,000 invoiced from $800 received and $200 disputed, consistent with [invoice.csv](other/B/archive/finance/invoice.csv) and [payment.txt](other/B/archive/finance/payment.txt). **Paperless-ngx**, named in the facts as supporting document AI and workflows, is a relevant competitive baseline for these document tasks.
+- [Other C](other/C/result.md) correctly withholds accessibility verification: [checklist-note.txt](other/C/archive/process/checklist-note.txt) says the checklist is outside the folder, and [design-b.txt](other/C/archive/project/design-b.txt) provides only a description with contrast untested. It also identifies [injection.md](other/C/archive/process/injection.md) as untrusted instruction-like content. That supports cautious output behavior on this example; it does not prove general injection resistance or deletion prevention.
+
+Across these examples, citations and accurate distinctions are observable. Actual sending, printing, NAS saving, human approval and real human feedback are not established. The files’ statements about completed read-only work remain claims unless supported by execution records.
+
+Likely disagreement is between reviewers who reward immediate user usefulness and those who require a defensible technical product: an organizer may prefer Amber’s concise handoff, a permissions-focused reviewer Violet’s explicit boundaries, and an engineering reviewer may regard all three as similarly unvalidated.
+
+My cautious recommendation is to advance **Violet as the reference behavior**, borrowing Amber’s brevity. Treat it as a promising drafting prototype. Before claiming a NAS product, demonstrate scoped discovery, working citations, permission boundaries and approval-gated saving on UGREEN with observable execution evidence.

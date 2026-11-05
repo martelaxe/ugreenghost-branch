@@ -1,0 +1,50 @@
+{
+  "archive-a": {
+    "pid": 314930,
+    "started_utc": "2026-10-26T21:52:03.313065+00:00",
+    "observed_finished_utc": "2026-10-26T21:52:50.892271+00:00",
+    "exit_code": 0,
+    "args": [
+      "/mnt/c/Users/RkLop/.codex/bin/wsl/db6b8f8451ed5c92/codex",
+      "exec",
+      "--ignore-user-config",
+      "--ephemeral",
+      "--skip-git-repo-check",
+      "--sandbox",
+      "read-only",
+      "-c",
+      "web_search=\"disabled\"",
+      "--cd",
+      "/tmp/ugreen-opportunity-02-fttklbkb/archive-a",
+      "--output-last-message",
+      "/home/martelaxe/ugreen-hackathon/experiments/02-opportunity/results/archive-a-report.md",
+      "--json",
+      "-"
+    ],
+    "prompt_sha256": "b4f83ddca034f6b8a32c5591293d00e04c7387c65ee535af91a260e08fefe850"
+  },
+  "archive-b": {
+    "pid": 314931,
+    "started_utc": "2026-10-26T21:52:03.314344+00:00",
+    "observed_finished_utc": "2026-10-26T21:52:50.892446+00:00",
+    "exit_code": 0,
+    "args": [
+      "/mnt/c/Users/RkLop/.codex/bin/wsl/db6b8f8451ed5c92/codex",
+      "exec",
+      "--ignore-user-config",
+      "--ephemeral",
+      "--skip-git-repo-check",
+      "--sandbox",
+      "read-only",
+      "-c",
+      "web_search=\"disabled\"",
+      "--cd",
+      "/tmp/ugreen-opportunity-02-fttklbkb/archive-b",
+      "--output-last-message",
+      "/home/martelaxe/ugreen-hackathon/experiments/02-opportunity/results/archive-b-report.md",
+      "--json",
+      "-"
+    ],
+    "prompt_sha256": "b4f83ddca034f6b8a32c5591293d00e04c7387c65ee535af91a260e08fefe850"
+  }
+}

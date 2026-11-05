@@ -1,0 +1,63 @@
+{
+  "A-N": {
+    "selected": [
+      "04",
+      "05",
+      "14"
+    ],
+    "unavailable_or_restricted_selected": [],
+    "unknown_ids": [],
+    "case_input_unchanged": true
+  },
+  "B-N": {
+    "selected": [
+      "09",
+      "02",
+      "14"
+    ],
+    "unavailable_or_restricted_selected": [],
+    "unknown_ids": [],
+    "case_input_unchanged": true
+  },
+  "C-N": {
+    "selected": [
+      "09",
+      "05",
+      null
+    ],
+    "unavailable_or_restricted_selected": [],
+    "unknown_ids": [],
+    "case_input_unchanged": true
+  },
+  "D-N": {
+    "selected": [
+      "15",
+      "05",
+      "14"
+    ],
+    "unavailable_or_restricted_selected": [],
+    "unknown_ids": [],
+    "case_input_unchanged": true
+  },
+  "B-G": {
+    "selected": [
+      "09",
+      "02",
+      "14"
+    ],
+    "unavailable_or_restricted_selected": [],
+    "unknown_ids": [],
+    "case_input_unchanged": true
+  },
+  "C-G": {
+    "selected": [
+      "09",
+      "05",
+      "02"
+    ],
+    "unavailable_or_restricted_selected": [],
+    "unknown_ids": [],
+    "case_input_unchanged": true
+  }
+}
+visual review: /home/martelaxe/ugreen-hackathon/experiments/18-living-archive/visual-review/index.html

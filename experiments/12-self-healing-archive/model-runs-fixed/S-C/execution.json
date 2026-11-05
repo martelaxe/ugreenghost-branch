@@ -1,0 +1,9 @@
+{
+  "exit": 0,
+  "seconds": 29.5,
+  "workspace_was": "/tmp/ugreen12-investigation-wdm_4ipk/archive",
+  "fixture_files": 26,
+  "mode": "S",
+  "scenario": "C",
+  "isolation": "Codex read-only sandbox; scope enforced by instructions, not OS access control; workspace was a disposable fixture, no UGREEN agents"
+}

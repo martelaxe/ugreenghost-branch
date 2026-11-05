@@ -1,0 +1,13 @@
+{
+  "simulation": true,
+  "user_approval_fixture": true,
+  "gateway_approval_fixture": true,
+  "action_requested": true,
+  "action_reported_completed": true,
+  "verification": "matched",
+  "status": "verified",
+  "source_sha256_before": "30a7b76f7a756e0c515ac352d162d2151deb8f93c390363459b35ccbd4d6802e",
+  "source_sha256_after": "30a7b76f7a756e0c515ac352d162d2151deb8f93c390363459b35ccbd4d6802e",
+  "destination_sha256": "30a7b76f7a756e0c515ac352d162d2151deb8f93c390363459b35ccbd4d6802e",
+  "reason": "copy exists; original remains and bytes match"
+}

@@ -1,0 +1,9 @@
+The required `file-agent` delegation failed because the local agent service could not load its context. No archive files were inspected, and nothing was modified. The workflow requires stopping when required expert results are unavailable.
+
+- **Evidence:** No missing-file reference, candidate, checksum, or destination-absence evidence has been obtained.
+- **Proposal:** None yet; exact source and destination remain unknown.
+- **User approval:** Not requested or granted for a precise copy.
+- **Platform approval:** Unavailable in this exercise.
+- **Execution and verification:** Neither occurred.
+
+The safe next step is to restore the required delegation capability or explicitly authorize direct read-only inspection as a workflow exception. Any eventual copy would still require separate approval of its exact source and destination.

@@ -1,0 +1,35 @@
+{
+  "word_count_10_answers": 282,
+  "pdf_bytes": 3822,
+  "pdf_pages": 1,
+  "pdf_extracts_all_questions": true,
+  "zip_bytes": 7068,
+  "zip_uncompressed_bytes": 14304,
+  "files": [
+    {
+      "path": "SKILL.md",
+      "bytes": 5679,
+      "sha256": "121be7dc2840489807f0419281661cb1610b589c85811b325e1fdd315cdf40a8"
+    },
+    {
+      "path": "references/evidence-and-output.md",
+      "bytes": 2505,
+      "sha256": "bb66b795dd4bdeb03e8cda10fa6364a6266c08d861697253dd2df98d4b4d96f6"
+    },
+    {
+      "path": "references/safety-and-disclosure.md",
+      "bytes": 2419,
+      "sha256": "2207714a48b1ebd09ad5336bc9c48ea4100e4fa2ab6df0caccde5f3517e3b195"
+    },
+    {
+      "path": "references/workflow.md",
+      "bytes": 3701,
+      "sha256": "4ff5a28b21500c247e9c8afed5b2ac20c045e794967a1a72c715f34ef3f13164"
+    }
+  ],
+  "zip_test_error": null,
+  "all_answers_within_500": true,
+  "skill_root_present": true,
+  "limits_ok": true,
+  "static_check": "static-pass"
+}

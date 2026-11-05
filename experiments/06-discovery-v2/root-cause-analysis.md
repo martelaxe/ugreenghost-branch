@@ -1,0 +1,20 @@
+# Root-cause analysis
+
+## Observed behavior
+
+- **H-A1:** the [candidate](/home/martelaxe/ugreen-hackathon/experiments/05-intelligence-multiplier/execution/a-h1/candidate-message.md:1) proposed a conditional take-home growing activity and supplied five source quotations. The [verifier](/home/martelaxe/ugreen-hackathon/experiments/05-intelligence-multiplier/execution/a-h1/verifier-message.md:1) returned `{"findings":[]}` with no rationale. The [final report](/home/martelaxe/ugreen-hackathon/experiments/05-intelligence-multiplier/results/a-h1.md:1) had no candidate or its evidence.
+- **H-B1:** the [candidate](/home/martelaxe/ugreen-hackathon/experiments/05-intelligence-multiplier/execution/b-h1/candidate-message.md:1) explicitly mentioned a sharing restriction but did not cite the decisive rights record for that claim. The [verifier](/home/martelaxe/ugreen-hackathon/experiments/05-intelligence-multiplier/execution/b-h1/verifier-message.md:1) returned an empty list. The final report omitted the candidates and the unverified blocker. Empty output provides no evidence the hypothesis is false or the blocker absent.
+- **H-B2:** the [verifier result](/home/martelaxe/ugreen-hackathon/experiments/05-intelligence-multiplier/execution/b-h2/verifier-message.md:1) stated a real restriction but supplied no citation to `04-rights/lot-disposition.txt`; the [final report](/home/martelaxe/ugreen-hackathon/experiments/05-intelligence-multiplier/results/b-h2.md:1) nevertheless presented the restriction. The post-filter only checked quotes that were supplied, not whether each material claim had support.
+- **H-C1/C2:** empty final reports correctly refrained from proposing a pilot under the synthetic negative control, but gave no evidence or specific reasons. This is a binary abstention, not an explained verification.
+
+## Mechanism versus hypothesis
+
+The Experiment 05 [harness](/home/martelaxe/ugreen-hackathon/experiments/05-intelligence-multiplier/implementation/harness.py:1) constructs its final report exclusively from the verifier's accepted `findings`. If the verifier returns `[]`, the original candidate is no longer included in the user-visible output. This deterministic loss is demonstrated. The verifier was prompted to discard unsupported proposals and had no required per-candidate explanation; it **may** have applied an overly strict threshold, but its private reasoning and actual reason for returning `[]` are unavailable. The JSON was valid and process calls completed; do not call this a technical parsing failure.
+
+The candidate's citations were not bound to specific material claims, and there was no mandatory evidence reference for blockers. Quote matching establishes substring existence, not entailment. The fixed two-source threshold and terse final schema also reduced coverage and detail; low benchmark scores additionally reflect uncited evidence, missing source units, and low-information abstentions, not only verifier over-rejection.
+
+Experiment 05's H inventory counted 44 existing files mechanically, but it did not detect that a document referred to the missing `sleeve-sizes-2025.pdf`. Generic/specialized reports sometimes miscounted 44 files as 36–43. A file count, complete-looking JSON, or `full` option cannot prove full archive coverage. Real UGREEN result and partial-coverage contracts remain unspecified in the [contract audit](/home/martelaxe/ugreen-hackathon/experiments/05-intelligence-multiplier/ugreen-contract-audit.md:1).
+
+## V2 response
+
+Retain the complete original candidate and its source checks; accept only per-candidate structured review with an explanation. Empty, malformed, missing or pending review becomes `NEEDS VERIFICATION` if contextual evidence is available, otherwise `INSUFFICIENT EVIDENCE`; neither proves rejection. Every material claim and blocker must have its own matched evidence and an explicit semantic-review assessment before it can be treated as supported. A sourced decisive blocker yields `BLOCKED`; an uncited reported blocker remains unverified and prohibits a ready recommendation. These are conservative local rules, not evidence of real NAS or AI behavior.

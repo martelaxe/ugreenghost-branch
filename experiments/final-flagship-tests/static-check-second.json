@@ -1,0 +1,70 @@
+{
+  "checkFormatVersion": "2.0.0",
+  "status": "not-uploadable",
+  "target": {
+    "skillName": "final-flagship"
+  },
+  "catalog": {
+    "checkedVersion": "2.0.0"
+  },
+  "files": [
+    {
+      "path": "references/evidence-and-output.md",
+      "sha256": "75e7e63977cd3ef79c0167fa58042a9efa22dfbe71e93dcd33c341d4b410f41f"
+    },
+    {
+      "path": "references/safety-and-disclosure.md",
+      "sha256": "2207714a48b1ebd09ad5336bc9c48ea4100e4fa2ab6df0caccde5f3517e3b195"
+    },
+    {
+      "path": "references/workflow.md",
+      "sha256": "9aea40ba90623c6098a0cb8e39d066be5baa81a43b3504e32fae2fc811d06c2f"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "0de8c4277773718f445c04b3ee0a9bd5aa5ef166ad39768493e6a9799baaca02"
+    }
+  ],
+  "summary": {
+    "errors": 4,
+    "warnings": 1,
+    "info": 0
+  },
+  "diagnostics": [
+    {
+      "code": "DELEGATION_WORKFLOW_STATIC_VALIDATION_INCOMPLETE",
+      "severity": "warning",
+      "file": "SKILL.md",
+      "message": "正文中没有可机械识别的标准 delegate 命令。",
+      "suggestion": "人工确认该 Skill 是否无需 NAS 专家；需要时补充标准 delegate 命令。"
+    },
+    {
+      "code": "SKILL_REQUIRED_SECTION_MISSING",
+      "severity": "error",
+      "file": "SKILL.md",
+      "message": "SKILL.md 缺少必需章节：目标。",
+      "suggestion": "按编排型 Skill 契约补充该章节。"
+    },
+    {
+      "code": "SKILL_REQUIRED_SECTION_MISSING",
+      "severity": "error",
+      "file": "SKILL.md",
+      "message": "SKILL.md 缺少必需章节：必需输入。",
+      "suggestion": "按编排型 Skill 契约补充该章节。"
+    },
+    {
+      "code": "SKILL_REQUIRED_SECTION_MISSING",
+      "severity": "error",
+      "file": "SKILL.md",
+      "message": "SKILL.md 缺少必需章节：专家编排。",
+      "suggestion": "按编排型 Skill 契约补充该章节。"
+    },
+    {
+      "code": "SKILL_REQUIRED_SECTION_MISSING",
+      "severity": "error",
+      "file": "SKILL.md",
+      "message": "SKILL.md 缺少必需章节：完成与失败。",
+      "suggestion": "按编排型 Skill 契约补充该章节。"
+    }
+  ]
+}

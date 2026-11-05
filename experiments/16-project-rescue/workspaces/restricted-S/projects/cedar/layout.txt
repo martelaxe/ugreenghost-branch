@@ -1,0 +1,1 @@
+Layout references assets/lantern-banner.svg for the main banner. It is currently missing.

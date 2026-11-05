@@ -1,0 +1,302 @@
+{
+  "01-correspondence/2023-delivery.txt": {
+    "archive-a": "bce477cf2279d798ee0b0d14873e90cdda387074d32d7d184c71fd08259781b1",
+    "archive-b": "bce477cf2279d798ee0b0d14873e90cdda387074d32d7d184c71fd08259781b1",
+    "archive-c": "52b9063eea05b3573378ebeacea4c9156082f9f85ff02b967e11ab3da41368e5"
+  },
+  "01-correspondence/2024-07-museum-prints.txt": {
+    "archive-a": "5560001116546f5f365ca4fa603bdae5cfed0c7f264903aa575312aac5d360cd",
+    "archive-b": "5560001116546f5f365ca4fa603bdae5cfed0c7f264903aa575312aac5d360cd",
+    "archive-c": "5560001116546f5f365ca4fa603bdae5cfed0c7f264903aa575312aac5d360cd"
+  },
+  "01-correspondence/2024-supplies.txt": {
+    "archive-a": "922ff4ef8f28ba4fb818c3be6e8296e894693ead3ab1c00be236e5d8b2c494e2",
+    "archive-b": "922ff4ef8f28ba4fb818c3be6e8296e894693ead3ab1c00be236e5d8b2c494e2",
+    "archive-c": "556fa4b6db4d08bb92b085c5367e9f0f2e0409de0dd7e742ac90d6b4225563ab"
+  },
+  "01-correspondence/2025-reunion.txt": {
+    "archive-a": "c016eca22adf38419866d05acba6d8a2454b8a6a7b77969ce78d7a1e534c2afa",
+    "archive-b": "c016eca22adf38419866d05acba6d8a2454b8a6a7b77969ce78d7a1e534c2afa",
+    "archive-c": "6e9c71199b82f376d00a0c56264086e453a48693a30fdc9e2aad2dc55a739de1"
+  },
+  "01-correspondence/2026-10-reading-room.txt": {
+    "archive-a": "e6db164f1e9ca89e59ebe7e2a0dd57f1a5ed877ab3ff2a2718f3c13739560593",
+    "archive-b": "e6db164f1e9ca89e59ebe7e2a0dd57f1a5ed877ab3ff2a2718f3c13739560593",
+    "archive-c": "62f867adb75c8d9841d21f80ed8025ed6d24fe82a24edf34e48da24466463e5d"
+  },
+  "01-correspondence/2026-september.txt": {
+    "archive-a": "fffb2815d2819bd941a88a60cbfb5dfffea03c22209cbd9e87ce6547c503336a",
+    "archive-b": "fffb2815d2819bd941a88a60cbfb5dfffea03c22209cbd9e87ce6547c503336a",
+    "archive-c": "dd637ab1f39971d7a5f14a90452df287d250c64e67729c7e29b6a36140e7c450"
+  },
+  "02-archive/1998-waypoints.csv": {
+    "archive-a": "8e74bea87ab900fa3b799931222c0bf8119ca1a41c2b47e8686629a4cdc4b1f7",
+    "archive-b": "8e74bea87ab900fa3b799931222c0bf8119ca1a41c2b47e8686629a4cdc4b1f7",
+    "archive-c": "97db9088a6b35067fe312b20d98698e6aa992222d8620bfee3ece156404601a4"
+  },
+  "02-archive/cabinet-check.txt": {
+    "archive-a": "afff8f6ab3eec3bb8f6fd2c417c7ef951ac95df4fa48dac7389054a369216b8c",
+    "archive-b": "afff8f6ab3eec3bb8f6fd2c417c7ef951ac95df4fa48dac7389054a369216b8c",
+    "archive-c": "4927595b0f5336718f8099a3a663320881db72f937b4956033acb4c2863ec1fa"
+  },
+  "02-archive/catalogue-1998.txt": {
+    "archive-a": "6c0efc40a2b9aa4cdcccb52b3ab647513eb9f804f86d435e6a45078f785a4642",
+    "archive-b": "6c0efc40a2b9aa4cdcccb52b3ab647513eb9f804f86d435e6a45078f785a4642",
+    "archive-c": "9767246a49f6fcb37d9f9c3a94097755edc41c5f59dba11c78492da73459ca9e"
+  },
+  "02-archive/chart-register.csv": {
+    "archive-a": "0d39c96cebc610d06395fd865d687a3b020bde10fc70e7e502e62b6cce69298e",
+    "archive-b": "0d39c96cebc610d06395fd865d687a3b020bde10fc70e7e502e62b6cce69298e",
+    "archive-c": "1002250efecfcc44a4d1b2db072bc2298915d9d66fe0b7162fb0825a887aadb2"
+  },
+  "02-archive/labels-2016.csv": {
+    "archive-a": "91868122a0767bb726cb11ab557d26a0d6dcfdccc978afd2a1d2277632f863d7",
+    "archive-b": "91868122a0767bb726cb11ab557d26a0d6dcfdccc978afd2a1d2277632f863d7",
+    "archive-c": "5825c3f082e7672701a3a32d24993a35e647944b0ab743490bc33105371ee275"
+  },
+  "02-archive/photo-boxes.csv": {
+    "archive-a": "4cb276ff18e458fca5be3cd0dfcba205f5d6891b4bcffb9edb148b1c5d59f789",
+    "archive-b": "4cb276ff18e458fca5be3cd0dfcba205f5d6891b4bcffb9edb148b1c5d59f789",
+    "archive-c": "be812aac8af5df580a37eb7d0dac0b56083c2ef9a35b2377d3857ae37db8c90c"
+  },
+  "02-archive/room-layout.txt": {
+    "archive-a": "a344339fee73de179178cac2939fdf4786088950ef857219e0c08f9258226620",
+    "archive-b": "a344339fee73de179178cac2939fdf4786088950ef857219e0c08f9258226620",
+    "archive-c": "11545bf2fdf796b08951e7f200423137e9dbe772aa811df0e6d06dc13f50abf1"
+  },
+  "03-rights/diagram-terms.txt": {
+    "archive-a": "66c4b0440983b6aa9aef728bc14a0bb8375a02e60636d0ba4126e176d1a86d09",
+    "archive-b": "66c4b0440983b6aa9aef728bc14a0bb8375a02e60636d0ba4126e176d1a86d09",
+    "archive-c": "b9698c0676a2e66138d2a3221c5afbe405199ebd2ebdd583f4add0a73aaf12f2"
+  },
+  "03-rights/logo-note.txt": {
+    "archive-a": "9a448c6b2d57e501ccacd0ef28b4a254a9acd2c086b950fb239e9272c01b8025",
+    "archive-b": "9a448c6b2d57e501ccacd0ef28b4a254a9acd2c086b950fb239e9272c01b8025",
+    "archive-c": "28171d30a457b86e596dd7d93d6f003ef66d655df0819cbfead5c17c1a3f393b"
+  },
+  "03-rights/old-poster.txt": {
+    "archive-a": "44faee1fedee5b8dcf4eb001891295d2c73c8bdc305eb0025d3c12cd144df24a",
+    "archive-b": "44faee1fedee5b8dcf4eb001891295d2c73c8bdc305eb0025d3c12cd144df24a",
+    "archive-c": "6981ef792ec46f2b767754c93f9b6cd42dba35eb09841b8bb18fbec282a04663"
+  },
+  "03-rights/photograph-checklist.md": {
+    "archive-a": "9c3edb726cf2960ae210655409e9f90e96a210486737a5ad6a8a17f6f0a5f87b",
+    "archive-b": "9c3edb726cf2960ae210655409e9f90e96a210486737a5ad6a8a17f6f0a5f87b",
+    "archive-c": "61f487f1990d24bd389a41bf7882a7136ea3d214e0529af3478c4a3abea55d7f"
+  },
+  "03-rights/room-policy.txt": {
+    "archive-a": "1fa64b5b66a3f546f9b12b67279b474f70cecc6e4b5ec94c809fa897d1f38b75",
+    "archive-b": "1fa64b5b66a3f546f9b12b67279b474f70cecc6e4b5ec94c809fa897d1f38b75",
+    "archive-c": "ec921b68447510bfc9be4a754d53d16cb3eddb7fc9ada6191a5deaf40d322401"
+  },
+  "03-rights/survey-donation.txt": {
+    "archive-a": "a3a01e4ff41f5bf6d7b87c5908302819760dff86d0fcf35ae98d1eaf08fd4b7e",
+    "archive-b": "a3a01e4ff41f5bf6d7b87c5908302819760dff86d0fcf35ae98d1eaf08fd4b7e",
+    "archive-c": "bdaa6502831d0fda88d2eb6bd0e9a50223fcb953a6517e525ce24670f02a181e"
+  },
+  "04-equipment/camera-inventory.csv": {
+    "archive-a": "8335bac8455e55f9946f10aad3f6fd4cce31c52636b9ae69d913013e7b6a8bfa",
+    "archive-b": "8335bac8455e55f9946f10aad3f6fd4cce31c52636b9ae69d913013e7b6a8bfa",
+    "archive-c": "4d34bffa40bc5735b7be6a379a153544bb12ff90edadc783036b801161e4b618"
+  },
+  "04-equipment/drill-note.txt": {
+    "archive-a": "b804f28d9203996f78b8f33bdc37d446672b43a794428d4f1fa739bda4c0b798",
+    "archive-b": "b804f28d9203996f78b8f33bdc37d446672b43a794428d4f1fa739bda4c0b798",
+    "archive-c": "52a2538e41f1d0fa340f85c248641f218a5cce44b537a4e553781f397b9b2f27"
+  },
+  "04-equipment/fume-guidance.md": {
+    "archive-a": "a080590bae904c1606e516c683438554d4f10fb29a63209359bb56aafb3f83c7",
+    "archive-b": "a080590bae904c1606e516c683438554d4f10fb29a63209359bb56aafb3f83c7",
+    "archive-c": "a080590bae904c1606e516c683438554d4f10fb29a63209359bb56aafb3f83c7"
+  },
+  "04-equipment/laser-service.txt": {
+    "archive-a": "7b0e2dd2bd091fc28b4618af905b130cfcbc908a992a34a8c951690d45940cfb",
+    "archive-b": "5d58ac5be25aa6f5b1b66503fa47df6f7a8849acc90bb20dd22bedeecd3b498c",
+    "archive-c": "96a77da0568225e37e9358c814da5d7e4138ca60eef5aabc837b27557d2c0169"
+  },
+  "04-equipment/material-log.csv": {
+    "archive-a": "7b01b0a82247769a9d4aa68c531a74f4d320d7d37d6a60c2d7433c79f3d66c0e",
+    "archive-b": "7b01b0a82247769a9d4aa68c531a74f4d320d7d37d6a60c2d7433c79f3d66c0e",
+    "archive-c": "1d4d7d871b41896c232e4e4ab5e5162f2518d6f37c794ee651edabb5156129b3"
+  },
+  "04-equipment/paint-stock.csv": {
+    "archive-a": "2ed0dca49635d3147f8d4c39beee58df52a0605e535f9e34a39248cbd5f4cf64",
+    "archive-b": "2ed0dca49635d3147f8d4c39beee58df52a0605e535f9e34a39248cbd5f4cf64",
+    "archive-c": "433e5fb13b8cb0add55cbd9e95b1b832e9ad835f767d02991537079cb76e9046"
+  },
+  "04-equipment/printer-repair.txt": {
+    "archive-a": "d3a4c57db90ca52e0157e3fcc71d904caf377939fcc97d0475e75904e202ece0",
+    "archive-b": "d3a4c57db90ca52e0157e3fcc71d904caf377939fcc97d0475e75904e202ece0",
+    "archive-c": "4be7f67a03df9559eca3235704250b5dfafe5c7499c69a6684e451330d43c855"
+  },
+  "04-equipment/tool-check.txt": {
+    "archive-a": "7dd03d451bf26bc37155e45f2219348ad9a663058d1e96a5cb9439def5a9533c",
+    "archive-b": "7dd03d451bf26bc37155e45f2219348ad9a663058d1e96a5cb9439def5a9533c",
+    "archive-c": "9f4cfd5b0185cd96e7805a85875c3c868cf5d69511bd860e8ca6a8ec67ef92cb"
+  },
+  "05-learning/2015-photo-notes.txt": {
+    "archive-a": "3695965435268da6064e80bc32851b6935685342bd567c43913f07b0399409de",
+    "archive-b": "3695965435268da6064e80bc32851b6935685342bd567c43913f07b0399409de",
+    "archive-c": "7e8f6522f94015d64cf31301525c37ab0ebebce099ea40703a9b3a4805df140b"
+  },
+  "05-learning/2017-signage.txt": {
+    "archive-a": "10fe603645d978f5e14a0598e93048f2628731dde8dd54acde50f879f49c75aa",
+    "archive-b": "10fe603645d978f5e14a0598e93048f2628731dde8dd54acde50f879f49c75aa",
+    "archive-c": "348dbb01c2afabcd08a13618ad3f9a36834fb903235e531a4482b2f9df5146de"
+  },
+  "05-learning/2018-access-notes.md": {
+    "archive-a": "a1ef33dfefa356e1aef99d85e16c6342a08b75b7db1dfdb388a17107ea6002bc",
+    "archive-b": "a1ef33dfefa356e1aef99d85e16c6342a08b75b7db1dfdb388a17107ea6002bc",
+    "archive-c": "c1efddf35941709dc527a6ea2ca903e47913e49bb24ab84530e31d1e89defe88"
+  },
+  "05-learning/2019-tile-notes.txt": {
+    "archive-a": "40e9e8ca5694cadddc6c5fc5397765c691233018e6b6a1f0921ec09aae482d85",
+    "archive-b": "40e9e8ca5694cadddc6c5fc5397765c691233018e6b6a1f0921ec09aae482d85",
+    "archive-c": "73eeef081babeaebfe057314e8a4ea6277a4ead34d3b3a4692f488c60fe7ed7e"
+  },
+  "05-learning/paper-folding.txt": {
+    "archive-a": "cf1d8bf80566f34fa33e4539da55ab02e8762ccece3990922ba1c96403a719cc",
+    "archive-b": "cf1d8bf80566f34fa33e4539da55ab02e8762ccece3990922ba1c96403a719cc",
+    "archive-c": "2aff67f66efc663b46326fa0c9c081f2b77f3ac47606308ac9911670c02005a4"
+  },
+  "05-learning/session-feedback.csv": {
+    "archive-a": "839a42a81d747b359007eadb961266340cbf4870058bbe4e79fb074d4885b8f4",
+    "archive-b": "839a42a81d747b359007eadb961266340cbf4870058bbe4e79fb074d4885b8f4",
+    "archive-c": "ffc181118007fdf7c1cd1ff158828175f0ffe2c87f0c73a5441bd6092e4d66e2"
+  },
+  "05-learning/volunteer-induction.md": {
+    "archive-a": "9c8b0bc1bf664c4323685762d4de95486c8e05c16b13f664a1387b6e98e3e128",
+    "archive-b": "9c8b0bc1bf664c4323685762d4de95486c8e05c16b13f664a1387b6e98e3e128",
+    "archive-c": "e58a3f1183c5bf6fb06044c85287d312d85c5cf3cb4a36b917d2c75b0699b4d7"
+  },
+  "06-operations/2026-rota.txt": {
+    "archive-a": "fc09b9d098e4aeaaf2630174c3681e7e6aed94e0d950ec69d910cb65319f054d",
+    "archive-b": "fc09b9d098e4aeaaf2630174c3681e7e6aed94e0d950ec69d910cb65319f054d",
+    "archive-c": "1075289c6f78a1284e611996ac637d2ab332bddab44011643b0cfc589ac560f0"
+  },
+  "06-operations/capacity.csv": {
+    "archive-a": "6d0cb7348db09fe8e20bb22b4b171ed0ae8ae9508e0cc606b1e69e18c2114ae9",
+    "archive-b": "6d0cb7348db09fe8e20bb22b4b171ed0ae8ae9508e0cc606b1e69e18c2114ae9",
+    "archive-c": "578124c1677b0cce09f47c52e5eb66266db874b47a03c3a654eb3058195142cd"
+  },
+  "06-operations/fire-check.txt": {
+    "archive-a": "6452ce49648061a4b4a6385c373e2edd68c9636c7b761d186452b2a35f083f25",
+    "archive-b": "6452ce49648061a4b4a6385c373e2edd68c9636c7b761d186452b2a35f083f25",
+    "archive-c": "56bf03a6a494e898817db7b76243a842e1aef5c024ab36822847ad33435805d0"
+  },
+  "06-operations/internet.txt": {
+    "archive-a": "42f9611d3986a8491d353245d7b83a8b9ae53880e7495efa950161ff72f75c10",
+    "archive-b": "42f9611d3986a8491d353245d7b83a8b9ae53880e7495efa950161ff72f75c10",
+    "archive-c": "40fc8a8fa7b7d5422167b9cbe14e26c02a0516b016a5e8b62d7ffa8dfd9de665"
+  },
+  "06-operations/laser-access.csv": {
+    "archive-a": "ca1f5fbaa307fa2132f25ae452168f453ebc3bb5574f09306e55be3b678d36ad",
+    "archive-b": "ca1f5fbaa307fa2132f25ae452168f453ebc3bb5574f09306e55be3b678d36ad",
+    "archive-c": "b7f4b26bceff96c9c373a2dd4e2686ea7afa863551151b70648e5575dc628ca7"
+  },
+  "06-operations/pilot-limits.txt": {
+    "archive-a": "144f0222a6667958377bcf09819e7a5c1ecca17ab75385464979715b929fcd0e",
+    "archive-b": "144f0222a6667958377bcf09819e7a5c1ecca17ab75385464979715b929fcd0e",
+    "archive-c": "604ed5a9d028b6e261624ceb2cfbe10a3df0ae95a7d03bdde6bb32b14e388c70"
+  },
+  "06-operations/room-bookings.csv": {
+    "archive-a": "c6b9730c07cc3804078e115592be82d63258ded787496d49d16281eaf4e95997",
+    "archive-b": "c6b9730c07cc3804078e115592be82d63258ded787496d49d16281eaf4e95997",
+    "archive-c": "93b02f5d28dac1dc17c60ab76708cd4ab9810da64453c846647b1eec2681372f"
+  },
+  "06-operations/stocktake.md": {
+    "archive-a": "1fed498efca140ed005ea4c4d0e50d8e055b0e205d32973ea5f5f68ee4b611b4",
+    "archive-b": "1fed498efca140ed005ea4c4d0e50d8e055b0e205d32973ea5f5f68ee4b611b4",
+    "archive-c": "75d40a680635e758fae360b3fd673738d0b72837579552e51a1ef2473e8af819"
+  },
+  "07-old-programmes/2016-banner.txt": {
+    "archive-a": "804ad51b3b3c1cb3d718feb01016a6a7e6ee9993180cdb083f8fa88c7a5a4b90",
+    "archive-b": "804ad51b3b3c1cb3d718feb01016a6a7e6ee9993180cdb083f8fa88c7a5a4b90",
+    "archive-c": "c9e47889c6eceba680c98b9493976d700f9042540f97aa90d0734ce48a38b321"
+  },
+  "07-old-programmes/2019-grant-notice.txt": {
+    "archive-a": "5c1ba387c1c1adde99f4611cf6a8811f0d543e3837a04532c6b665452b5118ae",
+    "archive-b": "5c1ba387c1c1adde99f4611cf6a8811f0d543e3837a04532c6b665452b5118ae",
+    "archive-c": "5c1ba387c1c1adde99f4611cf6a8811f0d543e3837a04532c6b665452b5118ae"
+  },
+  "07-old-programmes/2020-cleanup.txt": {
+    "archive-a": "55f54d16e377c1270b3a22347eeb8bcf6d6696a5d655b52664bbf865a0d43216",
+    "archive-b": "55f54d16e377c1270b3a22347eeb8bcf6d6696a5d655b52664bbf865a0d43216",
+    "archive-c": "f61a4226c894f7db5ba92f4af2928cd10c93c8ce632572e46f8889dc659df2df"
+  },
+  "07-old-programmes/2022-walk.txt": {
+    "archive-a": "74fe5cce1941dfa552f0fd06583fd445317cc4dc44e6a5109c72221f78460499",
+    "archive-b": "74fe5cce1941dfa552f0fd06583fd445317cc4dc44e6a5109c72221f78460499",
+    "archive-c": "544ee685675542d77fe80940400849d2ff61f64e3dd80080f44d6d1447d3864a"
+  },
+  "07-old-programmes/audio-consent.txt": {
+    "archive-a": "d03474f35fac701a131a8f7b158baafc4372da90728661892f17d98b51b849b4",
+    "archive-b": "d03474f35fac701a131a8f7b158baafc4372da90728661892f17d98b51b849b4",
+    "archive-c": "d03474f35fac701a131a8f7b158baafc4372da90728661892f17d98b51b849b4"
+  },
+  "07-old-programmes/old-grant-budget.txt": {
+    "archive-a": "6d5c8edf492648ad9006178890360fa6053ba583472350724fb09334ce8283ae",
+    "archive-b": "6d5c8edf492648ad9006178890360fa6053ba583472350724fb09334ce8283ae",
+    "archive-c": "ce6b5fdc174b8ff7fa01689061287139301efb30242e970ee637ef076dc70ac8"
+  },
+  "07-old-programmes/sound-log.csv": {
+    "archive-a": "619c48270411a678d237a88de959f1af089223e863a540adf97517d43b922c8f",
+    "archive-b": "619c48270411a678d237a88de959f1af089223e863a540adf97517d43b922c8f",
+    "archive-c": "619c48270411a678d237a88de959f1af089223e863a540adf97517d43b922c8f"
+  },
+  "07-old-programmes/ticket-sales.csv": {
+    "archive-a": "e0f3e90384d21c91b6650fdcb016940d4fef3c5b927556a850a57699d0668cc1",
+    "archive-b": "e0f3e90384d21c91b6650fdcb016940d4fef3c5b927556a850a57699d0668cc1",
+    "archive-c": "4cded28d3122c151e659397cf5a732e951d21eecb101493c4fcb99a65dc8c552"
+  },
+  "08-admin/2026-invoices.csv": {
+    "archive-a": "78f86462c7f7002594f86f06a6a70d7fb9de217bed3d449823672572b541b671",
+    "archive-b": "78f86462c7f7002594f86f06a6a70d7fb9de217bed3d449823672572b541b671",
+    "archive-c": "3964dd0490bddbce06b6f62be1d5eb4c170755714f458b1535728ce8f02d098f"
+  },
+  "08-admin/bike-service.txt": {
+    "archive-a": "1eff1919680d10b3aa0425014e022ddf47d62e8dff726c4df6ecc05684588359",
+    "archive-b": "1eff1919680d10b3aa0425014e022ddf47d62e8dff726c4df6ecc05684588359",
+    "archive-c": "012c8869ff520e11031baf215ef52eb6055de4d787d6adccc7bf097298998511"
+  },
+  "08-admin/cleaning.txt": {
+    "archive-a": "74fb3306274ea5dd76f2cbb95372f652c6537e23a01b39fdccad1dc3178321ce",
+    "archive-b": "74fb3306274ea5dd76f2cbb95372f652c6537e23a01b39fdccad1dc3178321ce",
+    "archive-c": "9d9d7116ef792c39a51804d1cba2226e1ae3a23a791bbb73941bdd470e965109"
+  },
+  "08-admin/client-ledger.csv": {
+    "archive-a": "8b7dee2a9d96eb139210ec73b82004d0e2eae426bfb4d3c8f6f17d20fd3753ac",
+    "archive-b": "8b7dee2a9d96eb139210ec73b82004d0e2eae426bfb4d3c8f6f17d20fd3753ac",
+    "archive-c": "8b7dee2a9d96eb139210ec73b82004d0e2eae426bfb4d3c8f6f17d20fd3753ac"
+  },
+  "08-admin/coffee.txt": {
+    "archive-a": "7daa45e97b89fd8db75f5ec450c41b7af20da0db59c2debc10fdf4962d37f63d",
+    "archive-b": "7daa45e97b89fd8db75f5ec450c41b7af20da0db59c2debc10fdf4962d37f63d",
+    "archive-c": "b523cb158f6a3efc5a905e56ac9992cc21b947f128def22f20bc1093a77adc1b"
+  },
+  "08-admin/meeting-agenda.txt": {
+    "archive-a": "ceb694ab7214e8b932d1afeab240c9e4df2ee0f9ddc65917c9ada3384c343ff4",
+    "archive-b": "ceb694ab7214e8b932d1afeab240c9e4df2ee0f9ddc65917c9ada3384c343ff4",
+    "archive-c": "e1cc09da767c29b83641e03d558a95027d8f1102a424ef101c01f7a65680df72"
+  },
+  "08-admin/office-keys.txt": {
+    "archive-a": "02975f56ec736f22f5ff99c363b48c93841aa13d2beab0591543d2e7e81e6b13",
+    "archive-b": "02975f56ec736f22f5ff99c363b48c93841aa13d2beab0591543d2e7e81e6b13",
+    "archive-c": "6a117ffad8c1f613c10191b3539e2034a54158d81ae8ba2523dfbe7377565083"
+  },
+  "08-admin/plant-care.txt": {
+    "archive-a": "97d47249cbd4a8cc4151b873439ad8ccaeed0cbe9803726757cabb0e6f654e7b",
+    "archive-b": "97d47249cbd4a8cc4151b873439ad8ccaeed0cbe9803726757cabb0e6f654e7b",
+    "archive-c": "4d0117a9135b8669ef562667c26799c2225e33ccd04001a810dfb0b17cea8123"
+  },
+  "08-admin/printer-paper.txt": {
+    "archive-a": "2fa7c77c31123af81549f1b965404a2625f03fca62ca7e1e660869b816899065",
+    "archive-b": "2fa7c77c31123af81549f1b965404a2625f03fca62ca7e1e660869b816899065",
+    "archive-c": "7f2554298c2baf0e4e7117c9fd727ffea08a031c99372859b607a0f10894e3d7"
+  },
+  "08-admin/weekly-note.txt": {
+    "archive-a": "fd34a6accc529b12666b2dcbd673112383e5e9bc7d0beb569ebd45bcd58006bc",
+    "archive-b": "fd34a6accc529b12666b2dcbd673112383e5e9bc7d0beb569ebd45bcd58006bc",
+    "archive-c": "fd34a6accc529b12666b2dcbd673112383e5e9bc7d0beb569ebd45bcd58006bc"
+  }
+}

@@ -1,0 +1,2 @@
+WARNING: failed to clean up stale arg0 temp dirs: Permission denied (os error 13)
+2026-10-27T05:19:04.723982Z  WARN codex_core::shell_snapshot: Failed to delete shell snapshot at AbsolutePathBuf("/mnt/c/Users/RkLop/.codex/shell_snapshots/01a17bcb-c9df-7461-8d36-00fd30d75345.1793078315497076461.sh"): Os { code: 2, kind: NotFound, message: "No such file or directory" }

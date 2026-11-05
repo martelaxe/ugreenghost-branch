@@ -1,0 +1,90 @@
+{
+  "01-inbox/2026-09-wedding-message.txt": {
+    "archive_a_sha256": "cb191301ffa0670ea86a2426c9bcbb3b3472d3c8c5b5d9805602be7356e78685",
+    "archive_b_sha256": "cb191301ffa0670ea86a2426c9bcbb3b3472d3c8c5b5d9805602be7356e78685"
+  },
+  "01-inbox/2026-10-centre-note.txt": {
+    "archive_a_sha256": "35426cb4a15a47392e5294ace48c95074cc5acbd30365985ac625b39d73d5d25",
+    "archive_b_sha256": "35426cb4a15a47392e5294ace48c95074cc5acbd30365985ac625b39d73d5d25"
+  },
+  "01-inbox/old-festival-call.txt": {
+    "archive_a_sha256": "b09b4c3b24dc9e990abdbcacdcec001cd81fc00780f09f2694180e02cb88a3b1",
+    "archive_b_sha256": "b09b4c3b24dc9e990abdbcacdcec001cd81fc00780f09f2694180e02cb88a3b1"
+  },
+  "02-archive/box-inventory.csv": {
+    "archive_a_sha256": "522192c57d21af2a85ec94e379e4219463f24a8027f481654ad5a5cc6a9d6f76",
+    "archive_b_sha256": "522192c57d21af2a85ec94e379e4219463f24a8027f481654ad5a5cc6a9d6f76"
+  },
+  "02-archive/donor-photos-index.csv": {
+    "archive_a_sha256": "deccd55bcd00db64d5fd5f9f05678e2e97f4085720473052042c199bd709441a",
+    "archive_b_sha256": "deccd55bcd00db64d5fd5f9f05678e2e97f4085720473052042c199bd709441a"
+  },
+  "02-archive/harbor-index.csv": {
+    "archive_a_sha256": "014daa59396f7fa6187dceea623d485c5fe9ca8eb65f07c92aff540a48130e56",
+    "archive_b_sha256": "014daa59396f7fa6187dceea623d485c5fe9ca8eb65f07c92aff540a48130e56"
+  },
+  "02-archive/legacy-catalogue-note.md": {
+    "archive_a_sha256": "694ee50dce8ca4a2d23295d1358172e72a3a9fb3e7fbb8bb4a549e6f769a0744",
+    "archive_b_sha256": "694ee50dce8ca4a2d23295d1358172e72a3a9fb3e7fbb8bb4a549e6f769a0744"
+  },
+  "03-rights/donor-letter.txt": {
+    "archive_a_sha256": "f32ba95e5012bc1ccd5ce4697eeccfb0386b0a60aa43fc77ad79e401242bbb7a",
+    "archive_b_sha256": "f32ba95e5012bc1ccd5ce4697eeccfb0386b0a60aa43fc77ad79e401242bbb7a"
+  },
+  "03-rights/release-checklist.md": {
+    "archive_a_sha256": "a1cc544f703c6c0addcea0bb621a399f728e522aea3625da4449073322ec476b",
+    "archive_b_sha256": "a1cc544f703c6c0addcea0bb621a399f728e522aea3625da4449073322ec476b"
+  },
+  "03-rights/vale-archive-agreement.txt": {
+    "archive_a_sha256": "712b5ec7929dc14a07190e3a1e71893aeeddea75c77c228acf62a0ef586dca8a",
+    "archive_b_sha256": "da9dbb94901c55a6e15069b504e3e0354f2d38d46fa584f13f41d3c147ab6289"
+  },
+  "04-production/printer-service.txt": {
+    "archive_a_sha256": "563a86d94c8abe75a1e3f1a51ea016c040858fc5604d044ef2d1dcbfea591b5c",
+    "archive_b_sha256": "563a86d94c8abe75a1e3f1a51ea016c040858fc5604d044ef2d1dcbfea591b5c"
+  },
+  "04-production/scan-estimate.txt": {
+    "archive_a_sha256": "dd05357d2ee1585aed2405669b45e7e2b1a5c3be488f7ce72c7b581a82653e7f",
+    "archive_b_sha256": "dd05357d2ee1585aed2405669b45e7e2b1a5c3be488f7ce72c7b581a82653e7f"
+  },
+  "04-production/scanner-inventory.txt": {
+    "archive_a_sha256": "a5d7ca7e17129e0cce9bb7d947c5abfa09341f7150ed703eb9bb76bc82358339",
+    "archive_b_sha256": "a5d7ca7e17129e0cce9bb7d947c5abfa09341f7150ed703eb9bb76bc82358339"
+  },
+  "04-production/studio-capacity.csv": {
+    "archive_a_sha256": "3898c4d2d362bfbda9388d548a96c6557fc6eafb73306ac9270c4a1a1df76b32",
+    "archive_b_sha256": "3898c4d2d362bfbda9388d548a96c6557fc6eafb73306ac9270c4a1a1df76b32"
+  },
+  "05-business/archive-pricing-note.txt": {
+    "archive_a_sha256": "d1277991dc7650880fe4f96fee87d0cc1e91a4201c4941f249e547cb2de40086",
+    "archive_b_sha256": "d1277991dc7650880fe4f96fee87d0cc1e91a4201c4941f249e547cb2de40086"
+  },
+  "05-business/invoice-log.csv": {
+    "archive_a_sha256": "e6bf404a72577efe38e221075a41c43b64a37a60f413a48d1dc31de7cdfbddea",
+    "archive_b_sha256": "e6bf404a72577efe38e221075a41c43b64a37a60f413a48d1dc31de7cdfbddea"
+  },
+  "05-business/quarterly-planning.md": {
+    "archive_a_sha256": "0e9573376124b7c9f8a281258fe4fcb2f401a389d3162790fee314e3040eb9d6",
+    "archive_b_sha256": "0e9573376124b7c9f8a281258fe4fcb2f401a389d3162790fee314e3040eb9d6"
+  },
+  "06-projects/1991-quay-job-note.txt": {
+    "archive_a_sha256": "d6fe2433c4ca8ae40fbad141da9ff0245351c1d9b9888bb2e46ba6c5b52e16aa",
+    "archive_b_sha256": "d6fe2433c4ca8ae40fbad141da9ff0245351c1d9b9888bb2e46ba6c5b52e16aa"
+  },
+  "06-projects/2026-food-shoot.txt": {
+    "archive_a_sha256": "ba0248e67bf1cbe366f4b1d8411cc3912dd5a0ece14233ff66c2c149409a6b4b",
+    "archive_b_sha256": "ba0248e67bf1cbe366f4b1d8411cc3912dd5a0ece14233ff66c2c149409a6b4b"
+  },
+  "06-projects/ferry-exhibit-old.txt": {
+    "archive_a_sha256": "149d9255169c106cedd46abf0fcc1ba10d9c09dc73672bb1bf8249e98800ed39",
+    "archive_b_sha256": "149d9255169c106cedd46abf0fcc1ba10d9c09dc73672bb1bf8249e98800ed39"
+  },
+  "07-personal/camera-bag.md": {
+    "archive_a_sha256": "e5240742e40b264245fb2c6344320579e1fb64c0860f6c83f9a8641928dfdfe9",
+    "archive_b_sha256": "e5240742e40b264245fb2c6344320579e1fb64c0860f6c83f9a8641928dfdfe9"
+  },
+  "07-personal/weekly-note.txt": {
+    "archive_a_sha256": "1f5574955b23b331441cb4014c7fcff6d057132fc9076d8fba5f0171e19a67f5",
+    "archive_b_sha256": "1f5574955b23b331441cb4014c7fcff6d057132fc9076d8fba5f0171e19a67f5"
+  }
+}

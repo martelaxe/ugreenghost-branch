@@ -1,0 +1,44 @@
+{
+  "case": "partial",
+  "approach": "skill",
+  "model_requested": "gpt-6.1-terra",
+  "effort_requested": "low",
+  "exit": 0,
+  "elapsed_seconds": 24.22,
+  "workspace": "/tmp/ugreen-reality-a4yxih7c",
+  "sandbox": "danger-full-access; instruction-limited scope, not isolation",
+  "fixture_hashes_before": {
+    "visible/scan-note.md": "407131d9b168eb23b44d9afc93e18e986f1ff403dbff8a9c055dc584a429e571",
+    "visible/assets/cover.txt": "eddb76d91f27c1082b70363b2649736ed8ac4ab95dd4aa1f07a32458145f328c",
+    "visible/program/old.md": "7ca268a12b9ee61e956cb35e33187f8c4d0092cb8b329e1104c1898775775fb9",
+    "visible/program/plan.md": "24ac6a9841ae100fa89886274cfe5c35663d9e9882946fec99a4048d381ee8b1"
+  },
+  "fixture_hashes_after": {
+    "visible/scan-note.md": "407131d9b168eb23b44d9afc93e18e986f1ff403dbff8a9c055dc584a429e571",
+    "visible/assets/cover.txt": "eddb76d91f27c1082b70363b2649736ed8ac4ab95dd4aa1f07a32458145f328c",
+    "visible/program/old.md": "7ca268a12b9ee61e956cb35e33187f8c4d0092cb8b329e1104c1898775775fb9",
+    "visible/program/plan.md": "24ac6a9841ae100fa89886274cfe5c35663d9e9882946fec99a4048d381ee8b1"
+  },
+  "unchanged": true,
+  "response_exists": true,
+  "command": [
+    "codex",
+    "exec",
+    "--skip-git-repo-check",
+    "--ephemeral",
+    "--sandbox",
+    "danger-full-access",
+    "-m",
+    "gpt-6.1-terra",
+    "-c",
+    "model_reasoning_effort=\"low\"",
+    "--cd",
+    "/tmp/ugreen-reality-a4yxih7c",
+    "--json",
+    "--output-last-message",
+    "/home/martelaxe/ugreen-hackathon/experiments/before-you-move-reality-check/runs/partial/skill/response.md",
+    "<prompt via stdin>"
+  ],
+  "short_user_request_words": 27,
+  "prompt_words": 2091
+}

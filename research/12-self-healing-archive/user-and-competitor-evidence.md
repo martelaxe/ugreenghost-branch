@@ -1,0 +1,23 @@
+# User and competitor evidence
+
+Accessed 2026-10-26; qualitative self-selected threads and issue reports do not establish prevalence, representative demand or willingness to pay. Indexed dates sometimes vary; dates marked unknown were not independently established. Each link is a distinct user discussion or product reference.
+
+1. [DataHoarder: duplicates can break path-dependent apps](https://www.reddit.com/r/DataHoarder/comments/1i6unmb/i_knew_i_had_some_duplicate_files_but_had_no_idea/) — user notes identical bytes do not mean a duplicate path is safe to remove. Useful motivation for preserving shared references; unquantified demand.
+2. [DataHoarder: fear of deleting duplicate folders](https://www.reddit.com/r/DataHoarder/comments/1ftktdv) — asks about deleting seemingly duplicated folders; isolated anxiety, not measured rate.
+3. [DataHoarder: 20 TB duplicate organization](https://www.reddit.com/r/DataHoarder/comments/1vxt82v/friend_needs_help_sorting_out_duplicates_and/) — users discuss irreversible decisions and keeping paths; unrepresentative discussion.
+4. [DataHoarder: folders from several sources](https://www.reddit.com/r/DataHoarder/comments/1uzoarb/i_have_6_folders_which_might_have_duplicate_files/) — hashes find exact-byte copies, not all equivalent versions. Deterministic hashing is appropriate; AI can interpret project context.
+5. [DataHoarder: prefer a folder when deduplicating](https://www.reddit.com/r/DataHoarder/comments/1fs1nd7) — owner wants control of which path survives; deterministic tools already support priority rules.
+6. [DataHoarder: removing exact duplicates](https://www.reddit.com/r/DataHoarder/comments/1fl5672/why_is_removing_exact_duplicates_still_so_hard/) — comments discuss hashes and alternative approaches; not proof that an AI tool would be preferred.
+7. [Immich shared-album duplicate issue](https://github.com/immich-app/immich/issues/16769) — issue reports duplication across shared users, a specific version/context not necessarily current.
+8. [Immich album membership lost in dedupe](https://github.com/immich-app/immich/issues/18792) — user expects kept image to inherit an album membership; asset identity and context can differ from bytes. Issue is a report, not verified current behavior.
+9. [Immich metadata/album synchronization discussion](https://github.com/immich-app/immich/discussions/10262) — users discuss preserving associations among duplicates; not an independent prevalence measure.
+10. [Immich external-library permission issue](https://github.com/immich-app/immich/issues/29349) — report of duplicate-removal permission failures and user-visible reasons. Version-specific, not proof of UGREEN behavior.
+11. [Immich duplicate detection request](https://github.com/immich-app/immich/discussions/1968) — existing user-reviewed duplicate workflows and cross-user complexity, not an open market gap by itself.
+12. [Selfhosted: broken backup discovered during restore drill](https://www.reddit.com/r/selfhosted/comments/1skahqe/what_self_hosting_mistake_would_you_warn/) — individual says a backup silently failed; restore testing matters. Our copy is not a backup verification product.
+13. [Selfhosted: archive across sources](https://www.reddit.com/r/selfhosted/comments/vt2cfj) — user describes error-prone manual organization and shared archive, not necessarily demand for our specific tool.
+14. [Adobe Premiere relink offline media](https://helpx.adobe.com/premiere/desktop/organize-media/file-organization/locate-and-link-offline-files.html), updated 2026-04-08 — actual competitor resolves offline media by searching and matching properties within an application. Closest to our rescue; we have not proven our workflow beats it.
+15. [Adobe Premiere automatic relink](https://helpx.adobe.com/premiere/desktop/organize-media/ingest-proxy-workflow/relink-offline-clips.html), updated 2026-08-18 — automatic relink and batch matching already exist for Premiere. A copy restoring a path is not equivalent to native project repair.
+
+## Synthesis
+
+Existing tools solve exact-duplicate detection, path preference, and application-specific relinking. A potential gap is understanding a missing expected file across selected, unrelated folders while protecting a shared reference and executing one owner-approved copy. This is a product hypothesis, not demonstrated unmet demand or global novelty. Deterministic path checks, hashes, collision controls and post-copy verification must remain authoritative; AI can interpret context, identify constraints, and explain evidence but can hallucinate dependencies. NAS advantage is existing storage and native permissions/actions; compare with generic local agents and file managers in a real user study.

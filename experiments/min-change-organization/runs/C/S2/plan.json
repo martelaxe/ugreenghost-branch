@@ -1,0 +1,1123 @@
+{
+  "items": [
+    {
+      "path": "historic/finance/2022/item_a2076abac589.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2022/item_ac3b57423433.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2022/item_aceb7606c30a.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2022/item_b50e1ffaa58a.md",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2022/item_effba525a706.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2023/item_1ac1860fed95.txt",
+      "action": "defer",
+      "destination": null,
+      "reason": "Insufficient or conflicting fields: categories=['finance', 'projects'], Date years=['2023', '2024']. Please clarify authoritative category/year."
+    },
+    {
+      "path": "historic/finance/2023/item_2aecea3352cf.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2023; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2023/item_319259da75b1.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2023; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2023/item_3a3902be61f4.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2023; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2023/item_d5be095b5d8a.json",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2023; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2024/item_3189d9cd433f.md",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2024/item_6d4105594e22.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2024/item_86620959416f.md",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2024/item_8e5053063c18.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2024/item_ba34e1c084a6.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2024/item_e865506cf9d1.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2024/item_ff4450b3ec23.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2024/item_ff8e75d83d25.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2024/occupied.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2025/item_03fccd502f40.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2025; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2025/item_557f5e585a85.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2025; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2025/item_7ddc3803dd64.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2025; direct parent is acceptable."
+    },
+    {
+      "path": "historic/finance/2025/item_be6f41d4c4b9.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2025; direct parent is acceptable."
+    },
+    {
+      "path": "historic/old/batch_00/item_026c8b346142.pdf",
+      "action": "defer",
+      "destination": null,
+      "reason": "Content confirms finance/2025; current parent violates policy. Clarify historic move restriction before correction: does it permit relocation within historic/? Acceptable targets: sorted/finance/2025/item_026c8b346142.pdf, historic/finance/2025/item_026c8b346142.pdf. No move proposed pending resolution."
+    },
+    {
+      "path": "historic/old/batch_00/item_c8eb87f1cb12.csv",
+      "action": "defer",
+      "destination": null,
+      "reason": "Content confirms finance/2025; current parent violates policy. Clarify historic move restriction before correction: does it permit relocation within historic/? Acceptable targets: sorted/finance/2025/item_c8eb87f1cb12.csv, historic/finance/2025/item_c8eb87f1cb12.csv. No move proposed pending resolution."
+    },
+    {
+      "path": "historic/old/batch_01/item_73356f49d663.csv",
+      "action": "defer",
+      "destination": null,
+      "reason": "Content confirms personal/2025; current parent violates policy. Clarify historic move restriction before correction: does it permit relocation within historic/? Acceptable targets: sorted/personal/2025/item_73356f49d663.csv, historic/personal/2025/item_73356f49d663.csv. No move proposed pending resolution."
+    },
+    {
+      "path": "historic/old/batch_01/item_bbc34824ac28.txt",
+      "action": "defer",
+      "destination": null,
+      "reason": "Content confirms projects/2025; current parent violates policy. Clarify historic move restriction before correction: does it permit relocation within historic/? Acceptable targets: sorted/projects/2025/item_bbc34824ac28.txt, historic/projects/2025/item_bbc34824ac28.txt. No move proposed pending resolution."
+    },
+    {
+      "path": "historic/old/batch_02/item_f58f621df8b0.jpg",
+      "action": "defer",
+      "destination": null,
+      "reason": "Content confirms finance/2025; current parent violates policy. Clarify historic move restriction before correction: does it permit relocation within historic/? Acceptable targets: sorted/finance/2025/item_f58f621df8b0.jpg, historic/finance/2025/item_f58f621df8b0.jpg. No move proposed pending resolution."
+    },
+    {
+      "path": "historic/old/batch_03/item_18608d6c373e.json",
+      "action": "defer",
+      "destination": null,
+      "reason": "Content confirms projects/2024; current parent violates policy. Clarify historic move restriction before correction: does it permit relocation within historic/? Acceptable targets: sorted/projects/2024/item_18608d6c373e.json, historic/projects/2024/item_18608d6c373e.json. No move proposed pending resolution."
+    },
+    {
+      "path": "historic/old/batch_04/item_0e43cc125f34.txt",
+      "action": "defer",
+      "destination": null,
+      "reason": "Content confirms finance/2024; current parent violates policy. Clarify historic move restriction before correction: does it permit relocation within historic/? Acceptable targets: sorted/finance/2024/item_0e43cc125f34.txt, historic/finance/2024/item_0e43cc125f34.txt. No move proposed pending resolution."
+    },
+    {
+      "path": "historic/old/batch_04/item_3eafbe7ee56b.jpg",
+      "action": "defer",
+      "destination": null,
+      "reason": "Content confirms finance/2022; current parent violates policy. Clarify historic move restriction before correction: does it permit relocation within historic/? Acceptable targets: sorted/finance/2022/item_3eafbe7ee56b.jpg, historic/finance/2022/item_3eafbe7ee56b.jpg. No move proposed pending resolution."
+    },
+    {
+      "path": "historic/old/batch_05/item_24cbd834798a.csv",
+      "action": "defer",
+      "destination": null,
+      "reason": "Content confirms projects/2024; current parent violates policy. Clarify historic move restriction before correction: does it permit relocation within historic/? Acceptable targets: sorted/projects/2024/item_24cbd834798a.csv, historic/projects/2024/item_24cbd834798a.csv. No move proposed pending resolution."
+    },
+    {
+      "path": "historic/old/batch_05/item_e6307fe3c802.pdf",
+      "action": "defer",
+      "destination": null,
+      "reason": "Content confirms projects/2024; current parent violates policy. Clarify historic move restriction before correction: does it permit relocation within historic/? Acceptable targets: sorted/projects/2024/item_e6307fe3c802.pdf, historic/projects/2024/item_e6307fe3c802.pdf. No move proposed pending resolution."
+    },
+    {
+      "path": "historic/old/batch_06/item_62ceeec5d100.txt",
+      "action": "defer",
+      "destination": null,
+      "reason": "Content confirms finance/2024; current parent violates policy. Clarify historic move restriction before correction: does it permit relocation within historic/? Acceptable targets: sorted/finance/2024/item_62ceeec5d100.txt, historic/finance/2024/item_62ceeec5d100.txt. No move proposed pending resolution."
+    },
+    {
+      "path": "historic/old/batch_06/item_89c7f3ec9014.json",
+      "action": "defer",
+      "destination": null,
+      "reason": "Content confirms finance/2025; current parent violates policy. Clarify historic move restriction before correction: does it permit relocation within historic/? Acceptable targets: sorted/finance/2025/item_89c7f3ec9014.json, historic/finance/2025/item_89c7f3ec9014.json. No move proposed pending resolution."
+    },
+    {
+      "path": "historic/personal/2022/item_706037424458.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/personal/2022/item_b6c130454123.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/personal/2022/item_bead40fa5705.csv",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/personal/2022/item_da7b7590011d.csv",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/personal/2022/item_fd57b48a3faa.json",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/personal/2023/item_48bd1fc59f9a.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2023; direct parent is acceptable."
+    },
+    {
+      "path": "historic/personal/2023/item_af4f9f0fa5b5.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2023; direct parent is acceptable."
+    },
+    {
+      "path": "historic/personal/2023/item_b01ff80a3dc8.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2023; direct parent is acceptable."
+    },
+    {
+      "path": "historic/personal/2024/item_4da476457e48.json",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/personal/2024/item_b3c7db8c47e8.png",
+      "action": "defer",
+      "destination": null,
+      "reason": "Adapter UTF-8 read failed; category/year unknown. Please provide readable evidence."
+    },
+    {
+      "path": "historic/personal/2025/item_6dd14866deb1.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2025; direct parent is acceptable."
+    },
+    {
+      "path": "historic/personal/2025/item_8b8e210b4e84.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2025; direct parent is acceptable."
+    },
+    {
+      "path": "historic/personal/2025/item_d80d26876a08.json",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2025; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2022/item_7396f6700a80.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2022/item_8d7940f8ff26.md",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2022/item_a0f11426851d.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2022/item_bd520f3bee40.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2022; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2023/item_842e84faa2ac.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2023; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2023/item_d582632f58ec.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2023; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2023/item_db0d4d3dfeb9.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2023; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2023/item_e4455a1a927a.json",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2023; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2024/item_2595a0b9e26f.json",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2024/item_725e0b3f1cf8.csv",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2024/item_bb8d98b20597.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2024/item_e9b785621202.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2024; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2025/item_42cb4faea1c0.md",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2025; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2025/item_9d7a5aaf1ba4.json",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2025; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2025/item_a4bcc2477069.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2025; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2025/item_cd4a721c06b2.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2025; direct parent is acceptable."
+    },
+    {
+      "path": "historic/projects/2025/item_e7ec88cb8324.md",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2025; direct parent is acceptable."
+    },
+    {
+      "path": "inbox/collision/occupied.txt",
+      "action": "defer",
+      "destination": null,
+      "reason": "Collision: both acceptable targets occupied at inventory time: sorted/finance/2024/occupied.txt, historic/finance/2024/occupied.txt. Please decide a policy-compliant resolution; no overwrite or rename."
+    },
+    {
+      "path": "inbox/conflict_0/shared.txt",
+      "action": "defer",
+      "destination": null,
+      "reason": "Contested destinations: 3 records compete for 2 currently free paths: sorted/projects/2023/shared.txt, historic/projects/2023/shared.txt. Defer entire group; please decide. No duplicate merge or rename."
+    },
+    {
+      "path": "inbox/conflict_1/shared.txt",
+      "action": "defer",
+      "destination": null,
+      "reason": "Contested destinations: 3 records compete for 2 currently free paths: sorted/projects/2023/shared.txt, historic/projects/2023/shared.txt. Defer entire group; please decide. No duplicate merge or rename."
+    },
+    {
+      "path": "inbox/conflict_2/shared.txt",
+      "action": "defer",
+      "destination": null,
+      "reason": "Contested destinations: 3 records compete for 2 currently free paths: sorted/projects/2023/shared.txt, historic/projects/2023/shared.txt. Defer entire group; please decide. No duplicate merge or rename."
+    },
+    {
+      "path": "inbox/part_00/bucket_00/item_bda1b5a0be77.md",
+      "action": "move",
+      "destination": "sorted/finance/2025/item_bda1b5a0be77.md",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2025/item_bda1b5a0be77.md, historic/finance/2025/item_bda1b5a0be77.md."
+    },
+    {
+      "path": "inbox/part_00/bucket_00/item_e55b1121f62e.json",
+      "action": "move",
+      "destination": "sorted/finance/2024/item_e55b1121f62e.json",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2024/item_e55b1121f62e.json, historic/finance/2024/item_e55b1121f62e.json."
+    },
+    {
+      "path": "inbox/part_00/bucket_01/item_e2b45f24a7c1.csv",
+      "action": "move",
+      "destination": "sorted/personal/2023/item_e2b45f24a7c1.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2023/item_e2b45f24a7c1.csv, historic/personal/2023/item_e2b45f24a7c1.csv."
+    },
+    {
+      "path": "inbox/part_00/bucket_02/item_2b4386969ab2.pdf",
+      "action": "move",
+      "destination": "sorted/projects/2023/item_2b4386969ab2.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2023/item_2b4386969ab2.pdf, historic/projects/2023/item_2b4386969ab2.pdf."
+    },
+    {
+      "path": "inbox/part_00/bucket_03/item_d05f3061da0f.md",
+      "action": "move",
+      "destination": "sorted/projects/2024/item_d05f3061da0f.md",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2024/item_d05f3061da0f.md, historic/projects/2024/item_d05f3061da0f.md."
+    },
+    {
+      "path": "inbox/part_00/bucket_04/item_0515512e2efe.md",
+      "action": "move",
+      "destination": "sorted/personal/2024/item_0515512e2efe.md",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2024/item_0515512e2efe.md, historic/personal/2024/item_0515512e2efe.md."
+    },
+    {
+      "path": "inbox/part_00/bucket_04/item_1d40f9ee2c61.jpg",
+      "action": "move",
+      "destination": "sorted/personal/2022/item_1d40f9ee2c61.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2022/item_1d40f9ee2c61.jpg, historic/personal/2022/item_1d40f9ee2c61.jpg."
+    },
+    {
+      "path": "inbox/part_01/bucket_00/item_05ec12dc3caf.csv",
+      "action": "move",
+      "destination": "sorted/projects/2025/item_05ec12dc3caf.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2025/item_05ec12dc3caf.csv, historic/projects/2025/item_05ec12dc3caf.csv."
+    },
+    {
+      "path": "inbox/part_01/bucket_00/item_ac3db0706a36.jpg",
+      "action": "move",
+      "destination": "sorted/personal/2022/item_ac3db0706a36.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2022/item_ac3db0706a36.jpg, historic/personal/2022/item_ac3db0706a36.jpg."
+    },
+    {
+      "path": "inbox/part_01/bucket_01/item_108ac4beb6fa.jpg",
+      "action": "move",
+      "destination": "sorted/finance/2022/item_108ac4beb6fa.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2022/item_108ac4beb6fa.jpg, historic/finance/2022/item_108ac4beb6fa.jpg."
+    },
+    {
+      "path": "inbox/part_01/bucket_01/item_908d1dbc788b.csv",
+      "action": "move",
+      "destination": "sorted/personal/2023/item_908d1dbc788b.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2023/item_908d1dbc788b.csv, historic/personal/2023/item_908d1dbc788b.csv."
+    },
+    {
+      "path": "inbox/part_01/bucket_02/item_10ef6977d957.json",
+      "action": "move",
+      "destination": "sorted/personal/2025/item_10ef6977d957.json",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2025/item_10ef6977d957.json, historic/personal/2025/item_10ef6977d957.json."
+    },
+    {
+      "path": "inbox/part_01/bucket_02/item_c79e7e2158fe.jpg",
+      "action": "move",
+      "destination": "sorted/finance/2023/item_c79e7e2158fe.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2023/item_c79e7e2158fe.jpg, historic/finance/2023/item_c79e7e2158fe.jpg."
+    },
+    {
+      "path": "inbox/part_01/bucket_03/item_0bad8e0957fb.txt",
+      "action": "move",
+      "destination": "sorted/personal/2025/item_0bad8e0957fb.txt",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2025/item_0bad8e0957fb.txt, historic/personal/2025/item_0bad8e0957fb.txt."
+    },
+    {
+      "path": "inbox/part_01/bucket_04/item_f4d1397df393.csv",
+      "action": "move",
+      "destination": "sorted/finance/2024/item_f4d1397df393.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2024/item_f4d1397df393.csv, historic/finance/2024/item_f4d1397df393.csv."
+    },
+    {
+      "path": "inbox/part_02/bucket_00/item_c84577d94d49.txt",
+      "action": "move",
+      "destination": "sorted/projects/2025/item_c84577d94d49.txt",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2025/item_c84577d94d49.txt, historic/projects/2025/item_c84577d94d49.txt."
+    },
+    {
+      "path": "inbox/part_02/bucket_00/item_ce580bb51c66.json",
+      "action": "move",
+      "destination": "sorted/personal/2024/item_ce580bb51c66.json",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2024/item_ce580bb51c66.json, historic/personal/2024/item_ce580bb51c66.json."
+    },
+    {
+      "path": "inbox/part_02/bucket_01/item_29a9cfaead85.json",
+      "action": "move",
+      "destination": "sorted/projects/2023/item_29a9cfaead85.json",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2023/item_29a9cfaead85.json, historic/projects/2023/item_29a9cfaead85.json."
+    },
+    {
+      "path": "inbox/part_02/bucket_01/item_7dd0e05438a9.pdf",
+      "action": "move",
+      "destination": "sorted/projects/2023/item_7dd0e05438a9.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2023/item_7dd0e05438a9.pdf, historic/projects/2023/item_7dd0e05438a9.pdf."
+    },
+    {
+      "path": "inbox/part_02/bucket_02/item_9fae857f5b75.json",
+      "action": "move",
+      "destination": "sorted/finance/2024/item_9fae857f5b75.json",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2024/item_9fae857f5b75.json, historic/finance/2024/item_9fae857f5b75.json."
+    },
+    {
+      "path": "inbox/part_02/bucket_03/item_5e296adb0056.pdf",
+      "action": "move",
+      "destination": "sorted/personal/2023/item_5e296adb0056.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2023/item_5e296adb0056.pdf, historic/personal/2023/item_5e296adb0056.pdf."
+    },
+    {
+      "path": "inbox/part_02/bucket_03/item_6eeb73e43ab5.csv",
+      "action": "move",
+      "destination": "sorted/personal/2024/item_6eeb73e43ab5.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2024/item_6eeb73e43ab5.csv, historic/personal/2024/item_6eeb73e43ab5.csv."
+    },
+    {
+      "path": "inbox/part_02/bucket_04/item_d0c886134659.txt",
+      "action": "move",
+      "destination": "sorted/personal/2023/item_d0c886134659.txt",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2023/item_d0c886134659.txt, historic/personal/2023/item_d0c886134659.txt."
+    },
+    {
+      "path": "inbox/part_03/bucket_00/item_5d3026003bb4.jpg",
+      "action": "move",
+      "destination": "sorted/finance/2025/item_5d3026003bb4.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2025/item_5d3026003bb4.jpg, historic/finance/2025/item_5d3026003bb4.jpg."
+    },
+    {
+      "path": "inbox/part_03/bucket_01/item_6e247f0b8b83.pdf",
+      "action": "move",
+      "destination": "sorted/finance/2024/item_6e247f0b8b83.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2024/item_6e247f0b8b83.pdf, historic/finance/2024/item_6e247f0b8b83.pdf."
+    },
+    {
+      "path": "inbox/part_03/bucket_01/item_991c8f413882.pdf",
+      "action": "move",
+      "destination": "sorted/projects/2022/item_991c8f413882.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2022/item_991c8f413882.pdf, historic/projects/2022/item_991c8f413882.pdf."
+    },
+    {
+      "path": "inbox/part_03/bucket_02/item_1074b897d3cb.pdf",
+      "action": "move",
+      "destination": "sorted/finance/2022/item_1074b897d3cb.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2022/item_1074b897d3cb.pdf, historic/finance/2022/item_1074b897d3cb.pdf."
+    },
+    {
+      "path": "inbox/part_03/bucket_02/item_ebed0b83b912.jpg",
+      "action": "move",
+      "destination": "sorted/projects/2024/item_ebed0b83b912.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2024/item_ebed0b83b912.jpg, historic/projects/2024/item_ebed0b83b912.jpg."
+    },
+    {
+      "path": "inbox/part_03/bucket_03/item_f1c07daa3766.jpg",
+      "action": "move",
+      "destination": "sorted/personal/2022/item_f1c07daa3766.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2022/item_f1c07daa3766.jpg, historic/personal/2022/item_f1c07daa3766.jpg."
+    },
+    {
+      "path": "inbox/part_03/bucket_04/item_0b9723ef8f5e.jpg",
+      "action": "move",
+      "destination": "sorted/finance/2025/item_0b9723ef8f5e.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2025/item_0b9723ef8f5e.jpg, historic/finance/2025/item_0b9723ef8f5e.jpg."
+    },
+    {
+      "path": "inbox/part_03/bucket_04/item_27a9b6c86474.jpg",
+      "action": "move",
+      "destination": "sorted/finance/2022/item_27a9b6c86474.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2022/item_27a9b6c86474.jpg, historic/finance/2022/item_27a9b6c86474.jpg."
+    },
+    {
+      "path": "inbox/part_04/bucket_00/item_02b81c3a0801.txt",
+      "action": "move",
+      "destination": "sorted/finance/2023/item_02b81c3a0801.txt",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2023/item_02b81c3a0801.txt, historic/finance/2023/item_02b81c3a0801.txt."
+    },
+    {
+      "path": "inbox/part_04/bucket_02/item_d470e478a93a.csv",
+      "action": "move",
+      "destination": "sorted/finance/2025/item_d470e478a93a.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2025/item_d470e478a93a.csv, historic/finance/2025/item_d470e478a93a.csv."
+    },
+    {
+      "path": "inbox/part_04/bucket_02/item_d799c655498b.txt",
+      "action": "move",
+      "destination": "sorted/personal/2022/item_d799c655498b.txt",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2022/item_d799c655498b.txt, historic/personal/2022/item_d799c655498b.txt."
+    },
+    {
+      "path": "inbox/part_04/bucket_03/item_19b44cdbf302.md",
+      "action": "move",
+      "destination": "sorted/finance/2022/item_19b44cdbf302.md",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2022/item_19b44cdbf302.md, historic/finance/2022/item_19b44cdbf302.md."
+    },
+    {
+      "path": "inbox/part_04/bucket_03/item_ce0a053bad1b.pdf",
+      "action": "move",
+      "destination": "sorted/personal/2022/item_ce0a053bad1b.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2022/item_ce0a053bad1b.pdf, historic/personal/2022/item_ce0a053bad1b.pdf."
+    },
+    {
+      "path": "inbox/part_04/bucket_04/item_7697d0a2d726.md",
+      "action": "move",
+      "destination": "sorted/finance/2025/item_7697d0a2d726.md",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2025/item_7697d0a2d726.md, historic/finance/2025/item_7697d0a2d726.md."
+    },
+    {
+      "path": "inbox/part_04/bucket_04/item_eaa0a1b0cbeb.json",
+      "action": "move",
+      "destination": "sorted/projects/2025/item_eaa0a1b0cbeb.json",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2025/item_eaa0a1b0cbeb.json, historic/projects/2025/item_eaa0a1b0cbeb.json."
+    },
+    {
+      "path": "inbox/part_05/bucket_00/item_12f21e5c2814.md",
+      "action": "move",
+      "destination": "sorted/projects/2023/item_12f21e5c2814.md",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2023/item_12f21e5c2814.md, historic/projects/2023/item_12f21e5c2814.md."
+    },
+    {
+      "path": "inbox/part_05/bucket_00/item_c22e7d33ddfb.txt",
+      "action": "move",
+      "destination": "sorted/finance/2022/item_c22e7d33ddfb.txt",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2022/item_c22e7d33ddfb.txt, historic/finance/2022/item_c22e7d33ddfb.txt."
+    },
+    {
+      "path": "inbox/part_05/bucket_01/item_6a653e2e4c09.jpg",
+      "action": "move",
+      "destination": "sorted/projects/2025/item_6a653e2e4c09.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2025/item_6a653e2e4c09.jpg, historic/projects/2025/item_6a653e2e4c09.jpg."
+    },
+    {
+      "path": "inbox/part_05/bucket_02/item_d074c408267a.png",
+      "action": "defer",
+      "destination": null,
+      "reason": "Adapter UTF-8 read failed; category/year unknown. Please provide readable evidence."
+    },
+    {
+      "path": "inbox/part_05/bucket_03/item_5da134f6ae33.jpg",
+      "action": "move",
+      "destination": "sorted/personal/2022/item_5da134f6ae33.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2022/item_5da134f6ae33.jpg, historic/personal/2022/item_5da134f6ae33.jpg."
+    },
+    {
+      "path": "inbox/part_05/bucket_03/item_d8f33f8e0054.png",
+      "action": "defer",
+      "destination": null,
+      "reason": "Adapter UTF-8 read failed; category/year unknown. Please provide readable evidence."
+    },
+    {
+      "path": "inbox/part_05/bucket_04/item_b2a0a2c9c2fd.md",
+      "action": "move",
+      "destination": "sorted/projects/2024/item_b2a0a2c9c2fd.md",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2024/item_b2a0a2c9c2fd.md, historic/projects/2024/item_b2a0a2c9c2fd.md."
+    },
+    {
+      "path": "inbox/part_06/bucket_00/item_6aacfb94120f.pdf",
+      "action": "move",
+      "destination": "sorted/personal/2022/item_6aacfb94120f.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2022/item_6aacfb94120f.pdf, historic/personal/2022/item_6aacfb94120f.pdf."
+    },
+    {
+      "path": "inbox/part_06/bucket_01/item_6571ae6cec91.json",
+      "action": "move",
+      "destination": "sorted/projects/2022/item_6571ae6cec91.json",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2022/item_6571ae6cec91.json, historic/projects/2022/item_6571ae6cec91.json."
+    },
+    {
+      "path": "inbox/part_06/bucket_01/item_bf55696ef0c3.pdf",
+      "action": "move",
+      "destination": "sorted/projects/2024/item_bf55696ef0c3.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2024/item_bf55696ef0c3.pdf, historic/projects/2024/item_bf55696ef0c3.pdf."
+    },
+    {
+      "path": "inbox/part_06/bucket_02/item_8b30ab953575.csv",
+      "action": "move",
+      "destination": "sorted/personal/2023/item_8b30ab953575.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2023/item_8b30ab953575.csv, historic/personal/2023/item_8b30ab953575.csv."
+    },
+    {
+      "path": "inbox/part_06/bucket_03/item_de9e24e538f6.jpg",
+      "action": "move",
+      "destination": "sorted/finance/2022/item_de9e24e538f6.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2022/item_de9e24e538f6.jpg, historic/finance/2022/item_de9e24e538f6.jpg."
+    },
+    {
+      "path": "inbox/part_06/bucket_04/item_715c1a42108a.csv",
+      "action": "move",
+      "destination": "sorted/personal/2025/item_715c1a42108a.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2025/item_715c1a42108a.csv, historic/personal/2025/item_715c1a42108a.csv."
+    },
+    {
+      "path": "inbox/part_06/bucket_04/item_902571e07bed.csv",
+      "action": "move",
+      "destination": "sorted/personal/2022/item_902571e07bed.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2022/item_902571e07bed.csv, historic/personal/2022/item_902571e07bed.csv."
+    },
+    {
+      "path": "inbox/part_07/bucket_00/item_302c10d37a07.pdf",
+      "action": "move",
+      "destination": "sorted/personal/2025/item_302c10d37a07.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2025/item_302c10d37a07.pdf, historic/personal/2025/item_302c10d37a07.pdf."
+    },
+    {
+      "path": "inbox/part_07/bucket_00/item_fbf3e98967cc.json",
+      "action": "move",
+      "destination": "sorted/projects/2025/item_fbf3e98967cc.json",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2025/item_fbf3e98967cc.json, historic/projects/2025/item_fbf3e98967cc.json."
+    },
+    {
+      "path": "inbox/part_07/bucket_01/item_0d6ee655ef16.json",
+      "action": "move",
+      "destination": "sorted/finance/2022/item_0d6ee655ef16.json",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2022/item_0d6ee655ef16.json, historic/finance/2022/item_0d6ee655ef16.json."
+    },
+    {
+      "path": "inbox/part_07/bucket_01/item_1f58a4fe8ca0.md",
+      "action": "move",
+      "destination": "sorted/finance/2023/item_1f58a4fe8ca0.md",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2023/item_1f58a4fe8ca0.md, historic/finance/2023/item_1f58a4fe8ca0.md."
+    },
+    {
+      "path": "inbox/part_07/bucket_02/item_ae15af7a8bed.csv",
+      "action": "move",
+      "destination": "sorted/projects/2025/item_ae15af7a8bed.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2025/item_ae15af7a8bed.csv, historic/projects/2025/item_ae15af7a8bed.csv."
+    },
+    {
+      "path": "inbox/part_07/bucket_02/item_c0685853f93c.pdf",
+      "action": "move",
+      "destination": "sorted/finance/2022/item_c0685853f93c.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2022/item_c0685853f93c.pdf, historic/finance/2022/item_c0685853f93c.pdf."
+    },
+    {
+      "path": "inbox/part_07/bucket_04/item_79f77df29b33.txt",
+      "action": "move",
+      "destination": "sorted/finance/2023/item_79f77df29b33.txt",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2023/item_79f77df29b33.txt, historic/finance/2023/item_79f77df29b33.txt."
+    },
+    {
+      "path": "inbox/part_08/bucket_00/item_94f12e470985.jpg",
+      "action": "move",
+      "destination": "sorted/projects/2022/item_94f12e470985.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2022/item_94f12e470985.jpg, historic/projects/2022/item_94f12e470985.jpg."
+    },
+    {
+      "path": "inbox/part_08/bucket_01/item_9fa54aabd6ef.jpg",
+      "action": "move",
+      "destination": "sorted/personal/2023/item_9fa54aabd6ef.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2023/item_9fa54aabd6ef.jpg, historic/personal/2023/item_9fa54aabd6ef.jpg."
+    },
+    {
+      "path": "inbox/part_08/bucket_02/item_1b35ebbd490f.jpg",
+      "action": "move",
+      "destination": "sorted/personal/2023/item_1b35ebbd490f.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2023/item_1b35ebbd490f.jpg, historic/personal/2023/item_1b35ebbd490f.jpg."
+    },
+    {
+      "path": "inbox/part_08/bucket_02/item_fda484ed199b.csv",
+      "action": "move",
+      "destination": "sorted/finance/2025/item_fda484ed199b.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2025/item_fda484ed199b.csv, historic/finance/2025/item_fda484ed199b.csv."
+    },
+    {
+      "path": "inbox/part_08/bucket_03/item_0c9ef1419c21.json",
+      "action": "move",
+      "destination": "sorted/finance/2022/item_0c9ef1419c21.json",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2022/item_0c9ef1419c21.json, historic/finance/2022/item_0c9ef1419c21.json."
+    },
+    {
+      "path": "inbox/part_08/bucket_03/item_3a01620e8422.pdf",
+      "action": "move",
+      "destination": "sorted/finance/2024/item_3a01620e8422.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2024/item_3a01620e8422.pdf, historic/finance/2024/item_3a01620e8422.pdf."
+    },
+    {
+      "path": "inbox/part_08/bucket_04/item_831d94e02f7b.txt",
+      "action": "move",
+      "destination": "sorted/personal/2023/item_831d94e02f7b.txt",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2023/item_831d94e02f7b.txt, historic/personal/2023/item_831d94e02f7b.txt."
+    },
+    {
+      "path": "inbox/part_09/bucket_00/item_c7781e2c6ca6.jpg",
+      "action": "move",
+      "destination": "sorted/projects/2023/item_c7781e2c6ca6.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2023/item_c7781e2c6ca6.jpg, historic/projects/2023/item_c7781e2c6ca6.jpg."
+    },
+    {
+      "path": "inbox/part_09/bucket_01/item_6ac7d408d4ae.json",
+      "action": "move",
+      "destination": "sorted/finance/2025/item_6ac7d408d4ae.json",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2025/item_6ac7d408d4ae.json, historic/finance/2025/item_6ac7d408d4ae.json."
+    },
+    {
+      "path": "inbox/part_09/bucket_01/item_6c9a0ca3a2ee.txt",
+      "action": "move",
+      "destination": "sorted/finance/2024/item_6c9a0ca3a2ee.txt",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2024/item_6c9a0ca3a2ee.txt, historic/finance/2024/item_6c9a0ca3a2ee.txt."
+    },
+    {
+      "path": "inbox/part_09/bucket_02/item_62f0d0bdcc7d.txt",
+      "action": "move",
+      "destination": "sorted/finance/2022/item_62f0d0bdcc7d.txt",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2022/item_62f0d0bdcc7d.txt, historic/finance/2022/item_62f0d0bdcc7d.txt."
+    },
+    {
+      "path": "inbox/part_09/bucket_03/item_6f29303e8c1c.md",
+      "action": "move",
+      "destination": "sorted/projects/2022/item_6f29303e8c1c.md",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2022/item_6f29303e8c1c.md, historic/projects/2022/item_6f29303e8c1c.md."
+    },
+    {
+      "path": "inbox/part_09/bucket_03/item_7799e6b3b19c.md",
+      "action": "move",
+      "destination": "sorted/personal/2024/item_7799e6b3b19c.md",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2024/item_7799e6b3b19c.md, historic/personal/2024/item_7799e6b3b19c.md."
+    },
+    {
+      "path": "inbox/part_09/bucket_04/item_35825bdaacaa.pdf",
+      "action": "move",
+      "destination": "sorted/personal/2023/item_35825bdaacaa.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2023/item_35825bdaacaa.pdf, historic/personal/2023/item_35825bdaacaa.pdf."
+    },
+    {
+      "path": "inbox/part_09/bucket_04/item_4283bfdb300f.txt",
+      "action": "move",
+      "destination": "sorted/finance/2022/item_4283bfdb300f.txt",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/finance/2022/item_4283bfdb300f.txt, historic/finance/2022/item_4283bfdb300f.txt."
+    },
+    {
+      "path": "inbox/part_10/bucket_00/item_183d1f03c9cd.csv",
+      "action": "move",
+      "destination": "sorted/projects/2022/item_183d1f03c9cd.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2022/item_183d1f03c9cd.csv, historic/projects/2022/item_183d1f03c9cd.csv."
+    },
+    {
+      "path": "inbox/part_10/bucket_01/item_9f7e68f66611.jpg",
+      "action": "move",
+      "destination": "sorted/projects/2023/item_9f7e68f66611.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2023/item_9f7e68f66611.jpg, historic/projects/2023/item_9f7e68f66611.jpg."
+    },
+    {
+      "path": "inbox/part_10/bucket_02/item_dc8ccd5dd94d.csv",
+      "action": "move",
+      "destination": "sorted/projects/2022/item_dc8ccd5dd94d.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2022/item_dc8ccd5dd94d.csv, historic/projects/2022/item_dc8ccd5dd94d.csv."
+    },
+    {
+      "path": "inbox/part_10/bucket_02/item_f0d71b963d05.csv",
+      "action": "move",
+      "destination": "sorted/personal/2024/item_f0d71b963d05.csv",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2024/item_f0d71b963d05.csv, historic/personal/2024/item_f0d71b963d05.csv."
+    },
+    {
+      "path": "inbox/part_10/bucket_03/item_3d19171f4f7f.json",
+      "action": "move",
+      "destination": "sorted/projects/2022/item_3d19171f4f7f.json",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2022/item_3d19171f4f7f.json, historic/projects/2022/item_3d19171f4f7f.json."
+    },
+    {
+      "path": "inbox/part_10/bucket_03/item_d36f94049dec.txt",
+      "action": "move",
+      "destination": "sorted/projects/2025/item_d36f94049dec.txt",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/projects/2025/item_d36f94049dec.txt, historic/projects/2025/item_d36f94049dec.txt."
+    },
+    {
+      "path": "inbox/part_10/bucket_04/item_cd5a13f8aca6.jpg",
+      "action": "move",
+      "destination": "sorted/personal/2025/item_cd5a13f8aca6.jpg",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2025/item_cd5a13f8aca6.jpg, historic/personal/2025/item_cd5a13f8aca6.jpg."
+    },
+    {
+      "path": "inbox/part_10/bucket_04/item_d41a9ef25485.pdf",
+      "action": "move",
+      "destination": "sorted/personal/2024/item_d41a9ef25485.pdf",
+      "reason": "Content confirms category/year; current parent is noncompliant. Preserve basename; destination free at inventory time. Acceptable alternatives: sorted/personal/2024/item_d41a9ef25485.pdf, historic/personal/2024/item_d41a9ef25485.pdf."
+    },
+    {
+      "path": "sorted/finance/2022/item_12aecc9763be.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2022; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/finance/2022/item_146bd1bd0c08.json",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2022; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/finance/2022/item_1b19136ac7e1.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2022; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/finance/2023/item_1a3121a6e53b.csv",
+      "action": "defer",
+      "destination": null,
+      "reason": "Insufficient or conflicting fields: categories=['finance', 'projects'], Date years=['2023', '2024']. Please clarify authoritative category/year."
+    },
+    {
+      "path": "sorted/finance/2023/item_3d706cd3abff.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2023; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/finance/2023/item_9a8a183bdb08.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2023; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/finance/2023/item_fbb5b1a02456.csv",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2023; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/finance/2024/item_747cdfaecc26.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2024; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/finance/2024/item_c5cd4f853a7d.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2024; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/finance/2024/occupied.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms finance/2024; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/finance/2025/item_6ea0d8c4d54b.jpg",
+      "action": "defer",
+      "destination": null,
+      "reason": "Insufficient or conflicting fields: categories=['finance', 'projects'], Date years=['2025', '2026']. Please clarify authoritative category/year."
+    },
+    {
+      "path": "sorted/finance/2025/item_df34286b165c.txt",
+      "action": "defer",
+      "destination": null,
+      "reason": "Insufficient or conflicting fields: categories=['finance', 'projects'], Date years=['2025', '2026']. Please clarify authoritative category/year."
+    },
+    {
+      "path": "sorted/personal/2022/item_0fa777f0c1d8.jpg",
+      "action": "defer",
+      "destination": null,
+      "reason": "Insufficient or conflicting fields: categories=['finance', 'personal'], Date years=['2022', '2023']. Please clarify authoritative category/year."
+    },
+    {
+      "path": "sorted/personal/2022/item_22a5df698389.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2022; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/personal/2022/item_46b22bbaea97.csv",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2022; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/personal/2023/item_a02595be5883.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2023; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/personal/2023/item_d6cccbbab97a.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2023; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/personal/2024/item_008aeb586966.md",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2024; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/personal/2025/item_7fa9d8cd1763.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2025; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/personal/2025/item_c0af00b7bcad.txt",
+      "action": "defer",
+      "destination": null,
+      "reason": "Insufficient or conflicting fields: categories=['finance', 'personal'], Date years=['2025', '2026']. Please clarify authoritative category/year."
+    },
+    {
+      "path": "sorted/personal/2025/item_d8a0f8ef2484.csv",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms personal/2025; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/projects/2022/item_0452e1f3a945.csv",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2022; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/projects/2022/item_7e5235e9893a.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2022; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/projects/2022/item_9e3d099e4c4e.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2022; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/projects/2022/item_da81cc312a77.png",
+      "action": "defer",
+      "destination": null,
+      "reason": "Adapter UTF-8 read failed; category/year unknown. Please provide readable evidence."
+    },
+    {
+      "path": "sorted/projects/2023/item_771b69295158.pdf",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2023; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/projects/2024/item_0a8797650bfb.txt",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2024; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/projects/2024/item_764d1c0e541f.json",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2024; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/projects/2024/item_895569e6d8fe.md",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2024; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/projects/2024/item_90c2326d783c.jpg",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2024; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/projects/2025/item_50a65415c221.json",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2025; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/projects/2025/item_d0436cd22240.csv",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2025; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/projects/2025/item_df615af5a176.json",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2025; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/projects/2025/item_eccd982e916e.csv",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2025; direct parent is acceptable."
+    },
+    {
+      "path": "sorted/projects/2025/item_f33d5dac7ebd.csv",
+      "action": "keep",
+      "destination": null,
+      "reason": "Content confirms projects/2025; direct parent is acceptable."
+    }
+  ],
+  "coverage": "Adapter complete=true inventory: 186 regular files, exactly one row each. Every file read once through adapter (four UTF-8 errors); no classification from names/extensions. Two list calls returned inventory; first read reused. Counts: {'keep': 80, 'defer': 26, 'move': 80}. No unlisted archive contents inferred; no archive files changed. All inventoried files covered; unreadable/conflicting metadata remain unknown.",
+  "policy_conflicts": "Historic correction requirement and historic move restriction need clarification for 12 noncompliant historic/old records: does the restriction forbid their relocation, or allow moving within historic/ to the correct category/year? These files are deferred pending an explicit resolution; neither interpretation is imposed. Separately, clarify authoritative metadata for conflicting records, supply readable evidence for unreadable records, and resolve occupied/contested targets as identified in deferred rows.",
+  "approval": "proposed only, no action executed"
+}

@@ -1,0 +1,19 @@
+The workspace supports **two worthwhile, small educational display ideas**. A third proposal would rely on weaker or restricted material. Both ideas depend on confirming the library date and checking that the listed supplies are still available.
+
+## 1. A paper study of changing shorelines
+
+Make a small table display using blue paper bands against white card, with a short explanation of how moving a repeated shape can suggest a changing shoreline. A workshop note describes that visual approach, and the materials record says an early prototype used white card, blue offcuts, and scissors ([demo notes](<archive/01-projects/folded-water/demo-notes.txt>); [materials](<archive/01-projects/folded-water/materials.txt>)). The shelf inventory lists those materials, but was checked on October 2, so Mara should verify they remain available ([craft-box inventory](<archive/02-assets/notes/craft-box.txt>)).
+
+**Important restriction:** Do not display or adapt the FW-7 pattern without separate written permission from its collaborator ([agreement](<archive/03-rights/folded-water.txt>)). The archive also contains conflicting two-slit and three-slit descriptions, with no authoritative signoff ([old copy](<archive/02-assets/notes/old-copy.txt>); [shape diagram](<archive/01-projects/folded-water/shape-diagram.txt>)). A practical next step is to ask the collaborator for written permission and clarify the pattern before using it. If permission is unavailable, develop a display from the general movable-band idea without reproducing FW-7.
+
+## 2. A printed “Tide Lines” table display
+
+Use Mara’s caption drafts and three dated observations in a brief educational display about how water levels can change familiar routes. Mara permits reuse of those notes and captions in free public educational displays ([permission](<archive/03-rights/tide-notes.txt>); [captions](<archive/01-projects/tide-lines/text-fragments.txt>); [observations](<archive/01-projects/tide-lines/observations.txt>)). Keep the observations clearly labeled as informal field notes, not scientific data. Any historical claim about the inlet path moving inland in 1981 needs verification against the original reference before publication ([research note](<archive/01-projects/tide-lines/research.txt>)).
+
+A compact, text-led display could fit within the stated budget: printing is quoted at $8 for up to twelve black-and-white pages, subject to printer availability ([printing quote](<archive/04-resources/printing-quote.txt>); [studio printing note](<archive/02-assets/notes/printing.txt>)). Do not use the indexed portraits or sound recording: the image files and recording are absent, and the archive does not document the necessary public-use permissions ([photo index](<archive/01-projects/tide-lines/photos-index.txt>); [photo terms](<archive/03-rights/photo-terms.txt>); [sound index](<archive/02-assets/notes/sound-index.txt>); [sound terms](<archive/03-rights/sound-terms.txt>)).
+
+## Practical next steps
+
+Mara has one weekend and a $30 maximum ([request](<archive/04-resources/request.txt>)). The library can host a small free educational table display next month, but the date is not booked; confirm dates with staff first ([venue](<archive/04-resources/venue.txt>)). Then check current supply and printer availability, choose one concept, and keep production within the budget. The calendar lists Saturday afternoon and Sunday morning as available, while the old project dates have passed ([calendar](<archive/04-resources/calendar.txt>)).
+
+These proposals are promising but conditional: the venue date and current resource availability are unconfirmed, and the Folded Water pattern has a specific permission and design uncertainty. The archive does not establish that legal clearance has been obtained.

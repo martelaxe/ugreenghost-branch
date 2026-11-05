@@ -1,0 +1,15 @@
+{
+  "operation": "local Python copy with os.O_CREAT|os.O_EXCL",
+  "source": "shared/q7.svg",
+  "destination": "projects/cedar/assets/lantern-banner.svg",
+  "original_source_sha256": "b54b91bc33582c053fc0b0f81fa7b529089c2d586d14190afd03551d54b292e8",
+  "post_source_sha256": "b54b91bc33582c053fc0b0f81fa7b529089c2d586d14190afd03551d54b292e8",
+  "destination_sha256": "b54b91bc33582c053fc0b0f81fa7b529089c2d586d14190afd03551d54b292e8",
+  "original_files_unchanged": true,
+  "added_paths": [
+    "projects/cedar/assets/lantern-banner.svg"
+  ],
+  "verification": "verified locally",
+  "ugreen_action": false,
+  "real_user_or_gateway_approval": false
+}

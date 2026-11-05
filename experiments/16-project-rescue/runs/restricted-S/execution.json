@@ -1,0 +1,33 @@
+{
+  "label": "restricted-S",
+  "exit": 0,
+  "elapsed_seconds": 24.96,
+  "has_final": true,
+  "model_requested": "gpt-6.1-sol",
+  "reasoning_requested": "low",
+  "tool_commands_count": 2,
+  "usage_if_reported": {
+    "input_tokens": 40230,
+    "cached_input_tokens": 32640,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 471,
+    "reasoning_output_tokens": 0
+  },
+  "fresh_process": true,
+  "input_hashes": {
+    "projects/cedar/assets/placeholder.txt": "1f3b0614259a070ee99b74526874cf8e73e33773ead86c8331a4eb3d5d588d30",
+    "projects/cedar/brief.md": "9aa5e8101eb3c0198c07d09f500b46db9adc93d0e354fd2e9c0734644f63e5ad",
+    "projects/cedar/caption.txt": "677de76b43d7725dde08c8de17cb7d9cd4c24d9f077e982f6fee56b20c072c65",
+    "projects/cedar/colours.txt": "0f70b4a3ee5dcc3fb6c64e12c10092319fea2d5a0b836f969b42c3fee48a5e16",
+    "projects/cedar/history.txt": "b0f4d05a922bab7255a07d4e798587c24fa2d57f1bb33f268aa42c8da598e2d0",
+    "projects/cedar/instructions.txt": "e8b1df4f83168c70cf996eaeaf6a91837faf64d203695953e8a3d971280ceec7",
+    "projects/cedar/layout.txt": "17a63bbe21b11fb8425d9a32ea5ba16609fbf845299ce90485de56433f25207b",
+    "projects/cedar/notes.txt": "2cfbb33f71d7aaacea98c72471bb38f8bac1a5d46115ff75ad3396adfcbcb068",
+    "projects/cedar/review.md": "d5a2d57566ff18498b359d77b94c98f0131ccece1e73df23b85eb15d326b0470",
+    "projects/cedar/team.txt": "bd9fabcdec14c65f5e6f6b7ab392666724cb12771beaf2580e136f09bfba2a42",
+    "projects/cedar/timing.txt": "4292d5f72cd482fe18a5c674cd82fef791b69cf8ce81537a2a0ca6081c8eb5ed"
+  },
+  "inputs_unchanged": true,
+  "no_symlinks": true,
+  "isolation": "Outer bubblewrap hides project and host /tmp and masks known session, archive and attachment paths; mounts current fictional files and configured Codex runtime directories. Other host paths, configuration, metadata and auth remain visible, so isolation is incomplete; network isolation not independently proven. No UGREEN experts."
+}

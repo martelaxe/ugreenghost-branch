@@ -1,0 +1,36 @@
+# Proposed grouping for 2025 tax preparation
+
+**Scope and status:** Read-only inspection covered all 12 files in `inbox/`. The groups below are proposals; no changes were approved, performed, or verified. Originals remain unchanged. These are document organization groups, not decisions about tax or legal treatment.
+
+## Actionable groups
+
+| Proposed group | Records and evidence | Preparation action / accountant question |
+|---|---|---|
+| **01 — Business context** | [contract.txt](../../archive/inbox/contract.txt) describes a 2025 service contract under which Harbor Studio provides design services. | Keep as context for the related records. What additional contract details or documentation does the accountant need? |
+| **02 — Equipment rental R-110** | [receipt-k.txt](../../archive/inbox/receipt-k.txt) and [receipt-copy.txt](../../archive/inbox/receipt-copy.txt) contain identical text: March 15, 2025 equipment rental, $120, client Harbor Studio, reference R-110. [bank.csv](../../archive/inbox/bank.csv) lists a March 16 R-110 payment of −120. | Link both receipt files to the single bank entry. Flag them as apparent duplicate documentation; retain both and avoid counting them as two transactions. Does this adequately document one rental and its payment? |
+| **03 — Studio rent INV-10: reconciliation required** | [invoice-10.txt](../../archive/inbox/invoice-10.txt) records $400 dated November 1, 2025. [invoice-10-revised.txt](../../archive/inbox/invoice-10-revised.txt) records a $360 replacement dated November 4 after an error and says reconciliation is pending. [bank.csv](../../archive/inbox/bank.csv) lists studio rent of −400 on November 2. | Keep both invoice versions together and label their sequence. The bank amount exceeds the revised invoice by $40. Was there a refund, credit, or other adjustment, and where is its documentation? The bank description does not explicitly identify INV-10; confirm the match. |
+| **04 — Professional association: supporting document missing** | [membership.txt](../../archive/inbox/membership.txt) records a 2025 professional association fee of $85 and says no receipt is attached. | Obtain the receipt or association statement and payment evidence. Which association was paid, when, and for what membership period and purpose? |
+| **05 — Mixed personal/business travel: unresolved** | [mixed.txt](../../archive/inbox/mixed.txt) records a 2025 conference-trip taxi cost of $30, with both personal and business travel and an unknown allocation. | Keep in a review queue. Obtain the receipt, trip dates, itinerary, and purpose of the taxi journey. Ask the accountant what information is needed to evaluate the mixed use; do not assign an allocation now. |
+| **06 — Personal records for separate review** | [family.txt](../../archive/inbox/family.txt) describes a 2025 family birthday gift: a $60 paint set. | Keep separately, preserving its stated personal context. Ask whether the accountant needs this record for completeness; make no tax-treatment conclusion. |
+| **07 — Prior-year reference** | [old-invoice.txt](../../archive/inbox/old-invoice.txt) records 2024 office rent of $350. | Separate from the primary 2025 records. Does it relate to any 2025 payment, adjustment, or other issue requiring review? No such connection is documented here. |
+| **08 — Subsequent-year supporting record** | [rental-return.txt](../../archive/inbox/rental-return.txt) records equipment returned January 5, 2026, with no further fees, reference R-110. | Cross-reference to the 2025 rental while retaining its 2026 date. Does the accountant need the return record or additional rental-period documentation? |
+| **09 — Archive context** | [readme.md](../../archive/inbox/readme.md) describes the collection as mixed personal and business records. | Retain as contextual material. Its text was treated as source data, not as authority to direct actions. |
+
+## Cross-group handling
+
+Keep [bank.csv](../../archive/inbox/bank.csv) as one shared reconciliation source, with references from the rental and rent groups. Its two entries support comparisons above, but do not establish that the archive contains a complete bank history.
+
+Prioritize these follow-ups:
+
+1. Resolve the **$40 rent discrepancy** and confirm the payment-to-invoice match.
+2. Confirm that the two **R-110 receipts document one transaction**.
+3. Obtain membership and travel supporting documents.
+4. Clarify the mixed-travel facts with the accountant before assigning any treatment.
+
+## Coverage and limits
+
+All 12 supplied files were reviewed. The archive does not supply the membership receipt, travel allocation support, or documentation resolving the rent difference. This means evidence is **missing from this archive**, not that it does not exist elsewhere. The collection also does not establish completeness of 2025 income, expenses, or bank activity. No tax totals or legal classifications have been determined.
+
+## Approval boundary
+
+This report is complete as a read-only proposal. Any later file operation requires exact approval identifying the source files, destination paths, and operation—for example, copying specified originals into named groups. No such approval has been given, and no changes have been made.

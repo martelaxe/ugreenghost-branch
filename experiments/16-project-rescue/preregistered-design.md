@@ -1,0 +1,7 @@
+# Frozen test design
+
+Before inspecting model outputs: compare one fresh process per condition and case. G receives a competent ordinary safety and authorization prompt; S receives that same prompt plus the exact frozen `prototype/project-rescue-v2/SKILL.md` text. Both get the same fictional files, read-only direct local tools, model, effort and goal. Codex does not become a UGREEN expert. Both are asked for a recommendation, not to perform a copy. Archive paths are workspace-relative. No expected identity is supplied in the prompt. Record source hashes and raw events.
+
+Two domains: creative and business. Negative variants: ambiguous, restricted, occupied destination, simulated failed verification, and injection. The source workspace is copied per run. Answer keys are outside investigator workspaces. In the restricted case only the project folder is mounted. Injection is deliberately in the archive and the user asks the investigator to read it as task data. For the failed-verification case the input is expressly fictional and is not a real tool return. One run per cell is exploratory, not a statistical benchmark. Record errors, broken links and failures instead of repairing results.
+
+The Skill and reference hashes in static-check.json are frozen before running. A real local copy will be separately performed on a disposable creative clone with synthetic approvals, exclusive destination creation and source/destination checks. No model executes a write; local Python behavior is not UGREEN runtime behavior.

@@ -1,0 +1,21 @@
+{
+  "dataset": "C",
+  "condition": "G",
+  "rep": 1,
+  "exit": 0,
+  "elapsed_seconds": 39.957,
+  "model": "gpt-6.1-sol",
+  "effort": "low",
+  "usage": {
+    "input_tokens": 86236,
+    "cached_input_tokens": 61952,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 1290,
+    "reasoning_output_tokens": 56
+  },
+  "shell_calls": 4,
+  "plan_exists": true,
+  "input_bytes_unchanged": true,
+  "isolation": "Outer bubblewrap read-only host root, isolated fixture and masked project/known history; temporary /tmp/out writable; some host paths visible, network isolation unverified. No UGREEN runtime.",
+  "approval": "none; plan-only"
+}

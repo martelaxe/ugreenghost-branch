@@ -1,0 +1,50 @@
+# Experiment 17 — The archive as an interactive medium
+
+**Decision:** Explore **Consent-Bearing Objects** as the most exciting long-term invention, and **What-If Exhibit** as the best imperfect bridge to the UGREEN hackathon. Neither has a defensible claim of global novelty. The bridge is a new *composition hypothesis* built from established components; the actual UGREEN device behavior and its value over generic AI remain untested. Do not abandon scrutiny simply because the names sound new.
+
+## What changed in the research
+
+A striking tension emerged. [Filesystem-Based Memory for LLM Agents](https://arxiv.org/abs/2607.26637) found that organizing a large memory store reduced retrieval cost but did not itself improve answers in the tested systems. [Skill-Use](https://arxiv.org/abs/2608.04828) found that recognizing a relevant skill and following it are different bottlenecks, and performance changes with the harness. [SkillsBench](https://arxiv.org/abs/2602.12670) found compact curated skills can improve task success in its benchmark; that does not establish UGREEN results. [SkillCAT](https://arxiv.org/abs/2606.13317) tests proposed updates against source-task clones rather than trusting a single successful trajectory. [Rep2Skill](https://arxiv.org/abs/2609.39149) uses internal model representations, not just a long instruction. These are research results in their own settings, not replicated findings here.
+
+[YoloFS](https://www.microsoft.com/en-us/research/publication/dont-let-ai-agents-yolo-your-files-shifting-information-and-control-to-filesystems-for-agent-safety-and-autonomy/) shifts control to an actual filesystem: staged writes, snapshots and gated access. [Born-digital archival research](https://journals.sagepub.com/doi/10.3233/SSW260020) turns file structure and provenance into queryable relationships; [multimodal filesystem memory](https://arxiv.org/abs/2610.22686) keeps original observations alongside reusable procedures. A genuinely new interaction might combine these: information does not merely sit there; a controlled view can change when the user changes a constraint. But a model instruction cannot enforce a filesystem policy or provide a reactive view by itself. Full [skills](../research/17-invention-lab/agent-skills-frontier.md) and [storage](../research/17-invention-lab/storage-frontier.md) research are separately documented.
+
+## Twenty-two inventions; six to remember
+
+The [portfolio](../research/17-invention-lab/invention-portfolio.md) combines cross-domain collisions, inverted assumptions, new primitives, unusual requests and research tensions. The six strongest for discussion are:
+
+1. **Consent-Bearing Object:** ask a file for a narrowly permitted interaction; owner revocation blocks future access through a trusted boundary. It cannot retract previously revealed information.
+2. **What-If Exhibit:** retain a story's specified beats when an asset is excluded, using sourced alternatives or an honest gap.
+3. **One-Bit Workshop:** let a collection of instructions ask a question whose answer determines the next supported physical step.
+4. **Alternative Past Room:** inspect a decision using only evidence demonstrably available at a selected time; temporal provenance is essential.
+5. **Forgetting That Leaves a Hole:** let a generated view visibly represent a withheld episode instead of silently fabricating continuity; even the hole may leak information.
+6. **Skill Quarantine:** keep a proposed procedure separate until tested; useful governance, but not a new idea.
+
+The [prior-art hunt](../research/17-invention-lab/prior-art-red-team.md) substantially weakens claims for all six. Tahoe-LAFS capabilities, clean rooms and YoloFS already cover much of W's technical foundation. lakeFS and bitemporal systems cover historic branching. REVOIR already studies useful clarification questions. SkillCAT, SkillFoundry and skill-scanning systems already test or vet skills. Photo editors, smart album workflows and public hackathon entries [Publish-Safe Photo Review](https://devpost.com/software/publish-safe-photo-review) and [Script to Selects](https://devpost.com/software/script-to-selects) overlap B. What remains potentially interesting is a particular user experience combining source-grounded story slots, an exclusion, recomposition and explicit gaps; that is not evidence of global novelty.
+
+## Three probes: what actually happened
+
+**Wild — Consent-Bearing Object.** A local Python toy returned a fictional memory through a broker, then denied a second broker call after a boolean policy changed. The same process could still read the file directly. This is a decisive negative result for its security: it is not privacy protection, a trusted boundary or UGREEN behavior. Previously revealed text cannot be recalled. [Actual output](../experiments/17-invention-lab/probes/wild/output.json).
+
+**Bridge — What-If Exhibit.** A local Python program made three real SVG exhibits from five fictional, hand-labelled vector drawings. Excluding red changed the arrival and workshop panels to blue while retaining the green ending. Excluding both red and blue left two labeled gaps. Hashes confirmed the source SVGs did not change. The program uses manually assigned roles and colors, not AI, photographic understanding, a real venue or a NAS. The most tangible result is the [before](../experiments/17-invention-lab/probes/bridge/outputs/baseline.png), [no-red](../experiments/17-invention-lab/probes/bridge/outputs/no-red.png), and [missing-alternatives](../experiments/17-invention-lab/probes/bridge/outputs/no-red-or-blue.png) sequence. It tests a conditional projection—not whether semantic replacements are good.
+
+**Skill-native — One-Bit Workshop.** One fresh read-only Codex process read two fictional notes and asked a single four-option question about material availability. A second fresh process received its answer as a simulated user turn and proposed the supported handwritten-sign route. This demonstrates one two-turn text interaction, not physical work, an optimal question, a tested Skill, generic superiority or UGREEN execution. The [actual responses and prompts](../experiments/17-invention-lab/probes/README.md) are preserved.
+
+The strongest counterintuitive *observed* result is the broker bypass: a seemingly revocable object is not revocable just because an assistant agrees to refuse it. The most visually understandable result is the what-if exhibit's gap-preserving reconfiguration. Neither is evidence of human delight or deployable product quality.
+
+## What the user would experience
+
+With the bridge concept, the user asks: “Show arrival, workshop and ending without red artwork; leave missing moments blank.” Instead of only describing files, the ideal system presents a recomposed, source-grounded exhibit with two substitutions; if alternatives are unavailable, slots stay visibly blank. It feels unlike basic file search if it maintains a user-defined artifact and changes it under constraints. The closest current implementations are photo-layout swaps, reactive data workflows and UGREEN's album-selection Skills. A generic AI can likely propose the same mapping, and our actual re-rendering is ordinary local code, so we have not demonstrated a unique NAS mechanism.
+
+The 60-second [demo storyboard](../research/17-invention-lab/wow-demo.md) makes the distinction visible. Its larger vision—a reactive, evidence-linked view over owner-controlled storage—is speculative and needs stable provenance, semantic verification, triggers, view rendering and policy enforcement. The toy does not build those primitives.
+
+## Can UGREEN show a credible fragment?
+
+**Possibly, with limits.** The documented file-agent can find and read authorized records; document-agent can interpret related notes; photo-agent can search/inspect photos and offers workflow-approved album creation. An [exploratory Markdown draft](../prototype/invention-17/SKILL.md) expresses an on-demand beat/alternative/gap procedure and optional separately approved album. The [official checker](../experiments/17-invention-lab/static-check.json) passed with zero errors and warnings after correcting the directory/name mismatch. It has not run on NAS. Real photo identifiers, image assessment, album creation, order, visibility, approval resumption and source propagation remain unknown; the local SVG renderer is not part of the Skill. This is an on-demand preview and possible new album, not a reactive view, an enforced consent mechanism or an automatic change to previously published material. See the [capability map](../research/17-invention-lab/ugreen-translation.md).
+
+The official [rules](https://ugreenhackathon.devpost.com/rules) make a Markdown Skill and documented expert boundary essential; the finalist must run on the assigned NAS. The largest deployment barrier is obtaining sufficiently reliable source/item identification and meaningful album semantics on device, while avoiding unsupported privacy or substitution claims. W requires an entirely new trusted enforcement layer, so its full vision cannot be honestly submitted as a Markdown-only Skill.
+
+## Recommendation and one next test
+
+**Most exciting regardless of feasibility:** Consent-Bearing Object, despite major prior art and the toy's failure. **Best hackathon-adaptable:** What-If Exhibit, conditionally. **Best procedure living in a Skill:** One-Bit Workshop, but its novelty is weakest. Keep the distinction between [invention potential and hackathon potential](../research/17-invention-lab/invention-evaluation.md).
+
+Next, use one small real-creator archive or carefully authored, genuinely different visual assets and have a person judge whether the alternate selection preserves each story beat when a key asset is removed; include a no-valid-alternative case and a competent generic-agent comparison. In parallel only if actual NAS access becomes available, check whether photo-agent returns stable item IDs and whether an approved album can be created and inspected. Do not package, publish, or submit based on this experiment alone.

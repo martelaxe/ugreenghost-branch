@@ -1,0 +1,3 @@
+Created [plan.json](/tmp/out/plan.json) covering all 186 files: 80 keep, 80 proposed moves, and 26 deferred. No input files changed.
+
+Please clarify the conflicting historic requirements, the collision decisions, and the missing or conflicting evidence identified in deferred rows.

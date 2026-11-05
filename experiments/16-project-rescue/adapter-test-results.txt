@@ -1,0 +1,12 @@
+test_changed_source (__main__.Cases.test_changed_source) ... ok
+test_collision (__main__.Cases.test_collision) ... ok
+test_failed_verification (__main__.Cases.test_failed_verification) ... ok
+test_gateway_pending (__main__.Cases.test_gateway_pending) ... ok
+test_missing_parent (__main__.Cases.test_missing_parent) ... ok
+test_owner_pending (__main__.Cases.test_owner_pending) ... ok
+test_success_and_preservation (__main__.Cases.test_success_and_preservation) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.005s
+
+OK

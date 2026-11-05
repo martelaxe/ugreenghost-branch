@@ -1,0 +1,4 @@
+Harbor launch board v2
+Required artwork path: projects/harbor/assets/launch-cover.txt
+Expected SHA-256: 30a7b76f7a756e0c515ac352d162d2151deb8f93c390363459b35ccbd4d6802e
+Owner: Studio team

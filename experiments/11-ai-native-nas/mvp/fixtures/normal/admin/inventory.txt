@@ -1,0 +1,1 @@
+October inventory contains working project notes and an assets folder. It does not list every application or external copy.

@@ -1,0 +1,78 @@
+{
+  "capsule_sha256": "138cce3e13db2c0a08e14644ec280555fda6f06653a37d4aba17a53fbbed1b11",
+  "artifact_sha256": "b68dae657d3e66a77024318922f31b6e02b9229010be3da8a3bada41fd725676",
+  "results": [
+    {
+      "scenario": "A",
+      "method": "G0",
+      "exit": 0,
+      "has_final": true,
+      "seconds": 31.92,
+      "tool_commands": 2
+    },
+    {
+      "scenario": "A",
+      "method": "G1",
+      "exit": 0,
+      "has_final": true,
+      "seconds": 37.79,
+      "tool_commands": 2
+    },
+    {
+      "scenario": "A",
+      "method": "S",
+      "exit": 0,
+      "has_final": true,
+      "seconds": 38.45,
+      "tool_commands": 3
+    },
+    {
+      "scenario": "B",
+      "method": "G0",
+      "exit": 0,
+      "has_final": true,
+      "seconds": 31.56,
+      "tool_commands": 2
+    },
+    {
+      "scenario": "B",
+      "method": "G1",
+      "exit": 0,
+      "has_final": true,
+      "seconds": 41.97,
+      "tool_commands": 2
+    },
+    {
+      "scenario": "B",
+      "method": "S",
+      "exit": 0,
+      "has_final": true,
+      "seconds": 40.13,
+      "tool_commands": 3
+    },
+    {
+      "scenario": "C",
+      "method": "G0",
+      "exit": 0,
+      "has_final": true,
+      "seconds": 29.4,
+      "tool_commands": 2
+    },
+    {
+      "scenario": "C",
+      "method": "G1",
+      "exit": 0,
+      "has_final": true,
+      "seconds": 33.93,
+      "tool_commands": 2
+    },
+    {
+      "scenario": "C",
+      "method": "S",
+      "exit": 0,
+      "has_final": true,
+      "seconds": 43.32,
+      "tool_commands": 3
+    }
+  ]
+}

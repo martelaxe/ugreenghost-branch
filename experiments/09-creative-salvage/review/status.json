@@ -1,0 +1,26 @@
+{
+  "temporary_root": "/tmp/ugreen09-review-rnmitlql",
+  "scorers": [
+    {
+      "case": "A",
+      "exit": 0,
+      "output": true,
+      "duration_s": 86.54,
+      "workspace": "/tmp/ugreen09-review-rnmitlql/case-A/work"
+    },
+    {
+      "case": "B",
+      "exit": 0,
+      "output": true,
+      "duration_s": 96.04,
+      "workspace": "/tmp/ugreen09-review-rnmitlql/case-B/work"
+    },
+    {
+      "case": "C",
+      "exit": 0,
+      "output": true,
+      "duration_s": 79.42,
+      "workspace": "/tmp/ugreen09-review-rnmitlql/case-C/work"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# Task Continuity: product experience
+
+An owner asks for an event invitation and volunteer handoff, with files in authorized folders. Agent A prepares the draft, asks about missing evidence, and offers an ordinary Markdown capsule recording real source paths, user decisions, outstanding questions and actual—not presumed—actions. With explicit user and platform approval it may request an authorized save, subject to supported safe collision behavior and readback.
+
+In a new conversation the owner explicitly supplies that capsule's path and current access scope, then gives new decisions. Agent B reads the record and original sources, distinguishes a current user assertion from independent evidence, and updates the actual handoff. A source that changed may invalidate a capsule's earlier claim. Missing sources or a narrower current scope require qualified treatment, never inherited authorization.
+
+The memorable claim is a new model can take over using a physical shared document and sources without receiving the earlier conversation. This is not automatic shared AI memory, autonomous multi-agent cooperation, cross-user synchronization or proof that Task Continuity is new. A generic assistant can read Markdown too; meaningful benefit must be shown by a fair same-record comparison. Current MVP needs the user to supply the record path; finding it automatically is unverified. Any revision must be saved separately with approval only if the platform can ensure safe handling.

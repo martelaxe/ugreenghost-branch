@@ -1,0 +1,99 @@
+[
+  {
+    "run": "A-G-1",
+    "quotes": [
+      {
+        "quote": "changing shoreline",
+        "exact_matches": [
+          "01-projects/folded-water/workshop.txt"
+        ]
+      }
+    ],
+    "note": "An unmatched span may be an original creative title or a paraphrase, not necessarily an inaccurate source quote. Check context and semantics manually."
+  },
+  {
+    "run": "A-G-2",
+    "quotes": [
+      {
+        "quote": "changing shoreline",
+        "exact_matches": [
+          "01-projects/folded-water/workshop.txt"
+        ]
+      }
+    ],
+    "note": "An unmatched span may be an original creative title or a paraphrase, not necessarily an inaccurate source quote. Check context and semantics manually."
+  },
+  {
+    "run": "A-S-1",
+    "quotes": [
+      {
+        "quote": "changing shoreline",
+        "exact_matches": [
+          "01-projects/folded-water/workshop.txt"
+        ]
+      }
+    ],
+    "note": "An unmatched span may be an original creative title or a paraphrase, not necessarily an inaccurate source quote. Check context and semantics manually."
+  },
+  {
+    "run": "A-S-2",
+    "quotes": [
+      {
+        "quote": "Changing Shoreline",
+        "exact_matches": []
+      }
+    ],
+    "note": "An unmatched span may be an original creative title or a paraphrase, not necessarily an inaccurate source quote. Check context and semantics manually."
+  },
+  {
+    "run": "B-G-1",
+    "quotes": [],
+    "note": "An unmatched span may be an original creative title or a paraphrase, not necessarily an inaccurate source quote. Check context and semantics manually."
+  },
+  {
+    "run": "B-G-2",
+    "quotes": [],
+    "note": "An unmatched span may be an original creative title or a paraphrase, not necessarily an inaccurate source quote. Check context and semantics manually."
+  },
+  {
+    "run": "B-S-1",
+    "quotes": [
+      {
+        "quote": "The water leaves a line; the town redraws its routes",
+        "exact_matches": [
+          "01-projects/tide-lines/text-fragments.txt"
+        ]
+      },
+      {
+        "quote": "A crossing changes with the tide,",
+        "exact_matches": []
+      }
+    ],
+    "note": "An unmatched span may be an original creative title or a paraphrase, not necessarily an inaccurate source quote. Check context and semantics manually."
+  },
+  {
+    "run": "B-S-2",
+    "quotes": [],
+    "note": "An unmatched span may be an original creative title or a paraphrase, not necessarily an inaccurate source quote. Check context and semantics manually."
+  },
+  {
+    "run": "C-G-1",
+    "quotes": [],
+    "note": "An unmatched span may be an original creative title or a paraphrase, not necessarily an inaccurate source quote. Check context and semantics manually."
+  },
+  {
+    "run": "C-G-2",
+    "quotes": [],
+    "note": "An unmatched span may be an original creative title or a paraphrase, not necessarily an inaccurate source quote. Check context and semantics manually."
+  },
+  {
+    "run": "C-S-1",
+    "quotes": [],
+    "note": "An unmatched span may be an original creative title or a paraphrase, not necessarily an inaccurate source quote. Check context and semantics manually."
+  },
+  {
+    "run": "C-S-2",
+    "quotes": [],
+    "note": "An unmatched span may be an original creative title or a paraphrase, not necessarily an inaccurate source quote. Check context and semantics manually."
+  }
+]

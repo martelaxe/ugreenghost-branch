@@ -1,0 +1,12 @@
+{
+  "prepared_utc": "2026-10-26T21:51:48.312249+00:00",
+  "dataset_files_per_variant": 22,
+  "different_files": [
+    "03-rights/vale-archive-agreement.txt"
+  ],
+  "answer_key_sha256": "fcc78b6973b97986c63d288a93f6127d53aa0639c0ecefa9c44aab4f157f2ccf",
+  "rubric_sha256": "06ab498b34ebedf06cc3219c974e8e1eb3dbc3eda46321121ce1c6235dfea5f5",
+  "prompt_sha256": "b4f83ddca034f6b8a32c5591293d00e04c7387c65ee535af91a260e08fefe850",
+  "manifest_sha256": "5cd4a990c896670f485636b642dadd2e761ceff3d7122d73291b5743fce3e574",
+  "note": "Preregistered before launching either investigator."
+}

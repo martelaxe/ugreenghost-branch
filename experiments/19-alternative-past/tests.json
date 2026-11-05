@@ -1,0 +1,16 @@
+{
+  "then_attested_files": 11,
+  "then_including_snapshot": 12,
+  "then_names_and_hashes_match_attested_snapshot": true,
+  "later_documents_absent_from_then": true,
+  "now_generic_and_procedure_input_hashes_identical": true,
+  "mutation_exactly_one_irrelevant_file": true,
+  "then_output_future_marker_hits": [],
+  "then_output_mentions_72_or_transposition": false,
+  "procedure_mentions_backdated_memo_and_oct_18": true,
+  "procedure_marks_uncertain_carbon_unknown": true,
+  "poster_run_marks_poster_irrelevant": true,
+  "original_p_and_poster_run_both_state_wrong_building": true,
+  "model_runs_exit_zero_and_inputs_unchanged": true,
+  "limitations": "String checks are not semantic audits, complete isolation, external document authentication, or proof of human knowledge."
+}

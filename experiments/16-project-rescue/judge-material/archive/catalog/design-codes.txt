@@ -1,0 +1,1 @@
+Design register: Northwick is design L42. Southwick is L43. Cedar uses Northwick.

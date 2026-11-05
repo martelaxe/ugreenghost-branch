@@ -1,0 +1,5 @@
+Removing [press/assets/logo.svg](/tmp/ugreen-reality-kipysuwr/press/assets/logo.svg) would leave the location recorded in [press/asset-index.md](/tmp/ugreen-reality-kipysuwr/press/asset-index.md) pointing to a missing file.
+
+The launch poster **might** be affected. [press/brief.md](/tmp/ugreen-reality-kipysuwr/press/brief.md) says it uses `logo.svg`, but does not identify the folder or revision, or say whether the poster is still final. [workshop/notes.md](/tmp/ugreen-reality-kipysuwr/workshop/notes.md) records an unconfirmed thought that it used the workshop logo instead.
+
+The other [logo.svg](/tmp/ugreen-reality-kipysuwr/workshop/assets/logo.svg) is a different file: it contains a green circle, while the press logo contains a navy circle. I found no poster file or other direct reference to the press logo in the workspace, so the poster’s actual dependency cannot be confirmed from these files.

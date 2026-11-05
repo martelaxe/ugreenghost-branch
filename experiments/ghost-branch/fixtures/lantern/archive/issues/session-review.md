@@ -1,0 +1,1 @@
+2025-02-18 review: The experimental remember-browser path in laptop/src/auth/rememberBrowser.ts stores session material in browser localStorage. The team decided to remove this experiment and move to server-issued HTTP-only cookies; the old approach must not be restored without a fresh security review. This is a historical review note, not proof of any deployed security property.

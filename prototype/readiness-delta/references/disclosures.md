@@ -1,0 +1,3 @@
+# Development disclosure
+
+This experimental Skill and its readiness-delta workflow were developed for the 2026 UGREEN AI NAS Hackathon. OpenAI Codex was used to research, draft, run local fictional-data tests, and review the Skill; the entrant remains responsible for the submitted work. It uses the official UGREEN Uliya Skill Creation Tool and documented NAS capabilities. No third-party software libraries or executable components are included in this Markdown-only Skill package. The installed UGREEN toolkit's distribution terms apply to that tool; this package does not redistribute the toolkit. Actual UGREEN runtime behavior and external model/data-handling choices remain unverified and must be disclosed in the proposal.

@@ -1,0 +1,46 @@
+{
+  "title": "Fire, Rescue, Ruins: San Francisco, 1906",
+  "narrative_intent": "Connect urban fire, a scene cataloged as rescue, and the damaged city left after the earthquake and fires. These photographs show different places and moments, not a documented sequence involving the same people. The revised exhibit no longer illustrates temporary shelter.",
+  "summary_of_changes": "Retained images 09 and 05 in their original positions. Replaced unavailable image 14 with image 02 and changed the third panel from temporary shelter to the damaged urban environment. Revised the title and narrative accordingly. No eligible photograph in the supplied contact sheets and catalog supports replacing the camp photograph with another shelter scene.",
+  "panels": [
+    {
+      "original_role": "Urban fire establishes the disaster threatening residents and their surroundings.",
+      "original_image_id": "09",
+      "role": "Urban fire establishes the disaster within the inhabited city.",
+      "image_id": "09",
+      "caption": "The Palace Hotel burns after the earthquake, April 18, 1906.",
+      "visual_observation": "Smoke obscures part of a large multistory building; people and horses occupy the street below.",
+      "evidence": "catalog.md, entry 09, identifies the Palace Hotel burning after the earthquake and dates the photograph to April 18, 1906. context.md establishes the earthquake and extensive fire damage. rights.md records Public domain or CC0 metadata for listed source images.",
+      "uncertainty": "The photograph does not identify the people or establish whether they lived nearby, were evacuating, or lost homes.",
+      "change": "Retained image 09, its position, and its caption; narrowed the role to what the photograph and catalog establish.",
+      "reason": "The image remains eligible and provides a supported opening scene of urban fire.",
+      "claim_status": "Retained: building identity and date are catalog-supported; smoke, people, and horses are visually observable."
+    },
+    {
+      "original_role": "Rescue brings the narrative from damaged buildings to human vulnerability.",
+      "original_image_id": "05",
+      "role": "A scene cataloged as rescue brings human activity amid wreckage into view.",
+      "image_id": "05",
+      "caption": "Among the wreckage: a scene cataloged as rescuing people from the ruins.",
+      "visual_observation": "Several figures cluster in a confined space surrounded by broken boards and structural debris.",
+      "evidence": "catalog.md, entry 05, source title: \"San Francisco Earthquake of 1906, Rescuing people from the ruins - NARA - 522964.tif\"; date: circa April 1906; creator: George W. Haley; catalog description: \"Not stated\". rights.md records Public domain or CC0 metadata for listed source images.",
+      "uncertainty": "The rescue interpretation comes from the source title. The visible scene alone does not establish identities, injuries, outcomes, exact location, or whether earthquake shaking or fire caused this wreckage.",
+      "change": "Retained image 05, its position, and its qualified caption; revised the role to attribute the rescue interpretation explicitly to the catalog.",
+      "reason": "The source supports presenting a rescue interpretation with attribution, while the photograph visibly supports human activity amid debris.",
+      "claim_status": "Qualified: rescue is a catalog attribution, not independently established by visible details."
+    },
+    {
+      "original_role": "Temporary shelter shows a consequence for residents beyond the immediate destruction.",
+      "original_image_id": "14",
+      "role": "The damaged urban environment extends the story from immediate danger to the city's aftermath.",
+      "image_id": "02",
+      "caption": "Rubble and damaged buildings in San Francisco after the earthquake and fire, 1906. Edith Irvine’s view looks southwest from Nob Hill.",
+      "visual_observation": "A bare tree trunk stands amid foreground rubble, with damaged buildings extending into the distance.",
+      "evidence": "scenario.md makes image 14 unavailable. catalog.md, entry 02, credits Edith Irvine, dates the photograph to 1906, and describes the view from Nob Hill looking southwest after the earthquake and fire, with a bare tree trunk, rubble, and damaged buildings. context.md establishes extensive damage and residents' need for shelter but does not identify shelter in this photograph. rights.md records Public domain or CC0 metadata for listed source images.",
+      "uncertainty": "This photograph does not establish who lost homes, where residents found shelter, or how long recovery took. Its position in the exhibit does not establish a chronological relationship to image 05.",
+      "change": "Removed image 14 and its camp caption. Replaced it with image 02 and a caption about urban damage; abandoned the third panel's photographic shelter claim.",
+      "reason": "Image 14 is excluded by the changed condition. Image 02 offers visible and catalog-supported evidence of the aftermath without misidentifying another scene as temporary shelter.",
+      "claim_status": "Changed: aftermath is visually and catalog-supported; shelter is no longer claimed or illustrated by this panel."
+    }
+  ]
+}

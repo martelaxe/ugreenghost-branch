@@ -1,0 +1,434 @@
+{
+  "reference": {
+    "small/direct/0": {
+      "correct": true,
+      "errors": []
+    },
+    "small/metadata/0": {
+      "correct": true,
+      "errors": []
+    },
+    "small/adaptive/0": {
+      "correct": true,
+      "errors": []
+    },
+    "large/direct/0": {
+      "correct": true,
+      "errors": []
+    },
+    "large/metadata/0": {
+      "correct": true,
+      "errors": []
+    },
+    "large/adaptive/0": {
+      "correct": true,
+      "errors": []
+    },
+    "matching/direct/0": {
+      "correct": true,
+      "errors": []
+    },
+    "matching/metadata/0": {
+      "correct": true,
+      "errors": []
+    },
+    "matching/adaptive/0": {
+      "correct": true,
+      "errors": []
+    },
+    "different/direct/0": {
+      "correct": true,
+      "errors": []
+    },
+    "different/metadata/0": {
+      "correct": true,
+      "errors": []
+    },
+    "different/adaptive/0": {
+      "correct": true,
+      "errors": []
+    },
+    "incomplete/direct/0": {
+      "correct": true,
+      "errors": []
+    },
+    "incomplete/metadata/0": {
+      "correct": true,
+      "errors": []
+    },
+    "incomplete/adaptive/0": {
+      "correct": true,
+      "errors": []
+    },
+    "small/metadata/1": {
+      "correct": true,
+      "errors": []
+    },
+    "small/adaptive/1": {
+      "correct": true,
+      "errors": []
+    },
+    "small/direct/1": {
+      "correct": true,
+      "errors": []
+    },
+    "large/metadata/1": {
+      "correct": true,
+      "errors": []
+    },
+    "large/adaptive/1": {
+      "correct": true,
+      "errors": []
+    },
+    "large/direct/1": {
+      "correct": true,
+      "errors": []
+    },
+    "matching/metadata/1": {
+      "correct": true,
+      "errors": []
+    },
+    "matching/adaptive/1": {
+      "correct": true,
+      "errors": []
+    },
+    "matching/direct/1": {
+      "correct": true,
+      "errors": []
+    },
+    "different/metadata/1": {
+      "correct": true,
+      "errors": []
+    },
+    "different/adaptive/1": {
+      "correct": true,
+      "errors": []
+    },
+    "different/direct/1": {
+      "correct": true,
+      "errors": []
+    },
+    "incomplete/metadata/1": {
+      "correct": true,
+      "errors": []
+    },
+    "incomplete/adaptive/1": {
+      "correct": true,
+      "errors": []
+    },
+    "incomplete/direct/1": {
+      "correct": true,
+      "errors": []
+    },
+    "small/adaptive/2": {
+      "correct": true,
+      "errors": []
+    },
+    "small/direct/2": {
+      "correct": true,
+      "errors": []
+    },
+    "small/metadata/2": {
+      "correct": true,
+      "errors": []
+    },
+    "large/adaptive/2": {
+      "correct": true,
+      "errors": []
+    },
+    "large/direct/2": {
+      "correct": true,
+      "errors": []
+    },
+    "large/metadata/2": {
+      "correct": true,
+      "errors": []
+    },
+    "matching/adaptive/2": {
+      "correct": true,
+      "errors": []
+    },
+    "matching/direct/2": {
+      "correct": true,
+      "errors": []
+    },
+    "matching/metadata/2": {
+      "correct": true,
+      "errors": []
+    },
+    "different/adaptive/2": {
+      "correct": true,
+      "errors": []
+    },
+    "different/direct/2": {
+      "correct": true,
+      "errors": []
+    },
+    "different/metadata/2": {
+      "correct": true,
+      "errors": []
+    },
+    "incomplete/adaptive/2": {
+      "correct": true,
+      "errors": []
+    },
+    "incomplete/direct/2": {
+      "correct": true,
+      "errors": []
+    },
+    "incomplete/metadata/2": {
+      "correct": true,
+      "errors": []
+    }
+  },
+  "agents": {
+    "G": {
+      "small": {
+        "classifications_correct": true,
+        "classification_errors": [],
+        "duplicate_paths": 0,
+        "reported_counts_correct": true,
+        "reported_coverage_correct": true,
+        "frontier_counts_correct": true,
+        "actual_both_metadata": 120,
+        "reported_both_metadata": 120,
+        "actual_both_hash": 84,
+        "reported_both_hash": 84,
+        "unsupported_claims": [],
+        "operations": {
+          "list": 3,
+          "stat": 241,
+          "sha256": 169
+        },
+        "bytes_read": 366406,
+        "errors": 0,
+        "strategy": "Compare exact listing paths; stat common paths on both sides, classify unequal sizes as different, otherwise compare actual SHA-256 values. Failed checks remain unverified.",
+        "explanation": "Both listings are complete; all listed paths have conclusive results.",
+        "next_action": "Review differing and one-sided files before any synchronization."
+      },
+      "large": {
+        "classifications_correct": true,
+        "classification_errors": [],
+        "duplicate_paths": 0,
+        "reported_counts_correct": true,
+        "reported_coverage_correct": true,
+        "frontier_counts_correct": true,
+        "actual_both_metadata": 24,
+        "reported_both_metadata": 24,
+        "actual_both_hash": 10,
+        "reported_both_hash": 10,
+        "unsupported_claims": [],
+        "operations": {
+          "list": 2,
+          "stat": 48,
+          "sha256": 20
+        },
+        "bytes_read": 41944500,
+        "errors": 0,
+        "strategy": "Compare exact listing paths; stat common paths on both sides, classify unequal sizes as different, otherwise compare actual SHA-256 values. Failed checks remain unverified.",
+        "explanation": "Both listings are complete; all listed paths have conclusive results.",
+        "next_action": "Review differing and one-sided files before any synchronization."
+      },
+      "matching": {
+        "classifications_correct": true,
+        "classification_errors": [],
+        "duplicate_paths": 0,
+        "reported_counts_correct": true,
+        "reported_coverage_correct": true,
+        "frontier_counts_correct": true,
+        "actual_both_metadata": 120,
+        "reported_both_metadata": 120,
+        "actual_both_hash": 114,
+        "reported_both_hash": 114,
+        "unsupported_claims": [],
+        "operations": {
+          "list": 2,
+          "stat": 240,
+          "sha256": 228
+        },
+        "bytes_read": 1892888,
+        "errors": 0,
+        "strategy": "Compare exact listing paths; stat common paths on both sides, classify unequal sizes as different, otherwise compare actual SHA-256 values. Failed checks remain unverified.",
+        "explanation": "Both listings are complete; all listed paths have conclusive results.",
+        "next_action": "Review differing and one-sided files before any synchronization."
+      },
+      "different": {
+        "classifications_correct": true,
+        "classification_errors": [],
+        "duplicate_paths": 0,
+        "reported_counts_correct": true,
+        "reported_coverage_correct": true,
+        "frontier_counts_correct": true,
+        "actual_both_metadata": 120,
+        "reported_both_metadata": 120,
+        "actual_both_hash": 42,
+        "reported_both_hash": 42,
+        "unsupported_claims": [],
+        "operations": {
+          "list": 2,
+          "stat": 240,
+          "sha256": 84
+        },
+        "bytes_read": 697180,
+        "errors": 0,
+        "strategy": "Compare exact listing paths; stat common paths on both sides, classify unequal sizes as different, otherwise compare actual SHA-256 values. Failed checks remain unverified.",
+        "explanation": "Both listings are complete; all listed paths have conclusive results.",
+        "next_action": "Review differing and one-sided files before any synchronization."
+      },
+      "incomplete": {
+        "classifications_correct": true,
+        "classification_errors": [],
+        "duplicate_paths": 0,
+        "reported_counts_correct": true,
+        "reported_coverage_correct": true,
+        "frontier_counts_correct": true,
+        "actual_both_metadata": 78,
+        "reported_both_metadata": 78,
+        "actual_both_hash": 63,
+        "reported_both_hash": 63,
+        "unsupported_claims": [],
+        "operations": {
+          "list": 2,
+          "stat": 158,
+          "sha256": 126
+        },
+        "bytes_read": 1046354,
+        "errors": 2,
+        "strategy": "Compare exact listing paths; stat common paths on both sides, classify unequal sizes as different, otherwise compare actual SHA-256 values. Failed checks remain unverified.",
+        "explanation": "Destination listing is incomplete; unlisted paths remain unknown and absence on this side is not proven. group_00/item_0027.bin is unverified because it is absent from the incomplete destination listing. Metadata operations for group_00/item_0045.bin failed on both sides with 'simulated denied entry'. Complete archive coverage is not established.",
+        "next_action": "Obtain a complete destination listing and retry denied metadata operations before making archive coverage claims."
+      },
+      "_total": {
+        "operations": 1565,
+        "bytes_read": 45947328,
+        "out_of_scope": 0
+      }
+    },
+    "S": {
+      "small": {
+        "classifications_correct": true,
+        "classification_errors": [],
+        "duplicate_paths": 0,
+        "reported_counts_correct": true,
+        "reported_coverage_correct": true,
+        "frontier_counts_correct": true,
+        "actual_both_metadata": 8,
+        "reported_both_metadata": 8,
+        "actual_both_hash": 120,
+        "reported_both_hash": 120,
+        "unsupported_claims": [],
+        "operations": {
+          "list": 2,
+          "stat": 16,
+          "sha256": 240
+        },
+        "bytes_read": 520788,
+        "errors": 0,
+        "strategy": "direct SHA-256; 8 evenly spaced sorted common-path samples, each requested with stat and SHA-256 on both sides; 112 remaining common paths. Observed sampled unequal-size byte sum=8358; estimated skipped bytes=117012.0; hypothetical stat threshold=58720256 bytes (2 \u00d7 remaining \u00d7 262144). Sample-based extrapolation is uncertain and is not measured time or guaranteed NAS cost.",
+        "explanation": "All returned paths are reported. Both listings complete. No operation failures. Identity requires matching actual SHA-256 values; unequal actual sizes or hashes establish differences.",
+        "next_action": "Review the reported differences and one-sided paths before planning any synchronization."
+      },
+      "large": {
+        "classifications_correct": true,
+        "classification_errors": [],
+        "duplicate_paths": 0,
+        "reported_counts_correct": true,
+        "reported_coverage_correct": true,
+        "frontier_counts_correct": true,
+        "actual_both_metadata": 24,
+        "reported_both_metadata": 24,
+        "actual_both_hash": 15,
+        "reported_both_hash": 15,
+        "unsupported_claims": [],
+        "operations": {
+          "list": 2,
+          "stat": 48,
+          "sha256": 30
+        },
+        "bytes_read": 62917749,
+        "errors": 0,
+        "strategy": "metadata-first; 8 evenly spaced sorted common-path samples, each requested with stat and SHA-256 on both sides; 16 remaining common paths. Observed sampled unequal-size byte sum=20973249; estimated skipped bytes=41946498.0; hypothetical stat threshold=8388608 bytes (2 \u00d7 remaining \u00d7 262144). Sample-based extrapolation is uncertain and is not measured time or guaranteed NAS cost.",
+        "explanation": "All returned paths are reported. Both listings complete. No operation failures. Identity requires matching actual SHA-256 values; unequal actual sizes or hashes establish differences.",
+        "next_action": "Review the reported differences and one-sided paths before planning any synchronization."
+      },
+      "matching": {
+        "classifications_correct": true,
+        "classification_errors": [],
+        "duplicate_paths": 0,
+        "reported_counts_correct": true,
+        "reported_coverage_correct": true,
+        "frontier_counts_correct": true,
+        "actual_both_metadata": 8,
+        "reported_both_metadata": 8,
+        "actual_both_hash": 120,
+        "reported_both_hash": 120,
+        "unsupported_claims": [],
+        "operations": {
+          "list": 2,
+          "stat": 16,
+          "sha256": 240
+        },
+        "bytes_read": 1992858,
+        "errors": 0,
+        "strategy": "direct SHA-256; 8 evenly spaced sorted common-path samples, each requested with stat and SHA-256 on both sides; 112 remaining common paths. Observed sampled unequal-size byte sum=0; estimated skipped bytes=0.0; hypothetical stat threshold=58720256 bytes (2 \u00d7 remaining \u00d7 262144). Sample-based extrapolation is uncertain and is not measured time or guaranteed NAS cost.",
+        "explanation": "All returned paths are reported. Both listings complete. No operation failures. Identity requires matching actual SHA-256 values; unequal actual sizes or hashes establish differences.",
+        "next_action": "Review the reported differences and one-sided paths before planning any synchronization."
+      },
+      "different": {
+        "classifications_correct": true,
+        "classification_errors": [],
+        "duplicate_paths": 0,
+        "reported_counts_correct": true,
+        "reported_coverage_correct": true,
+        "frontier_counts_correct": true,
+        "actual_both_metadata": 8,
+        "reported_both_metadata": 8,
+        "actual_both_hash": 120,
+        "reported_both_hash": 120,
+        "unsupported_claims": [],
+        "operations": {
+          "list": 2,
+          "stat": 16,
+          "sha256": 240
+        },
+        "bytes_read": 1998834,
+        "errors": 0,
+        "strategy": "direct SHA-256; 8 evenly spaced sorted common-path samples, each requested with stat and SHA-256 on both sides; 112 remaining common paths. Observed sampled unequal-size byte sum=82919; estimated skipped bytes=1160866.0; hypothetical stat threshold=58720256 bytes (2 \u00d7 remaining \u00d7 262144). Sample-based extrapolation is uncertain and is not measured time or guaranteed NAS cost.",
+        "explanation": "All returned paths are reported. Both listings complete. No operation failures. Identity requires matching actual SHA-256 values; unequal actual sizes or hashes establish differences.",
+        "next_action": "Review the reported differences and one-sided paths before planning any synchronization."
+      },
+      "incomplete": {
+        "classifications_correct": true,
+        "classification_errors": [],
+        "duplicate_paths": 0,
+        "reported_counts_correct": true,
+        "reported_coverage_correct": true,
+        "frontier_counts_correct": true,
+        "actual_both_metadata": 8,
+        "reported_both_metadata": 8,
+        "actual_both_hash": 78,
+        "reported_both_hash": 78,
+        "unsupported_claims": [],
+        "operations": {
+          "list": 2,
+          "stat": 16,
+          "sha256": 158
+        },
+        "bytes_read": 1296133,
+        "errors": 2,
+        "strategy": "direct SHA-256; 8 evenly spaced sorted common-path samples, each requested with stat and SHA-256 on both sides; 71 remaining common paths. Observed sampled unequal-size byte sum=33226; estimated skipped bytes=294880.75; hypothetical stat threshold=37224448 bytes (2 \u00d7 remaining \u00d7 262144). Sample-based extrapolation is uncertain and is not measured time or guaranteed NAS cost.",
+        "explanation": "All returned paths are reported. Incomplete listings prevent complete archive coverage; paths absent from an incomplete listing remain unverified, and undisclosed paths cannot be enumerated. Operation failures: sha256 source group_00/item_0045.bin, sha256 destination group_00/item_0045.bin. Identity requires matching actual SHA-256 values; unequal actual sizes or hashes establish differences.",
+        "next_action": "Retry incomplete listings and failed operations through the read-only adapter, then compare newly disclosed paths."
+      },
+      "_total": {
+        "operations": 1030,
+        "bytes_read": 68726362,
+        "out_of_scope": 0
+      }
+    }
+  },
+  "fixture": {
+    "unchanged": true,
+    "changed": {}
+  }
+}

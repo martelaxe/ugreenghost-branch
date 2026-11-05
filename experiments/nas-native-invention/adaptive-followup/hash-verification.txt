@@ -1,0 +1,12 @@
+experiments/nas-native-invention/adaptive-followup/design.md: OK
+experiments/nas-native-invention/adaptive-followup/generic-prompt.md: OK
+experiments/nas-native-invention/adaptive-followup/frozen-procedure.md: OK
+experiments/nas-native-invention/adaptive-followup/output-schema.json: OK
+experiments/nas-native-invention/adaptive-followup/tools/fixture.py: OK
+experiments/nas-native-invention/adaptive-followup/tools/adapter.py: OK
+experiments/nas-native-invention/adaptive-followup/tools/adapter_core.py: OK
+experiments/nas-native-invention/adaptive-followup/tools/reference.py: OK
+experiments/nas-native-invention/adaptive-followup/tools/agent_runner.py: OK
+experiments/nas-native-invention/adaptive-followup/fixture/manifest.json: OK
+experiments/nas-native-invention/adaptive-followup/fixture/faults.json: OK
+experiments/nas-native-invention/adaptive-followup/answer-key/key.json: OK

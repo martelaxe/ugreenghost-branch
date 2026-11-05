@@ -1,0 +1,24 @@
+{
+  "label": "skill-native-followup",
+  "exit": 0,
+  "elapsed_seconds": 17.39,
+  "has_final": true,
+  "model_requested": "gpt-6.1-sol",
+  "reasoning_requested": "low",
+  "tool_commands_count": 2,
+  "usage_if_reported": {
+    "input_tokens": 36032,
+    "cached_input_tokens": 31488,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 180,
+    "reasoning_output_tokens": 67
+  },
+  "fresh_process": true,
+  "input_hashes": {
+    "plan.txt": "98a2f84affdeb7a2962119659efb55091464c370b7d96a59d10e810339d5c767",
+    "stock.txt": "4029122d7ec011ff44eca215eadbd84a30b2442685b0587ba1fef750307ed062"
+  },
+  "inputs_unchanged": true,
+  "no_symlinks": true,
+  "isolation": "Outer bubblewrap hides project and host /tmp and masks known session, archive and attachment paths; mounts current fictional files and configured Codex runtime directories. Other host paths, configuration, metadata and auth remain visible, so isolation is incomplete; network isolation not independently proven. No UGREEN experts."
+}

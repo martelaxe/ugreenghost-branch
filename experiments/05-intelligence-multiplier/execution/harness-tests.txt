@@ -1,0 +1,11 @@
+test_bounded_retrieval_reports_truncation_and_omission (test_harness.HarnessTests.test_bounded_retrieval_reports_truncation_and_omission) ... ok
+test_invented_quotes_rejected (test_harness.HarnessTests.test_invented_quotes_rejected) ... ok
+test_malformed_json_abstention (test_harness.HarnessTests.test_malformed_json_abstention) ... ok
+test_one_source_is_insufficient (test_harness.HarnessTests.test_one_source_is_insufficient) ... ok
+test_unknown_path_rejected (test_harness.HarnessTests.test_unknown_path_rejected) ... ok
+test_valid_quotes (test_harness.HarnessTests.test_valid_quotes) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.001s
+
+OK

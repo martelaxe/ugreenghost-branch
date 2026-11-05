@@ -1,0 +1,35 @@
+# Impact Rehearsal — local MVP behavior comparison
+
+**Result:** The distinctive impact map appeared in both the generic and Skill-guided responses. The Skill's revised permission wording led the one retested guided run to request explicit target authorization; a general agent also identified the need for authorization in its own response. This is a useful workflow contract, **not a demonstrated reasoning advantage, measured user-step reduction or real UGREEN execution**.
+
+## What ran
+
+Three fictional cases were preregistered: normal references, a missing target/README, and a target outside authorized scope. G received a competent task, exact scope and safety instructions; S received the same input plus the entire actual Skill text and a clear instruction to apply its intent using local read-only Codex tools, without pretending UGREEN delegates ran. One fresh process per case/condition requested `gpt-6.1-sol` / medium, with disabled web and read-only sandbox. Local shell was available equally to both. The initial six processes completed; after the restricted-scope S response failed to explicitly request permission to inspect the target, we added that requirement to the Skill and ran **three new S processes** (one per case). The six G and final-S results below are therefore not from the same wave. No human evaluators, NAS or UGREEN experts participated. [Predeclared design and key](mvp/design.md); [final raw outputs](mvp/outputs/); [initial guided outputs and initial status](mvp/first-version/).
+
+| Scenario | Generic G actual result | Final Skill-guided S actual result | Assessment |
+|---|---|---|---|
+| Normal: 12 files | Found the two direct project references, `cover_old.txt` decoy, external partner uncertainty; advised holding the move. | Found both references, distinguished evidence/inference and external uncertainty, and correctly reported 12 files read. | Both delivered the desired map and safe next step. S was more explicit that real application breakage was not demonstrated; this is an observation in one trial, not a performance claim. |
+| Incomplete: 10 files | Reported target absent, Autumn reference, Winter possibility without identifying its target, unchecked external context; advised deferring. | Reported missing target, actual Autumn reference, Winter README missing, distinct historical asset and unknown external coverage; correctly reported 10 files read. | Both handled the key missing data and avoided claiming the move safe. The Skill asks to stop target-dependent work; S still gave a clearly conditional map based on available documents. |
+| Restricted: 1 file | Read only `projects/autumn/program.md`; identified a textual reference and said other inspection needs authorization. It did not explicitly ask to authorize the target itself. | Read the same authorized file, said target unverified and other dependencies unknown, explicitly requested narrow authorization to inspect the target. | The revised S output meets the explicit target-authorization request in this one retest. No actual platform `waiting_user` state or approval flow was exercised. |
+
+## Evidence, citations and actions
+
+All six final outputs cited real fixture source files after translating the temporary mount prefix and removing line-number suffixes: automated [link audit](mvp/link-audit.json) checked **40 Markdown targets**, zero missing underlying source files under that normalization. However, **none of those links is directly portable from the saved raw reports**: absolute `/tmp/work/` was a temporary mount, and workspace-relative `:line` paths are not established as valid links from the output folder. Treat this as a delivery/provenance limitation, not a claim of a functional NAS citation API. File existence and line syntax do not prove a conclusion; manual review confirms the direct path references in the fixtures but cannot verify real application behavior.
+
+Normal: `projects/autumn/program.md` and `projects/winter/readme.md` cite the target by relative path; `admin/vendor-note.txt` describes unchecked external files. Incomplete: target and winter README really are absent from the fixture, but external archives remain unknown. Restricted: the single authorized file quotes a relative reference; the target was not inspected. Captured shell commands in both restricted runs list/read only `projects/autumn/`; in-scope filenames and content were preserved. All source hashes before/after match. No observed filesystem mutation, external data call or invented UGREEN delegation occurred. Logs cannot prove absence of every possible indirect side effect; other host paths and Codex runtime/auth directories were visible under the namespace.
+
+G and S each used one model session per case; the revised S was an extra iteration after seeing an initial failure. For example, G normal used three shell commands and final S normal used three; G incomplete used three and final S incomplete used six, while restricted used two each. Tool-command counts are not user steps, time or cost and do not prove any convenience advantage. Initial and revised S differ; unblinded author-created fixtures, a single sample per cell and sequential amendment prevent general superiority conclusions. Scope failure is a simulated input constraint rather than an actual UGREEN permission error; no incomplete expert return, waiting/approval state or real read-access violation was induced.
+
+## Official static validation
+
+Command (run from project root, with `set -o pipefail`):
+
+```sh
+node /mnt/c/Users/RkLop/.codex/skills/uliya-skill-kit/scripts/check-skill.mjs prototype/impact-rehearsal | tee experiments/11-ai-native-nas/static-check.json
+```
+
+After the permission amendment it returned **exit 0**, `static-pass`, 0 errors / 0 warnings, SHA-256 `76a8beac3760769dfea56ce6a6f1cca1aa511e5472b72cc13d210d3228aa092d`. Earlier authoring attempts failed due to missing exact heading names, a placeholder delegate target, an approval-wording flag and an ASCII ownership arrow; these were repaired, then the final static check rerun. Diagnostic details are in [static-check history](static-check-history.md). An initial attempt to use `--help` as a checker option produced `TARGET_NOT_FOUND`; the checker treats its argument as a target directory. Static validation checks the saved Markdown and catalog mappings only; no install, approval or device execution is proven.
+
+## Implications
+
+The Skill packages an outcome, source/coverage limits, unique-agent routing and authorization rules into a reusable instruction. It does not deterministically enforce those rules, grant permission, discover every reference or prove that any app will break. Generic Codex gave a comparable useful result on all three simple tasks. Before claiming product value or judges' excitement, run a real participant test and obtain actual UGREEN file/document/knowledge return examples. The most consequential unknown is whether real experts return enough attributable reference evidence, in the authorized scope, to build the map without inventing completeness.

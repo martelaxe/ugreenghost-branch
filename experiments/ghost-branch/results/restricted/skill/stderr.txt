@@ -1,0 +1,2 @@
+WARNING: failed to clean up stale arg0 temp dirs: Permission denied (os error 13)
+2026-10-28T03:17:01.106984Z  WARN codex_core::hook_runtime: after_agent hook failed; continuing turn_id=01a18082-9f3a-7ec3-a80e-e6f042413986 hook_name=legacy_notify error=No such file or directory (os error 2)

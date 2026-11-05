@@ -1,0 +1,1 @@
+Expected source shared/q7.svg; target projects/cedar/assets/lantern-banner.svg; evidence layout, review, design register, production register, SVG title and winter shared reference. Do not inspect external printer. Filename alone and hashes are insufficient identity.

@@ -1,0 +1,1 @@
+Draft invoice INV-22 amount 1000 units; superseded by final invoice.

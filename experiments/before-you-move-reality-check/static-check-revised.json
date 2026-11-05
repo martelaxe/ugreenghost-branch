@@ -1,0 +1,34 @@
+{
+  "checkFormatVersion": "2.0.0",
+  "status": "static-pass",
+  "target": {
+    "skillName": "final-flagship"
+  },
+  "catalog": {
+    "checkedVersion": "2.0.0"
+  },
+  "files": [
+    {
+      "path": "references/evidence-and-output.md",
+      "sha256": "bb66b795dd4bdeb03e8cda10fa6364a6266c08d861697253dd2df98d4b4d96f6"
+    },
+    {
+      "path": "references/safety-and-disclosure.md",
+      "sha256": "2207714a48b1ebd09ad5336bc9c48ea4100e4fa2ab6df0caccde5f3517e3b195"
+    },
+    {
+      "path": "references/workflow.md",
+      "sha256": "4ff5a28b21500c247e9c8afed5b2ac20c045e794967a1a72c715f34ef3f13164"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "121be7dc2840489807f0419281661cb1610b589c85811b325e1fdd315cdf40a8"
+    }
+  ],
+  "summary": {
+    "errors": 0,
+    "warnings": 0,
+    "info": 0
+  },
+  "diagnostics": []
+}

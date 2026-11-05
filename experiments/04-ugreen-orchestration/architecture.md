@@ -1,0 +1,36 @@
+# Minimal evidence-discovery orchestration
+
+## Objective and boundaries
+
+For an explicitly authorized folder, identify at most one potentially useful cross-file connection; show exact sources, coverage gaps, uncertainty, blockers and a safe next action. A finding is a hypothesis, not proof that a recommendation is legally, technically or practically safe. The default path reads only: it neither writes, moves, shares, deletes nor contacts anyone.
+
+The local mock tests state and evidence handling. The illustrative [draft Skill](draft/evidence-discovery-draft/SKILL.md) uses the official Skill format, but no NAS workflow has been run.
+
+## Documented agent/action/parameter map
+
+Source: installed kit 0.7.3's [`data/capability-catalog.json`](../../resources/uliya-skill-kit/data/capability-catalog.json), catalog version 2.0.0, SHA-256 `c927fd8e233696cd152baf98468368912c13c08aabeac353f0ee95c46c0428e6`. It matches the downloaded project copy. The corresponding catalog CLI/action names and parameter descriptions are the primary source for this table. The [`skill-development-standard.md`](../../resources/uliya-skill-kit/docs/skill-development-standard.md), [`expert-orchestration.md`](../../resources/uliya-skill-kit/references/expert-orchestration.md), [`cli-usage-rules.md`](../../resources/uliya-skill-kit/references/cli-usage-rules.md), [`safety-and-approval.md`](../../resources/uliya-skill-kit/references/safety-and-approval.md), and [`completion-and-errors.md`](../../resources/uliya-skill-kit/references/completion-and-errors.md) describe the orchestration boundary.
+
+The values below are *requirements for assembled expert instructions*, not direct parent CLI calls. The child expert selects and executes its own documented actions and parameters. No undocumented field is required of the real NAS by this design.
+
+| Step | Official mapping and documented parameters | Instruction / result boundary | Unverified |
+| --- | --- | --- | --- |
+| 0. Scope | User supplies the folder; no CLI parameter for parent input is asserted. | Ask for explicit authorized scope and optional objective/limits; stop if absent. | Permission model, user interface and exact scope-resolution mechanism. |
+| 1. Inventory | `ug-filesystem` → `file-agent`, action `find`: `path` required; `pattern`, `type`, `max-depth`, `limit` optional. `type` supports `file` and other catalog enums; depth and limit are non-negative. | Ask the expert to list relevant real paths inside the authorized `path`, any limits and access failures. Use actual returned results only. | Whether returned results expose pagination/completeness or all denied paths; whether types cover the user's files. A `limit` is a bound, not proof of complete coverage. |
+| 2. Read/compare | `ug-document` → `document-agent`, action `qa`: `query` required; repeatable `file`, `intent` (including `comparison`), `content-scope` (`auto`, `preview`, `full`), `max-files` (1–200, default 60), and `body-cap` (minimum 1000) are cataloged. `reconcile` is also read-only, with optional `query`, repeatable `file` and `max-files` (1–200, default 60). | Ask for source-grounded facts and contradictory evidence from actual discovered paths. Pass only available completed inventory results; report unreadable files and truncation. | Text/CSV/PDF format behavior, complete reading even with `full`, exact excerpts, per-file coverage and comparison quality. The limits do not establish complete processing. |
+| 3. Evidence | `ug-knowledge` → `knowledge-agent`, `collect-evidence`: `query` required; repeatable `path` and `extension` and boolean `full` optional. Catalog return summary mentions `evidence`, sources, coverage and failures/warnings. | Ask for supporting and opposing evidence within authorized scope, using only real returned paths and an objective; preserve provenance and report missing coverage. | Source-reference format, `full` semantics, result completeness and actual scope enforcement. Do not assume a specific JSON schema from the catalog summary. |
+| 4. Respond | The kit requires parent orchestration and completion/failure reporting; it does **not** specify an independently verified final-report API for this task. | Proposed method: the parent returns a plain-language response synthesizing completed, source-grounded expert results. If no result is supportable, say so; include scope, exact references, gaps, uncertainty, blockers and safe next action. | Whether the deployed parent model can reliably combine the three outputs, cite exact evidence and generate useful new hypotheses. The kit's generic instructions are not runtime proof of this method. |
+
+Each child delegation uses the documented `delegate --target <agent-id> --instruction '<task>'` pattern. A real final instruction must contain the user's actual scope and the preceding expert's real returned paths, not guessed paths or unresolved placeholder text. The hard-coded command examples in the draft are static illustrations of the syntax; the preceding text requires assembly from actual values. The [`contract-invoice-audit.md`](../../resources/uliya-skill-kit/references/examples/contract-invoice-audit.md) example supports passing actual document-comparison results to `knowledge-agent`, but does not establish this broader investigation behavior.
+
+The three reads have `effect: read` and `approval: none` in the catalog, but permissions and prerequisites are listed as unknown. They can still fail or request information/approval at runtime; do not treat catalog flags as a guarantee. Never infer that an approval is granted or that unauthorized files may be read. An optional saved report would use `ug-knowledge:save-text` → `knowledge-agent`, a workflow-approved state change, and is **outside this minimal read-only flow**.
+
+## State and evidence rules
+
+- Continue only after `completed` and actual required business results; `failed`, `cancelled`, `waiting_user` and `waiting_approval` stop dependent stages and are reported as such. Empty results do not justify broadening scope.
+- Treat a missing source, unsupported format, unknown/partial coverage or absent provenance as an explicit limitation. Preserve available completed evidence; do not manufacture a discovery or a source reference.
+- A critical, source-supported restriction changes the safe next step. Never recommend proceeding with a blocked action merely because a lower-priority source suggests capacity.
+- The mock's fictional roles and exact-string checks stand in for a possible evidence contract; neither its schemas nor its role mapping are documented by UGREEN.
+
+## How the local envelopes relate to official documentation
+
+The catalog gives a **generic CLI result envelope**: success `{ "ok": true, "data": {} }` and failure `{ "ok": false, "error": {} }`. The mock wraps this in `{ "status": ..., "result": ... }` and invents fields including `paths`, `documents`, `coverage.complete`, `evidence`, `quote`, `role` and `blocker`. These are clearly hypothetical adapter fields used to exercise conservative gates; the real nesting, business fields, `status` representation, and supported provenance/coverage signals are **unknown**. A catalog action is not a mock function and the mock never invokes `delegate`, the CLI or a model.

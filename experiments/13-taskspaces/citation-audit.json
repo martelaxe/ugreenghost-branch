@@ -1,0 +1,107 @@
+[
+  {
+    "report": "prototypes/A/runs/G/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 25,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "prototypes/A/runs/M/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 14,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "prototypes/A/runs/T/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 25,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "prototypes/B/runs/G/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 39,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "prototypes/B/runs/M/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 27,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "prototypes/B/runs/T/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 37,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "prototypes/C/runs/G/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 23,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "prototypes/C/runs/M/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 22,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "prototypes/C/runs/T/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 12,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "wow-case/runs/G/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 18,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "wow-case/runs/M/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 12,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "wow-case/runs/T/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 14,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "wow-case/future/runs/G/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 16,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "wow-case/future/runs/M/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 20,
+    "broken_links": [],
+    "contains_injection_token": false
+  },
+  {
+    "report": "wow-case/future/runs/T/response.md",
+    "source_fixture_unchanged": true,
+    "local_links": 15,
+    "broken_links": [],
+    "contains_injection_token": false
+  }
+]

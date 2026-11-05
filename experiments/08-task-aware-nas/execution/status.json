@@ -1,0 +1,193 @@
+{
+  "run_dir": "/tmp/ugreen08-gij7bf_s",
+  "results": [
+    {
+      "case": "A",
+      "method": "G",
+      "exit": 0,
+      "seconds": 15.62,
+      "workspace": "/tmp/ugreen08-gij7bf_s/ws-A-G",
+      "initial_hashes": {
+        "other/old-feb.txt": "c5943252201cafe5b13749e71aa8e55b04bbc93d1e0454c88bff7b25774a5c47",
+        "other/feb.txt": "8b903e848fc18186935f88b84ab2219b1191ccc8502f59061a0d638202184b9d",
+        "current/agreement.txt": "8c62c6b6e7b8321204ac9b46a0e48746f64772abfc247d2c8f17dc1adaa86808",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_hashes": {
+        "other/old-feb.txt": "c5943252201cafe5b13749e71aa8e55b04bbc93d1e0454c88bff7b25774a5c47",
+        "other/feb.txt": "8b903e848fc18186935f88b84ab2219b1191ccc8502f59061a0d638202184b9d",
+        "current/agreement.txt": "8c62c6b6e7b8321204ac9b46a0e48746f64772abfc247d2c8f17dc1adaa86808",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_exists": true,
+      "model_requested": "gpt-6-luna",
+      "effort_requested": "low"
+    },
+    {
+      "case": "A",
+      "method": "S",
+      "exit": 0,
+      "seconds": 14.94,
+      "workspace": "/tmp/ugreen08-gij7bf_s/ws-A-S",
+      "initial_hashes": {
+        "other/old-feb.txt": "c5943252201cafe5b13749e71aa8e55b04bbc93d1e0454c88bff7b25774a5c47",
+        "other/feb.txt": "8b903e848fc18186935f88b84ab2219b1191ccc8502f59061a0d638202184b9d",
+        "current/agreement.txt": "8c62c6b6e7b8321204ac9b46a0e48746f64772abfc247d2c8f17dc1adaa86808",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_hashes": {
+        "other/old-feb.txt": "c5943252201cafe5b13749e71aa8e55b04bbc93d1e0454c88bff7b25774a5c47",
+        "other/feb.txt": "8b903e848fc18186935f88b84ab2219b1191ccc8502f59061a0d638202184b9d",
+        "current/agreement.txt": "8c62c6b6e7b8321204ac9b46a0e48746f64772abfc247d2c8f17dc1adaa86808",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_exists": true,
+      "model_requested": "gpt-6-luna",
+      "effort_requested": "low"
+    },
+    {
+      "case": "B",
+      "method": "G",
+      "exit": 0,
+      "seconds": 16.72,
+      "workspace": "/tmp/ugreen08-gij7bf_s/ws-B-G",
+      "initial_hashes": {
+        "other/old-feb.txt": "c5943252201cafe5b13749e71aa8e55b04bbc93d1e0454c88bff7b25774a5c47",
+        "other/scheduling.txt": "7ad4ea34143e7c2adc504a98db5b926faffd9ad532a382470fda31827dfc88d1",
+        "current/agreement.txt": "2216b26482feac3f18a9532402b9cf8414f72ccf24671c460f4629a9018cffe8",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_hashes": {
+        "other/old-feb.txt": "c5943252201cafe5b13749e71aa8e55b04bbc93d1e0454c88bff7b25774a5c47",
+        "other/scheduling.txt": "7ad4ea34143e7c2adc504a98db5b926faffd9ad532a382470fda31827dfc88d1",
+        "current/agreement.txt": "2216b26482feac3f18a9532402b9cf8414f72ccf24671c460f4629a9018cffe8",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_exists": true,
+      "model_requested": "gpt-6-luna",
+      "effort_requested": "low"
+    },
+    {
+      "case": "B",
+      "method": "S",
+      "exit": 0,
+      "seconds": 14.84,
+      "workspace": "/tmp/ugreen08-gij7bf_s/ws-B-S",
+      "initial_hashes": {
+        "other/old-feb.txt": "c5943252201cafe5b13749e71aa8e55b04bbc93d1e0454c88bff7b25774a5c47",
+        "other/scheduling.txt": "7ad4ea34143e7c2adc504a98db5b926faffd9ad532a382470fda31827dfc88d1",
+        "current/agreement.txt": "2216b26482feac3f18a9532402b9cf8414f72ccf24671c460f4629a9018cffe8",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_hashes": {
+        "other/old-feb.txt": "c5943252201cafe5b13749e71aa8e55b04bbc93d1e0454c88bff7b25774a5c47",
+        "other/scheduling.txt": "7ad4ea34143e7c2adc504a98db5b926faffd9ad532a382470fda31827dfc88d1",
+        "current/agreement.txt": "2216b26482feac3f18a9532402b9cf8414f72ccf24671c460f4629a9018cffe8",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_exists": true,
+      "model_requested": "gpt-6-luna",
+      "effort_requested": "low"
+    },
+    {
+      "case": "C",
+      "method": "G",
+      "exit": 0,
+      "seconds": 13.34,
+      "workspace": "/tmp/ugreen08-gij7bf_s/ws-C-G",
+      "initial_hashes": {
+        "other/feb-draft.txt": "d9ecc1d0c406f209d298432a83ff7e9f0c16de5bdb8eded5ece9481efd28bff8",
+        "other/feb-revision.txt": "fec2dc38de3b9f56f264b5e1605c4caa7693222fb069c4105c7a4d33bc34e49b",
+        "current/agreement.txt": "85539f079d8eadf1b28387e38e9c6c77852497d7bef38a2c448cfccf45184a3b",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_hashes": {
+        "other/feb-draft.txt": "d9ecc1d0c406f209d298432a83ff7e9f0c16de5bdb8eded5ece9481efd28bff8",
+        "other/feb-revision.txt": "fec2dc38de3b9f56f264b5e1605c4caa7693222fb069c4105c7a4d33bc34e49b",
+        "current/agreement.txt": "85539f079d8eadf1b28387e38e9c6c77852497d7bef38a2c448cfccf45184a3b",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_exists": true,
+      "model_requested": "gpt-6-luna",
+      "effort_requested": "low"
+    },
+    {
+      "case": "C",
+      "method": "S",
+      "exit": 0,
+      "seconds": 14.23,
+      "workspace": "/tmp/ugreen08-gij7bf_s/ws-C-S",
+      "initial_hashes": {
+        "other/feb-draft.txt": "d9ecc1d0c406f209d298432a83ff7e9f0c16de5bdb8eded5ece9481efd28bff8",
+        "other/feb-revision.txt": "fec2dc38de3b9f56f264b5e1605c4caa7693222fb069c4105c7a4d33bc34e49b",
+        "current/agreement.txt": "85539f079d8eadf1b28387e38e9c6c77852497d7bef38a2c448cfccf45184a3b",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_hashes": {
+        "other/feb-draft.txt": "d9ecc1d0c406f209d298432a83ff7e9f0c16de5bdb8eded5ece9481efd28bff8",
+        "other/feb-revision.txt": "fec2dc38de3b9f56f264b5e1605c4caa7693222fb069c4105c7a4d33bc34e49b",
+        "current/agreement.txt": "85539f079d8eadf1b28387e38e9c6c77852497d7bef38a2c448cfccf45184a3b",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_exists": true,
+      "model_requested": "gpt-6-luna",
+      "effort_requested": "low"
+    },
+    {
+      "case": "D",
+      "method": "G",
+      "exit": 0,
+      "seconds": 13.63,
+      "workspace": "/tmp/ugreen08-gij7bf_s/ws-D-G",
+      "initial_hashes": {
+        "current/agreement.txt": "7b6829b87ccc0a1c97cbd13278b23b3d81116f7e5310002e9d5f71b10b75fdaf",
+        "current/scope.txt": "10dc5c0ae998477510df4b3cd9e130fb13b0524ba708b79780cd21d0368fbb4a",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_hashes": {
+        "current/agreement.txt": "7b6829b87ccc0a1c97cbd13278b23b3d81116f7e5310002e9d5f71b10b75fdaf",
+        "current/scope.txt": "10dc5c0ae998477510df4b3cd9e130fb13b0524ba708b79780cd21d0368fbb4a",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_exists": true,
+      "model_requested": "gpt-6-luna",
+      "effort_requested": "low"
+    },
+    {
+      "case": "D",
+      "method": "S",
+      "exit": 0,
+      "seconds": 12.08,
+      "workspace": "/tmp/ugreen08-gij7bf_s/ws-D-S",
+      "initial_hashes": {
+        "current/agreement.txt": "7b6829b87ccc0a1c97cbd13278b23b3d81116f7e5310002e9d5f71b10b75fdaf",
+        "current/scope.txt": "10dc5c0ae998477510df4b3cd9e130fb13b0524ba708b79780cd21d0368fbb4a",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_hashes": {
+        "current/agreement.txt": "7b6829b87ccc0a1c97cbd13278b23b3d81116f7e5310002e9d5f71b10b75fdaf",
+        "current/scope.txt": "10dc5c0ae998477510df4b3cd9e130fb13b0524ba708b79780cd21d0368fbb4a",
+        "current/jan.txt": "6f9e95f0ec36debeb7007746632548172c66a48024f6685a31b00afe3a21013a",
+        "current/mar.txt": "e10d6b7017e0c36ef986b32cbd513fc817170571a8e98c675fc8bc8d2154ea69"
+      },
+      "final_exists": true,
+      "model_requested": "gpt-6-luna",
+      "effort_requested": "low"
+    }
+  ]
+}

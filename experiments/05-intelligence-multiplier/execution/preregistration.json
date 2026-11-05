@@ -1,0 +1,16 @@
+{
+  "frozen_utc": "2026-10-26T22:28:06.015751+00:00",
+  "note": "Frozen before any benchmark investigations; technical preflight used unrelated sample.",
+  "hashes": {
+    "private/answer-key.md": "eaf5170228c1cbe8e1662f5eb6e257869773b538c73f69a819384a6c7f35670a",
+    "evaluation-rubric.md": "5ab6406a4ec8f855105689804af656e3d0f44759e4df0575477a1c191828c36c",
+    "generic-prompt.md": "b0761d432ca95ead15dc10569680d66055753c345110562536ddb9dd9151aa5e",
+    "specialized-prompt.md": "f54bc2a70d411f5f9acea4215ea3fec3e8401ed869729f64bdbaf6e8bb09df90",
+    "harness-design.md": "e127021818cca385e3447915a7a273abf97c59d6d1c84b6f64d4214e0f5d6229",
+    "benchmark-design.md": "8e5771d01b2e5628cd2a51e951235a957209dab4088013b1fd5301366b1da6d2",
+    "implementation/harness.py": "6a073c75397ba4d2ff2c11177b5ab948228ee5e0e5472c1d76f6a4bdd1f596a4",
+    "implementation/create_archives.py": "529b5231410dd07149311e310c8aee4333200669e0cc9f213ae68eff8259181c",
+    "execution/source-manifest.json": "a2a15b5c08fa1c22874eae5d61d8151a23c1461b0fa05fc644a49b74acef7c22",
+    "execution/ab-diff.patch": "37db4fb5afb1ddf0a19e608e2cd17f1d2789b79335a49156afe2790fb0a2573d"
+  }
+}

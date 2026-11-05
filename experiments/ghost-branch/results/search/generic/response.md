@@ -1,0 +1,5 @@
+The old title filter does **not appear to need recovery**. Its file is absent from `current/`, but the same behavior is present in [queryIndex.ts](/tmp/ghost-local-v42hu0zx/current/src/search/queryIndex.ts:1): both it and the [laptop copy](/tmp/ghost-local-v42hu0zx/laptop/src/ui/filterBox.ts:1) trim and lowercase the query, then match it against lowercase titles. [RecordFinder.ts](/tmp/ghost-local-v42hu0zx/current/src/ui/RecordFinder.ts:1) calls the current filter.
+
+The [migration note](/tmp/ghost-local-v42hu0zx/current/docs/search-migration.md:1) also says the behavior moved and the old file could be retired. I found no conflicting title-filter evidence in `archive/`.
+
+This conclusion applies to the inspected source snapshots. The [current README](/tmp/ghost-local-v42hu0zx/current/README.md:1) says the snapshot may be incomplete, so it does not establish what is deployed or whether the full interface works.

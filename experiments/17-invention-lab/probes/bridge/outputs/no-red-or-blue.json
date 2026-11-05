@@ -1,0 +1,15 @@
+{
+  "excluded_declared_colors": [
+    "blue",
+    "red"
+  ],
+  "selected": {
+    "arrival": null,
+    "workshop": null,
+    "ending": "fictional-assets/ending-green.svg"
+  },
+  "missing_roles": [
+    "arrival",
+    "workshop"
+  ]
+}

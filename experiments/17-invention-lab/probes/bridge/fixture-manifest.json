@@ -1,0 +1,32 @@
+[
+  {
+    "path": "fictional-assets/arrival-red.svg",
+    "role": "arrival",
+    "declared_color": "red",
+    "declared_subject": "people arrive"
+  },
+  {
+    "path": "fictional-assets/arrival-blue.svg",
+    "role": "arrival",
+    "declared_color": "blue",
+    "declared_subject": "people arrive"
+  },
+  {
+    "path": "fictional-assets/workshop-red.svg",
+    "role": "workshop",
+    "declared_color": "red",
+    "declared_subject": "hands build together"
+  },
+  {
+    "path": "fictional-assets/workshop-blue.svg",
+    "role": "workshop",
+    "declared_color": "blue",
+    "declared_subject": "hands build together"
+  },
+  {
+    "path": "fictional-assets/ending-green.svg",
+    "role": "ending",
+    "declared_color": "green",
+    "declared_subject": "display opens"
+  }
+]

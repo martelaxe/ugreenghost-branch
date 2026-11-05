@@ -1,0 +1,103 @@
+{
+  "checkFormatVersion": "2.0.0",
+  "status": "not-uploadable",
+  "target": {
+    "skillName": "before-you-move"
+  },
+  "catalog": {
+    "checkedVersion": "2.0.0"
+  },
+  "files": [
+    {
+      "path": "references/evidence-and-output.md",
+      "sha256": "75e7e63977cd3ef79c0167fa58042a9efa22dfbe71e93dcd33c341d4b410f41f"
+    },
+    {
+      "path": "references/safety-and-disclosure.md",
+      "sha256": "2207714a48b1ebd09ad5336bc9c48ea4100e4fa2ab6df0caccde5f3517e3b195"
+    },
+    {
+      "path": "references/workflow.md",
+      "sha256": "9aea40ba90623c6098a0cb8e39d066be5baa81a43b3504e32fae2fc811d06c2f"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "44b9ba170b88493d8584c9075a544ccff1d7456d2486230db6b28db20aaf0d69"
+    }
+  ],
+  "summary": {
+    "errors": 7,
+    "warnings": 2,
+    "info": 0
+  },
+  "diagnostics": [
+    {
+      "code": "SKILL_NAME_MISMATCH",
+      "severity": "error",
+      "file": "SKILL.md",
+      "line": 2,
+      "message": "目录名与 frontmatter name 不一致。",
+      "suggestion": "把目录名和 name 统一为小写短横线名称。"
+    },
+    {
+      "code": "DESCRIPTION_TRIGGER_MISSING",
+      "severity": "warning",
+      "file": "SKILL.md",
+      "line": 3,
+      "message": "description 没有明确说明用户触发场景。",
+      "suggestion": "补充用户实际会说的触发表达，同时保持 description 只承担索引作用。"
+    },
+    {
+      "code": "DELEGATE_DYNAMIC_VALUE_UNRESOLVED",
+      "severity": "warning",
+      "file": "SKILL.md",
+      "line": 20,
+      "message": "delegate instruction 含未解析占位符或跨步骤指代。",
+      "suggestion": "组装最终命令时替换为真实 delegation 结果；无法取得时停止依赖步骤。"
+    },
+    {
+      "code": "DELEGATE_TARGET_UNKNOWN",
+      "severity": "error",
+      "file": "SKILL.md",
+      "line": 20,
+      "message": "delegate target 不是 full 主专家已注册子专家。",
+      "suggestion": "改用六个公开目标之一。"
+    },
+    {
+      "code": "SECURITY_UNREGISTERED_AGENT",
+      "severity": "error",
+      "file": "SKILL.md",
+      "line": 20,
+      "message": "Skill 使用了未注册 Agent。",
+      "suggestion": "删除或替换为公开子专家 target。"
+    },
+    {
+      "code": "SKILL_REQUIRED_SECTION_MISSING",
+      "severity": "error",
+      "file": "SKILL.md",
+      "message": "SKILL.md 缺少必需章节：目标。",
+      "suggestion": "按编排型 Skill 契约补充该章节。"
+    },
+    {
+      "code": "SKILL_REQUIRED_SECTION_MISSING",
+      "severity": "error",
+      "file": "SKILL.md",
+      "message": "SKILL.md 缺少必需章节：必需输入。",
+      "suggestion": "按编排型 Skill 契约补充该章节。"
+    },
+    {
+      "code": "SKILL_REQUIRED_SECTION_MISSING",
+      "severity": "error",
+      "file": "SKILL.md",
+      "message": "SKILL.md 缺少必需章节：专家编排。",
+      "suggestion": "按编排型 Skill 契约补充该章节。"
+    },
+    {
+      "code": "SKILL_REQUIRED_SECTION_MISSING",
+      "severity": "error",
+      "file": "SKILL.md",
+      "message": "SKILL.md 缺少必需章节：完成与失败。",
+      "suggestion": "按编排型 Skill 契约补充该章节。"
+    }
+  ]
+}

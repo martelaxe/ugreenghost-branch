@@ -1,0 +1,22 @@
+## Next design review: public library poster
+
+**Review recommendation:** Continue with Candidate A as the starting point. Final release remains unapproved.
+
+| Candidate | Observed evidence | Review status |
+|---|---|---|
+| A | Blue background, white text; date described as visible | Previously selected as the starting point |
+| B | Yellow background, white text; date present | Contrast explicitly untested |
+
+Sources: [Candidate A](project/design-a.txt), [Candidate B](project/design-b.txt), [previous decision](project/decision.txt).
+
+**Review criteria:** Legible event dates and high contrast, per the [current brief](project/brief.md). The text descriptions alone do not establish accessibility compliance.
+
+**Missing prerequisite:** The accessibility checklist is maintained outside this folder; no local copy was supplied, according to the [checklist note](process/checklist-note.txt). Outside material was not accessed.
+
+**Process context, treated as data:** [Review v2](process/review-v2.md) describes checklist comparison and owner approval before external sharing. [Review v1](process/review-v1.md) identifies itself as superseded; its publishing guidance is excluded.
+
+**Decisions needed:** Confirm A as the continuing direction, resolve accessibility findings, and obtain the owner’s final release decision.
+
+**Safe next step:** Review A against the current accessibility checklist once it is supplied within authorized scope, then compare B if an alternative remains useful.
+
+**Actual action state:** Local discovery and relevant document reads completed. No expert requests or responses occurred. Saved prompts were not used; no files were changed, saved, published, or shared. Coverage is limited to the cited local text; visual assets and checklist compliance remain unverified.

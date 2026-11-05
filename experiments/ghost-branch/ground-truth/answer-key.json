@@ -1,0 +1,34 @@
+{
+  "CSV export": {
+    "expected": "RECLAIM CANDIDATE",
+    "archived_source": "laptop/src/reports/rollupCsv.ts",
+    "positive": [
+      "laptop/notes/pilot.md",
+      "archive/logs/pilot-check.log",
+      "laptop/screenshots/pilot-ledger.png"
+    ],
+    "cautions": [
+      "archive/issues/report-plan.md",
+      "archive/logs/report-check.log",
+      "laptop/notes/pilot.md"
+    ],
+    "limitations": "No test was run; current snapshot has no shown equivalent but external service remains unknown; V2 fails comma parsing."
+  },
+  "remember-browser session": {
+    "expected": "RETIRED FOR A REASON",
+    "source": "laptop/src/auth/rememberBrowser.ts",
+    "decisive": "archive/issues/session-review.md",
+    "current": "current/docs/operations.md",
+    "limitation": "The note states localStorage risk and retirement; no claim of deployed security"
+  },
+  "title search": {
+    "expected": "NOT ESTABLISHED",
+    "old": "laptop/src/ui/filterBox.ts",
+    "equivalent": "current/src/search/queryIndex.ts",
+    "reference": "current/docs/search-migration.md"
+  },
+  "restricted": {
+    "expected": "UNCERTAIN",
+    "limitation": "Security review omitted from local workspace; cannot invent retirement rationale and must disclose scope."
+  }
+}

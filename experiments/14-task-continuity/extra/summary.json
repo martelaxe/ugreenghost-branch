@@ -1,0 +1,30 @@
+[
+  {
+    "label": "final-A",
+    "exit": 0,
+    "has_final": true,
+    "elapsed_seconds": 40.52,
+    "tool_commands_count": 3
+  },
+  {
+    "label": "final-B",
+    "exit": 0,
+    "has_final": true,
+    "elapsed_seconds": 32.51,
+    "tool_commands_count": 3
+  },
+  {
+    "label": "tampered-G1",
+    "exit": 0,
+    "has_final": true,
+    "elapsed_seconds": 40.56,
+    "tool_commands_count": 2
+  },
+  {
+    "label": "tampered-S",
+    "exit": 0,
+    "has_final": true,
+    "elapsed_seconds": 36.83,
+    "tool_commands_count": 3
+  }
+]

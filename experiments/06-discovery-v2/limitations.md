@@ -1,0 +1,10 @@
+# Limits and unresolved questions
+
+- No real NAS, UGREEN expert, model-generated semantic verifier or participant was used. The redesign responds to known failures using deterministic rules and mocked review; no new blind benchmark has demonstrated better discovery accuracy or reduced false positives.
+- Verifier output is not independently trustworthy. Exact text matching does not prove a source supports a claim, that the source is true, or that there are no omitted blockers. Simulated semantic labels are hand-authored. A `SUPPORTED` local result is conditional on these unverified inputs and does not authorize action.
+- Real delegate output schemas, source IDs, excerpts, coverage/truncation flags, states, handoff preservation, model reasoning and final response behavior remain unknown. A catalog flag or `static-pass` does not prove these.
+- Empty/incomplete coverage cannot establish that no opportunity exists. The missing-reference detector only identifies certain `.pdf` basenames and may miss paths, unsupported formats or unseen sources. The local inventory has no security-grade protections against filesystem races and cannot certify global completeness.
+- The mock handoff envelopes are illustrative data structures, not real UGREEN return fields. The Python engine and tests are research-only and cannot be packaged inside the Skill.
+- Parent-model interpretation of Markdown, candidate retention, semantic checks and classifications is not executable code guaranteed by the checker. Report safety still relies on real expert behavior and authorized user/platform approval.
+- The read-only Skill does not save or organize files. It may suggest groupings in text; saving, moving, sharing, external communications, background monitoring, multi-NAS coordination, graphs and history restoration are not implemented.
+- No final submission PDF or ZIP has been created. Round 1 preparation can proceed conditionally, but the proposed benefit, underlying supported capabilities, disclosures and untested status must be represented honestly.

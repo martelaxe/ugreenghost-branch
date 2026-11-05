@@ -1,0 +1,888 @@
+{
+  "run_count": 9,
+  "links": 133,
+  "raw_resolve": 0,
+  "mapped_exists": 133,
+  "all_inputs_unchanged": true,
+  "runs": [
+    {
+      "run": "A-G0",
+      "links": [
+        {
+          "link": "/tmp/work/event/venue-confirmation.eml",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/cost.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/timeline.csv",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/roles.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/supplies.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/admin/contact.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/icon-clearance.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/photo-consent.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/release-form.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/old-draft.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/distribution-policy.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/plan.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/quote.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        }
+      ],
+      "input_unchanged": true,
+      "tool_commands": 2,
+      "elapsed_seconds": 31.92,
+      "exit": 0
+    },
+    {
+      "run": "A-G1",
+      "links": [
+        {
+          "link": "/tmp/work/handoff/capsule.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/handoff/initial-deliverable.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/venue-confirmation.eml:3",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/cost.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/timeline.csv:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/roles.md:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/supplies.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/admin/contact.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/icon-clearance.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/photo-consent.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/release-form.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/distribution-policy.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/review-note.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/plan.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/quote.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        }
+      ],
+      "input_unchanged": true,
+      "tool_commands": 2,
+      "elapsed_seconds": 37.79,
+      "exit": 0
+    },
+    {
+      "run": "A-S",
+      "links": [
+        {
+          "link": "/tmp/work/event/venue-confirmation.eml:3",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/cost.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/icon-clearance.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/timeline.csv:2",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/roles.md:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/supplies.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/supplies.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/cost.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/admin/contact.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/icon-clearance.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/photo-consent.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/review-note.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/handoff/capsule.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/distribution-policy.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/plan.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/quote.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        }
+      ],
+      "input_unchanged": true,
+      "tool_commands": 3,
+      "elapsed_seconds": 38.45,
+      "exit": 0
+    },
+    {
+      "run": "B-G0",
+      "links": [
+        {
+          "link": "/tmp/work/event/brief.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/venue-confirmation.eml",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/cost.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/timeline.csv",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/roles.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/briefing.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/supplies.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/admin/contact.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/icon-clearance.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/photo-consent.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/review-note.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/distribution-policy.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/plan.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/quote.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/finance/donations.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        }
+      ],
+      "input_unchanged": true,
+      "tool_commands": 2,
+      "elapsed_seconds": 31.56,
+      "exit": 0
+    },
+    {
+      "run": "B-G1",
+      "links": [
+        {
+          "link": "/tmp/work/event/venue-confirmation.eml:3",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/timeline.csv:2",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/venue-confirmation.eml:3",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/cost.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/icon-clearance.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/handoff/initial-deliverable.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/handoff/capsule.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/timeline.csv:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/venue-confirmation.eml:3",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/roles.md:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/supplies.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/supplies.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/admin/contact.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/icon-clearance.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/photo-consent.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/distribution-policy.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/review-note.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/plan.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/quote.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        }
+      ],
+      "input_unchanged": true,
+      "tool_commands": 2,
+      "elapsed_seconds": 41.97,
+      "exit": 0
+    },
+    {
+      "run": "B-S",
+      "links": [
+        {
+          "link": "/tmp/work/event/venue-confirmation.eml:3",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/cost.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/handoff/capsule.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/icon-clearance.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/timeline.csv:2",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/roles.md:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/supplies.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/admin/contact.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/rights/photo-consent.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/plan.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/quote.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/distribution-policy.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        }
+      ],
+      "input_unchanged": true,
+      "tool_commands": 3,
+      "elapsed_seconds": 40.13,
+      "exit": 0
+    },
+    {
+      "run": "C-G0",
+      "links": [
+        {
+          "link": "event/venue-confirmation.eml",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "event/cost.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "event/timeline.csv",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "volunteers/roles.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "volunteers/supplies.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "volunteers/briefing.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "admin/contact.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "event/cost.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "assets/copy-guide.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "event/distribution-policy.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "event/review-note.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "printing/plan.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "printing/quote.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "event/old-draft.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "assets/past-poster.txt",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        }
+      ],
+      "input_unchanged": true,
+      "tool_commands": 2,
+      "elapsed_seconds": 29.4,
+      "exit": 0
+    },
+    {
+      "run": "C-G1",
+      "links": [
+        {
+          "link": "/tmp/work/event/venue-confirmation.eml:3",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/cost.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/handoff/initial-deliverable.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/handoff/capsule.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/timeline.csv:2",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/roles.md:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/supplies.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/supplies.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/cost.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/admin/contact.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/review-note.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/assets/copy-guide.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/distribution-policy.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/plan.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/quote.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        }
+      ],
+      "input_unchanged": true,
+      "tool_commands": 2,
+      "elapsed_seconds": 33.93,
+      "exit": 0
+    },
+    {
+      "run": "C-S",
+      "links": [
+        {
+          "link": "/tmp/work/event/venue-confirmation.eml:3",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/cost.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/timeline.csv:2",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/roles.md:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/volunteers/supplies.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/admin/contact.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/review-note.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/handoff/capsule.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/event/distribution-policy.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/plan.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/printing/quote.txt:1",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/handoff/capsule.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        },
+        {
+          "link": "/tmp/work/handoff/initial-deliverable.md",
+          "raw_resolves_from_report": false,
+          "mapped_workspace_source_exists": true,
+          "outside_workspace_or_unmapped": false
+        }
+      ],
+      "input_unchanged": true,
+      "tool_commands": 3,
+      "elapsed_seconds": 43.32,
+      "exit": 0
+    }
+  ]
+}

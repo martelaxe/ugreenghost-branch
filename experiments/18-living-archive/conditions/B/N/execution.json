@@ -1,0 +1,63 @@
+{
+  "label": "B-N",
+  "exit": 0,
+  "elapsed_seconds": 52.75,
+  "has_final": true,
+  "model_requested": "gpt-6.1-sol",
+  "reasoning_requested": "low",
+  "tool_commands_count": 2,
+  "usage_if_reported": {
+    "input_tokens": 48387,
+    "cached_input_tokens": 32256,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 1666,
+    "reasoning_output_tokens": 156
+  },
+  "fresh_process": true,
+  "input_hashes": {
+    "catalog.md": "ded3f034e20bf32dd30bc7438e0142bd6f5189b073ace387b8e7db4726dbd677",
+    "context.md": "36ee2971927e113ac55d9c63433ebd702d2634ffd26908bc1ce288ca5b8fb86f",
+    "images/01.jpg": "760e97a5aa3529b9a109f7e300b434aa3021dc1fcc0481cfa61a8798f702a46e",
+    "images/02.jpg": "bbb03d1eab45bff4c27172db3de3015575c5a82e92b40e12d12183cf16e0efd2",
+    "images/03.jpg": "b0cc1f1a4cdfd4927e6ffa810e6ab14067aebca82d4548f5299beef6c6580e08",
+    "images/04.jpg": "ae3e56057e8378ddcb46932eb3fd97c869b9703e9595f6b61dc05a1b8eafe25d",
+    "images/06.jpg": "4f4f9633a0a085a6ca25963c1eb4426821b74f0568ea7ebd60a3adfbefaacf93",
+    "images/07.jpg": "a282673ab77fdd93f7aafb94e8f42c2a16a8781558b9d0f8ed377b5cc4ebffd7",
+    "images/08.jpg": "4e957745f8ce3cc994450c12830c4f8e6f5421fc982e870a900c7358c70b01d9",
+    "images/09.jpg": "1ed9db7f27f71143275c87fc30114c4a1af2ee05155be67068143bc14e8da75b",
+    "images/10.jpg": "6ed620a19d03db4bf5ae0d695a89a57360ce65c7ac6c14104e16368dfae305e9",
+    "images/11.jpg": "5c9aa6ef0b148b5a954647501e3fd25e5e12b1bc66c4cd968765df7a9e3a672f",
+    "images/12.jpg": "b34c96ccb5f11dc4b833e96f581531bfac2dd4c9e054211e7bb0c5215699d852",
+    "images/13.jpg": "5d47a2d97cf5274f7bca415f84602172586522cf6d873a217307ffe4038c3946",
+    "images/14.jpg": "eb92866c2025f3688b40feb29a62bb01deb490bbf5914168035db271fdab8884",
+    "images/15.jpg": "132337598a3ce1c15441baaa6ea4877e9466b308dddb0ffbf566f7eb106075be",
+    "original.json": "04db092e537a95b2196b143ba3ded72ae3425f8baeae25c595c9b65366427c92",
+    "original.png": "4a3e624bb9c6ef313dcd8687570e5ea9a5f34bb62d0042b19863102858e74792",
+    "rights.md": "d193c2e5e3444991d4241d32dd2d3e4e32039dd44ac15fd655ad178d5560055a",
+    "scenario.md": "8a2b465bfc590e4099af4354b977c2105049ba25a4f896edb2fcae98c7169e07",
+    "sheet-1.jpg": "0a4d3917203eaacc2d13b01602370af150a2c95daf2e187ba38a324e4dd3a32c",
+    "sheet-2.jpg": "5636e1414dbd46240ab47e511d7f164aeb4e020a35555509703e0c8888a9a810",
+    "sheet-3.jpg": "dfee6334890edcac8a2a4def1790fe8d0eb570af2317de66b20388e1db68cca3"
+  },
+  "inputs_unchanged": true,
+  "no_symlinks": true,
+  "attached_images": [
+    {
+      "path": "original.png",
+      "sha256": "4a3e624bb9c6ef313dcd8687570e5ea9a5f34bb62d0042b19863102858e74792"
+    },
+    {
+      "path": "sheet-1.jpg",
+      "sha256": "0a4d3917203eaacc2d13b01602370af150a2c95daf2e187ba38a324e4dd3a32c"
+    },
+    {
+      "path": "sheet-2.jpg",
+      "sha256": "5636e1414dbd46240ab47e511d7f164aeb4e020a35555509703e0c8888a9a810"
+    },
+    {
+      "path": "sheet-3.jpg",
+      "sha256": "dfee6334890edcac8a2a4def1790fe8d0eb570af2317de66b20388e1db68cca3"
+    }
+  ],
+  "isolation": "Outer bubblewrap hides project and host /tmp and masks known session, archive and attachment paths; mounts current fictional files and configured Codex runtime directories. Other host paths, configuration, metadata and auth remain visible, so isolation is incomplete; network isolation not independently proven. No UGREEN experts."
+}

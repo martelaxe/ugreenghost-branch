@@ -1,0 +1,3 @@
+# Frozen test plan
+
+Fictional cutoff 2024-09-12 23:59 UTC. Four fresh Codex processes: THEN has the attested-only snapshot and no later archive files; NOW-P and NOW-G get byte-identical full archives, same core objective and safety requirements; P receives additional temporal classification and reveal steps. NOW-P-IRRELEVANT gets exactly the same P prompt and archive plus one unrelated later poster; no prior output is provided. Controlled input hashes and hidden key are in fixtures/private and physically excluded from investigators. The poster and key were designed before any investigator output; model inputs remain read-only. Outputs will be judged by traceable claims, not aesthetic quality; a single run per condition cannot support statistical claims.

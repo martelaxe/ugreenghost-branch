@@ -1,0 +1,3 @@
+invoice,description,date,amount,status
+INV-12,Design workshop,2026-04-21,800,sent
+INV-13,Printing,2026-04-22,200,disputed

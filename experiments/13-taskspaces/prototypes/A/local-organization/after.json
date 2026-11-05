@@ -1,0 +1,15 @@
+{
+  "inbox/bank.csv": "5cacb227d0211c218582df2dbfcd9e978e2fb563e93c47ad928d8ee2fa595655",
+  "inbox/contract.txt": "9229d965204d3ae80909a74820f14daab79f679cb65a9dc44c8f2de9dc4ceaec",
+  "inbox/family.txt": "656937d03c35548221b27a962e1d0224481b87ad18afeee4f1606d4250fbc481",
+  "inbox/invoice-10-revised.txt": "8311af7b5f6c0c1ef15feefc4293bc66789842c924898da39a6467923ee31328",
+  "inbox/invoice-10.txt": "582fcbcd82b6bd17dabc713755c7bf2b2c380b2f0934a31e78396320292467b1",
+  "inbox/membership.txt": "acb7cf067cccf10dc3e1ea8e65d22e318c812562cad871b1b1cd44af93d964bd",
+  "inbox/mixed.txt": "b4495ffd2d496ddecdb662b3ddcf279822c2fb05a766e84a543b68c1bb4c82be",
+  "inbox/old-invoice.txt": "8bb36b353daada358132b52c359e7ba2bc5b9f19817b9df36432b8ca8bcdaf04",
+  "inbox/readme.md": "1b2074354cb00873e6e7a70c0c6280e441d478edbd39ac8fad6a4dbff533e747",
+  "inbox/receipt-copy.txt": "82b4bc90e28bb6920e377aa7b050afe268c23979884b1be8a7e0ccdfea1bdf2c",
+  "inbox/receipt-k.txt": "82b4bc90e28bb6920e377aa7b050afe268c23979884b1be8a7e0ccdfea1bdf2c",
+  "inbox/rental-return.txt": "9b3a843f2da891784827fb85e421ed60f0bd34de68ed29bfe058c92351df0377",
+  "prepared/equipment-rental/receipt-k.txt": "82b4bc90e28bb6920e377aa7b050afe268c23979884b1be8a7e0ccdfea1bdf2c"
+}

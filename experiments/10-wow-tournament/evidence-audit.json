@@ -1,0 +1,111 @@
+[
+  {
+    "name": "archaeologist",
+    "source_paths": [
+      "01-venue/booking.txt",
+      "01-venue/closing.txt",
+      "02-payments/receipt.txt",
+      "02-payments/transfer.txt",
+      "03-messages/settlement.txt",
+      "04-old/another-event.txt"
+    ],
+    "nonexistent_paths": [],
+    "quoted_spans": [],
+    "warning": "Quoted spans without matches can be creative text or minimally edited excerpts; assess context. Exact matches do not establish entailment. Inline citations outside backticks and claims without citations require manual review."
+  },
+  {
+    "name": "alchemy",
+    "source_paths": [
+      "01-work/river-notebook.txt",
+      "02-old/caption-draft.txt",
+      "02-old/stencil-notes.txt",
+      "03-rights/own-notes.txt",
+      "03-rights/photo-terms.txt",
+      "04-supplies/print-note.txt",
+      "05-misc/wishlist.txt"
+    ],
+    "nonexistent_paths": [],
+    "quoted_spans": [
+      {
+        "quote": "On Tuesday the river was low enough to reveal the third step. At dusk a paper boat turned beneath the bridge.",
+        "exact_source_matches": [
+          "01-work/river-notebook.txt"
+        ]
+      },
+      {
+        "quote": "I could begin again.",
+        "exact_source_matches": []
+      },
+      {
+        "quote": "The note records\u2026",
+        "exact_source_matches": []
+      },
+      {
+        "quote": "New creative writing",
+        "exact_source_matches": []
+      }
+    ],
+    "warning": "Quoted spans without matches can be creative text or minimally edited excerpts; assess context. Exact matches do not establish entailment. Inline citations outside backticks and claims without citations require manual review."
+  },
+  {
+    "name": "fork",
+    "source_paths": [
+      "01-contract/change-policy.txt",
+      "01-contract/plan.txt",
+      "02-bids/first.txt",
+      "02-bids/revision.txt",
+      "03-costs/table.txt",
+      "04-decoys/last-year.txt"
+    ],
+    "nonexistent_paths": [],
+    "quoted_spans": [],
+    "warning": "Quoted spans without matches can be creative text or minimally edited excerpts; assess context. Exact matches do not establish entailment. Inline citations outside backticks and claims without citations require manual review."
+  },
+  {
+    "name": "quest",
+    "source_paths": [
+      "01-school/diary.txt",
+      "01-school/stock.txt",
+      "02-box/label.txt",
+      "02-box/ticket.txt",
+      "03-notes/usage.txt",
+      "04-decoys/extra-paper.txt"
+    ],
+    "nonexistent_paths": [],
+    "quoted_spans": [
+      {
+        "quote": "Neighborhood workshop, 17 April 2019.",
+        "exact_source_matches": []
+      },
+      {
+        "quote": "April 2019: the final two-part answer is the lantern-sign color followed by the number of sheets left.",
+        "exact_source_matches": [
+          "02-box/label.txt"
+        ]
+      },
+      {
+        "quote": "In 2019 our lantern sign was BLUE. In 2022 we repainted the sign YELLOW.",
+        "exact_source_matches": [
+          "01-school/diary.txt"
+        ]
+      },
+      {
+        "quote": "For April 2019: we had 18 blue paper sheets before the activity.",
+        "exact_source_matches": []
+      },
+      {
+        "quote": "April 2019: the class used 6 blue paper sheets; none of the others were used.",
+        "exact_source_matches": [
+          "03-notes/usage.txt"
+        ]
+      },
+      {
+        "quote": "A different workshop in 2022 began with 30 sheets. It is unrelated to the April 2019 activity.",
+        "exact_source_matches": [
+          "04-decoys/extra-paper.txt"
+        ]
+      }
+    ],
+    "warning": "Quoted spans without matches can be creative text or minimally edited excerpts; assess context. Exact matches do not establish entailment. Inline citations outside backticks and claims without citations require manual review."
+  }
+]

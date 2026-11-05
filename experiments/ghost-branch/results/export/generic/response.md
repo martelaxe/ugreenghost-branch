@@ -1,0 +1,19 @@
+The old CSV export was an **internal prototype that was deferred during the move to the new UI**. The available snapshots do not establish that it shipped, was deployed, or was later replaced by an export in another service.
+
+**Evidence and timeline**
+
+- On 2024-10-05, volunteers wanted a downloadable summary for spreadsheet review. The pilot note calls the preview internal, records no release or deployment, and flags spreadsheet formula handling for review before integration. ([pilot.md](/tmp/ghost-local-x6n690be/laptop/notes/pilot.md))
+- The laptop prototype produces a header and quotes every CSV cell, escaping embedded quotes. Its historical sample checks a label containing a comma; an archived log records that check passing in 2024. Neither establishes current reproducibility. ([rollupCsv.ts](/tmp/ghost-local-x6n690be/laptop/src/reports/rollupCsv.ts), [rollupCsv.test.ts](/tmp/ghost-local-x6n690be/laptop/tests/rollupCsv.test.ts), [pilot-check.log](/tmp/ghost-local-x6n690be/archive/logs/pilot-check.log))
+- An intermediate prototype joins fields with commas without CSV quoting. Its recorded validation failed for labels containing commas, and formula injection was not tested. ([rollupCsvV2.ts](/tmp/ghost-local-x6n690be/archive/src/reports/rollupCsvV2.ts), [report-check.log](/tmp/ghost-local-x6n690be/archive/logs/report-check.log))
+- On 2025-03-03, the report plan said the earlier prototype was deferred, not declared shipped. It also says a separate service repository was absent, leaving a later export there unknown. ([report-plan.md](/tmp/ghost-local-x6n690be/archive/issues/report-plan.md))
+- The current snapshot’s toolbar lists only Add record and Search; its included record route returns titles. The snapshot is explicitly incomplete, so this is evidence about the files present, not the entire deployed application. ([toolbar.ts](/tmp/ghost-local-x6n690be/current/src/ui/toolbar.ts), [records.ts](/tmp/ghost-local-x6n690be/current/src/routes/records.ts), [README.md](/tmp/ghost-local-x6n690be/current/README.md))
+- The supplied [pilot screenshot](/tmp/ghost-local-x6n690be/laptop/screenshots/pilot-ledger.png) depicts an Export CSV button, but labels itself a fictional archived interface mockup. It does not establish a working or shipped feature.
+
+**Coding-agent investigation packet**
+
+1. Locate the complete current application and the separate service repository, if available. Determine whether any export endpoint, UI action, or replacement report exists and whether it is deployed.
+2. Establish the intended export contract: source records, columns, permissions, filtering, filename, and expected spreadsheet behavior. The prototype’s `date`, `label`, and `amount` fields are evidence of an experiment, not an established current contract.
+3. If restoration is requested after that investigation, assess the laptop renderer as a starting point. Cover commas, quotes, line breaks, and spreadsheet formula injection; the intermediate renderer’s recorded comma failure makes it unsuitable as-is.
+4. Keep the historical authentication experiment out of any restoration. The archived review says it was removed in favor of server-issued HTTP-only cookies and requires a fresh security review before reuse. The current operations note does not prove deployed configuration. ([session-review.md](/tmp/ghost-local-x6n690be/archive/issues/session-review.md), [operations.md](/tmp/ghost-local-x6n690be/current/docs/operations.md))
+
+This investigation was read-only: no project code or tests were run. The laptop backup and current snapshot are incomplete, and the separate service and deployed infrastructure were unavailable.

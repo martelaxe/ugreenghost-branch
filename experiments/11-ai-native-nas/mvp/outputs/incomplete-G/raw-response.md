@@ -1,0 +1,10 @@
+The move is **not established as safe**: Autumn has an explicit reference, Winter has an unresolved possible dependency, and `assets/shared/cover.txt` is currently absent from the workspace.
+
+- **Direct evidence — Autumn:** [program.md](/tmp/work/projects/autumn/program.md:1) names `../../assets/shared/cover.txt` and says the layout refers to it; the exported final PDF is absent. [production.md](/tmp/work/projects/autumn/production.md:1) records a cover-and-sponsor review before publication. **Inference:** relocating the asset without updating its consumers could disrupt layout or publication work. The notes do not establish whether that work remains active.
+- **Possible impact — Winter:** [status.md](/tmp/work/projects/winter/status.md:1) says design handoff is pending and a guide README references a cover. **Limitation:** that README is absent, so the cover’s identity cannot be confirmed.
+- **Distinct historical asset:** [record.md](/tmp/work/projects/old/record.md:1) and [readme.md](/tmp/work/projects/summer/readme.md:1) reference `cover_old.txt`. [cover_old.txt](/tmp/work/assets/shared/cover_old.txt:2) describes distinct, retired content. Those references do not establish use of the proposed move’s target.
+- **Coverage limits:** I inspected all files present in the current workspace. [inventory.txt](/tmp/work/admin/inventory.txt:1) says the inventory omits applications and external copies; [vendor-note.txt](/tmp/work/admin/vendor-note.txt:1) says the print partner’s files are outside this archive and unchecked. Workspace findings cannot establish their dependencies.
+
+**Practical next step:** defer the move and first reconcile the missing `cover.txt` with Autumn’s explicit reference. Before proceeding, resolve Winter’s missing README and arrange any necessary print-partner reference check through an authorized channel. Treat the asset as potentially in use until those gaps are resolved.
+
+No files were modified or moved; no outside sources were accessed.

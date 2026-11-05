@@ -1,0 +1,6 @@
+WARNING: failed to clean up stale arg0 temp dirs: Permission denied (os error 13)
+2026-10-28T01:44:09.669751Z  WARN codex_sandboxing::violation: recorded sandbox violation: resource=filesystem backend=linux_sandbox reason=policy_denied path=unknown
+2026-10-28T01:44:09.669769Z  WARN codex_sandboxing::violation: recorded sandbox violation: resource=filesystem backend=linux_sandbox reason=policy_denied path=unknown
+2026-10-28T01:44:09.669774Z  WARN codex_sandboxing::violation: recorded sandbox violation: resource=filesystem backend=linux_sandbox reason=policy_denied path=unknown
+2026-10-28T01:44:14.201181Z  WARN codex_core::mcp_tool_call: MCP tool call error: "tool call error: tool call failed for `node_repl/js`\n\nCaused by:\n    Mcp error: -32602: js: codex/sandbox-state-meta: sandboxCwd is not a local file URI: file:///tmp/ugreen-final-p_0zfbek"
+2026-10-28T01:44:21.317260Z  WARN codex_core::hook_runtime: after_agent hook failed; continuing turn_id=01a1802d-c209-7ea2-9037-e70adb52170a hook_name=legacy_notify error=No such file or directory (os error 2)

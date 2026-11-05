@@ -1,0 +1,2 @@
+WARNING: failed to clean up stale arg0 temp dirs: Permission denied (os error 13)
+2026-10-27T05:17:57.334286Z ERROR codex_models_manager::manager: failed to load models cache: EOF while parsing a string at line 1109 column 8566

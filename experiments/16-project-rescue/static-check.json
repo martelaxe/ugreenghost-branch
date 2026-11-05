@@ -1,0 +1,26 @@
+{
+  "checkFormatVersion": "2.0.0",
+  "status": "static-pass",
+  "target": {
+    "skillName": "project-rescue-v2"
+  },
+  "catalog": {
+    "checkedVersion": "2.0.0"
+  },
+  "files": [
+    {
+      "path": "references/disclosures.md",
+      "sha256": "75625e6b843913b549726f0d285c563a0f3ae4c5512accf1b14800e0bd5b4684"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "6e433eb4facdb777de466f99bdab4666596aac39aedb5a6bb2f7d43f4c2f4371"
+    }
+  ],
+  "summary": {
+    "errors": 0,
+    "warnings": 0,
+    "info": 0
+  },
+  "diagnostics": []
+}

@@ -1,0 +1,14 @@
+{
+  "kind": "local Python fixture copy, NOT NAS",
+  "synthetic_approval_fixture": true,
+  "source": "inbox/receipt-k.txt",
+  "destination": "prepared/equipment-rental/receipt-k.txt",
+  "source_sha256": "82b4bc90e28bb6920e377aa7b050afe268c23979884b1be8a7e0ccdfea1bdf2c",
+  "destination_sha256": "82b4bc90e28bb6920e377aa7b050afe268c23979884b1be8a7e0ccdfea1bdf2c",
+  "added": [
+    "prepared/equipment-rental/receipt-k.txt"
+  ],
+  "modified_existing": [],
+  "removed": [],
+  "note": "created a local folder and copied one item; originals preserved; no actual UGREEN execution, user or gateway approval, or atomicity guarantee on NAS"
+}

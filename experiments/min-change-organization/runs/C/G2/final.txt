@@ -1,0 +1,3 @@
+Created [plan.json](/tmp/out/plan.json): 186 files covered—80 keep, 80 proposed moves, 26 deferred. No archive changes executed.
+
+Please clarify whether noncompliant historic records may move within `historic/`. Metadata uncertainties and collision decisions are detailed in the plan.

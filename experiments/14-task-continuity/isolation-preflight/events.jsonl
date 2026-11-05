@@ -1,0 +1,3 @@
+{"type":"thread.started","thread_id":"01a17bc7-9bd3-7cf0-8ab1-1dd79450932e"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Code Mode is unavailable because failed to spawn code-mode host /tmp/tools/codex-code-mode-host: host executable was not found. Code mode will fail closed; enable `features.code_mode_host` and install `codex-code-mode-host`."}}
+{"type":"turn.started"}

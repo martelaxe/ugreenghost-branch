@@ -1,0 +1,10 @@
+**The old title filter does not appear to need recovery.** The current snapshot contains equivalent filtering logic, and its migration note says the old filter box was moved to the current search implementation.
+
+## Ghost Recovery Packet
+
+- **Project and candidate:** Lantern Ledger’s historical title filter.
+- **Classification: NOT ESTABLISHED.** A distinct missing implementation is not supported by the inspected evidence.
+- **What was found:** [filterBox.ts](/tmp/ghost-local-7wcsm65i/laptop/src/ui/filterBox.ts:1) lowercases and trims the query, then matches it against lowercased titles using substring matching. [queryIndex.ts](/tmp/ghost-local-7wcsm65i/current/src/search/queryIndex.ts:1) implements the same behavior, and [RecordFinder.ts](/tmp/ghost-local-7wcsm65i/current/src/ui/RecordFinder.ts:1) calls it.
+- **Supporting record:** [search-migration.md](/tmp/ghost-local-7wcsm65i/current/docs/search-migration.md:1) states that the filter-box behavior moved to `queryIndex.ts` and that the old file could be retired. The current [toolbar.ts](/tmp/ghost-local-7wcsm65i/current/src/ui/toolbar.ts:1) also lists “Search,” though that alone does not establish a working interface.
+- **Limits and open questions:** The [current README](/tmp/ghost-local-7wcsm65i/current/README.md:2) describes `current/` as a snapshot, not necessarily a complete checkout. The laptop backup is also described as partial in [scope.md](/tmp/ghost-local-7wcsm65i/laptop/notes/scope.md:1). The inspected screenshot shows a ledger report, but cannot establish whether filtering worked or was deployed. I inspected the authorized `current/`, `laptop/`, and `archive/` paths; this does not establish behavior elsewhere in the product.
+- **Safe next investigation:** If users cannot find the filter, have a developer trace how the current toolbar connects to `RecordFinder` and verify the actual screen. Before any integration, they could test case-insensitive matching, whitespace trimming, empty queries, and substring matches. **No tests or source code were run**, and no files were changed.

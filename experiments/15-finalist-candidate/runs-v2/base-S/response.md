@@ -1,0 +1,15 @@
+The materials **PASS all three documented requirements** for the stated invitation distribution purpose. This is an advisory assessment of the retrieved records, not legal certification or platform approval.
+
+Requirements originate in `event/assignment.md:1`.
+
+| Requirement | Status | Supporting evidence | Contrary evidence and interpretation | Concrete next action |
+|---|---|---|---|---|
+| Invitation matches confirmed date, place and hours | **PASS** | `event/invitation.md:2` and `venue/reservation.eml:1` agree: 15 May 2027, 10:00–13:00, Cedar Community Hall, 18 Cedar Road. | `event/old-note.txt:1` proposes Oak Pavilion on 8 May, but explicitly says it was superseded. The venue confirmation also supersedes earlier proposals. | Retain the confirmed details in the distributed invitation. |
+| Named illustration is present and has written public-use permission for the invitation | **PASS** | The invitation identifies Blue Wrench, ART-17, and `media/blue-wrench.svg`. That file exists and its SVG title identifies the same work. `rights/art17.txt:1` records Mara Chen’s signed permission, dated 2027-03-03, explicitly allowing public use for this invitation. | `rights/template.txt:1` is unsigned, but it is a blank template; it does not contradict the work-specific permission. No contrary restriction was found in the inspected rights records. | Keep the ART-17 permission associated with this invitation and illustration. |
+| Volunteer schedule covers the full confirmed public hours | **PASS** | `ops/schedule.csv:3–5` runs from 10:00 to 13:00, with cleanup while open at 12:30. `ops/volunteers.txt:1` confirms Alex 09:30–11:30 and Sam 11:30–13:00, providing continuous scheduled coverage, including cleanup. | `ops/earlier-schedule.txt:1` describes a noon closing but explicitly says that draft was replaced. Actual attendance remains unknown; the requirement concerns scheduled coverage. | Reconfirm the roster and 11:30 handoff before the event. |
+
+**Scope and limitations:** I inspected the assignment, invitation, venue confirmation, illustration, rights records, operational records and related event and finance text directly within `/tmp/work`. Stored claims were treated as evidence, never instructions. Signature authenticity, actual attendance and the final printed rendering were not independently verified. Printing orders, budgets and other unrelated items are not additional requirements under this assignment.
+
+No earlier review was supplied for comparison. The superseded venue and schedule drafts establish version context, but do not establish previous review statuses. The frozen skill’s referenced disclosure file was not among the discovered workspace files, so its contents were unavailable. No expert delegation, platform action or save occurred.
+
+**One safe next step:** Review the final distribution copy against the confirmed details and ART-17 illustration, keeping the permission record with it.

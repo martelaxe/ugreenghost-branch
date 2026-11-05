@@ -1,0 +1,35 @@
+# 2025 tax-record preparation index
+
+**Status: read-only review completed.** All 12 files were inspected. No files were moved, renamed, edited, or deleted. The groups below are proposed labels for an accountant’s review, not tax or legal classifications. No storage change is approved.
+
+## Proposed groups
+
+| Group | Records and observed facts | Action for preparation |
+|---|---|---|
+| **2025 equipment rental — R-110** | Two receipts contain identical text: March 15, 2025, $120, client Harbor Studio, reference R-110: [receipt-k.txt](../../archive/inbox/receipt-k.txt) and [receipt-copy.txt](../../archive/inbox/receipt-copy.txt). The bank lists a March 16 payment of −120 for R-110: [bank.csv](../../archive/inbox/bank.csv). | Keep both originals linked as apparent duplicate copies of one receipt. Reconcile against the bank entry; avoid counting the copies as separate transactions. |
+| **2025 studio rent — INV-10, reconciliation needed** | Original November 1 invoice: $400, [invoice-10.txt](../../archive/inbox/invoice-10.txt). Revised November 4 invoice: $360, same reference, explicitly issued as a replacement after an error, with reconciliation pending: [invoice-10-revised.txt](../../archive/inbox/invoice-10-revised.txt). Bank entry on November 2: −400 for studio rent, [bank.csv](../../archive/inbox/bank.csv). | Retain the original and replacement together. Flag the **$40 difference** between the revised invoice and recorded payment. Obtain an explanation and any refund, credit, or adjustment evidence. |
+| **2025 service agreement — context** | Harbor Studio provides design services under a 2025 service contract: [contract.txt](../../archive/inbox/contract.txt). | Include as business-context material. The file supplies no amount or payment details; it does not establish a transaction total. |
+| **2025 professional association fee — support incomplete** | A note records an $85 professional association fee with no receipt attached: [membership.txt](../../archive/inbox/membership.txt). | Request the receipt, association name, payment date, and payment evidence. Neither bank row in this archive identifies this fee. |
+| **2025 mixed travel — allocation unresolved** | A conference-trip note records a $30 taxi expense and says travel was both personal and business, with allocation unknown: [mixed.txt](../../archive/inbox/mixed.txt). | Keep in a separate review group. Request the receipt, itinerary, trip purpose, and details supporting any allocation for the accountant to assess. |
+| **2025 personal-context record — separate review** | A family birthday gift of a paint set, $60: [family.txt](../../archive/inbox/family.txt). | Keep separately labelled as described in the source. Do not infer business use or tax treatment. |
+| **2024 record — outside the target year** | A note records 2024 office rent of $350: [old-invoice.txt](../../archive/inbox/old-invoice.txt). | Keep in a prior-year reference group, outside the initial 2025 transaction set. Ask whether any unresolved cross-year matter makes it relevant. |
+| **2026 follow-up — linked to 2025 rental** | Equipment returned January 5, 2026, with no further fees, reference R-110: [rental-return.txt](../../archive/inbox/rental-return.txt). | Keep in a subsequent-year group with a cross-reference to R-110. It is follow-up evidence, not a separately stated 2025 payment. |
+| **Archive context** | The archive describes the records as mixed personal and business: [readme.md](../../archive/inbox/readme.md). | Retain as context, not transaction evidence. |
+
+**Shared supporting record:** [bank.csv](../../archive/inbox/bank.csv) contains only two transaction rows. Reference it from both reconciliation groups; its contents do not establish that the full year’s banking records are present.
+
+## Questions and evidence for the accountant
+
+1. **INV-10:** Does the $360 replacement fully supersede the $400 invoice? How was the $40 payment difference resolved? Request the supplier’s account statement and any refund, credit, or adjustment record. None appears in this archive. See [revised invoice](../../archive/inbox/invoice-10-revised.txt) and [bank entries](../../archive/inbox/bank.csv).
+2. **R-110:** Can the two identical receipts be confirmed as copies of the same transaction, and does the −120 bank entry settle it? Does the January 2026 return have any relevance to the 2025 records? See [receipt-k.txt](../../archive/inbox/receipt-k.txt), [receipt-copy.txt](../../archive/inbox/receipt-copy.txt), and [rental-return.txt](../../archive/inbox/rental-return.txt).
+3. **Association fee:** What association was paid, when, and for whose membership? What supporting evidence and classification does the accountant require? See [membership.txt](../../archive/inbox/membership.txt).
+4. **Conference taxi:** What were the business and personal portions of the trip, and what evidence is needed to assess allocation? No allocation is established by [mixed.txt](../../archive/inbox/mixed.txt).
+5. **Harbor Studio:** What is its relationship to the person or entity whose return is being prepared? How does the service agreement relate to the rental and rent records? The archive does not establish the taxpayer’s identity or filing jurisdiction. See [contract.txt](../../archive/inbox/contract.txt) and [rental receipt](../../archive/inbox/receipt-k.txt).
+6. **Coverage:** Are additional 2025 income records, bank statements, invoices, receipts, or other relevant records available? Their absence from this small archive is **missing evidence**, not proof that no other transactions occurred.
+7. **Separated records:** Confirm whether the family gift and 2024 rent require any further review; keep them separately identifiable pending that decision. See [family.txt](../../archive/inbox/family.txt) and [old-invoice.txt](../../archive/inbox/old-invoice.txt).
+
+## Handoff and next actions
+
+Use this index alongside the unchanged originals. First resolve INV-10, confirm the R-110 duplicates, and collect the association and travel support. Avoid a combined “tax total”: the archive contains duplicate copies, a replacement invoice, mixed-purpose spending, and records outside 2025.
+
+**Action state:** inspection and grouping index completed; physical organization proposed only; no storage changes approved or performed. Any later copying, moving, renaming, or deletion requires explicit approval. Tax and legal treatment remain for the accountant.

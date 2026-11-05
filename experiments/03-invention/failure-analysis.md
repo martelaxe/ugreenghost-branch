@@ -1,0 +1,23 @@
+# Failure analysis
+
+## What failed
+
+1. **Initial execution:** all 12 first-attempt sessions started and returned CLI exit 0, but no investigator successfully ran any evidence-reading shell command. The nested outer bubblewrap namespace triggered `Failed to create unified exec process: Permission denied (os error 13)`. All first outputs, JSONL events, stderr and statuses remain under `results/*` and `execution/*` without `retry`. A successful model turn is not a successful investigation. Fresh-session retries were warranted by this technical failure, not by the quality of any answer. The exact operating-system cause is not established; nested sandboxing is the observed trigger, not a proven root cause.
+2. **One recovered tool failure:** in C-S1's retry, the initial `python` command exited 127; the same session used `python3` successfully to read all workspace files. The successful retry report is retained; this is a recovered command failure, not a new investigator session.
+3. **Evaluation saturation:** all 12 substantive reports reached 30/30 on the preregistered rubric, producing no measurable G/S difference. The rubric uses broad discrete bins, the dataset is short and intentionally clear, and the evaluator designed the dataset. Perfect scores reflect the specified bins, not proof of perfect factual reasoning or real-world reliability.
+4. **Novelty and negative-control uncertainty:** the reading-room correspondence explicitly describes a difficulty and old technique records explicitly describe stacked acrylic. This requires recombination, but it is not an unprompted discovery of an unknown market, and its plausibility/novelty are unverified by intended users. Archive C's “no qualifying pilot” is a synthetic benchmark label and might overlook other defensible combinations; no independent human review established completeness.
+5. **B classification variation:** the two generic reports call a safe conceptual feasibility review an opportunity, while the specialized reports label the physical pilot blocked and reject it as actionable. They all identify the actual safety prohibition and defer fabrication. The preregistered B scoring permits safe planning, so this is a labeling difference rather than a safety error; products should separately identify `investigate now` and `ready to perform`.
+6. **Evidence gap:** the actual WE-98 drawing is not in the dataset—only catalogue information and four labeled coordinates. Several investigators correctly cautioned that the full geometry and usefulness were not established. Any generated diagram must not invent contours or relationships; external user review and the original source remain necessary.
+7. **Scope and intensity:** S outputs were longer and took longer on average in this small concurrent sample while producing the same scores. This could reflect prompt-induced extra consideration, service load, token generation or other factors; the evidence does not support a causal cost or quality claim.
+
+## Failure taxonomy
+
+- **Retrieval:** first attempts failed technically; successful retry logs show complete workspace enumeration and read commands. No clear substantive missed central source was identified.
+- **Missed connections / constraints / chronology / aggressive actions:** none identified for the preregistered target and traps. This does not show the absence of errors on other archives.
+- **Fabrication / false-positive ranking:** no qualifying unsupported proposal was observed under the predefined test. Speculative leads in C-S1/S2 were explicitly rejected rather than reported as valid. Other unanticipated opportunities were not exhaustively reviewed by an independent expert.
+- **Citations:** all reports cite the central source paths; no primary-evidence citation failure was found. A source path is not by itself proof that extracted meaning or downstream reasoning is correct.
+- **Instruction complexity:** S was longer and enumerated more rejected hypotheses in C, but showed no score improvement; do not add complexity merely to make reasoning look thorough.
+
+## What this experiment cannot establish
+
+The investigators read all small synthetic plaintext archives directly. We did not test selective retrieval, hidden or scanned PDFs, corrupted files, multimodal data, large archives, false statement injection, model differences, long-running operation, NAS permissions, or actual output reproducibility. Restricted project permissions prevented investigator access to the project folder at run time, but same-user workspaces and shared Codex runtime are not a complete isolation boundary.

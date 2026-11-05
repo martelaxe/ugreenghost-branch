@@ -1,0 +1,37 @@
+{
+  "checkFormatVersion": "2.0.0",
+  "status": "not-uploadable",
+  "target": {
+    "skillName": "evidence-discovery-draft"
+  },
+  "catalog": {
+    "checkedVersion": "2.0.0"
+  },
+  "files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "ee4395110219ee03a7871ee544d3a04fbce36908c1402c6ba92dd3e86401ded8"
+    }
+  ],
+  "summary": {
+    "errors": 2,
+    "warnings": 0,
+    "info": 0
+  },
+  "diagnostics": [
+    {
+      "code": "CAPABILITY_EVIDENCE_MISSING",
+      "severity": "error",
+      "file": "SKILL.md",
+      "message": "委托型 Skill 缺少可机械核对的生成期 CLI 唯一归属依据。",
+      "suggestion": "添加“生成期能力依据”章节，并使用 - `<cli>` → `<agent>` 格式。"
+    },
+    {
+      "code": "SKILL_REQUIRED_SECTION_MISSING",
+      "severity": "error",
+      "file": "SKILL.md",
+      "message": "SKILL.md 缺少必需章节：专家编排。",
+      "suggestion": "按编排型 Skill 契约补充该章节。"
+    }
+  ]
+}

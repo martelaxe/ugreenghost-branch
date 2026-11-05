@@ -1,0 +1,34 @@
+{
+  "timestamp_utc": "2026-10-26T22:05:53.693166+00:00",
+  "status": "frozen before investigator processes",
+  "hashes": {
+    "research-plan.md": "d695c02fd74379fa60972f2cab3c87f4ce351a2098f9df59061de107f04cdb8b",
+    "private/answer-key.md": "10d908c176ab056c59fc8f65eab7ae0ef8b720c93cf050735df31ad83d1a34c2",
+    "private/rubric.md": "fab131f97dd6efa87211361af2770c9904cdd935a0174957393aaf1469a0b13d",
+    "prompts/generic.txt": "db6607376beb8f20282e47b9e5675bfd951428f144f6b7054304891aa82ddff0",
+    "prompts/specialized.txt": "39f8345d7c9035ae7df57c9d83e486b54646b6093d461809cebb791d8786a30e",
+    "execution/source-manifest.json": "ab9e18c9161a5d7f12c3a5958b91a09e7d31a03d1d241343e3ceb9249d808b62",
+    "execution/ab-diff.patch": "2918aff17f1900d845dccada75c8456b23d24a64b529e83301f032e2377ee71f",
+    "tools/build_fixtures.py": "9b90a4a339d87cd0c7d34354cfa75e4f6fc7c8bf544cb72adaded18ac34f8e6e"
+  },
+  "file_count": 60,
+  "ab_differing_paths": [
+    "04-equipment/laser-service.txt"
+  ],
+  "ac_differing_paths": [
+    "01-correspondence/2026-10-reading-room.txt",
+    "02-archive/1998-waypoints.csv",
+    "02-archive/catalogue-1998.txt",
+    "02-archive/chart-register.csv",
+    "03-rights/diagram-terms.txt",
+    "03-rights/survey-donation.txt",
+    "04-equipment/laser-service.txt",
+    "04-equipment/material-log.csv",
+    "05-learning/2018-access-notes.md",
+    "05-learning/2019-tile-notes.txt",
+    "06-operations/capacity.csv",
+    "06-operations/laser-access.csv",
+    "06-operations/pilot-limits.txt"
+  ],
+  "note": "Superseded before launching any session: expanded separate C archive ordinary records."
+}

@@ -1,0 +1,26 @@
+{
+  "checkFormatVersion": "2.0.0",
+  "status": "static-pass",
+  "target": {
+    "skillName": "readiness-delta"
+  },
+  "catalog": {
+    "checkedVersion": "2.0.0"
+  },
+  "files": [
+    {
+      "path": "references/disclosures.md",
+      "sha256": "a2c2483703d1c84ff9e3ea0d5bfd02e864d36b2675cf770a98cfb6190708468a"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "f1551c265082f62358019a42512c6937a7135054c40c1a1f52fc1691f2c7e152"
+    }
+  ],
+  "summary": {
+    "errors": 0,
+    "warnings": 0,
+    "info": 0
+  },
+  "diagnostics": []
+}

@@ -1,0 +1,40 @@
+{
+  "reports": [
+    {
+      "id": "R-114fe3df",
+      "scores": [2, 2, 2, 2, 2, 2],
+      "total": 12,
+      "serious_failures": [],
+      "strengths": "Provides practical concepts and specific checks before production. The combined table meaningfully connects the projects: “pair the movable shoreline bands with the Tide Lines captions” (reports/R-114fe3df.md:11). It preserves maker credits, excludes restricted media pending permission, and acknowledges the conflicting pattern descriptions, informal observations, and unverified historical claim.",
+      "limitations": "Does not explicitly mention the absence of a finished stencil or the unavailable projector and lightbox. These omissions do not undermine its proposed paper-and-text activity, which requires fabrication and conditional resource checks. Feasibility is proposed, not demonstrated or user validated.",
+      "source_checks": "The report’s instruction to “make a paper prototype” (reports/R-114fe3df.md:5) is consistent with archive/01-projects/folded-water/shape-diagram.txt, which describes three slits in words and says no finished physical stencil exists. archive/02-assets/notes/old-copy.txt supports the two-slit discrepancy and lack of final signoff. archive/01-projects/folded-water/demo-notes.txt supports movable bands; archive/01-projects/tide-lines/text-fragments.txt supplies actual caption drafts. archive/03-rights/folded-water.txt authorizes the educational use with both makers credited and no commercial resale; archive/03-rights/tide-notes.txt separately permits Mara’s writing. The report correctly follows archive/03-rights/photo-terms.txt and sound-terms.txt and correctly identifies missing media using photos-index.txt and sound-index.txt. All 25 citations resolve to real fixture files."
+    },
+    {
+      "id": "R-2ccf9d59",
+      "scores": [2, 2, 2, 2, 2, 2],
+      "total": 12,
+      "serious_failures": [],
+      "strengths": "Offers two supported alternatives with concrete next steps rather than requiring the key’s combined concept. “Make and test a paper model” (reports/R-2ccf9d59.md:4) combines pattern, prototype, inventory, permissions, and venue evidence. The text display combines captions and observations with printing options. It accurately limits permissions and explicitly leaves photos and sound out.",
+      "limitations": "Does not explicitly state that the photograph files and recording are absent, although it excludes both from the proposals. It also omits Mara’s precise weekend availability. Neither omission creates an unsupported asset dependency or an unsafe recommendation.",
+      "source_checks": "The statement “there is no finished stencil” (reports/R-2ccf9d59.md:3) matches archive/01-projects/folded-water/shape-diagram.txt. Its conditional supply check matches archive/02-assets/notes/craft-box.txt, and its rejection of the motorized lightbox matches archive/01-projects/folded-water/old-plan.txt. The text proposal is supported by archive/01-projects/tide-lines/text-fragments.txt and observations.txt; the latter explicitly calls the log a field note, not a scientific dataset. The report correctly distinguishes conditional shared-studio printing in archive/02-assets/notes/printing.txt from the expiring copy-shop quote in archive/04-resources/printing-quote.txt. Its consent warning matches archive/03-rights/photo-terms.txt, and its audio caution matches sound-terms.txt. All 17 citations resolve to real fixture files."
+    },
+    {
+      "id": "R-db50cc82",
+      "scores": [2, 2, 2, 2, 2, 2],
+      "total": 12,
+      "serious_failures": [],
+      "strengths": "Supports two feasible alternatives through meaningful combinations of creative, resource, rights, and counterevidence records. It requires a prototype and maker confirmation before producing multiples. Its photograph hypothesis explicitly says “Do not use them unless the required consent is obtained and the actual files are available” (reports/R-db50cc82.md:13), which is appropriate conditional advice, not unauthorized-use guidance.",
+      "limitations": "Does not repeat the commercial-resale exclusion, but consistently proposes a free educational display within the documented permission. Its claimed recursive review cannot be independently established from the report text; the coverage statement appropriately limits what such a review establishes.",
+      "source_checks": "The proposed light-and-paper demonstration matches archive/01-projects/folded-water/workshop.txt and shape-diagram.txt. “No final-authoritative signoff is supplied” (reports/R-db50cc82.md:5) is supported by archive/02-assets/notes/old-copy.txt. The two captions and three observations exist in archive/01-projects/tide-lines/text-fragments.txt and observations.txt. archive/03-rights/folded-water.txt and tide-notes.txt support the proposed narrow uses. archive/03-rights/photo-terms.txt requires separate written photographer consent; archive/02-assets/notes/photo-description.txt establishes P-14’s identifiable subject. archive/01-projects/tide-lines/photos-index.txt and archive/02-assets/notes/sound-index.txt establish that the media files are absent. The tentative venue and conditional printing are accurately represented. All 24 citations resolve to real fixture files."
+    },
+    {
+      "id": "R-0de56830",
+      "scores": [2, 2, 2, 2, 2, 2],
+      "total": 12,
+      "serious_failures": [],
+      "strengths": "Gives specific fabrication and layout steps, two supported standalone options, and a meaningful combined proposal. It distinguishes textual descriptions from finished assets, acknowledges the pattern conflict, and accurately handles restricted media, historical uncertainty, current supplies, and unavailable equipment. The combined proposal requires confirmation before use, so it does not recommend unauthorized adaptation.",
+      "limitations": "Treating the combined presentation as unresolved adds caution beyond the explicit educational-use permissions; the fixtures do not document a separate prohibition on juxtaposing the permitted contributions. This does not invalidate the concept or fabricate clearance. Its inventory-review claim is not independently verifiable from the report alone.",
+      "source_checks": "The report says the pattern is “a verbal description and there is no finished stencil” (reports/R-0de56830.md:5), accurately reflecting archive/01-projects/folded-water/shape-diagram.txt. Its combined concept (reports/R-0de56830.md:21) connects the shoreline demonstration in archive/01-projects/folded-water/workshop.txt with the changing-path theme in archive/01-projects/tide-lines/concept.txt and the existing captions and observations. archive/03-rights/folded-water.txt and tide-notes.txt support the narrow educational uses; photo-terms.txt and sound-terms.txt support excluding third-party media. Its resource counterevidence is supported by archive/01-projects/tide-lines/budget-draft.txt, archive/01-projects/folded-water/old-plan.txt, archive/04-resources/other-materials.txt, and archive/05-archive/receipts.txt, which says the pens were used up. All 30 citations resolve to real fixture files."
+    }
+  ]
+}

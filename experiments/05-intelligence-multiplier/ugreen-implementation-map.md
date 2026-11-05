@@ -1,0 +1,13 @@
+# From research harness to a UGREEN Skill
+
+| H component | UGREEN catalog / status | Smallest credible substitute |
+| --- | --- | --- |
+| Recursive file inventory and byte budgets | `file-agent` / `ug-filesystem:find` is documented with path, type, depth and limit. Actual complete listing and pagination are unverified. | Request a bounded, authorized inventory; report coverage as unknown unless the real result proves otherwise. |
+| Reading and structured extraction | `document-agent` / `ug-document:qa` and `extract`, `file-agent` / `ug-filesystem:cat` are documented. Input caps exist; source-linked output schemas and truncation signals are unconfirmed. | Ask for a small selection of actual source-grounded facts and explicit failures; do not infer complete reads. |
+| Candidate generation | No dedicated catalog guarantee of unexpected-discovery generation. | Ask the parent/expert to propose at most one hypothesis grounded in returned evidence; runtime model quality is unknown. |
+| Independent verifier model call | No catalog guarantee of an independent model/session, distinct failure mode or judge API. Repeated delegation may be expressible, but independence is unverified. | Ask a supported expert to seek counterevidence; call this an additional review, not independent verification, until tested. |
+| Python exact substring checks, local inventory, ranking and multi-process controller | Local research code; custom executables and general-purpose runtimes are prohibited in submitted Skill. | Do not package this code. Request source references and uncertainty in Markdown instructions; actual verification capability is unverified. |
+| Report output / persistence | Parent response synthesis is an inference from the orchestration model, not a proven report API. `knowledge-agent` / `ug-knowledge:save-text` is cataloged with workflow approval, but output semantics are unverified. | Prefer on-demand plain response. If saving is later required, use the approved action and report actual completion/pending state. |
+| Background monitoring, graph UI/database | Not documented by this kit. | Exclude from the first Skill. |
+
+**Effect of provenance gaps:** They prevent us from promising a complete or independently verified discovery. They do not prove that a useful limited Skill is impossible. If actual expert outputs do not expose trustworthy source identifiers, excerpts and coverage/partial-result signals, an evidence-grounded response must either degrade to explicit uncertainty or withhold the claim. The next decisive work is to obtain sanitized real action/delegation results and test a small end-to-end workflow on the NAS. See `ugreen-contract-audit.md` and `ugreen-contract-gaps.md`.

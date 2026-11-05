@@ -1,0 +1,1 @@
+Expected source retained/x3.txt; target activity/client/records/settlement.txt; index, client acceptance, alias, ledger, source contents and annual-review use. External bank confirmation is missing; no claim of financial authenticity.

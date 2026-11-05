@@ -1,0 +1,1 @@
+Which can you confirm is available now: a working printer plus a sheet of paper, a black marker plus a blank card, both, or neither? The inventory is only a record (stock.txt; plan.txt).

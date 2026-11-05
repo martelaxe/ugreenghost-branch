@@ -1,0 +1,46 @@
+{
+  "title": "Fire, Ruins, Shelter: San Francisco, 1906",
+  "narrative_intent": "Connect urban fire, damaged surroundings and the need for temporary shelter through three distinct scenes. The photographs do not establish a sequence involving the same people or document rescue.",
+  "summary_of_changes": "Retained Images 09 and 14 in their original positions with their captions unchanged. Replaced unavailable Image 05 with Image 02 and changed the middle panel from rescue to damaged surroundings. Replaced 'Rescue' with 'Ruins' in the title and narrowed the narrative accordingly. These are fictional exhibit selections; actual rights metadata remain unchanged.",
+  "panels": [
+    {
+      "original_role": "Urban fire establishes the disaster threatening residents and their surroundings.",
+      "original_image_id": "09",
+      "role": "Urban fire establishes the disaster affecting the city.",
+      "image_id": "09",
+      "caption": "The Palace Hotel burns after the earthquake, April 18, 1906.",
+      "visual_observation": "Smoke obscures part of a large multistory building; people and horses occupy the street below.",
+      "evidence": "catalog.md, entry 09, images/09.jpg: identifies the Palace Hotel burning after the earthquake and dates the photograph April 18, 1906. context.md establishes the earthquake and extensive fire damage. rights.md records Public domain or CC0 metadata for listed sources.",
+      "uncertainty": "The building identification and date come from the catalog. The photograph does not identify the people or establish whether they were evacuating, lived nearby or lost homes.",
+      "change": "Retained Image 09, its first position and its original caption; narrowed the role to the documented urban disaster.",
+      "reason": "The visible smoke and catalog identification support the fire panel, and scenario.md does not exclude this image.",
+      "claim_status": "Retained: the catalog supports the named building, event and date; individual experiences remain unestablished."
+    },
+    {
+      "original_role": "Rescue brings the narrative from damaged buildings to human vulnerability.",
+      "original_image_id": "05",
+      "role": "Damaged surroundings connect the burning city with the disaster's aftermath.",
+      "image_id": "02",
+      "caption": "A bare tree trunk stands amid rubble and damaged buildings. The catalog identifies this as a view southwest from Nob Hill after San Francisco's 1906 earthquake and fire.",
+      "visual_observation": "A tall bare tree trunk and sparse vegetation rise above foreground rubble, with damaged buildings extending into the distance.",
+      "evidence": "scenario.md states that Image 05 is unavailable. catalog.md, entry 02, images/02.jpg: Edith Irvine, 1906; describes a view southwest from Nob Hill after the earthquake and fire, with a bare tree trunk, rubble and damaged buildings. original.json identifies the replaced panel as rescue using Image 05. rights.md records Public domain or CC0 metadata for listed sources.",
+      "uncertainty": "The location and historical circumstances come from the catalog. This photograph does not establish rescue activity, casualties, the displacement of particular residents or the separate effects of shaking and fire on each structure.",
+      "change": "Replaced Image 05 with Image 02; rewrote the role, caption and supporting interpretation from rescue to damaged surroundings.",
+      "reason": "Image 05 is excluded. Image 02 visibly and textually supports an aftermath panel, but cannot carry the original rescue claim.",
+      "claim_status": "Changed: abandoned the rescue claim and substituted a supported account of rubble and damaged surroundings."
+    },
+    {
+      "original_role": "Temporary shelter shows a consequence for residents beyond the immediate destruction.",
+      "original_image_id": "14",
+      "role": "Temporary shelter introduces a documented response to residents' needs after the disaster.",
+      "image_id": "14",
+      "caption": "Tents fill the camp identified in the catalog as Jefferson Square’s refugee camp.",
+      "visual_observation": "Numerous closely spaced tents occupy an open area bordered by trees, with buildings beyond.",
+      "evidence": "catalog.md, entry 14, images/14.jpg: source title identifies Jefferson Square refugee camp; date circa April 1906; creator George W. Haley; catalog description is not stated. context.md states that many residents needed shelter after the earthquake and fires. rights.md records Public domain or CC0 metadata for listed sources.",
+      "uncertainty": "The camp's name and purpose come from the catalog title. The photograph does not establish individual residents' identities, previous homes, length of stay or connections to either preceding scene.",
+      "change": "Retained Image 14, its third position and its original caption; adjusted the role to fit the revised fire–ruins–shelter narrative.",
+      "reason": "The visible tents and catalog title support a shelter panel, while context.md supports the broader need for shelter.",
+      "claim_status": "Retained: tents are visible; camp identification is catalog-based, and no individual displacement story is asserted."
+    }
+  ]
+}

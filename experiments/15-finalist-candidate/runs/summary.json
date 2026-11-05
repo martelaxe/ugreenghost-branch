@@ -1,0 +1,75 @@
+{
+  "skill_sha256": "f1551c265082f62358019a42512c6937a7135054c40c1a1f52fc1691f2c7e152",
+  "results": [
+    {
+      "label": "base-G",
+      "exit": 0,
+      "has_final": true,
+      "elapsed_seconds": 37.3,
+      "tool_commands_count": 2
+    },
+    {
+      "label": "base-S",
+      "exit": 0,
+      "has_final": true,
+      "elapsed_seconds": 27.76,
+      "tool_commands_count": 3
+    },
+    {
+      "label": "critical-G",
+      "exit": 0,
+      "has_final": true,
+      "elapsed_seconds": 34.43,
+      "tool_commands_count": 2
+    },
+    {
+      "label": "critical-S",
+      "exit": 0,
+      "has_final": true,
+      "elapsed_seconds": 35.8,
+      "tool_commands_count": 3
+    },
+    {
+      "label": "irrelevant-G",
+      "exit": 0,
+      "has_final": true,
+      "elapsed_seconds": 40.06,
+      "tool_commands_count": 2
+    },
+    {
+      "label": "irrelevant-S",
+      "exit": 0,
+      "has_final": true,
+      "elapsed_seconds": 37.38,
+      "tool_commands_count": 3
+    },
+    {
+      "label": "restricted-G",
+      "exit": 0,
+      "has_final": true,
+      "elapsed_seconds": 34.99,
+      "tool_commands_count": 2
+    },
+    {
+      "label": "restricted-S",
+      "exit": 0,
+      "has_final": true,
+      "elapsed_seconds": 105.59,
+      "tool_commands_count": 11
+    },
+    {
+      "label": "business-G",
+      "exit": 0,
+      "has_final": true,
+      "elapsed_seconds": 36.2,
+      "tool_commands_count": 2
+    },
+    {
+      "label": "business-S",
+      "exit": 0,
+      "has_final": true,
+      "elapsed_seconds": 32.37,
+      "tool_commands_count": 3
+    }
+  ]
+}

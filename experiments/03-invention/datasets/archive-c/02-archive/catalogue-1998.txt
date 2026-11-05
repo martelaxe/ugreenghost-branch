@@ -1,0 +1,1 @@
+Catalog note, 2019: coordinate export 1998-waypoints.csv is a tracing of a third-party planning chart, reference M-41. It shows former features; it is not current wayfinding. The old display was dismantled in 2000. No source-license information appears in this note.

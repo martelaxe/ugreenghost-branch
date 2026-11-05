@@ -1,0 +1,22 @@
+test_cancelled_not_saved (test_policy.PolicyTests.test_cancelled_not_saved) ... ok
+test_completed_without_evidence (test_policy.PolicyTests.test_completed_without_evidence) ... ok
+test_equivalent (test_policy.PolicyTests.test_equivalent) ... ok
+test_failed_preserves_earlier (test_policy.PolicyTests.test_failed_preserves_earlier) ... ok
+test_incomplete_coverage (test_policy.PolicyTests.test_incomplete_coverage) ... ok
+test_missing_source_no_citation (test_policy.PolicyTests.test_missing_source_no_citation) ... ok
+test_no_matches_no_global_absence (test_policy.PolicyTests.test_no_matches_no_global_absence) ... ok
+test_preserve_citations (test_policy.PolicyTests.test_preserve_citations) ... ok
+test_reclaim (test_policy.PolicyTests.test_reclaim) ... ok
+test_retired (test_policy.PolicyTests.test_retired) ... ok
+test_screen_only_uncertain (test_policy.PolicyTests.test_screen_only_uncertain) ... ok
+test_secret_path_excluded (test_policy.PolicyTests.test_secret_path_excluded) ... ok
+test_secret_value_redacted (test_policy.PolicyTests.test_secret_value_redacted) ... ok
+test_uncited_blocker_is_uncertain (test_policy.PolicyTests.test_uncited_blocker_is_uncertain) ... ok
+test_untrusted_not_new_instruction (test_policy.PolicyTests.test_untrusted_not_new_instruction) ... ok
+test_waiting_approval (test_policy.PolicyTests.test_waiting_approval) ... ok
+test_waiting_user (test_policy.PolicyTests.test_waiting_user) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.000s
+
+OK

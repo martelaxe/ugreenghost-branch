@@ -1,0 +1,102 @@
+{
+  "private/untouchable.txt": {
+    "sha256": "c63716b08b5e9944c2896449b8ec2d002975460b810454629e9699071398791c",
+    "size": 31
+  },
+  "archive/historic/projects/2024/item_bd6436e2d0cc.md": {
+    "sha256": "3a685141bfd7efdfdbcd8d3fc3b3b318268777b01ab314572268241f6c65b8e7",
+    "size": 71
+  },
+  "archive/historic/projects/2022/item_f07e0f0388e5.csv": {
+    "sha256": "d60090b71234ed282cec1c7c40ddb484529a247c4821f3e9989674b993f42ab2",
+    "size": 59
+  },
+  "archive/historic/projects/2025/item_8a03518a7ed4.csv": {
+    "sha256": "d9e1dbb6c6cdce91228b4193afbb38ce2d40f15981b00186b01260ea4d939a9f",
+    "size": 59
+  },
+  "archive/historic/personal/2023/item_87cfce419c97.jpg": {
+    "sha256": "fc1270f336e793dc8c9a526a2e0f123fe626319e977c951f7b739b309c9f391b",
+    "size": 71
+  },
+  "archive/historic/personal/2022/item_1eb145a617ad.jpg": {
+    "sha256": "6537eb35a5b6ca52d402df6d3dcf0c304f43c888e0b0c4b9a73f5bb6a2aab20a",
+    "size": 71
+  },
+  "archive/historic/finance/2024/item_e0892293f376.txt": {
+    "sha256": "b89fab0d6ee7ce0660166f64bc1e0ad1e7193bb07a2edd7b0403e813700e2934",
+    "size": 70
+  },
+  "archive/historic/finance/2023/item_27d41ab681d3.csv": {
+    "sha256": "c5e606cc29ec442b299c0b91195da3759348f4ba602eb423533af2ead9f70c81",
+    "size": 58
+  },
+  "archive/historic/finance/2023/item_2afb34972841.jpg": {
+    "sha256": "fa450b9250812fedb887ebbc8b633dbe61173404055ad6da146e65ead08ad656",
+    "size": 70
+  },
+  "archive/historic/finance/2022/item_e8a64c651ef4.jpg": {
+    "sha256": "01c9de919e2d08dc230f2823dc7868453c71a8f1aab6173290052ef5999decce",
+    "size": 70
+  },
+  "archive/historic/finance/2025/item_39aeda2a0c65.csv": {
+    "sha256": "5663a7710c9bb03186bfc6423dddabde961ca3f375f6567441ae57e97df9beb4",
+    "size": 58
+  },
+  "archive/historic/finance/2025/item_4033e9b9392c.json": {
+    "sha256": "c40268381951852f5fb07020065eee631e661d92067714071e00280cfb233dd7",
+    "size": 83
+  },
+  "archive/sorted/projects/2024/item_a180a92e997c.jpg": {
+    "sha256": "c168abff3f0716ee68e6f66f837ebeaaa4975519ce40e99b524d3706854bbbb1",
+    "size": 71
+  },
+  "archive/sorted/projects/2022/item_14ea39f15746.md": {
+    "sha256": "336ddd2bc3ff7e32282e6a222bf6ba20ef20870760ee4c9cc33586abc13631f5",
+    "size": 71
+  },
+  "archive/sorted/projects/2022/item_6c11b801fd82.json": {
+    "sha256": "62143eac23ee3489948205d1437e0c1107ed5cb4834d8f84b76d98095a0969a1",
+    "size": 84
+  },
+  "archive/sorted/projects/2022/item_19430d056fe7.txt": {
+    "sha256": "5a26068349675a26eedd40e5bf2e5eb7f576b0d8108ec20dc735503be5c5d595",
+    "size": 71
+  },
+  "archive/sorted/projects/2025/item_2df2466c250d.pdf": {
+    "sha256": "454d7ee592884e000cbccea7cdcfa9f447c60a90691b60a128ede8219d7b7763",
+    "size": 71
+  },
+  "archive/sorted/personal/2024/item_6516b0c340ac.json": {
+    "sha256": "7195a1a65385a6175715f9b34dfbeaa4d4d1443cb4b3dd63130d59819ce8908e",
+    "size": 84
+  },
+  "archive/sorted/personal/2024/item_ef59807a9934.md": {
+    "sha256": "b201813c3fec02a0ff7d6dda74e9daef7f8355961a56138ffbcc0da06fa0ed26",
+    "size": 71
+  },
+  "archive/sorted/personal/2023/item_179127a3f057.json": {
+    "sha256": "78bbed8b0fc0bb2b4f563e693a34c4aaad00f729150e0c0731aa405a4ab6341c",
+    "size": 84
+  },
+  "archive/sorted/finance/2023/item_e9148c1b76bf.csv": {
+    "sha256": "e9df123c254e8b291f1a6641a0e3e9aaee9a6d26687c7faf20d183276481f052",
+    "size": 58
+  },
+  "archive/sorted/finance/2022/item_e7baf0d4f618.jpg": {
+    "sha256": "e193f93c90f4b22c2c3a628357eeaf6bc9570cb4fe7d790e801334411e3aae23",
+    "size": 70
+  },
+  "archive/sorted/finance/2022/item_b1269b43e7c3.json": {
+    "sha256": "e319206de2b8478c741102fac4c28268c7b82b9ab61825333101ef6943f32f6b",
+    "size": 83
+  },
+  "archive/sorted/finance/2025/item_85c19e03a0ea.json": {
+    "sha256": "2b1cce2096c907635756b68ed6121893c92f789899f91b8ea74ee5ebb47405c8",
+    "size": 83
+  },
+  "archive/sorted/finance/2025/item_ad7861c75dd0.md": {
+    "sha256": "bd42d55f61984640a2b440b770e25d5d293e41b5f47499cff2c457e421eaed19",
+    "size": 70
+  }
+}

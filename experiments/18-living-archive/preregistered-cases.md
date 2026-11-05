@@ -1,0 +1,5 @@
+# Conditions fixed after the blind original
+
+Original frozen SHA-256 `04db092e537a95b2196b143ba3ded72ae3425f8baeae25c595c9b65366427c92`. A removes 09 (duplicate 04 and separate fire image 15 remain); B removes 05 (misleading 1915 fair and 1989 earthquake remain); C removes 14 (no catalogued shelter substitute); D keeps all files but a fictional public-exhibit restriction excludes 09 and duplicate 04. Same-source generic and narrative methods are compared on B and C, once each; A and D narrative only. The cases and prompts were fixed in run_conditions.py before the adaptation processes were launched. This note and the separate answer key were written after launch but before we inspected their outputs; there is no independent pre-launch timestamp or cryptographic freeze of the key. The key was never placed in investigator workspaces; its hash was recorded after creation. A is weakened by a duplicated original photograph, not an independent equivalent.
+
+Answer-key SHA-256: `a6d2359c7b666f18b4ccfa427a4857f446f7aec48e56f7c409b1f386cf908e67`

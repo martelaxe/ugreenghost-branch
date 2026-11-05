@@ -1,0 +1,16 @@
+{
+  "before_broker": "Fictional private memory: family planted a pear tree.",
+  "after_broker": "DENIED BY TOY BROKER",
+  "direct_read_bypasses_broker": "Fictional private memory: family planted a pear tree.",
+  "record": [
+    {
+      "request": "read_story",
+      "decision": "ALLOW"
+    },
+    {
+      "request": "read_story",
+      "decision": "DENY"
+    }
+  ],
+  "limitations": "A same-user process can read the file directly; no security, privacy, cryptography, secure deletion, remote revocation, or recall of previously seen data. A fictional broker, not UGREEN."
+}

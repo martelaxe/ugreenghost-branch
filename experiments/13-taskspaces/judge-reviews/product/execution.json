@@ -1,0 +1,8 @@
+{
+  "exit": 0,
+  "seconds": 53.8,
+  "role": "product",
+  "workspace_removed": "/tmp/taskspaces13-review-q8qbvkwv/review",
+  "anonymized": "blue, amber, violet",
+  "limitations": "same model, separate processes; read-only sandbox; supplied facts; no web or device"
+}

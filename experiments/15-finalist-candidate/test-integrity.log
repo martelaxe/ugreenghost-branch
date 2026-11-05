@@ -1,0 +1,13 @@
+test_all_30_runs_exited_cleanly_and_unchanged (__main__.Integrity.test_all_30_runs_exited_cleanly_and_unchanged) ... ok
+test_audit_v3_mechanics (__main__.Integrity.test_audit_v3_mechanics) ... ok
+test_baseline_prior_is_literal_response (__main__.Integrity.test_baseline_prior_is_literal_response) ... ok
+test_exact_skill_in_all_s_prompts (__main__.Integrity.test_exact_skill_in_all_s_prompts) ... ok
+test_mutations_exactly_one_path (__main__.Integrity.test_mutations_exactly_one_path) ... ok
+test_restricted_rights_absent (__main__.Integrity.test_restricted_rights_absent) ... ok
+test_skill_unchanged (__main__.Integrity.test_skill_unchanged) ... ok
+test_static_checker_pass (__main__.Integrity.test_static_checker_pass) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.007s
+
+OK

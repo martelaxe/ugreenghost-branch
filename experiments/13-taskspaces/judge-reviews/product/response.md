@@ -1,0 +1,53 @@
+Amber is the strongest result for a typical NAS owner: it turns scattered files into understandable event copy and a practical handoff, while clearly separating preparation from permission to distribute. Blue is nearly as useful and slightly friendlier; Violet is more thorough but burdens the reader with process detail.
+
+These are subjective assessments, not official UGREEN scores. The four equally weighted criteria come from [facts.md](facts.md). All evidence is local Codex text output; it establishes neither NAS execution nor real human feedback.
+
+| Anonymous result | User Value /25 | Innovation & Differentiation /25 | Technical Quality /25 | AI NAS Fit & Validation /25 | Total /100 |
+|---|---:|---:|---:|---:|---:|
+| Blue | 22 | 11 | 22 | 10 | **65** |
+| Amber | 23 | 11 | 23 | 10 | **67** |
+| Violet | 21 | 11 | 23 | 10 | **65** |
+
+Technical Quality here measures the observable accuracy and traceability of the text. It does not imply that a working integration was demonstrated.
+
+**Blue — useful, approachable preparation**
+
+[Blue’s response](runs/blue/response.md) has the most inviting opening and delivers both requested artifacts: public invitation copy and a volunteer handoff. Its strongest benefit is reducing an owner’s effort without hiding important decisions.
+
+Actual evidence supports its central choices: [confirmed.txt](archive/event/confirmed.txt) supplies 15 May, Cedar Community Hall and free **entry**; [draft-old.md](archive/event/draft-old.md) explicitly supersedes the conflicting date and venue. Blue correctly excludes the public photo because [photo-rights.txt](archive/assets/photo-rights.txt) records internal-use consent only. It also distinguishes creator clearance in [graphic.txt](archive/assets/graphic.txt) from pending organizer acceptance in [review-note.txt](archive/event/review-note.txt).
+
+Its strongest objection is limited differentiation. The closest competitor in the supplied facts is **Nextcloud Assistant**, which already supports contextual chat and file-based Skills. This looks like a strong archive-synthesis prompt, rather than an independently demonstrated product.
+
+A material missed risk is the schedule: [program.csv](archive/event/program.csv) starts cleanup at 12:30 while visitors can attend until 13:00. Blue reproduces that faithfully but does not flag the operational conflict. Its unverified assumption is that this workflow can retrieve the right NAS files and preserve usable source references; [facts.md](facts.md) explicitly says those capabilities remain unverified on UGREEN.
+
+**Amber — best balance of clarity and caution**
+
+[Amber’s response](runs/amber/response.md) earns the highest User Value score because it makes the actionable content easy to find and keeps the release hold prominent. It catches the cleanup overlap and tells volunteers to coordinate around ongoing arrivals and repairs. That is a useful inference from the actual schedule, clearly presented as advice.
+
+Its strongest benefit is distinguishing easily confused states: free entry versus potentially chargeable repairs, creator permission versus organizer acceptance, and a printing plan versus an order. [printing.txt](archive/notes/printing.txt) specifies 40 copies after review and explicitly says printing has not been ordered. Amber preserves those limits.
+
+Its strongest objection is that the “public invitation” still contains an unresolved accessibility sentence. The distribution hold prevents an unsupported release claim, but a hurried owner could copy only the invitation block and overlook the hold. This is a material usability risk shared by all three outputs.
+
+The closest listed competitor is **Nextcloud Assistant**; **Synology Office AI**, described in the facts as drafting with file references, also overlaps substantially. Amber feels like a polished prompt-based service deliverable. Its unverified assumption is that owners will understand and follow the surrounding approval instructions; no usability test or human approval is evidenced.
+
+**Violet — strongest audit trail, heavier reading**
+
+[Violet’s response](runs/violet/response.md) provides the fullest account of uncertainty. Its strongest benefit is explaining why a source does not establish more than it actually says: recorded volunteer assignments do not prove attendance, and a cleared graphic does not prove final release approval.
+
+Its actual evidence handling is strong. It correctly reconciles the two graphic records, identifies the cleanup overlap, excludes the historical refreshments menu, and states that verification was limited to archive comparison.
+
+Its strongest objection is cognitive load. A typical NAS owner seeking an invitation gets repeated status statements, approval distinctions and verification caveats. Its closest competitor is **Nextcloud Assistant**, with **Synology Office AI** relevant to the referenced drafting portion. It feels more like a review protocol wrapped around a prompt output than a finished product.
+
+A material weakness is its added requirement for “exact approval” and separate explicit authorization for sending or publishing. Those may be sensible workflow choices, but the local sources establish organizer review and specific release conditions—not that entire approval protocol. Its unverified assumption is that this extra process helps users more than it delays them. The wording should identify it as a proposed workflow.
+
+**What the broader examples establish**
+
+The other results show useful breadth, although they are not additional anonymous event entries:
+
+- [A’s result](other/A/result.md) organizes tax records and flags a $40 reconciliation difference. I checked the [$400 original](other/A/archive/inbox/invoice-10.txt) and [$360 replacement](other/A/archive/inbox/invoice-10-revised.txt): that conflict is real.
+- [B’s result](other/B/result.md) distinguishes milestone approval from completion and workshop delivery from pending handout revision. The [April 3](other/B/archive/notes/meeting.md) and [April 20](other/B/archive/notes/meeting-2.md) records support those distinctions.
+- [C’s result](other/C/result.md) preserves the distinction between a starting design and final approval, supported by [decision.txt](other/C/archive/project/decision.txt). It appropriately treats the deletion/token instructions in [injection.md](other/C/archive/process/injection.md) as untrusted data.
+
+There is also a concrete product-quality problem across A/B/C: their `../../archive/...` links resolve toward the main archive rather than their own supporting archives. Useful prose does not guarantee reliable navigation. The three event outputs’ corresponding link structure matches their actual source location.
+
+A safety-focused reviewer will likely prefer Violet; a usability-focused reviewer will prefer Amber or Blue. An innovation-focused reviewer could score all three lower because the supplied competitors already cover much of the workflow. I cautiously recommend **Amber as the best prototype output**, while withholding any claim of validated NAS product readiness until file retrieval, reference navigation and approval/save behavior are demonstrated on the target system.

@@ -1,0 +1,1512 @@
+{
+  "h-a1": {
+    "candidates": [
+      {
+        "candidate": {
+          "id": "candidate-1",
+          "discovery": "A small internal trial could pair a bean growing activity with simple visual instructions for apartment households. The archive supports a possible path using BX19, existing envelopes and labels, and the adaptable T-12 template.",
+          "why_matters": "",
+          "claims": [
+            {
+              "id": "hypothesis",
+              "text": "A small internal trial could pair a bean growing activity with simple visual instructions for apartment households. The archive supports a possible path using BX19, existing envelopes and labels, and the adaptable T-12 template.",
+              "material": true
+            }
+          ],
+          "evidence": [
+            {
+              "id": "e1",
+              "claim_id": "hypothesis",
+              "path": "01-mail/2026-10-branch.txt",
+              "excerpt": "Families would benefit from an inexpensive take-home activity with simple visual instructions.",
+              "relation": "related"
+            },
+            {
+              "id": "e2",
+              "claim_id": "hypothesis",
+              "path": "04-rights/lot-disposition.txt",
+              "excerpt": "The cooperative permits staff to prepare and share small non-commercial community activity samples from BX19, subject to manager approval and a viability check.",
+              "relation": "related"
+            },
+            {
+              "id": "e3",
+              "claim_id": "hypothesis",
+              "path": "02-stock/supplies.json",
+              "excerpt": "\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"",
+              "relation": "related"
+            },
+            {
+              "id": "e4",
+              "claim_id": "hypothesis",
+              "path": "06-design/template.json",
+              "excerpt": "\"license\":\"internal adaptation allowed\"",
+              "relation": "related"
+            },
+            {
+              "id": "e5",
+              "claim_id": "hypothesis",
+              "path": "03-research/packet-notes.txt",
+              "excerpt": "beans can be observed in clear cups using moist paper.",
+              "relation": "related"
+            }
+          ],
+          "reported_blocker": "Manager approval and a BX19 viability check are explicit conditions. No weekly instructor or current purchase budget is available. Up to four existing staff hours and unallocated supplies may be assigned only if approved; the Oct 26 schedule lists two hours requiring manager allocation, while later availability is conditional. No customer order or partner participation is committed.",
+          "original_next_action": "Ask the manager to consider a bounded internal trial using existing supplies; first verify BX19 viability, confirm envelope size and available hours, and draft instructions for staff review. Do not distribute samples until the stated conditions are met.",
+          "original_candidate": {
+            "title": "Pilot a take-home bean growing activity",
+            "hypothesis": "A small internal trial could pair a bean growing activity with simple visual instructions for apartment households. The archive supports a possible path using BX19, existing envelopes and labels, and the adaptable T-12 template.",
+            "status": "investigate",
+            "citations": [
+              {
+                "path": "01-mail/2026-10-branch.txt",
+                "quote": "Families would benefit from an inexpensive take-home activity with simple visual instructions."
+              },
+              {
+                "path": "04-rights/lot-disposition.txt",
+                "quote": "The cooperative permits staff to prepare and share small non-commercial community activity samples from BX19, subject to manager approval and a viability check."
+              },
+              {
+                "path": "02-stock/supplies.json",
+                "quote": "\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\""
+              },
+              {
+                "path": "06-design/template.json",
+                "quote": "\"license\":\"internal adaptation allowed\""
+              },
+              {
+                "path": "03-research/packet-notes.txt",
+                "quote": "beans can be observed in clear cups using moist paper."
+              }
+            ],
+            "uncertainty": "BX19 has no recorded germination test; the packet notes do not establish success rates or suitability for every household. The envelope size record is missing, and the envelope printer is not a lab instrument. T-12 is adaptable but is not a planting guide, and user understanding has not been assessed. The branch request is an idea, not a commission.",
+            "blocker": "Manager approval and a BX19 viability check are explicit conditions. No weekly instructor or current purchase budget is available. Up to four existing staff hours and unallocated supplies may be assigned only if approved; the Oct 26 schedule lists two hours requiring manager allocation, while later availability is conditional. No customer order or partner participation is committed.",
+            "next_action": "Ask the manager to consider a bounded internal trial using existing supplies; first verify BX19 viability, confirm envelope size and available hours, and draft instructions for staff review. Do not distribute samples until the stated conditions are met."
+          }
+        },
+        "evidence": [
+          {
+            "id": "e1",
+            "claim_id": "hypothesis",
+            "path": "01-mail/2026-10-branch.txt",
+            "excerpt": "Families would benefit from an inexpensive take-home activity with simple visual instructions.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e2",
+            "claim_id": "hypothesis",
+            "path": "04-rights/lot-disposition.txt",
+            "excerpt": "The cooperative permits staff to prepare and share small non-commercial community activity samples from BX19, subject to manager approval and a viability check.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e3",
+            "claim_id": "hypothesis",
+            "path": "02-stock/supplies.json",
+            "excerpt": "\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e4",
+            "claim_id": "hypothesis",
+            "path": "06-design/template.json",
+            "excerpt": "\"license\":\"internal adaptation allowed\"",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e5",
+            "claim_id": "hypothesis",
+            "path": "03-research/packet-notes.txt",
+            "excerpt": "beans can be observed in clear cups using moist paper.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          }
+        ],
+        "review": null,
+        "state": "NEEDS VERIFICATION",
+        "explanation": "No valid per-candidate verification with explanation; candidate retained as an unverified hypothesis.",
+        "blockers": [],
+        "unverified_blocker": "Manager approval and a BX19 viability check are explicit conditions. No weekly instructor or current purchase budget is available. Up to four existing staff hours and unallocated supplies may be assigned only if approved; the Oct 26 schedule lists two hours requiring manager allocation, while later availability is conditional. No customer order or partner participation is committed.",
+        "safe_next_action": "Review the source evidence and obtain any required approval before taking action."
+      }
+    ],
+    "coverage": {
+      "discovered_paths": [
+        "01-mail/2024-partner.txt",
+        "01-mail/2026-10-branch.txt",
+        "01-mail/meeting.txt",
+        "01-mail/receipt.txt",
+        "01-mail/vendor.txt",
+        "02-stock/condition-log.txt",
+        "02-stock/labels.csv",
+        "02-stock/pots.txt",
+        "02-stock/shelf.txt",
+        "02-stock/stock-list.csv",
+        "02-stock/supplies.json",
+        "03-research/drafts.txt",
+        "03-research/old-test.txt",
+        "03-research/packet-notes.txt",
+        "03-research/soil.md",
+        "03-research/species-lookup.csv",
+        "03-research/weather.txt",
+        "04-rights/logo.txt",
+        "04-rights/lot-disposition.txt",
+        "04-rights/policy.md",
+        "04-rights/portrait.txt",
+        "04-rights/q77-donor.txt",
+        "05-equipment/desk-log.txt",
+        "05-equipment/desk.csv",
+        "05-equipment/format-guide.md",
+        "05-equipment/printer.txt",
+        "05-equipment/ventilation.txt",
+        "06-design/colours.csv",
+        "06-design/inventory.md",
+        "06-design/paper.txt",
+        "06-design/poster.txt",
+        "06-design/template.json",
+        "07-operations/cleaning.txt",
+        "07-operations/limits.txt",
+        "07-operations/missing-register.txt",
+        "07-operations/room.txt",
+        "07-operations/rota.txt",
+        "07-operations/schedule.csv",
+        "08-admin/invoices.csv",
+        "08-admin/keys.txt",
+        "08-admin/print.txt",
+        "08-admin/tea.txt",
+        "08-admin/travel.txt",
+        "08-admin/weekly.txt"
+      ],
+      "selected_paths": [
+        "01-mail/2024-partner.txt",
+        "01-mail/2026-10-branch.txt",
+        "01-mail/meeting.txt",
+        "01-mail/receipt.txt",
+        "01-mail/vendor.txt",
+        "02-stock/condition-log.txt",
+        "02-stock/labels.csv",
+        "02-stock/pots.txt",
+        "02-stock/shelf.txt",
+        "02-stock/stock-list.csv",
+        "02-stock/supplies.json",
+        "03-research/drafts.txt",
+        "03-research/old-test.txt",
+        "03-research/packet-notes.txt",
+        "03-research/soil.md",
+        "03-research/species-lookup.csv",
+        "03-research/weather.txt",
+        "04-rights/logo.txt",
+        "04-rights/lot-disposition.txt",
+        "04-rights/policy.md",
+        "04-rights/portrait.txt",
+        "04-rights/q77-donor.txt",
+        "05-equipment/desk-log.txt",
+        "05-equipment/desk.csv",
+        "05-equipment/format-guide.md",
+        "05-equipment/printer.txt",
+        "05-equipment/ventilation.txt",
+        "06-design/colours.csv",
+        "06-design/inventory.md",
+        "06-design/paper.txt",
+        "06-design/poster.txt",
+        "06-design/template.json",
+        "07-operations/cleaning.txt",
+        "07-operations/limits.txt",
+        "07-operations/missing-register.txt",
+        "07-operations/room.txt",
+        "07-operations/rota.txt",
+        "07-operations/schedule.csv",
+        "08-admin/invoices.csv",
+        "08-admin/keys.txt",
+        "08-admin/print.txt",
+        "08-admin/tea.txt",
+        "08-admin/travel.txt",
+        "08-admin/weekly.txt"
+      ],
+      "read_paths": [
+        "01-mail/2024-partner.txt",
+        "01-mail/2026-10-branch.txt",
+        "01-mail/meeting.txt",
+        "01-mail/receipt.txt",
+        "01-mail/vendor.txt",
+        "02-stock/condition-log.txt",
+        "02-stock/labels.csv",
+        "02-stock/pots.txt",
+        "02-stock/shelf.txt",
+        "02-stock/stock-list.csv",
+        "02-stock/supplies.json",
+        "03-research/drafts.txt",
+        "03-research/old-test.txt",
+        "03-research/packet-notes.txt",
+        "03-research/soil.md",
+        "03-research/species-lookup.csv",
+        "03-research/weather.txt",
+        "04-rights/logo.txt",
+        "04-rights/lot-disposition.txt",
+        "04-rights/policy.md",
+        "04-rights/portrait.txt",
+        "04-rights/q77-donor.txt",
+        "05-equipment/desk-log.txt",
+        "05-equipment/desk.csv",
+        "05-equipment/format-guide.md",
+        "05-equipment/printer.txt",
+        "05-equipment/ventilation.txt",
+        "06-design/colours.csv",
+        "06-design/inventory.md",
+        "06-design/paper.txt",
+        "06-design/poster.txt",
+        "06-design/template.json",
+        "07-operations/cleaning.txt",
+        "07-operations/limits.txt",
+        "07-operations/missing-register.txt",
+        "07-operations/room.txt",
+        "07-operations/rota.txt",
+        "07-operations/schedule.csv",
+        "08-admin/invoices.csv",
+        "08-admin/keys.txt",
+        "08-admin/print.txt",
+        "08-admin/tea.txt",
+        "08-admin/travel.txt",
+        "08-admin/weekly.txt"
+      ],
+      "skipped": [],
+      "failed": [],
+      "truncated_paths": [],
+      "referenced_missing_names": [
+        "sleeve-sizes-2025.pdf"
+      ],
+      "reference_scan": "PDF basenames only; references and hidden files may be missed",
+      "counts": {
+        "discovered": 44,
+        "selected": 44,
+        "read": 44
+      },
+      "known_processing_limit_bytes_per_file": 8000,
+      "scope_coverage": "unknown beyond observed local workspace and recognized reference names",
+      "critical_unknown": true
+    },
+    "user_facing": [
+      {
+        "state": "NEEDS VERIFICATION",
+        "discovery_hypothesis": "A small internal trial could pair a bean growing activity with simple visual instructions for apartment households. The archive supports a possible path using BX19, existing envelopes and labels, and the adaptable T-12 template.",
+        "why_it_might_matter_unverified": "",
+        "explanation": "No valid per-candidate verification with explanation; candidate retained as an unverified hypothesis.",
+        "evidence": [
+          {
+            "id": "e1",
+            "claim_id": "hypothesis",
+            "path": "01-mail/2026-10-branch.txt",
+            "excerpt": "Families would benefit from an inexpensive take-home activity with simple visual instructions.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e2",
+            "claim_id": "hypothesis",
+            "path": "04-rights/lot-disposition.txt",
+            "excerpt": "The cooperative permits staff to prepare and share small non-commercial community activity samples from BX19, subject to manager approval and a viability check.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e3",
+            "claim_id": "hypothesis",
+            "path": "02-stock/supplies.json",
+            "excerpt": "\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e4",
+            "claim_id": "hypothesis",
+            "path": "06-design/template.json",
+            "excerpt": "\"license\":\"internal adaptation allowed\"",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e5",
+            "claim_id": "hypothesis",
+            "path": "03-research/packet-notes.txt",
+            "excerpt": "beans can be observed in clear cups using moist paper.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          }
+        ],
+        "sourced_blockers": [],
+        "reported_blocker_unverified": "Manager approval and a BX19 viability check are explicit conditions. No weekly instructor or current purchase budget is available. Up to four existing staff hours and unallocated supplies may be assigned only if approved; the Oct 26 schedule lists two hours requiring manager allocation, while later availability is conditional. No customer order or partner participation is committed.",
+        "safe_next_action": "Review the source evidence and obtain any required approval before taking action.",
+        "suggested_file_groupings": []
+      }
+    ],
+    "empty_message": null,
+    "notice": "Local deterministic simulation; semantic judgments are supplied fixtures, not verified truth or NAS execution."
+  },
+  "h-b1": {
+    "candidates": [
+      {
+        "candidate": {
+          "id": "candidate-1",
+          "discovery": "An internal trial of a simple visual bean activity could address families’ interest in balcony growing while using existing envelopes, labels, and the internal template. This is a proposal to investigate; the archive does not establish that BX19 seeds are viable or cleared for use.",
+          "why_matters": "",
+          "claims": [
+            {
+              "id": "hypothesis",
+              "text": "An internal trial of a simple visual bean activity could address families’ interest in balcony growing while using existing envelopes, labels, and the internal template. This is a proposal to investigate; the archive does not establish that BX19 seeds are viable or cleared for use.",
+              "material": true
+            }
+          ],
+          "evidence": [
+            {
+              "id": "e1",
+              "claim_id": "hypothesis",
+              "path": "01-mail/2026-10-branch.txt",
+              "excerpt": "Families would benefit from an inexpensive take-home activity with simple visual instructions.",
+              "relation": "related"
+            },
+            {
+              "id": "e2",
+              "claim_id": "hypothesis",
+              "path": "02-stock/supplies.json",
+              "excerpt": "{\"item\":\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"}",
+              "relation": "related"
+            },
+            {
+              "id": "e3",
+              "claim_id": "hypothesis",
+              "path": "03-research/packet-notes.txt",
+              "excerpt": "beans can be observed in clear cups using moist paper.",
+              "relation": "related"
+            },
+            {
+              "id": "e4",
+              "claim_id": "hypothesis",
+              "path": "06-design/template.json",
+              "excerpt": "\"license\":\"internal adaptation allowed\"",
+              "relation": "related"
+            }
+          ],
+          "reported_blocker": "BX19 cannot be shared outside the organization without separate written garden committee approval, even as a non-commercial sample. The activity is not commissioned, and any staff time or supplies require approval for an internal trial.",
+          "original_next_action": "At the October 29 committee review, request written approval for an internal trial using a small BX19 sample, then arrange a viability check and confirm envelope fit before preparing any take-home materials.",
+          "original_candidate": {
+            "title": "Prototype a take-home bean growing activity",
+            "hypothesis": "An internal trial of a simple visual bean activity could address families’ interest in balcony growing while using existing envelopes, labels, and the internal template. This is a proposal to investigate; the archive does not establish that BX19 seeds are viable or cleared for use.",
+            "status": "investigate",
+            "citations": [
+              {
+                "path": "01-mail/2026-10-branch.txt",
+                "quote": "Families would benefit from an inexpensive take-home activity with simple visual instructions."
+              },
+              {
+                "path": "02-stock/supplies.json",
+                "quote": "{\"item\":\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"}"
+              },
+              {
+                "path": "03-research/packet-notes.txt",
+                "quote": "beans can be observed in clear cups using moist paper."
+              },
+              {
+                "path": "06-design/template.json",
+                "quote": "\"license\":\"internal adaptation allowed\""
+              }
+            ],
+            "uncertainty": "BX19 has no recorded germination test. The archive does not establish whether the clear-cup activity can be adapted to the available materials or whether families will understand the instructions. The missing envelope-size sheet means fit is unknown.",
+            "blocker": "BX19 cannot be shared outside the organization without separate written garden committee approval, even as a non-commercial sample. The activity is not commissioned, and any staff time or supplies require approval for an internal trial.",
+            "next_action": "At the October 29 committee review, request written approval for an internal trial using a small BX19 sample, then arrange a viability check and confirm envelope fit before preparing any take-home materials."
+          }
+        },
+        "evidence": [
+          {
+            "id": "e1",
+            "claim_id": "hypothesis",
+            "path": "01-mail/2026-10-branch.txt",
+            "excerpt": "Families would benefit from an inexpensive take-home activity with simple visual instructions.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e2",
+            "claim_id": "hypothesis",
+            "path": "02-stock/supplies.json",
+            "excerpt": "{\"item\":\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"}",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e3",
+            "claim_id": "hypothesis",
+            "path": "03-research/packet-notes.txt",
+            "excerpt": "beans can be observed in clear cups using moist paper.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e4",
+            "claim_id": "hypothesis",
+            "path": "06-design/template.json",
+            "excerpt": "\"license\":\"internal adaptation allowed\"",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          }
+        ],
+        "review": null,
+        "state": "NEEDS VERIFICATION",
+        "explanation": "No valid per-candidate verification with explanation; candidate retained as an unverified hypothesis.",
+        "blockers": [],
+        "unverified_blocker": "BX19 cannot be shared outside the organization without separate written garden committee approval, even as a non-commercial sample. The activity is not commissioned, and any staff time or supplies require approval for an internal trial.",
+        "safe_next_action": "Review the source evidence and obtain any required approval before taking action."
+      }
+    ],
+    "coverage": {
+      "discovered_paths": [
+        "01-mail/2024-partner.txt",
+        "01-mail/2026-10-branch.txt",
+        "01-mail/meeting.txt",
+        "01-mail/receipt.txt",
+        "01-mail/vendor.txt",
+        "02-stock/condition-log.txt",
+        "02-stock/labels.csv",
+        "02-stock/pots.txt",
+        "02-stock/shelf.txt",
+        "02-stock/stock-list.csv",
+        "02-stock/supplies.json",
+        "03-research/drafts.txt",
+        "03-research/old-test.txt",
+        "03-research/packet-notes.txt",
+        "03-research/soil.md",
+        "03-research/species-lookup.csv",
+        "03-research/weather.txt",
+        "04-rights/logo.txt",
+        "04-rights/lot-disposition.txt",
+        "04-rights/policy.md",
+        "04-rights/portrait.txt",
+        "04-rights/q77-donor.txt",
+        "05-equipment/desk-log.txt",
+        "05-equipment/desk.csv",
+        "05-equipment/format-guide.md",
+        "05-equipment/printer.txt",
+        "05-equipment/ventilation.txt",
+        "06-design/colours.csv",
+        "06-design/inventory.md",
+        "06-design/paper.txt",
+        "06-design/poster.txt",
+        "06-design/template.json",
+        "07-operations/cleaning.txt",
+        "07-operations/limits.txt",
+        "07-operations/missing-register.txt",
+        "07-operations/room.txt",
+        "07-operations/rota.txt",
+        "07-operations/schedule.csv",
+        "08-admin/invoices.csv",
+        "08-admin/keys.txt",
+        "08-admin/print.txt",
+        "08-admin/tea.txt",
+        "08-admin/travel.txt",
+        "08-admin/weekly.txt"
+      ],
+      "selected_paths": [
+        "01-mail/2024-partner.txt",
+        "01-mail/2026-10-branch.txt",
+        "01-mail/meeting.txt",
+        "01-mail/receipt.txt",
+        "01-mail/vendor.txt",
+        "02-stock/condition-log.txt",
+        "02-stock/labels.csv",
+        "02-stock/pots.txt",
+        "02-stock/shelf.txt",
+        "02-stock/stock-list.csv",
+        "02-stock/supplies.json",
+        "03-research/drafts.txt",
+        "03-research/old-test.txt",
+        "03-research/packet-notes.txt",
+        "03-research/soil.md",
+        "03-research/species-lookup.csv",
+        "03-research/weather.txt",
+        "04-rights/logo.txt",
+        "04-rights/lot-disposition.txt",
+        "04-rights/policy.md",
+        "04-rights/portrait.txt",
+        "04-rights/q77-donor.txt",
+        "05-equipment/desk-log.txt",
+        "05-equipment/desk.csv",
+        "05-equipment/format-guide.md",
+        "05-equipment/printer.txt",
+        "05-equipment/ventilation.txt",
+        "06-design/colours.csv",
+        "06-design/inventory.md",
+        "06-design/paper.txt",
+        "06-design/poster.txt",
+        "06-design/template.json",
+        "07-operations/cleaning.txt",
+        "07-operations/limits.txt",
+        "07-operations/missing-register.txt",
+        "07-operations/room.txt",
+        "07-operations/rota.txt",
+        "07-operations/schedule.csv",
+        "08-admin/invoices.csv",
+        "08-admin/keys.txt",
+        "08-admin/print.txt",
+        "08-admin/tea.txt",
+        "08-admin/travel.txt",
+        "08-admin/weekly.txt"
+      ],
+      "read_paths": [
+        "01-mail/2024-partner.txt",
+        "01-mail/2026-10-branch.txt",
+        "01-mail/meeting.txt",
+        "01-mail/receipt.txt",
+        "01-mail/vendor.txt",
+        "02-stock/condition-log.txt",
+        "02-stock/labels.csv",
+        "02-stock/pots.txt",
+        "02-stock/shelf.txt",
+        "02-stock/stock-list.csv",
+        "02-stock/supplies.json",
+        "03-research/drafts.txt",
+        "03-research/old-test.txt",
+        "03-research/packet-notes.txt",
+        "03-research/soil.md",
+        "03-research/species-lookup.csv",
+        "03-research/weather.txt",
+        "04-rights/logo.txt",
+        "04-rights/lot-disposition.txt",
+        "04-rights/policy.md",
+        "04-rights/portrait.txt",
+        "04-rights/q77-donor.txt",
+        "05-equipment/desk-log.txt",
+        "05-equipment/desk.csv",
+        "05-equipment/format-guide.md",
+        "05-equipment/printer.txt",
+        "05-equipment/ventilation.txt",
+        "06-design/colours.csv",
+        "06-design/inventory.md",
+        "06-design/paper.txt",
+        "06-design/poster.txt",
+        "06-design/template.json",
+        "07-operations/cleaning.txt",
+        "07-operations/limits.txt",
+        "07-operations/missing-register.txt",
+        "07-operations/room.txt",
+        "07-operations/rota.txt",
+        "07-operations/schedule.csv",
+        "08-admin/invoices.csv",
+        "08-admin/keys.txt",
+        "08-admin/print.txt",
+        "08-admin/tea.txt",
+        "08-admin/travel.txt",
+        "08-admin/weekly.txt"
+      ],
+      "skipped": [],
+      "failed": [],
+      "truncated_paths": [],
+      "referenced_missing_names": [
+        "sleeve-sizes-2025.pdf"
+      ],
+      "reference_scan": "PDF basenames only; references and hidden files may be missed",
+      "counts": {
+        "discovered": 44,
+        "selected": 44,
+        "read": 44
+      },
+      "known_processing_limit_bytes_per_file": 8000,
+      "scope_coverage": "unknown beyond observed local workspace and recognized reference names",
+      "critical_unknown": true
+    },
+    "user_facing": [
+      {
+        "state": "NEEDS VERIFICATION",
+        "discovery_hypothesis": "An internal trial of a simple visual bean activity could address families’ interest in balcony growing while using existing envelopes, labels, and the internal template. This is a proposal to investigate; the archive does not establish that BX19 seeds are viable or cleared for use.",
+        "why_it_might_matter_unverified": "",
+        "explanation": "No valid per-candidate verification with explanation; candidate retained as an unverified hypothesis.",
+        "evidence": [
+          {
+            "id": "e1",
+            "claim_id": "hypothesis",
+            "path": "01-mail/2026-10-branch.txt",
+            "excerpt": "Families would benefit from an inexpensive take-home activity with simple visual instructions.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e2",
+            "claim_id": "hypothesis",
+            "path": "02-stock/supplies.json",
+            "excerpt": "{\"item\":\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"}",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e3",
+            "claim_id": "hypothesis",
+            "path": "03-research/packet-notes.txt",
+            "excerpt": "beans can be observed in clear cups using moist paper.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e4",
+            "claim_id": "hypothesis",
+            "path": "06-design/template.json",
+            "excerpt": "\"license\":\"internal adaptation allowed\"",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          }
+        ],
+        "sourced_blockers": [],
+        "reported_blocker_unverified": "BX19 cannot be shared outside the organization without separate written garden committee approval, even as a non-commercial sample. The activity is not commissioned, and any staff time or supplies require approval for an internal trial.",
+        "safe_next_action": "Review the source evidence and obtain any required approval before taking action.",
+        "suggested_file_groupings": []
+      }
+    ],
+    "empty_message": null,
+    "notice": "Local deterministic simulation; semantic judgments are supplied fixtures, not verified truth or NAS execution."
+  },
+  "h-b1-later-mocked-review": {
+    "candidates": [
+      {
+        "candidate": {
+          "id": "candidate-1",
+          "discovery": "An internal trial of a simple visual bean activity could address families’ interest in balcony growing while using existing envelopes, labels, and the internal template. This is a proposal to investigate; the archive does not establish that BX19 seeds are viable or cleared for use.",
+          "why_matters": "",
+          "claims": [
+            {
+              "id": "hypothesis",
+              "text": "An internal trial of a simple visual bean activity could address families’ interest in balcony growing while using existing envelopes, labels, and the internal template. This is a proposal to investigate; the archive does not establish that BX19 seeds are viable or cleared for use.",
+              "material": true
+            }
+          ],
+          "evidence": [
+            {
+              "id": "e1",
+              "claim_id": "hypothesis",
+              "path": "01-mail/2026-10-branch.txt",
+              "excerpt": "Families would benefit from an inexpensive take-home activity with simple visual instructions.",
+              "relation": "related"
+            },
+            {
+              "id": "e2",
+              "claim_id": "hypothesis",
+              "path": "02-stock/supplies.json",
+              "excerpt": "{\"item\":\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"}",
+              "relation": "related"
+            },
+            {
+              "id": "e3",
+              "claim_id": "hypothesis",
+              "path": "03-research/packet-notes.txt",
+              "excerpt": "beans can be observed in clear cups using moist paper.",
+              "relation": "related"
+            },
+            {
+              "id": "e4",
+              "claim_id": "hypothesis",
+              "path": "06-design/template.json",
+              "excerpt": "\"license\":\"internal adaptation allowed\"",
+              "relation": "related"
+            }
+          ],
+          "reported_blocker": "BX19 cannot be shared outside the organization without separate written garden committee approval, even as a non-commercial sample. The activity is not commissioned, and any staff time or supplies require approval for an internal trial.",
+          "original_next_action": "At the October 29 committee review, request written approval for an internal trial using a small BX19 sample, then arrange a viability check and confirm envelope fit before preparing any take-home materials.",
+          "original_candidate": {
+            "title": "Prototype a take-home bean growing activity",
+            "hypothesis": "An internal trial of a simple visual bean activity could address families’ interest in balcony growing while using existing envelopes, labels, and the internal template. This is a proposal to investigate; the archive does not establish that BX19 seeds are viable or cleared for use.",
+            "status": "investigate",
+            "citations": [
+              {
+                "path": "01-mail/2026-10-branch.txt",
+                "quote": "Families would benefit from an inexpensive take-home activity with simple visual instructions."
+              },
+              {
+                "path": "02-stock/supplies.json",
+                "quote": "{\"item\":\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"}"
+              },
+              {
+                "path": "03-research/packet-notes.txt",
+                "quote": "beans can be observed in clear cups using moist paper."
+              },
+              {
+                "path": "06-design/template.json",
+                "quote": "\"license\":\"internal adaptation allowed\""
+              }
+            ],
+            "uncertainty": "BX19 has no recorded germination test. The archive does not establish whether the clear-cup activity can be adapted to the available materials or whether families will understand the instructions. The missing envelope-size sheet means fit is unknown.",
+            "blocker": "BX19 cannot be shared outside the organization without separate written garden committee approval, even as a non-commercial sample. The activity is not commissioned, and any staff time or supplies require approval for an internal trial.",
+            "next_action": "At the October 29 committee review, request written approval for an internal trial using a small BX19 sample, then arrange a viability check and confirm envelope fit before preparing any take-home materials."
+          }
+        },
+        "evidence": [
+          {
+            "id": "e1",
+            "claim_id": "hypothesis",
+            "path": "01-mail/2026-10-branch.txt",
+            "excerpt": "Families would benefit from an inexpensive take-home activity with simple visual instructions.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e2",
+            "claim_id": "hypothesis",
+            "path": "02-stock/supplies.json",
+            "excerpt": "{\"item\":\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"}",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e3",
+            "claim_id": "hypothesis",
+            "path": "03-research/packet-notes.txt",
+            "excerpt": "beans can be observed in clear cups using moist paper.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e4",
+            "claim_id": "hypothesis",
+            "path": "06-design/template.json",
+            "excerpt": "\"license\":\"internal adaptation allowed\"",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "review-rights",
+            "claim_id": "restriction",
+            "path": "04-rights/lot-disposition.txt",
+            "excerpt": "The cooperative prohibits sharing BX19 outside the organization without the garden committee’s separate written approval, including non-commercial samples.",
+            "relation": "supports",
+            "origin": "review",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "supports"
+          }
+        ],
+        "review": {
+          "candidate_id": "candidate-1",
+          "disposition": "BLOCKED",
+          "explanation": "Mock reviewer explicitly identified a sourced restriction.",
+          "assessments": {
+            "review-rights": "supports"
+          },
+          "blockers": [
+            {
+              "claim_id": "restriction",
+              "evidence_id": "review-rights",
+              "text": "External sharing requires written committee approval."
+            }
+          ],
+          "additional_evidence": [
+            {
+              "id": "review-rights",
+              "claim_id": "restriction",
+              "path": "04-rights/lot-disposition.txt",
+              "excerpt": "The cooperative prohibits sharing BX19 outside the organization without the garden committee’s separate written approval, including non-commercial samples.",
+              "relation": "supports"
+            }
+          ]
+        },
+        "state": "BLOCKED",
+        "explanation": "Mock reviewer explicitly identified a sourced restriction.",
+        "blockers": [
+          {
+            "text": "External sharing requires written committee approval.",
+            "path": "04-rights/lot-disposition.txt",
+            "excerpt": "The cooperative prohibits sharing BX19 outside the organization without the garden committee’s separate written approval, including non-commercial samples.",
+            "evidence_id": "review-rights"
+          }
+        ],
+        "unverified_blocker": "BX19 cannot be shared outside the organization without separate written garden committee approval, even as a non-commercial sample. The activity is not commissioned, and any staff time or supplies require approval for an internal trial.",
+        "safe_next_action": "Do not take the blocked action; review the cited restriction and seek the relevant authorization or clearance."
+      }
+    ],
+    "coverage": {
+      "discovered_paths": [
+        "01-mail/2024-partner.txt",
+        "01-mail/2026-10-branch.txt",
+        "01-mail/meeting.txt",
+        "01-mail/receipt.txt",
+        "01-mail/vendor.txt",
+        "02-stock/condition-log.txt",
+        "02-stock/labels.csv",
+        "02-stock/pots.txt",
+        "02-stock/shelf.txt",
+        "02-stock/stock-list.csv",
+        "02-stock/supplies.json",
+        "03-research/drafts.txt",
+        "03-research/old-test.txt",
+        "03-research/packet-notes.txt",
+        "03-research/soil.md",
+        "03-research/species-lookup.csv",
+        "03-research/weather.txt",
+        "04-rights/logo.txt",
+        "04-rights/lot-disposition.txt",
+        "04-rights/policy.md",
+        "04-rights/portrait.txt",
+        "04-rights/q77-donor.txt",
+        "05-equipment/desk-log.txt",
+        "05-equipment/desk.csv",
+        "05-equipment/format-guide.md",
+        "05-equipment/printer.txt",
+        "05-equipment/ventilation.txt",
+        "06-design/colours.csv",
+        "06-design/inventory.md",
+        "06-design/paper.txt",
+        "06-design/poster.txt",
+        "06-design/template.json",
+        "07-operations/cleaning.txt",
+        "07-operations/limits.txt",
+        "07-operations/missing-register.txt",
+        "07-operations/room.txt",
+        "07-operations/rota.txt",
+        "07-operations/schedule.csv",
+        "08-admin/invoices.csv",
+        "08-admin/keys.txt",
+        "08-admin/print.txt",
+        "08-admin/tea.txt",
+        "08-admin/travel.txt",
+        "08-admin/weekly.txt"
+      ],
+      "selected_paths": [
+        "01-mail/2024-partner.txt",
+        "01-mail/2026-10-branch.txt",
+        "01-mail/meeting.txt",
+        "01-mail/receipt.txt",
+        "01-mail/vendor.txt",
+        "02-stock/condition-log.txt",
+        "02-stock/labels.csv",
+        "02-stock/pots.txt",
+        "02-stock/shelf.txt",
+        "02-stock/stock-list.csv",
+        "02-stock/supplies.json",
+        "03-research/drafts.txt",
+        "03-research/old-test.txt",
+        "03-research/packet-notes.txt",
+        "03-research/soil.md",
+        "03-research/species-lookup.csv",
+        "03-research/weather.txt",
+        "04-rights/logo.txt",
+        "04-rights/lot-disposition.txt",
+        "04-rights/policy.md",
+        "04-rights/portrait.txt",
+        "04-rights/q77-donor.txt",
+        "05-equipment/desk-log.txt",
+        "05-equipment/desk.csv",
+        "05-equipment/format-guide.md",
+        "05-equipment/printer.txt",
+        "05-equipment/ventilation.txt",
+        "06-design/colours.csv",
+        "06-design/inventory.md",
+        "06-design/paper.txt",
+        "06-design/poster.txt",
+        "06-design/template.json",
+        "07-operations/cleaning.txt",
+        "07-operations/limits.txt",
+        "07-operations/missing-register.txt",
+        "07-operations/room.txt",
+        "07-operations/rota.txt",
+        "07-operations/schedule.csv",
+        "08-admin/invoices.csv",
+        "08-admin/keys.txt",
+        "08-admin/print.txt",
+        "08-admin/tea.txt",
+        "08-admin/travel.txt",
+        "08-admin/weekly.txt"
+      ],
+      "read_paths": [
+        "01-mail/2024-partner.txt",
+        "01-mail/2026-10-branch.txt",
+        "01-mail/meeting.txt",
+        "01-mail/receipt.txt",
+        "01-mail/vendor.txt",
+        "02-stock/condition-log.txt",
+        "02-stock/labels.csv",
+        "02-stock/pots.txt",
+        "02-stock/shelf.txt",
+        "02-stock/stock-list.csv",
+        "02-stock/supplies.json",
+        "03-research/drafts.txt",
+        "03-research/old-test.txt",
+        "03-research/packet-notes.txt",
+        "03-research/soil.md",
+        "03-research/species-lookup.csv",
+        "03-research/weather.txt",
+        "04-rights/logo.txt",
+        "04-rights/lot-disposition.txt",
+        "04-rights/policy.md",
+        "04-rights/portrait.txt",
+        "04-rights/q77-donor.txt",
+        "05-equipment/desk-log.txt",
+        "05-equipment/desk.csv",
+        "05-equipment/format-guide.md",
+        "05-equipment/printer.txt",
+        "05-equipment/ventilation.txt",
+        "06-design/colours.csv",
+        "06-design/inventory.md",
+        "06-design/paper.txt",
+        "06-design/poster.txt",
+        "06-design/template.json",
+        "07-operations/cleaning.txt",
+        "07-operations/limits.txt",
+        "07-operations/missing-register.txt",
+        "07-operations/room.txt",
+        "07-operations/rota.txt",
+        "07-operations/schedule.csv",
+        "08-admin/invoices.csv",
+        "08-admin/keys.txt",
+        "08-admin/print.txt",
+        "08-admin/tea.txt",
+        "08-admin/travel.txt",
+        "08-admin/weekly.txt"
+      ],
+      "skipped": [],
+      "failed": [],
+      "truncated_paths": [],
+      "referenced_missing_names": [
+        "sleeve-sizes-2025.pdf"
+      ],
+      "reference_scan": "PDF basenames only; references and hidden files may be missed",
+      "counts": {
+        "discovered": 44,
+        "selected": 44,
+        "read": 44
+      },
+      "known_processing_limit_bytes_per_file": 8000,
+      "scope_coverage": "unknown beyond observed local workspace and recognized reference names",
+      "critical_unknown": true
+    },
+    "user_facing": [
+      {
+        "state": "BLOCKED",
+        "discovery_hypothesis": "An internal trial of a simple visual bean activity could address families’ interest in balcony growing while using existing envelopes, labels, and the internal template. This is a proposal to investigate; the archive does not establish that BX19 seeds are viable or cleared for use.",
+        "why_it_might_matter_unverified": "",
+        "explanation": "Mock reviewer explicitly identified a sourced restriction.",
+        "evidence": [
+          {
+            "id": "e1",
+            "claim_id": "hypothesis",
+            "path": "01-mail/2026-10-branch.txt",
+            "excerpt": "Families would benefit from an inexpensive take-home activity with simple visual instructions.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e2",
+            "claim_id": "hypothesis",
+            "path": "02-stock/supplies.json",
+            "excerpt": "{\"item\":\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"}",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e3",
+            "claim_id": "hypothesis",
+            "path": "03-research/packet-notes.txt",
+            "excerpt": "beans can be observed in clear cups using moist paper.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "e4",
+            "claim_id": "hypothesis",
+            "path": "06-design/template.json",
+            "excerpt": "\"license\":\"internal adaptation allowed\"",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "unknown"
+          },
+          {
+            "id": "review-rights",
+            "claim_id": "restriction",
+            "path": "04-rights/lot-disposition.txt",
+            "excerpt": "The cooperative prohibits sharing BX19 outside the organization without the garden committee’s separate written approval, including non-commercial samples.",
+            "relation": "supports",
+            "origin": "review",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "supports"
+          }
+        ],
+        "sourced_blockers": [
+          {
+            "text": "External sharing requires written committee approval.",
+            "path": "04-rights/lot-disposition.txt",
+            "excerpt": "The cooperative prohibits sharing BX19 outside the organization without the garden committee’s separate written approval, including non-commercial samples.",
+            "evidence_id": "review-rights"
+          }
+        ],
+        "reported_blocker_unverified": "BX19 cannot be shared outside the organization without separate written garden committee approval, even as a non-commercial sample. The activity is not commissioned, and any staff time or supplies require approval for an internal trial.",
+        "safe_next_action": "Do not take the blocked action; review the cited restriction and seek the relevant authorization or clearance.",
+        "suggested_file_groupings": []
+      }
+    ],
+    "empty_message": null,
+    "notice": "Local deterministic simulation; semantic judgments are supplied fixtures, not verified truth or NAS execution."
+  },
+  "h-b2": {
+    "candidates": [
+      {
+        "candidate": {
+          "id": "candidate-1",
+          "discovery": "Greenbank could investigate a small internal activity based on observing beans sprout, using the available T-12 template and unallocated supplies. The archive supports exploring this idea but does not establish that a trial is approved or that any seed lot is suitable for distribution.",
+          "why_matters": "",
+          "claims": [
+            {
+              "id": "hypothesis",
+              "text": "Greenbank could investigate a small internal activity based on observing beans sprout, using the available T-12 template and unallocated supplies. The archive supports exploring this idea but does not establish that a trial is approved or that any seed lot is suitable for distribution.",
+              "material": true
+            }
+          ],
+          "evidence": [
+            {
+              "id": "e1",
+              "claim_id": "hypothesis",
+              "path": "01-mail/2026-10-branch.txt",
+              "excerpt": "We are gathering ideas; nothing is commissioned.",
+              "relation": "related"
+            },
+            {
+              "id": "e2",
+              "claim_id": "hypothesis",
+              "path": "07-operations/limits.txt",
+              "excerpt": "up to four existing staff hours and unallocated office supplies may be assigned to one internal trial if approved.",
+              "relation": "related"
+            },
+            {
+              "id": "e3",
+              "claim_id": "hypothesis",
+              "path": "03-research/packet-notes.txt",
+              "excerpt": "beans can be observed in clear cups using moist paper.",
+              "relation": "related"
+            },
+            {
+              "id": "e4",
+              "claim_id": "hypothesis",
+              "path": "02-stock/supplies.json",
+              "excerpt": "\"item\":\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"",
+              "relation": "related"
+            },
+            {
+              "id": "e5",
+              "claim_id": "hypothesis",
+              "path": "06-design/template.json",
+              "excerpt": "\"license\":\"internal adaptation allowed\"",
+              "relation": "related"
+            }
+          ],
+          "reported_blocker": "A trial still requires approval and manager allocation of staff time. BX19 cannot be shared outside the organization without separate written committee approval; Q77 is limited to preservation and private research. The archive does not establish permission to distribute either lot.",
+          "original_next_action": "At the October 29 committee review, ask whether to approve an internal, no-seed prototype and identify a manager-approved staff allocation within the four-hour limit. Check whether the supplies and template suit the prototype, then assess user understanding before considering any seed use. Obtain the applicable written authorization before any external sharing.",
+          "original_candidate": {
+            "title": "Assess an internal bean observation prototype",
+            "hypothesis": "Greenbank could investigate a small internal activity based on observing beans sprout, using the available T-12 template and unallocated supplies. The archive supports exploring this idea but does not establish that a trial is approved or that any seed lot is suitable for distribution.",
+            "status": "investigate",
+            "citations": [
+              {
+                "path": "01-mail/2026-10-branch.txt",
+                "quote": "We are gathering ideas; nothing is commissioned."
+              },
+              {
+                "path": "07-operations/limits.txt",
+                "quote": "up to four existing staff hours and unallocated office supplies may be assigned to one internal trial if approved."
+              },
+              {
+                "path": "03-research/packet-notes.txt",
+                "quote": "beans can be observed in clear cups using moist paper."
+              },
+              {
+                "path": "02-stock/supplies.json",
+                "quote": "\"item\":\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\""
+              },
+              {
+                "path": "06-design/template.json",
+                "quote": "\"license\":\"internal adaptation allowed\""
+              }
+            ],
+            "uncertainty": "The archive does not establish that envelopes are suitable for the activity, that T-12's symbols communicate planting steps, or that BX19 is viable. There is no instructor or purchase budget, and the listed envelope-size sheet was not found.",
+            "blocker": "A trial still requires approval and manager allocation of staff time. BX19 cannot be shared outside the organization without separate written committee approval; Q77 is limited to preservation and private research. The archive does not establish permission to distribute either lot.",
+            "next_action": "At the October 29 committee review, ask whether to approve an internal, no-seed prototype and identify a manager-approved staff allocation within the four-hour limit. Check whether the supplies and template suit the prototype, then assess user understanding before considering any seed use. Obtain the applicable written authorization before any external sharing."
+          }
+        },
+        "evidence": [
+          {
+            "id": "e1",
+            "claim_id": "hypothesis",
+            "path": "01-mail/2026-10-branch.txt",
+            "excerpt": "We are gathering ideas; nothing is commissioned.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "supports"
+          },
+          {
+            "id": "e2",
+            "claim_id": "hypothesis",
+            "path": "07-operations/limits.txt",
+            "excerpt": "up to four existing staff hours and unallocated office supplies may be assigned to one internal trial if approved.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "supports"
+          },
+          {
+            "id": "e3",
+            "claim_id": "hypothesis",
+            "path": "03-research/packet-notes.txt",
+            "excerpt": "beans can be observed in clear cups using moist paper.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "supports"
+          },
+          {
+            "id": "e4",
+            "claim_id": "hypothesis",
+            "path": "02-stock/supplies.json",
+            "excerpt": "\"item\":\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "supports"
+          },
+          {
+            "id": "e5",
+            "claim_id": "hypothesis",
+            "path": "06-design/template.json",
+            "excerpt": "\"license\":\"internal adaptation allowed\"",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "supports"
+          }
+        ],
+        "review": {
+          "candidate_id": "candidate-1",
+          "disposition": "SUPPORTED",
+          "explanation": "Illustrative positive review; uncited blocker must prevent promotion.",
+          "assessments": {
+            "e1": "supports",
+            "e2": "supports",
+            "e3": "supports",
+            "e4": "supports",
+            "e5": "supports"
+          },
+          "blockers": [],
+          "blocker_search_complete": true
+        },
+        "state": "NEEDS VERIFICATION",
+        "explanation": "A reported blocker has not been resolved with a cited source and semantic review.",
+        "blockers": [],
+        "unverified_blocker": "A trial still requires approval and manager allocation of staff time. BX19 cannot be shared outside the organization without separate written committee approval; Q77 is limited to preservation and private research. The archive does not establish permission to distribute either lot.",
+        "safe_next_action": "Review the source evidence and obtain any required approval before taking action."
+      }
+    ],
+    "coverage": {
+      "discovered_paths": [
+        "01-mail/2024-partner.txt",
+        "01-mail/2026-10-branch.txt",
+        "01-mail/meeting.txt",
+        "01-mail/receipt.txt",
+        "01-mail/vendor.txt",
+        "02-stock/condition-log.txt",
+        "02-stock/labels.csv",
+        "02-stock/pots.txt",
+        "02-stock/shelf.txt",
+        "02-stock/stock-list.csv",
+        "02-stock/supplies.json",
+        "03-research/drafts.txt",
+        "03-research/old-test.txt",
+        "03-research/packet-notes.txt",
+        "03-research/soil.md",
+        "03-research/species-lookup.csv",
+        "03-research/weather.txt",
+        "04-rights/logo.txt",
+        "04-rights/lot-disposition.txt",
+        "04-rights/policy.md",
+        "04-rights/portrait.txt",
+        "04-rights/q77-donor.txt",
+        "05-equipment/desk-log.txt",
+        "05-equipment/desk.csv",
+        "05-equipment/format-guide.md",
+        "05-equipment/printer.txt",
+        "05-equipment/ventilation.txt",
+        "06-design/colours.csv",
+        "06-design/inventory.md",
+        "06-design/paper.txt",
+        "06-design/poster.txt",
+        "06-design/template.json",
+        "07-operations/cleaning.txt",
+        "07-operations/limits.txt",
+        "07-operations/missing-register.txt",
+        "07-operations/room.txt",
+        "07-operations/rota.txt",
+        "07-operations/schedule.csv",
+        "08-admin/invoices.csv",
+        "08-admin/keys.txt",
+        "08-admin/print.txt",
+        "08-admin/tea.txt",
+        "08-admin/travel.txt",
+        "08-admin/weekly.txt"
+      ],
+      "selected_paths": [
+        "01-mail/2024-partner.txt",
+        "01-mail/2026-10-branch.txt",
+        "01-mail/meeting.txt",
+        "01-mail/receipt.txt",
+        "01-mail/vendor.txt",
+        "02-stock/condition-log.txt",
+        "02-stock/labels.csv",
+        "02-stock/pots.txt",
+        "02-stock/shelf.txt",
+        "02-stock/stock-list.csv",
+        "02-stock/supplies.json",
+        "03-research/drafts.txt",
+        "03-research/old-test.txt",
+        "03-research/packet-notes.txt",
+        "03-research/soil.md",
+        "03-research/species-lookup.csv",
+        "03-research/weather.txt",
+        "04-rights/logo.txt",
+        "04-rights/lot-disposition.txt",
+        "04-rights/policy.md",
+        "04-rights/portrait.txt",
+        "04-rights/q77-donor.txt",
+        "05-equipment/desk-log.txt",
+        "05-equipment/desk.csv",
+        "05-equipment/format-guide.md",
+        "05-equipment/printer.txt",
+        "05-equipment/ventilation.txt",
+        "06-design/colours.csv",
+        "06-design/inventory.md",
+        "06-design/paper.txt",
+        "06-design/poster.txt",
+        "06-design/template.json",
+        "07-operations/cleaning.txt",
+        "07-operations/limits.txt",
+        "07-operations/missing-register.txt",
+        "07-operations/room.txt",
+        "07-operations/rota.txt",
+        "07-operations/schedule.csv",
+        "08-admin/invoices.csv",
+        "08-admin/keys.txt",
+        "08-admin/print.txt",
+        "08-admin/tea.txt",
+        "08-admin/travel.txt",
+        "08-admin/weekly.txt"
+      ],
+      "read_paths": [
+        "01-mail/2024-partner.txt",
+        "01-mail/2026-10-branch.txt",
+        "01-mail/meeting.txt",
+        "01-mail/receipt.txt",
+        "01-mail/vendor.txt",
+        "02-stock/condition-log.txt",
+        "02-stock/labels.csv",
+        "02-stock/pots.txt",
+        "02-stock/shelf.txt",
+        "02-stock/stock-list.csv",
+        "02-stock/supplies.json",
+        "03-research/drafts.txt",
+        "03-research/old-test.txt",
+        "03-research/packet-notes.txt",
+        "03-research/soil.md",
+        "03-research/species-lookup.csv",
+        "03-research/weather.txt",
+        "04-rights/logo.txt",
+        "04-rights/lot-disposition.txt",
+        "04-rights/policy.md",
+        "04-rights/portrait.txt",
+        "04-rights/q77-donor.txt",
+        "05-equipment/desk-log.txt",
+        "05-equipment/desk.csv",
+        "05-equipment/format-guide.md",
+        "05-equipment/printer.txt",
+        "05-equipment/ventilation.txt",
+        "06-design/colours.csv",
+        "06-design/inventory.md",
+        "06-design/paper.txt",
+        "06-design/poster.txt",
+        "06-design/template.json",
+        "07-operations/cleaning.txt",
+        "07-operations/limits.txt",
+        "07-operations/missing-register.txt",
+        "07-operations/room.txt",
+        "07-operations/rota.txt",
+        "07-operations/schedule.csv",
+        "08-admin/invoices.csv",
+        "08-admin/keys.txt",
+        "08-admin/print.txt",
+        "08-admin/tea.txt",
+        "08-admin/travel.txt",
+        "08-admin/weekly.txt"
+      ],
+      "skipped": [],
+      "failed": [],
+      "truncated_paths": [],
+      "referenced_missing_names": [
+        "sleeve-sizes-2025.pdf"
+      ],
+      "reference_scan": "PDF basenames only; references and hidden files may be missed",
+      "counts": {
+        "discovered": 44,
+        "selected": 44,
+        "read": 44
+      },
+      "known_processing_limit_bytes_per_file": 8000,
+      "scope_coverage": "unknown beyond observed local workspace and recognized reference names",
+      "critical_unknown": true
+    },
+    "user_facing": [
+      {
+        "state": "NEEDS VERIFICATION",
+        "discovery_hypothesis": "Greenbank could investigate a small internal activity based on observing beans sprout, using the available T-12 template and unallocated supplies. The archive supports exploring this idea but does not establish that a trial is approved or that any seed lot is suitable for distribution.",
+        "why_it_might_matter_unverified": "",
+        "explanation": "A reported blocker has not been resolved with a cited source and semantic review.",
+        "evidence": [
+          {
+            "id": "e1",
+            "claim_id": "hypothesis",
+            "path": "01-mail/2026-10-branch.txt",
+            "excerpt": "We are gathering ideas; nothing is commissioned.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "supports"
+          },
+          {
+            "id": "e2",
+            "claim_id": "hypothesis",
+            "path": "07-operations/limits.txt",
+            "excerpt": "up to four existing staff hours and unallocated office supplies may be assigned to one internal trial if approved.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "supports"
+          },
+          {
+            "id": "e3",
+            "claim_id": "hypothesis",
+            "path": "03-research/packet-notes.txt",
+            "excerpt": "beans can be observed in clear cups using moist paper.",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "supports"
+          },
+          {
+            "id": "e4",
+            "claim_id": "hypothesis",
+            "path": "02-stock/supplies.json",
+            "excerpt": "\"item\":\"small paper envelopes\",\"count\":180,\"status\":\"unallocated\"",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "supports"
+          },
+          {
+            "id": "e5",
+            "claim_id": "hypothesis",
+            "path": "06-design/template.json",
+            "excerpt": "\"license\":\"internal adaptation allowed\"",
+            "relation": "related",
+            "origin": "candidate",
+            "retrieved": true,
+            "exact_match": true,
+            "semantic_assessment": "supports"
+          }
+        ],
+        "sourced_blockers": [],
+        "reported_blocker_unverified": "A trial still requires approval and manager allocation of staff time. BX19 cannot be shared outside the organization without separate written committee approval; Q77 is limited to preservation and private research. The archive does not establish permission to distribute either lot.",
+        "safe_next_action": "Review the source evidence and obtain any required approval before taking action.",
+        "suggested_file_groupings": []
+      }
+    ],
+    "empty_message": null,
+    "notice": "Local deterministic simulation; semantic judgments are supplied fixtures, not verified truth or NAS execution."
+  }
+}

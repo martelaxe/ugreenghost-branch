@@ -1,0 +1,30 @@
+{
+  "seed": 52026,
+  "mapping": {
+    "a": {
+      "case-01": "a-h1",
+      "case-02": "a-p2",
+      "case-03": "a-h2",
+      "case-04": "a-p1",
+      "case-05": "a-g1",
+      "case-06": "a-g2"
+    },
+    "b": {
+      "case-01": "b-g1",
+      "case-02": "b-p1",
+      "case-03": "b-h2",
+      "case-04": "b-g2",
+      "case-05": "b-h1",
+      "case-06": "b-p2"
+    },
+    "c": {
+      "case-01": "c-g1",
+      "case-02": "c-h1",
+      "case-03": "c-p2",
+      "case-04": "c-p1",
+      "case-05": "c-h2",
+      "case-06": "c-g2"
+    }
+  },
+  "note": "Method labels suppressed; output style and content may still reveal treatment."
+}

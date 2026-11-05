@@ -1,0 +1,11 @@
+{
+  "exit": 0,
+  "seconds": 43.6,
+  "case": "A",
+  "mode": "M",
+  "workspace": "/tmp/taskspaces13-25fpnqp5/archive",
+  "model": "gpt-6.1-sol",
+  "effort": "low",
+  "scope": "read-only sandbox; source-only scope is prompt-enforced, not complete OS isolation",
+  "note": "local file inspection; no NAS agents or user approval"
+}

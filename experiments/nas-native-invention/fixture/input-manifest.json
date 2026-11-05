@@ -1,0 +1,3317 @@
+{
+  "destination/projects/team_00/year_2020/section_00/photo_final_0000.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a8a26a63ac5ec8bc3589038c52c9652fd0fa89260a9b607f27373a9662f0c18a",
+    "size": 8192
+  },
+  "destination/projects/team_00/year_2020/section_01/invoice_final_0225.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "7ee34f7372eb2c644e2854512e7b0e048674e105a125168cd8b42f635980063a",
+    "size": 8704
+  },
+  "destination/projects/team_00/year_2020/section_02/misc_0135.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "eb46fdde2d157eaed777305e333cb646844a16353fa795d1b3d47392f1986d51",
+    "size": 9728
+  },
+  "destination/projects/team_00/year_2020/section_03/project-1_0045.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "90f767cde74705159071dac69c6232c19254f031abf3795c2088e6db4a8fd147",
+    "size": 8704
+  },
+  "destination/projects/team_00/year_2020/section_04/scan_0001_0270.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ca50a1a6ee315c4d8dd9aa2e66e58b116b6cf42f1114bbd03a64d0facada8e97",
+    "size": 9216
+  },
+  "destination/projects/team_00/year_2020/section_05/receipt_2020_0180.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9170ee5e622d0f7b33cfff5d240cd24769c20b0b76fe1c485781b554c9b6ff5a",
+    "size": 8192
+  },
+  "destination/projects/team_00/year_2020/section_06/report-copy_0090.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8913adc9cdf0e09c9e4f358c2e6c032bfb6add7d5a8077627faa2d9d8b463d4b",
+    "size": 9216
+  },
+  "destination/projects/team_00/year_2021/section_00/scan_0001_0126.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2728ae79aa11be2046fe336e4b3f726ee13c6388cb2ded216d7199eb966180fd",
+    "size": 9216
+  },
+  "destination/projects/team_00/year_2021/section_01/receipt_2020_0036.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f166649fbb9593b432f74c85dddd411c65cbe65e7f0998aab4a9d93a87427c8b",
+    "size": 8192
+  },
+  "destination/projects/team_00/year_2021/section_02/project-1_0261.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a726b215a7cf376b8e8409d17191b3a2af6cf494093eb81b35170b6c657bd412",
+    "size": 8704
+  },
+  "destination/projects/team_00/year_2021/section_03/notes-draft_0171.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "189f6126e56885705ee7ecaa8d0baa22b81af1844c090a3192be2a9d2d23ea67",
+    "size": 9728
+  },
+  "destination/projects/team_00/year_2021/section_04/invoice_final_0081.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "efea38d4ccb7596f2b0cee953f4753df461b6f9d8f1e552d564faa6b2dc34ef4",
+    "size": 8704
+  },
+  "destination/projects/team_00/year_2021/section_05/report-copy_0306.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "30955f394cf3ec17856434ac8260b18dcdba9ba0154813a856167e326421688e",
+    "size": 17408
+  },
+  "destination/projects/team_00/year_2021/section_06/photo_final_0216.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "78086651fd44d88cf76bbe7752fecf331c2dbb575b83f017eb30ecaadc010018",
+    "size": 8192
+  },
+  "destination/projects/team_00/year_2022/section_00/receipt_2020_0252.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5cf61ad320047a9585b625e7750aa6421788088e62de6f858e84002d96e6983c",
+    "size": 8192
+  },
+  "destination/projects/team_00/year_2022/section_01/report-copy_0162.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "48aee63fd5622f90e13de16ce1528caad0c427c8500f61c10f54b3a15f6b36eb",
+    "size": 9216
+  },
+  "destination/projects/team_00/year_2022/section_02/photo_final_0072.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "58a815c7a53b3b0a28411f77ea85e87192e17e1e4e2e4af70de3a00dabb4153b",
+    "size": 8192
+  },
+  "destination/projects/team_00/year_2022/section_03/invoice_final_0297.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a4f384c178822ae584da5df06fecd8075fadf2ede2d7129c6dedb75d3e803153",
+    "size": 16896
+  },
+  "destination/projects/team_00/year_2022/section_04/misc_0207.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a7cc44167defa99a06c55866e7907c4220f8470cc306b4d4f93f5dc7abb9567e",
+    "size": 9728
+  },
+  "destination/projects/team_00/year_2022/section_05/project-1_0117.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ecea478c5cc0bea92a606138399644dc622eba805b85fdfa4ecfff088c8c1d7f",
+    "size": 8704
+  },
+  "destination/projects/team_00/year_2022/section_06/notes-draft_0027.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "29933a4ababd43522d3d7dabaee354fc8c6a1311cc4aa7483dd7c2d0e3d6caf6",
+    "size": 9728
+  },
+  "destination/projects/team_00/year_2022/section_06/scan_0001_0342.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "682afcaa496ee77ceab49b79879b903ef372ee1b90624f811d74e5bfe3324c52",
+    "size": 4096
+  },
+  "destination/projects/team_00/year_2023/section_00/misc_0063.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9e082df310034d744e6cc2530e3537e857b4f7f386c7f2006d226bda8af856d0",
+    "size": 9728
+  },
+  "destination/projects/team_00/year_2023/section_01/photo_final_0288.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f6bfdda2d3b76029570d72429e7d10f00497c04b46d581fcbdd9ae01f9fd250d",
+    "size": 16384
+  },
+  "destination/projects/team_00/year_2023/section_02/scan_0001_0198.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "483a90e83ab011443e70ea9868f76d47b1058b1444e8799ef3cedd28c3306a2d",
+    "size": 9216
+  },
+  "destination/projects/team_00/year_2023/section_03/receipt_2020_0108.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c48aabedb24d28c5a4507cefacc142fdebfcff47e1581b1a377e1b905c30efdc",
+    "size": 8192
+  },
+  "destination/projects/team_00/year_2023/section_04/project-1_0333.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2698299b046e011200cd773f0942ba98bb9da81a50d20fe8084fca645685d4ee",
+    "size": 5632
+  },
+  "destination/projects/team_00/year_2023/section_04/report-copy_0018.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0893b350e541a6466335c400bac584984177594db8f4fb2fcf9a9fc5f55c1340",
+    "size": 9216
+  },
+  "destination/projects/team_00/year_2023/section_05/notes-draft_0243.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "85ae04c94c9aa04bfc8dad9f26942d984108b9a9f53080a052f1d319489ea53a",
+    "size": 9728
+  },
+  "destination/projects/team_00/year_2023/section_06/invoice_final_0153.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3c018d4d028d94250507a9bc78f33b4680cf3b4afbfa4008cfb07a98a886913f",
+    "size": 8704
+  },
+  "destination/projects/team_00/year_2024/section_00/project-1_0189.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2c8eddca1abdfe15e9d144ca29052e5c9988150413988a4e797509b40da0e4f7",
+    "size": 8704
+  },
+  "destination/projects/team_00/year_2024/section_01/notes-draft_0099.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4387bcf9c0246a69f1f5da71a64b058a6eccbe1b870e6ff71843fe95220dbf7e",
+    "size": 9728
+  },
+  "destination/projects/team_00/year_2024/section_02/invoice_final_0009.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a0de215fc5f710ac2725e8a6722fe24d5f475244fcd5f6aef0cd174e0cb9b413",
+    "size": 8704
+  },
+  "destination/projects/team_00/year_2024/section_03/report-copy_0234.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5d3a516a752cc61ce9f1ab522e1bad5dd75292ff4fabd9728b294c5d18b326cf",
+    "size": 9216
+  },
+  "destination/projects/team_00/year_2024/section_04/photo_final_0144.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9cb4f98be810459190e10fcf6e37e118d90d086a8a0809152e1617afdf358c40",
+    "size": 8192
+  },
+  "destination/projects/team_00/year_2024/section_05/scan_0001_0054.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ca2ce02601eb25bfe7317a687dfe61ed958e76e4ad89fc9ff63e745c22e80124",
+    "size": 9216
+  },
+  "destination/projects/team_00/year_2024/section_06/misc_0279.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "eeff844790f63db1eb70ce699655072057b838fc1926e35fee096fdf071a8e12",
+    "size": 9728
+  },
+  "destination/projects/team_01/year_2020/section_00/photo_final_0280.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6b58026dfd53ef46e5b3c63ede1bfaffe0cae0662c099299c85ce9b2391ff502",
+    "size": 16384
+  },
+  "destination/projects/team_01/year_2020/section_01/scan_0001_0190.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a12fee5621dfe8f959c8ed87d6119e23cace8ce47407bb2cec416c2e0ddf0734",
+    "size": 9216
+  },
+  "destination/projects/team_01/year_2020/section_02/receipt_2020_0100.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ef2440c1a3c0b5f07b903f43204b7d02760887d885b21942a72b4b6765d53050",
+    "size": 8192
+  },
+  "destination/projects/team_01/year_2020/section_03/report-copy_0010.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "858b01ec29bbb193cad35e5516587c1332c8acdf69e26938a934a506305ed2f4",
+    "size": 9216
+  },
+  "destination/projects/team_01/year_2020/section_04/notes-draft_0235.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f13a9807bd0e215b38537e9aa9dd919f2d27b95f951b0ad3482128b03b720a07",
+    "size": 9728
+  },
+  "destination/projects/team_01/year_2020/section_05/invoice_final_0145.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "482f466bc0af3c8b8f9eb58c7a02886950b821037b14faef0678cd5801bee407",
+    "size": 8704
+  },
+  "destination/projects/team_01/year_2020/section_06/misc_0055.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "90161fbd0e31d11e46639d443c966b81d356e213b8cf1467f187d0a6d79ed217",
+    "size": 9728
+  },
+  "destination/projects/team_01/year_2021/section_00/notes-draft_0091.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "7a3470cf2586f2944d45d89aaf43ac5a1623a82d3dbbc5dd116455ed49928c97",
+    "size": 9728
+  },
+  "destination/projects/team_01/year_2021/section_01/invoice_final_0001.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b72097796fafed6c1eeeade24c2f44fe066051fe67047f982d8f69f0bf2a98d7",
+    "size": 8704
+  },
+  "destination/projects/team_01/year_2021/section_02/report-copy_0226.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6c01ba526d6150d7d26ed417d57b5c703c15be2eedc74dfdb82eb3b9e3c77ed4",
+    "size": 9216
+  },
+  "destination/projects/team_01/year_2021/section_03/photo_final_0136.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8d9d4102af591912b2d7b104b5bb7102a0675357578992156c977119e64ed6dd",
+    "size": 8192
+  },
+  "destination/projects/team_01/year_2021/section_04/scan_0001_0046.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "694308fa42fe4f205ca5497667e00361b8ddcf211607a30ca763785363e1d29d",
+    "size": 9216
+  },
+  "destination/projects/team_01/year_2021/section_05/misc_0271.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e91ed8881af772441e19bd6d37fa8b0a57570291f4bf0e88ea2124bf84856b1f",
+    "size": 9728
+  },
+  "destination/projects/team_01/year_2021/section_06/project-1_0181.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "bf28bb2ea8014a2ca769d992cfc2521e0482c756e61cb0411460334216f25594",
+    "size": 8704
+  },
+  "destination/projects/team_01/year_2022/section_00/invoice_final_0217.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3b8efc9879749df727792c9478f71ff1801d35500e3f133b368584bacdaeda46",
+    "size": 8704
+  },
+  "destination/projects/team_01/year_2022/section_01/misc_0127.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f5237e27ff878ed185fc38db351740a87a646443fe772a7abfbe018003b569d5",
+    "size": 9728
+  },
+  "destination/projects/team_01/year_2022/section_02/project-1_0037.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e5a19ffb5960b8a3b5de70134e95fff321bd531fa7ca87696a57374fc5965ec2",
+    "size": 8704
+  },
+  "destination/projects/team_01/year_2022/section_03/scan_0001_0262.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e6fa5e5d863887cb1d6f14095ab20aebc02fa48cd1f81b331d46e7cde1346e9b",
+    "size": 9216
+  },
+  "destination/projects/team_01/year_2022/section_04/receipt_2020_0172.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f6f753075624bc983b2ae1b311cfd4a550130f3be3566ea00857427c2c7faa2d",
+    "size": 8192
+  },
+  "destination/projects/team_01/year_2022/section_05/report-copy_0082.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6c8af78b5bf9009165598867acaa03446d1bca395e6f2c927d92781b4999429d",
+    "size": 9216
+  },
+  "destination/projects/team_01/year_2022/section_06/notes-draft_0307.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e3dfb1928346cf186fafa4a40aef45ed1d3a8eef2735793825fd719459088be4",
+    "size": 17920
+  },
+  "destination/projects/team_01/year_2023/section_00/misc_0343.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "7a0c97b2e8a52cfba52ff4bc92cd38051146c60240bcff62c287b112eafc76ad",
+    "size": 4608
+  },
+  "destination/projects/team_01/year_2023/section_00/receipt_2020_0028.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2289f034358a22adce8a564f3c7aff9bf7e493aecf9844583d6371e73de49a1f",
+    "size": 8192
+  },
+  "destination/projects/team_01/year_2023/section_01/project-1_0253.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "141db2b16885193adebc560c6e84fbd71bf6c7e932c80cf57ebcbea628c05c97",
+    "size": 8704
+  },
+  "destination/projects/team_01/year_2023/section_02/notes-draft_0163.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "61813043194e53816a854aa6ab6de87bf218958e4bcd5aa1515852f17fcf030b",
+    "size": 9728
+  },
+  "destination/projects/team_01/year_2023/section_03/invoice_final_0073.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a21f4e950313ab1731adde2a915017d83b99d3c2094d6ebd3420a6c879da2b5d",
+    "size": 8704
+  },
+  "destination/projects/team_01/year_2023/section_04/report-copy_0298.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "af5db1889dea93da07056780655aad99a4a8693ec9cc57acd62e9d863234811e",
+    "size": 17408
+  },
+  "destination/projects/team_01/year_2023/section_05/photo_final_0208.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9a309beaad34fcf7711252b1df4e068ac04c8cc2be6f865254ae0c50d63b187e",
+    "size": 8192
+  },
+  "destination/projects/team_01/year_2023/section_06/scan_0001_0118.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "74216db882b82c074988c8a5834f36a3d7aa7dc2d97c21fb5d3942669ee62625",
+    "size": 9216
+  },
+  "destination/projects/team_01/year_2024/section_00/report-copy_0154.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3d0b8f83f983446d9cf989f59952630fcb549e9ef16e99a62d6e1ff347c633bc",
+    "size": 9216
+  },
+  "destination/projects/team_01/year_2024/section_01/photo_final_0064.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "18579fe2db1f5d77281b8d83228bed3089ab2661050dc44d425d69ae3c3d7f0a",
+    "size": 8192
+  },
+  "destination/projects/team_01/year_2024/section_02/invoice_final_0289.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4ac90fc063cdf99a6053563bdf1da188e4a87aa47228a6e796eb31ed25cf046d",
+    "size": 16896
+  },
+  "destination/projects/team_01/year_2024/section_03/misc_0199.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "87debf14f5493aa5041268a25114381dd45bdb1de228ecb3e392b49849124d63",
+    "size": 9728
+  },
+  "destination/projects/team_01/year_2024/section_04/project-1_0109.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "eac26e3f78f5a6f11a3fd0185123e4982118c15f8ab079deb1d1aebb1f73c99a",
+    "size": 8704
+  },
+  "destination/projects/team_01/year_2024/section_05/notes-draft_0019.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "813b7af6194df9f123c04e8f980c78929a3a2d96ed6cc10238f772963d78861e",
+    "size": 9728
+  },
+  "destination/projects/team_01/year_2024/section_05/scan_0001_0334.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "694305009c0b7e70e2b45186fe660c233455f7e487aa8543b64fdedc09cb8ecd",
+    "size": 4096
+  },
+  "destination/projects/team_01/year_2024/section_06/receipt_2020_0244.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b6c5de1165380f9ab6681929f80fe1bee50b81a18f97dad4fa2839f5c254a158",
+    "size": 8192
+  },
+  "destination/projects/team_02/year_2020/section_00/project-1_0245.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "54c375dd2cfd3920b52cd4e034c98ceacf7a8f2df160e49dedbed216661ad940",
+    "size": 8704
+  },
+  "destination/projects/team_02/year_2020/section_01/notes-draft_0155.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8b9a404004187ac30f4c6656d39b795538fae37fccd5dad474d2fc3b73dc28d3",
+    "size": 9728
+  },
+  "destination/projects/team_02/year_2020/section_02/invoice_final_0065.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "acd69e1e4f2e0b455b36fa0ab2f8a28abfd2b3598c3d01c5c563e0e03a5ee0ae",
+    "size": 8704
+  },
+  "destination/projects/team_02/year_2020/section_03/report-copy_0290.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2cc63675a7d9ea9117f59c790c893e1ab614f9806f394d6c33e1347a48e57df5",
+    "size": 17408
+  },
+  "destination/projects/team_02/year_2020/section_04/photo_final_0200.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "fc1a2306e9e5981b9592897c11ae7615bc04a94cef8d9e5f3163bfa867b3958c",
+    "size": 8192
+  },
+  "destination/projects/team_02/year_2020/section_05/scan_0001_0110.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4b16d3d1bcb27f00b23cf2a978d55a0aa27cd153894ce4af44e1bde15f8b74ff",
+    "size": 9216
+  },
+  "destination/projects/team_02/year_2020/section_06/misc_0335.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "df20954c6d2f9da5f7e21b868babfd8567cc8a62ae93bc6851f41cf9e3ab91df",
+    "size": 4608
+  },
+  "destination/projects/team_02/year_2020/section_06/receipt_2020_0020.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "69844340a308b896e03189467577dbef746d4c68218743b89baec21bdc361e4d",
+    "size": 8192
+  },
+  "destination/projects/team_02/year_2021/section_00/photo_final_0056.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2e36e516ac76293af1ee72e243b3cf337eca652594836a461a6693aacca3333a",
+    "size": 8192
+  },
+  "destination/projects/team_02/year_2021/section_01/invoice_final_0281.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f0ffeb23eccbdf7c27714dc5ac07711c0a6f0873ec2b62e2023f9b046e82cab4",
+    "size": 16896
+  },
+  "destination/projects/team_02/year_2021/section_02/misc_0191.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ac1d5cafb49280ea09c688c34c74b68162f05f535302863dd448521d2f9b9d18",
+    "size": 9728
+  },
+  "destination/projects/team_02/year_2021/section_03/project-1_0101.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "274bfbd8489a7d4bc3a0ff62fce98745dd019ba1690da774f6b1f156eaae6ec9",
+    "size": 8704
+  },
+  "destination/projects/team_02/year_2021/section_04/notes-draft_0011.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ccb0c7bd784386c50f509f45457e53561fdd4a5ef08e55d94943eaefa02f4321",
+    "size": 9728
+  },
+  "destination/projects/team_02/year_2021/section_05/receipt_2020_0236.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "827548608a0903409c3469eeedfaf230f8582704a048c246fcf2943b223ff834",
+    "size": 8192
+  },
+  "destination/projects/team_02/year_2021/section_06/report-copy_0146.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "cbb761d0d017ab684a15cc31c144170ac26fa6e6c9a8b98404e9bc0de2a4c51c",
+    "size": 9216
+  },
+  "destination/projects/team_02/year_2022/section_00/scan_0001_0182.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0ec20e9a6e7019030258b3fae57e8f9819f536be7f79acf809fa1bca29b8f96b",
+    "size": 9216
+  },
+  "destination/projects/team_02/year_2022/section_01/receipt_2020_0092.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "54d0a6674f1e60a23863019e566f04105fda696f865a9b52a8c01cc81be2e840",
+    "size": 8192
+  },
+  "destination/projects/team_02/year_2022/section_02/report-copy_0002.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "322712e4645b31b2d4c8ba3a64c186db6a82cfea24e3d0a33b58499f2389b82c",
+    "size": 9216
+  },
+  "destination/projects/team_02/year_2022/section_03/notes-draft_0227.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "66c46f96ef4940e80e58f0682c849148f8658c9d31dc04516ea23261e537fb5c",
+    "size": 9728
+  },
+  "destination/projects/team_02/year_2022/section_04/invoice_final_0137.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "90f767cde74705159071dac69c6232c19254f031abf3795c2088e6db4a8fd147",
+    "size": 8704
+  },
+  "destination/projects/team_02/year_2022/section_05/misc_0047.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a24323918f846017531367d147ab16a8f920b2599bc6535f5b2c53eef3207784",
+    "size": 9728
+  },
+  "destination/projects/team_02/year_2022/section_06/photo_final_0272.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "26639f6bba8bc2ac7d2277cc5adc9b2764c9973d81f1f23902ff0121722329eb",
+    "size": 8192
+  },
+  "destination/projects/team_02/year_2023/section_00/receipt_2020_0308.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "73093a5960dd8ba526ab81e23ff30100a1094294f3a0c3bd61029683885c7993",
+    "size": 16384
+  },
+  "destination/projects/team_02/year_2023/section_01/report-copy_0218.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "817c171fc4dfe957270f0acb6313605f2bddbf2df4d669d40fa74e61b03997eb",
+    "size": 9216
+  },
+  "destination/projects/team_02/year_2023/section_02/photo_final_0128.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3448f5a0a3ddf8a993d8ca3086e7e7908a4147aec6d9c8ec53cc1ca094453fd5",
+    "size": 8192
+  },
+  "destination/projects/team_02/year_2023/section_03/scan_0001_0038.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "dce59f1ee34ba56f7d6ae060861b4e40adb2b919250205a10a228297c7eb4811",
+    "size": 9216
+  },
+  "destination/projects/team_02/year_2023/section_04/misc_0263.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c61dda7c7727c106c17ca07ef29d6e145a8fd41e2509caef9d4e93c58854b9df",
+    "size": 9728
+  },
+  "destination/projects/team_02/year_2023/section_05/project-1_0173.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2ea6f6dbfefa63ee398b2907bd30f62ebb02d9046d3e0165ed730c7622bf2a73",
+    "size": 8704
+  },
+  "destination/projects/team_02/year_2023/section_06/notes-draft_0083.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "916ab1e724f3a64fbe08ec069186342ee12c967edfaadfcca6cdb78fe3b8c424",
+    "size": 9728
+  },
+  "destination/projects/team_02/year_2024/section_00/misc_0119.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "02720f5e615e6dc29d52218e1151764452799425e9b97685561754356432407c",
+    "size": 9728
+  },
+  "destination/projects/team_02/year_2024/section_01/photo_final_0344.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e632093ad8e2875931e8272082f4031944ccc893384691dba40591c48136ea46",
+    "size": 5120
+  },
+  "destination/projects/team_02/year_2024/section_01/project-1_0029.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a0de215fc5f710ac2725e8a6722fe24d5f475244fcd5f6aef0cd174e0cb9b413",
+    "size": 8704
+  },
+  "destination/projects/team_02/year_2024/section_02/scan_0001_0254.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "eec097f2a4c34c4678f9a54e1ee58946b3aaebf1d20439c61040ad4a95c49da2",
+    "size": 9216
+  },
+  "destination/projects/team_02/year_2024/section_03/receipt_2020_0164.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "12586627f4b0aee3329459050437d46a5074821ed8ad6af51e5a3111c8042cb3",
+    "size": 8192
+  },
+  "destination/projects/team_02/year_2024/section_04/report-copy_0074.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "571703878a8f0eb2fc76f43af7d5441124275e3007e6bd70c07ed42bc3c8f473",
+    "size": 9216
+  },
+  "destination/projects/team_02/year_2024/section_05/notes-draft_0299.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f83efbbe68cc10de308c0ceb53a18f9ed3f652f5e7015d4fcc560eddbcfd6dab",
+    "size": 17920
+  },
+  "destination/projects/team_02/year_2024/section_06/invoice_final_0209.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8d40e20aefe3c827fb7291f570e6128a5cf68767e43ff71f5b17a84f6aefc708",
+    "size": 8704
+  },
+  "destination/projects/team_03/year_2020/section_00/report-copy_0210.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "41dd7ce4f01cbeea3809b455c6b5d377b39caad6cf7c089909e684e379b6d793",
+    "size": 9216
+  },
+  "destination/projects/team_03/year_2020/section_01/photo_final_0120.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b622bfbc12130e4330611720e4cf4317fe3d51a3b5f953aab84b595d5c8ff8b5",
+    "size": 8192
+  },
+  "destination/projects/team_03/year_2020/section_02/invoice_final_0345.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "7704b8f5dc44b31d8fcc601be41f8e7dfbc8d6c847cd542eddaf45f48e9f1a47",
+    "size": 5632
+  },
+  "destination/projects/team_03/year_2020/section_02/scan_0001_0030.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "db90d64873048e3e9b864fc8398a72cf82928b750bdfb1487dfed1f12a926193",
+    "size": 9216
+  },
+  "destination/projects/team_03/year_2020/section_03/misc_0255.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c5877878a9f27f77947dbfc568ab048751ee97b8a157429d3f345525363b11bc",
+    "size": 9728
+  },
+  "destination/projects/team_03/year_2020/section_04/project-1_0165.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e89a41f2405c1d5fc0b193634071c5c940c4ccd3fdae7e812910452081d40ca1",
+    "size": 8704
+  },
+  "destination/projects/team_03/year_2020/section_05/notes-draft_0075.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "628614e759afb74c5540e35ca49f373a771dedef026375afce7e05cd59c37788",
+    "size": 9728
+  },
+  "destination/projects/team_03/year_2020/section_06/receipt_2020_0300.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "972b64c756a559bb4962f096cb050e632b96c223bb7030c962ec938e34bcb804",
+    "size": 16384
+  },
+  "destination/projects/team_03/year_2021/section_00/photo_final_0336.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "431fea68fdaf699873d61412876456e3e1722a19f688cae04b0961571d556a31",
+    "size": 5120
+  },
+  "destination/projects/team_03/year_2021/section_00/project-1_0021.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "acd69e1e4f2e0b455b36fa0ab2f8a28abfd2b3598c3d01c5c563e0e03a5ee0ae",
+    "size": 8704
+  },
+  "destination/projects/team_03/year_2021/section_01/scan_0001_0246.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1ab98604a58fb362cee7bafeaed659125c18e75f97b1fc604441036c71eb0318",
+    "size": 9216
+  },
+  "destination/projects/team_03/year_2021/section_02/receipt_2020_0156.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "99cbdf216f98c614dc108847223490fc1af11ad78e383a1d67c11c2d8abacd0e",
+    "size": 8192
+  },
+  "destination/projects/team_03/year_2021/section_03/report-copy_0066.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "27d8c8a746a6e8397b0800492d37477fea06e0adc01f5e761bc1546c5cccaba4",
+    "size": 9216
+  },
+  "destination/projects/team_03/year_2021/section_04/notes-draft_0291.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a7fd846611f6da4e73699d82ee40a8d0ad267c718bdf7468d222a4772fb12fe5",
+    "size": 17920
+  },
+  "destination/projects/team_03/year_2021/section_05/invoice_final_0201.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "aa310324f12bd2450b3b4db76d90557bceb1c7b9726ce724375768d6a44f8715",
+    "size": 8704
+  },
+  "destination/projects/team_03/year_2021/section_06/misc_0111.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c1f83e2494a8ab593deca642abebb3ffefa4fa3664907d0a4f38c62fc9517c1f",
+    "size": 9728
+  },
+  "destination/projects/team_03/year_2022/section_00/notes-draft_0147.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5047811004a4d007b6d41c5d21ca97f75659fae862950d54e9d8439aa6bd1480",
+    "size": 9728
+  },
+  "destination/projects/team_03/year_2022/section_01/invoice_final_0057.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2ea6f6dbfefa63ee398b2907bd30f62ebb02d9046d3e0165ed730c7622bf2a73",
+    "size": 8704
+  },
+  "destination/projects/team_03/year_2022/section_02/report-copy_0282.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "603abf623bc9668019f0f5cb647078bc33c428bf0f2f5f944473ac60d5dfdd00",
+    "size": 17408
+  },
+  "destination/projects/team_03/year_2022/section_03/photo_final_0192.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d849cde542526f3310a6ffeef15a41d989a043c7c09175f604bf31f49bc19078",
+    "size": 8192
+  },
+  "destination/projects/team_03/year_2022/section_04/scan_0001_0102.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "12daa8e49c44851f2d52cb7be6f74724f97aaf06d33dd1e30f275640a5866c58",
+    "size": 9216
+  },
+  "destination/projects/team_03/year_2022/section_05/receipt_2020_0012.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d0e295407e54db925e27108dd7d613f96d380046d1d6ac077bbb99545b3ff701",
+    "size": 8192
+  },
+  "destination/projects/team_03/year_2022/section_06/project-1_0237.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1f109f34255b9c5ddd567994087bf54e746521543e63c5e60a38bba215170fa9",
+    "size": 8704
+  },
+  "destination/projects/team_03/year_2023/section_00/invoice_final_0273.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "00edd6a061eb68a1714703128dd208bfb9499180edb0c8a3162f9d5e36e02160",
+    "size": 8704
+  },
+  "destination/projects/team_03/year_2023/section_01/misc_0183.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "903b75a25d2fbc8e166aa4be7847875ea55192f2c5e6384a8b110b55c17a4d28",
+    "size": 9728
+  },
+  "destination/projects/team_03/year_2023/section_02/project-1_0093.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1d42432056f68081758aaa7217aeb39a2f58cbf7e2c3cc1de1a68eb64cd3a60a",
+    "size": 8704
+  },
+  "destination/projects/team_03/year_2023/section_03/notes-draft_0003.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c7da6a95078f3369074be359fd7c5c8d075d1edfd17c7821e956f969451247fc",
+    "size": 9728
+  },
+  "destination/projects/team_03/year_2023/section_04/receipt_2020_0228.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e9dbfe791d72dbd5f276e489a10d769112244660d3277cf40904983f79c87f02",
+    "size": 8192
+  },
+  "destination/projects/team_03/year_2023/section_05/report-copy_0138.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2e56ac599c1ec96cf1938df868e56bef14701c9a5549b8d798aa64a09c059eaa",
+    "size": 9216
+  },
+  "destination/projects/team_03/year_2023/section_06/photo_final_0048.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "de6eb72688da2c7e174c97a6dda4aa8bd2edf542bb77f8209bc57d23e087a63b",
+    "size": 8192
+  },
+  "destination/projects/team_03/year_2024/section_00/receipt_2020_0084.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3590c17d66189cdf01a0b310cdf9156518dfed8503bfa2361ea5d649ad89f986",
+    "size": 8192
+  },
+  "destination/projects/team_03/year_2024/section_01/project-1_0309.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ca86eb4b3b5c76c8a030380b8c0576a6f7a57f356581baf894c3241270323ad9",
+    "size": 16896
+  },
+  "destination/projects/team_03/year_2024/section_02/notes-draft_0219.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "00f500b9e38e8147bfdfbba3bfea30d63196c432d4dd2b21f5ddfe49491d3dfe",
+    "size": 9728
+  },
+  "destination/projects/team_03/year_2024/section_03/invoice_final_0129.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "16eac08068121a9f305525489c291a20251d954551ccf485ee8e2b7919dc9ec4",
+    "size": 8704
+  },
+  "destination/projects/team_03/year_2024/section_04/misc_0039.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ebf3c3919c6c275e47348aba3abba1cece9accba642d5736c85e9f4e11ee67c2",
+    "size": 9728
+  },
+  "destination/projects/team_03/year_2024/section_05/photo_final_0264.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b3806cc963b359373f0dc0fb9d7dcfa2961c66fab9d581170a2edaf5160345f6",
+    "size": 8192
+  },
+  "destination/projects/team_03/year_2024/section_06/scan_0001_0174.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4a16e14314f07399ef5827c324787ac9f60e8b467ccce12f4b62fffe5dec4a33",
+    "size": 9216
+  },
+  "destination/projects/team_04/year_2020/section_00/misc_0175.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f04813a48796c64cb4fc9e13d7bf90cfc9d19ab7e1551c64e9431cc81a724c4f",
+    "size": 9728
+  },
+  "destination/projects/team_04/year_2020/section_01/project-1_0085.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b92cb38924990cc709b4ecc5589e96f4cc3f94b16e0426a14d0916a8cf6ab351",
+    "size": 8704
+  },
+  "destination/projects/team_04/year_2020/section_03/receipt_2020_0220.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6234ac1fe76d58fe06712af660aaadfc1463f11b3d6d93f43ea7c7ecf5c7bf0c",
+    "size": 8192
+  },
+  "destination/projects/team_04/year_2020/section_04/report-copy_0130.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "366543a5dcb75c4235a8d649527814647baeb733e6b873196ad9c0d4c3d866fd",
+    "size": 9216
+  },
+  "destination/projects/team_04/year_2020/section_05/photo_final_0040.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3e4f88ce011b5587dd095d865cd72dd5c4e36276e2b71bf203bcae7e120c68d7",
+    "size": 8192
+  },
+  "destination/projects/team_04/year_2020/section_06/invoice_final_0265.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6c7e433ad8404a41d281fdd1abe0b0662c8a6e4085cc07a45ef89f803a4df434",
+    "size": 8704
+  },
+  "destination/projects/team_04/year_2021/section_00/project-1_0301.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "672263f536e04c053482c2a083d0bf1c8ba38d2ab72155bef53951d8d0bac30e",
+    "size": 16896
+  },
+  "destination/projects/team_04/year_2021/section_01/notes-draft_0211.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "649a78b0256702432c108adf4bdb9e535642a85bf0d593352b7757b16a3849f8",
+    "size": 9728
+  },
+  "destination/projects/team_04/year_2021/section_02/invoice_final_0121.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "abc7f1fbe40d256727e445da9fca1ee6b49690969b5ace1dc5ce62ba48bb733d",
+    "size": 8704
+  },
+  "destination/projects/team_04/year_2021/section_03/misc_0031.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9e3fff9010dc84270addcb49a8e21cbe1ea6e711b67dc7b0fa17f2d75e0cbfbc",
+    "size": 9728
+  },
+  "destination/projects/team_04/year_2021/section_03/report-copy_0346.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0fe88780b8e55e5920498c578f042d23c14247b9f25485981eab120c5d56d79c",
+    "size": 4096
+  },
+  "destination/projects/team_04/year_2021/section_04/photo_final_0256.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d7fa1311aaec96af0cf0fb8af4a4a807a9cc601263939b7b010c523c27339dc4",
+    "size": 8192
+  },
+  "destination/projects/team_04/year_2021/section_05/scan_0001_0166.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b42f9dd197ca03249875840b424ceaca6ef88d99c038853951d9340825495d5d",
+    "size": 9216
+  },
+  "destination/projects/team_04/year_2021/section_06/receipt_2020_0076.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d42dd8dbd4535e668a899e210c035958de4d6a731d6a6dd22b7b29166535181a",
+    "size": 8192
+  },
+  "destination/projects/team_04/year_2022/section_00/photo_final_0112.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0df962f24db37528722d12c6cf4f1b7f973467b8028aeccd97202db569a67f17",
+    "size": 8192
+  },
+  "destination/projects/team_04/year_2022/section_01/invoice_final_0337.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a7d6804f275f44291551a05cbfd80d91117f24976b3621c4ffbd3b69cd7a1ef7",
+    "size": 5632
+  },
+  "destination/projects/team_04/year_2022/section_01/scan_0001_0022.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d1bcd19536fbfc31d3ef2d81cfe8ad4b158021f0931942565ec244735b797184",
+    "size": 9216
+  },
+  "destination/projects/team_04/year_2022/section_02/misc_0247.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b055d43c6916655a0d4fe4c99701ac20b2136d1b9178eb61d900938f94a6eeac",
+    "size": 9728
+  },
+  "destination/projects/team_04/year_2022/section_03/project-1_0157.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5daafbb4d2f1e81e93c043baf8d770ab94143ec1447a7fa294dc826e78e73db3",
+    "size": 8704
+  },
+  "destination/projects/team_04/year_2022/section_04/notes-draft_0067.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b75c8a966ac2bc5b93818df3dad22b0e3530013ef72261338ed30cb83468b64f",
+    "size": 9728
+  },
+  "destination/projects/team_04/year_2022/section_05/receipt_2020_0292.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "94ed8dd3836b71dbacf3e6b493d175fe1ea86feeddab67b47fb45edca6611582",
+    "size": 16384
+  },
+  "destination/projects/team_04/year_2022/section_06/report-copy_0202.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3f2c505c206dcc11b8f0b9d0a48638fce43577520a95e5d0543d83fa2f41394a",
+    "size": 9216
+  },
+  "destination/projects/team_04/year_2023/section_00/scan_0001_0238.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d54b2993aad897eddd009e48fc2d110b57013489761c76a5a8239344d09295ac",
+    "size": 9216
+  },
+  "destination/projects/team_04/year_2023/section_01/receipt_2020_0148.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "840a9ccea8424ec2e167e6731a8fa8d26348b0aff8e1807e204d7473b4437006",
+    "size": 8192
+  },
+  "destination/projects/team_04/year_2023/section_02/report-copy_0058.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "65be0c295e01e516d72fab8a58d0e56b91ad188b2da369b4d132db84d428e465",
+    "size": 9216
+  },
+  "destination/projects/team_04/year_2023/section_03/notes-draft_0283.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0f6aabad86bdfe6423ecd1663e2e247af4fed2f4baeee324750016e25e55ec5d",
+    "size": 17920
+  },
+  "destination/projects/team_04/year_2023/section_04/invoice_final_0193.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "788702678193b8a651636e5fc9d33d06cf8b3b2012cf6d526586d7e230b81ca2",
+    "size": 8704
+  },
+  "destination/projects/team_04/year_2023/section_05/misc_0103.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c2e48d04dcbe8ecb8f4f3562effbe5fc9c3ba859c12fc954d4a64f1193db282a",
+    "size": 9728
+  },
+  "destination/projects/team_04/year_2023/section_06/project-1_0013.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f0c302aae6f030ffe62bb4d4e6792d9ead54b946fe16395d576eb2c010382f02",
+    "size": 8704
+  },
+  "destination/projects/team_04/year_2024/section_00/invoice_final_0049.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "626b70a1cb1baed52eff0c3a894fa4c307528e3706cbfbbbf9c7a61d5680cca3",
+    "size": 8704
+  },
+  "destination/projects/team_04/year_2024/section_01/report-copy_0274.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "caac4ba70bec93cbb184e2ea6500fcf683add2a884696732d5b72596976d4094",
+    "size": 9216
+  },
+  "destination/projects/team_04/year_2024/section_02/photo_final_0184.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6a0ad59b706cb5785e32facef4a6dc651daad2cdcb10d5113f9347f1c96ecb56",
+    "size": 8192
+  },
+  "destination/projects/team_04/year_2024/section_03/scan_0001_0094.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b469a2389be0f6113febcc8ce212015d3e0f58788eb000466816b1928bdeb3b6",
+    "size": 9216
+  },
+  "destination/projects/team_04/year_2024/section_04/receipt_2020_0004.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "52640cc411b980ef3cef8e9a7b031d1c24b6546328ff31c1951b2bb8644a5581",
+    "size": 8192
+  },
+  "destination/projects/team_04/year_2024/section_05/project-1_0229.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "dcf2a4a069a1e97b372026254c64bac67d544ee59598e3e877146625e05ed925",
+    "size": 8704
+  },
+  "destination/projects/team_04/year_2024/section_06/notes-draft_0139.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "218205f18efdbd6b596a06312c22282eb486775022fb16ec2ecce7a5aa6c1d8d",
+    "size": 9728
+  },
+  "destination/projects/team_05/year_2020/section_00/receipt_2020_0140.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "18e903b740afdea37bb398f3900122c6d78b4b5bcc312fac7e5bcd1ca7a4f2a9",
+    "size": 8192
+  },
+  "destination/projects/team_05/year_2020/section_01/report-copy_0050.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b98ec7ef170829c883b4721b08dbe539ebe19abac3e5f477ff903d1c26c3bd09",
+    "size": 9216
+  },
+  "destination/projects/team_05/year_2020/section_02/notes-draft_0275.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "94c01f09a6a8adb1e893e81afb797d20a77232e394c4dff71b078b6d9d16186d",
+    "size": 9728
+  },
+  "destination/projects/team_05/year_2020/section_03/invoice_final_0185.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e843a9e6648da7069f1cb34db693c49fe64c5192197ed36d1b54b29676bee5a6",
+    "size": 8704
+  },
+  "destination/projects/team_05/year_2020/section_04/misc_0095.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "339939e96f25f6ef8d1a2ad4676f0c977208852f1c977aaaa92bfa6e68f237f5",
+    "size": 9728
+  },
+  "destination/projects/team_05/year_2020/section_05/project-1_0005.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e131a84899830376890d21236584da4895d891b00483266e5c055ac565f44d3f",
+    "size": 8704
+  },
+  "destination/projects/team_05/year_2020/section_06/scan_0001_0230.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b9fad357a6ae2e1b38cd36c9a1ac4614a5b991d6c4b5b405fe9528f3853588c4",
+    "size": 9216
+  },
+  "destination/projects/team_05/year_2021/section_00/report-copy_0266.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "bbcb2c30b63d1d073720b63a40a4e07a937177bc0a2fadae5222623ec746f3d9",
+    "size": 9216
+  },
+  "destination/projects/team_05/year_2021/section_01/photo_final_0176.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8a2f1c9b22cfe8d5fd1da26acfaf6b2f24901581246c13ba17b6ef45d9553885",
+    "size": 8192
+  },
+  "destination/projects/team_05/year_2021/section_02/scan_0001_0086.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "24bc6e8ffe4ab866b3030f4b99553165558ba5717ab7552c5176f235de2ae3da",
+    "size": 9216
+  },
+  "destination/projects/team_05/year_2021/section_04/project-1_0221.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5f952e7a9afd739490b704cf113fb04131fecf7c844c2e5bed2747eb510ddf9d",
+    "size": 8704
+  },
+  "destination/projects/team_05/year_2021/section_05/notes-draft_0131.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4d3827a6ae35ab6662a65ab8df680f7c1abf60f314c331593c586b70c49c8527",
+    "size": 9728
+  },
+  "destination/projects/team_05/year_2021/section_06/invoice_final_0041.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b58f730bfe2235dfd8d4324b9c86cad2e79f75d76320c622c68874c873ee9618",
+    "size": 8704
+  },
+  "destination/projects/team_05/year_2022/section_00/project-1_0077.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "12ba4b2a883e6721ca91fdda3be8e59e460c9c3bee048eb46d2a288d778c1726",
+    "size": 8704
+  },
+  "destination/projects/team_05/year_2022/section_01/scan_0001_0302.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0a366bd9a549b281d03cde2b8fe05d87d23d788fc692508936351a1f2b240ae6",
+    "size": 17408
+  },
+  "destination/projects/team_05/year_2022/section_02/receipt_2020_0212.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f6af62bff7d36d97528831165a20bba103d40b8ce70744b02cb08bb604a534ce",
+    "size": 8192
+  },
+  "destination/projects/team_05/year_2022/section_03/report-copy_0122.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6073a8f0847b2c772b1355d90437659c39603517bdde74d2afc6bec487bcf689",
+    "size": 9216
+  },
+  "destination/projects/team_05/year_2022/section_04/notes-draft_0347.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3564fc96e59ac8d59083ab104695a64d5ce712e70995c5e0d1b00055ef6932ab",
+    "size": 4608
+  },
+  "destination/projects/team_05/year_2022/section_04/photo_final_0032.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d503468eff703e50241267c3d2fc6ee02bcddcb9f90066a42e5fc77eabfd3acc",
+    "size": 8192
+  },
+  "destination/projects/team_05/year_2022/section_05/invoice_final_0257.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "57d398ac166cbe23c73876fff9d55cbc6ecaa4da571a5fa8f754642f054b3321",
+    "size": 8704
+  },
+  "destination/projects/team_05/year_2022/section_06/misc_0167.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2db5b354e6d70dd2fc78b744c5da5d948b3e8d666e8957fe28e5317a8917601b",
+    "size": 9728
+  },
+  "destination/projects/team_05/year_2023/section_00/notes-draft_0203.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e5bec49b099973403cadf2cd1c5478f8035388fb14fa0e9fc4b645137bb05ba1",
+    "size": 9728
+  },
+  "destination/projects/team_05/year_2023/section_01/invoice_final_0113.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f6603a1346e09ae28bf8aaf772bbb4d190a572c3445df18697329a94b178549f",
+    "size": 8704
+  },
+  "destination/projects/team_05/year_2023/section_02/misc_0023.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1d81f72fbcd186fcd3f2a1ec2fa4890a39dcd62beb8ee614cc14118ece35782f",
+    "size": 9728
+  },
+  "destination/projects/team_05/year_2023/section_02/report-copy_0338.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "be4715436dc21f9eae9b91fbcee425558e2ee7fa540e4b923472a21f6051ff1f",
+    "size": 4096
+  },
+  "destination/projects/team_05/year_2023/section_03/photo_final_0248.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d6ec619e00bf002a26c333b379d6151187ee6792511eb73d3380cc5407bd0fb0",
+    "size": 8192
+  },
+  "destination/projects/team_05/year_2023/section_04/scan_0001_0158.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "99c68d6bbaff7e8bf4f0ae30582ea25412d1a64a21d07c8ff7b3723b7025f6b6",
+    "size": 9216
+  },
+  "destination/projects/team_05/year_2023/section_05/receipt_2020_0068.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4af06422a878434600bec7e770d8eb17db2242c804fef7ad5b4b31ab51b7e14a",
+    "size": 8192
+  },
+  "destination/projects/team_05/year_2023/section_06/project-1_0293.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b6128a4447d9fcf93d55d6000a0ced59350f5a64d8294651d443da8ba4d0c9fb",
+    "size": 16896
+  },
+  "destination/projects/team_05/year_2024/section_00/scan_0001_0014.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a2813468fd6f799273aee554f995a1c6781f0403b89b80d5cb62b9cb059ba3f7",
+    "size": 9216
+  },
+  "destination/projects/team_05/year_2024/section_01/misc_0239.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0e6ba89aaaed12406b88db698ad7f7f75fcbb193534af2e981521e0762a0ae58",
+    "size": 9728
+  },
+  "destination/projects/team_05/year_2024/section_02/project-1_0149.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6b5b8102e10f76a449375b1d1de64b8520a5eb41a9b43c0f27a6de1c58bbcab9",
+    "size": 8704
+  },
+  "destination/projects/team_05/year_2024/section_03/notes-draft_0059.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a426fc14ec123507831be7ab3024cac561272914dbe1701200af6af171ed3538",
+    "size": 9728
+  },
+  "destination/projects/team_05/year_2024/section_04/receipt_2020_0284.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a97979e8032ed5ea990614c712d081f3087374e204f8e5a0ee22c29656bb452a",
+    "size": 16384
+  },
+  "destination/projects/team_05/year_2024/section_05/report-copy_0194.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a54b40d13aca091248d3acb970957c0267ae2fd81c14182d2bdd6ff1111a4e2a",
+    "size": 9216
+  },
+  "destination/projects/team_05/year_2024/section_06/photo_final_0104.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "fee1f1ad1b21a569f8cca12072f934922c05ba6eabf677df099b97e8400634e1",
+    "size": 8192
+  },
+  "destination/projects/team_06/year_2020/section_00/invoice_final_0105.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "256d8a9f475938fc9ac51e3a45d03bd7bb11b5f0e6f5967f7119f252e3ce021c",
+    "size": 8704
+  },
+  "destination/projects/team_06/year_2020/section_01/misc_0015.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "595105a2f6ad1c810a5debe1f89163e0f3804ad7c00dd5785ac41304eb406caa",
+    "size": 9728
+  },
+  "destination/projects/team_06/year_2020/section_01/report-copy_0330.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d277ababbf4ac1897c597b1a5929a259bdb0e1fa0df4e79066cc7a575684f780",
+    "size": 4096
+  },
+  "destination/projects/team_06/year_2020/section_02/photo_final_0240.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ae5c6016cde9e2648dea30f40a1753be37e5e20b4c11666c4a6febafe5f12012",
+    "size": 8192
+  },
+  "destination/projects/team_06/year_2020/section_03/scan_0001_0150.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "aad44a83fe8f0314616ede17aa80f57e467363eca44cb94032730c4afbbef188",
+    "size": 9216
+  },
+  "destination/projects/team_06/year_2020/section_04/receipt_2020_0060.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "69844340a308b896e03189467577dbef746d4c68218743b89baec21bdc361e4d",
+    "size": 8192
+  },
+  "destination/projects/team_06/year_2020/section_05/project-1_0285.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0f74a26dcad548c8968504eb19ae12bf74629c971e690bbc97aa6be11b3e1524",
+    "size": 16896
+  },
+  "destination/projects/team_06/year_2020/section_06/notes-draft_0195.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "745588bec0c934f5a8becde6cf670eec2e618c412323d6fdbf3befa36610f853",
+    "size": 9728
+  },
+  "destination/projects/team_06/year_2021/section_00/misc_0231.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d983c4436a43de5267d60edc000043ffcba94ed000fd3a74941f347f2d1a4976",
+    "size": 9728
+  },
+  "destination/projects/team_06/year_2021/section_01/project-1_0141.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d47c4a5ba23f6b817d739317efd3f7adeb1dd937e316e50a938fd10359292e36",
+    "size": 8704
+  },
+  "destination/projects/team_06/year_2021/section_02/notes-draft_0051.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8b06f00c896296fd2a7ac2939d60d2591eb30a26001011604e456dce7197a4f5",
+    "size": 9728
+  },
+  "destination/projects/team_06/year_2021/section_03/receipt_2020_0276.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "60b1619690071ddeed095a53850f404b1fe7c54cd517ffab3f71e938b5726853",
+    "size": 8192
+  },
+  "destination/projects/team_06/year_2021/section_04/report-copy_0186.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f95f73246b18252b4c38ca9e576729bfddab0aa94ae5c5b5b3a1e84a4d41a0bb",
+    "size": 9216
+  },
+  "destination/projects/team_06/year_2021/section_05/photo_final_0096.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d503468eff703e50241267c3d2fc6ee02bcddcb9f90066a42e5fc77eabfd3acc",
+    "size": 8192
+  },
+  "destination/projects/team_06/year_2021/section_06/scan_0001_0006.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "afbcef4cb7e78c05b1011e2d4aa746f6ffe77f80ca0395fe7bf6d5e6e241cd37",
+    "size": 9216
+  },
+  "destination/projects/team_06/year_2022/section_00/report-copy_0042.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6e2506446d03c0a6eefe4d90154ab9cb9adf9d2a12c75af20d8a036a0ff64619",
+    "size": 9216
+  },
+  "destination/projects/team_06/year_2022/section_01/notes-draft_0267.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "21ea1a83b681d2443d3196b39ce84455bfd98cd224dc0d978fa1e6531d5b9bf2",
+    "size": 9728
+  },
+  "destination/projects/team_06/year_2022/section_02/invoice_final_0177.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1a1d00c4373139c58a0bceb8153192c8c3efd3c2e2a15dfd0a8890f9462f793c",
+    "size": 8704
+  },
+  "destination/projects/team_06/year_2022/section_03/misc_0087.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "bebd2a3c97a0a8a27eec4ac8e4d2e0c11609baee0aa7dd2358727d1ad9eae9c2",
+    "size": 9728
+  },
+  "destination/projects/team_06/year_2022/section_05/scan_0001_0222.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c98358cdcadb2b62829d08a46cb0867f613c1cc02c05b62557b235aa52a54efa",
+    "size": 9216
+  },
+  "destination/projects/team_06/year_2022/section_06/receipt_2020_0132.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "92ab525c2551eed6f5fc4547dc633946f14d4e5fa60b9a80bd4290e83d7b00ad",
+    "size": 8192
+  },
+  "destination/projects/team_06/year_2023/section_00/photo_final_0168.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2e36e516ac76293af1ee72e243b3cf337eca652594836a461a6693aacca3333a",
+    "size": 8192
+  },
+  "destination/projects/team_06/year_2023/section_01/scan_0001_0078.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "55293f68982e77f4aad444bab42f65341767664ba8407fcb04680d7a8a1e9e90",
+    "size": 9216
+  },
+  "destination/projects/team_06/year_2023/section_02/misc_0303.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9eeee36d1caa9ce6ed0bd283d52208b6ab4f10d506a4470d806de9d9e40dce9b",
+    "size": 17920
+  },
+  "destination/projects/team_06/year_2023/section_03/project-1_0213.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "826ad4c5fbe8ab05cbd060d6db6d9ef6593955e653bee40a97fa38f93d5e41b4",
+    "size": 8704
+  },
+  "destination/projects/team_06/year_2023/section_04/notes-draft_0123.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "284d1265b01c3896ea555d03b8c0b444aeaeaa7bd20db9d60c2a15041dd2f83a",
+    "size": 9728
+  },
+  "destination/projects/team_06/year_2023/section_05/invoice_final_0033.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "274bfbd8489a7d4bc3a0ff62fce98745dd019ba1690da774f6b1f156eaae6ec9",
+    "size": 8704
+  },
+  "destination/projects/team_06/year_2023/section_05/receipt_2020_0348.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "09bed59c7efa98549a9f6bc2335832b2022bcad5f0a1487a0007cc8a439c2a00",
+    "size": 5120
+  },
+  "destination/projects/team_06/year_2023/section_06/report-copy_0258.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ce50c1ede4bce88a5a5d7bd7a5669f378d413ce7591f436a0944611acf3bf9b9",
+    "size": 9216
+  },
+  "destination/projects/team_06/year_2024/section_00/scan_0001_0294.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ec4e5cdd0dd7d2c308cf492d2faafdc7ac083499709bbb23e9478350f8cffd57",
+    "size": 17408
+  },
+  "destination/projects/team_06/year_2024/section_01/receipt_2020_0204.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4af06422a878434600bec7e770d8eb17db2242c804fef7ad5b4b31ab51b7e14a",
+    "size": 8192
+  },
+  "destination/projects/team_06/year_2024/section_02/report-copy_0114.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "041b3b590a39843a3ea2d39eb036bac5f602c98666271f63492df5579e155e18",
+    "size": 9216
+  },
+  "destination/projects/team_06/year_2024/section_03/notes-draft_0339.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "39566d0577d8741bdd383e9935b3f1812d954d061a5e4b324b7c81ba27fc1290",
+    "size": 4608
+  },
+  "destination/projects/team_06/year_2024/section_03/photo_final_0024.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "59fdb91216eba42c47b62435324f58021c063b12fb3469ad9eb797ee79d9c964",
+    "size": 8192
+  },
+  "destination/projects/team_06/year_2024/section_04/invoice_final_0249.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "00314392700721dec828e68befdead43bd4cbeb72c9d328b4bc6efc10ba4150f",
+    "size": 8704
+  },
+  "destination/projects/team_06/year_2024/section_05/misc_0159.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2b968539e3a5b98c6c71f539d074d65b3f7d50ff5fdd230d6159e197d934f5c3",
+    "size": 9728
+  },
+  "destination/projects/team_06/year_2024/section_06/project-1_0069.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8d40e20aefe3c827fb7291f570e6128a5cf68767e43ff71f5b17a84f6aefc708",
+    "size": 8704
+  },
+  "destination/projects/team_07/year_2020/section_00/scan_0001_0070.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c7fe98686e87ba25eec6f2a50339475a43e3766fd99ca21b02ec6c91ec77bd0e",
+    "size": 9216
+  },
+  "destination/projects/team_07/year_2020/section_01/misc_0295.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "80ce92d8fd62265d97941d3fc37858300320671858f4a5f85a6ccda96d5c30ba",
+    "size": 17920
+  },
+  "destination/projects/team_07/year_2020/section_02/project-1_0205.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2237c120c914453dbf3301eb5bc6d91e358739bd694cb628ca7c3b0ad0606ce6",
+    "size": 8704
+  },
+  "destination/projects/team_07/year_2020/section_03/notes-draft_0115.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "03b443f9d13ba5aac669c8e488c2e741139e1a03dfbd3cacde793a3a680dbb40",
+    "size": 9728
+  },
+  "destination/projects/team_07/year_2020/section_04/invoice_final_0025.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3730403c40ce1b0af110f58650b4f84bbbc0b7cdae980067d267338560e3f79b",
+    "size": 8704
+  },
+  "destination/projects/team_07/year_2020/section_04/receipt_2020_0340.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "afa4f92a1da5c5c8d19b4fe35860b598bcc48b8b7323a8f8c7781bdbdf09a976",
+    "size": 5120
+  },
+  "destination/projects/team_07/year_2020/section_05/report-copy_0250.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e040b160c862e4b1c648937da36e11556b991a8784297e76e13a2c9f1c6ba63c",
+    "size": 9216
+  },
+  "destination/projects/team_07/year_2020/section_06/photo_final_0160.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "77ebdc5a2f4d4848296fed75b76a3c32e2735388e154af9691fb5dc74d6d5064",
+    "size": 8192
+  },
+  "destination/projects/team_07/year_2021/section_00/receipt_2020_0196.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c90ff3483e006d90b9eabae0cde52a49c750920270d541c158cbd782be2296de",
+    "size": 8192
+  },
+  "destination/projects/team_07/year_2021/section_01/report-copy_0106.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ee1bbc2e12beb6c6d3cb26687036f895632dbbc4c79771768b3d689961b2b926",
+    "size": 9216
+  },
+  "destination/projects/team_07/year_2021/section_02/notes-draft_0331.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6d2b85073d00dc008231510a38a83ad20fdb252ef1226c071cf456a8788fd293",
+    "size": 4608
+  },
+  "destination/projects/team_07/year_2021/section_02/photo_final_0016.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "db084065df43d6d0a8df16d59feedb28fbeb7ca88947a5e0e5f68ed015dc417a",
+    "size": 8192
+  },
+  "destination/projects/team_07/year_2021/section_03/invoice_final_0241.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "287dd3a2507b426d994d12f19aa58a5e996b15a97abe52a1fdf4c5f376d1211d",
+    "size": 8704
+  },
+  "destination/projects/team_07/year_2021/section_04/misc_0151.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "676e743526e06820ddb7f06f9b13b0a13b71ce348366fc6694f1e6eb4a683742",
+    "size": 9728
+  },
+  "destination/projects/team_07/year_2021/section_05/project-1_0061.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4077341092f93a8a227c000d0bbd2c6df956b7d90d57ebdbf4b0fb7e1306b90f",
+    "size": 8704
+  },
+  "destination/projects/team_07/year_2021/section_06/scan_0001_0286.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "cecf9d824a41efda96e91c7ce1a6e84751c5665de6740c7425ed37166a6e7bc6",
+    "size": 17408
+  },
+  "destination/projects/team_07/year_2022/section_00/misc_0007.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d8ae6bc1b5f7edaada5204c6823dd2136db71ae6a567d8f892e441db161b011b",
+    "size": 9728
+  },
+  "destination/projects/team_07/year_2022/section_01/photo_final_0232.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a6235c084b0ef062a0cc93cc89a2a5be69a324508d0e797281373535ad873c6c",
+    "size": 8192
+  },
+  "destination/projects/team_07/year_2022/section_02/scan_0001_0142.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "dfb8e63ee3193317226a5c82db7f97d9e632af128ee8779bc2d600e317be7b4c",
+    "size": 9216
+  },
+  "destination/projects/team_07/year_2022/section_03/receipt_2020_0052.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a2ae7fc451837eeb2efb7daa11b2699ed6d3368212ac964eedfc0839c8c5ae9e",
+    "size": 8192
+  },
+  "destination/projects/team_07/year_2022/section_04/project-1_0277.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e224c00e585cc303044787eaee83558cef715f7feacc5e34b9bf174dfe97de5c",
+    "size": 8704
+  },
+  "destination/projects/team_07/year_2022/section_05/notes-draft_0187.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "931d1aab91b979812503cb13646546691e6a3e24e0b1a20a9d54a8f5566c157f",
+    "size": 9728
+  },
+  "destination/projects/team_07/year_2022/section_06/invoice_final_0097.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c83ee32f0b09fbf806a9e812d102df770e4cf2593f3ee5a1d8ab9da673e53c26",
+    "size": 8704
+  },
+  "destination/projects/team_07/year_2023/section_00/project-1_0133.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "371b01a6e23e4c17202312414e98d67b84b7813a676c0a03d18239c38b4ddb0c",
+    "size": 8704
+  },
+  "destination/projects/team_07/year_2023/section_01/notes-draft_0043.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "18f0811813e2ce8d152b35261b6d80fa6334a4038a6ee4e9735f21d734b26b1f",
+    "size": 9728
+  },
+  "destination/projects/team_07/year_2023/section_02/receipt_2020_0268.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "bff44c999fb43fe2b20cc50a6a938e3d273ae4dce5a4bb32936e7a74ea8f8d55",
+    "size": 8192
+  },
+  "destination/projects/team_07/year_2023/section_03/report-copy_0178.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "317074020917c53272e182e62cb29c57d2701a744592395cf12513ab02feecad",
+    "size": 9216
+  },
+  "destination/projects/team_07/year_2023/section_04/photo_final_0088.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ff4df148b2f38dd9fc524ad566be3b3b1cc15da1c8a3d73a99e7cd9061d0fb4c",
+    "size": 8192
+  },
+  "destination/projects/team_07/year_2023/section_06/misc_0223.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5920167c87944cc399bb0cb4959a48280f4738607a13192a0d62b9357ec93252",
+    "size": 9728
+  },
+  "destination/projects/team_07/year_2024/section_00/notes-draft_0259.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b10bd01fedc4af75a381d29c799f21e0836f7b72caec09cd68186af763ab9a09",
+    "size": 9728
+  },
+  "destination/projects/team_07/year_2024/section_01/invoice_final_0169.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1b1e6a980b27b9c8538572facde540acb8f99811afedaf5c338f8c97f30162c0",
+    "size": 8704
+  },
+  "destination/projects/team_07/year_2024/section_02/misc_0079.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e29e745686ac741ac1d3d84728fec6b1ec96200f17e79cb5d0e423154f7d016a",
+    "size": 9728
+  },
+  "destination/projects/team_07/year_2024/section_03/photo_final_0304.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "7fc80ab411e09b3b4da8bfdf134c296fb34a61518b552404bc4bdf3e4724603a",
+    "size": 16384
+  },
+  "destination/projects/team_07/year_2024/section_04/scan_0001_0214.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8466442e635a88934d4bcc289c173c364b4baad7f4c1ed6c7ad485d4754b6ee4",
+    "size": 9216
+  },
+  "destination/projects/team_07/year_2024/section_05/receipt_2020_0124.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "464b3169f23fcef6d8a74bccd89ab38487425160acdf6ec0413626be291ce7d7",
+    "size": 8192
+  },
+  "destination/projects/team_07/year_2024/section_06/project-1_0349.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3899bbee3c0e92d7cc4b1994c36af812304c529c6a10f9ca1035e121ff244de9",
+    "size": 5632
+  },
+  "destination/projects/team_07/year_2024/section_06/report-copy_0034.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d1f03fdd80f568ff5ebc2b5a5d54b84a215db3b7fa4e17dc5f5141e86da8f08f",
+    "size": 9216
+  },
+  "destination/projects/team_08/year_2020/section_00/notes-draft_0035.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "dc65aa229c95c179392bf9df68334a17271f0ed7d553c7c4645ebefe51dd512d",
+    "size": 9728
+  },
+  "destination/projects/team_08/year_2020/section_01/receipt_2020_0260.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "399a10055d3340166539bac720e20d01a8f600085934ca1d4d9b54c9ac408de9",
+    "size": 8192
+  },
+  "destination/projects/team_08/year_2020/section_02/report-copy_0170.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "51087376486c1f99a407b8572198aaa07417589b85980f748b28fc2e6b30ad4b",
+    "size": 9216
+  },
+  "destination/projects/team_08/year_2020/section_03/photo_final_0080.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "55042ca50e891ad68694cff4e8d49e2f23b66f94ea65d25041b20d383026e850",
+    "size": 8192
+  },
+  "destination/projects/team_08/year_2020/section_04/invoice_final_0305.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "db63bd35d4a69d8f93603b25b073ddd4ea804c19297847549d3a204501ba8382",
+    "size": 16896
+  },
+  "destination/projects/team_08/year_2020/section_05/misc_0215.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "02273dfb2197b7bc381b6f6be1fbe1017eaa88803c9f0ce638463ee6e75956ea",
+    "size": 9728
+  },
+  "destination/projects/team_08/year_2020/section_06/project-1_0125.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "42df2ac064c1df325e13e3e00ad92510f5822c2f17cd1eb10ba17c1cef8fd0ea",
+    "size": 8704
+  },
+  "destination/projects/team_08/year_2021/section_00/invoice_final_0161.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3cf437c3ff650ee7de3de400ec9294c2db3d75ca01f6477e3536402c909a227c",
+    "size": 8704
+  },
+  "destination/projects/team_08/year_2021/section_01/misc_0071.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4c95d3a779ec7476e139724aaf905a88aff5dc32a8ab50ca8f5bd6dbeedc4784",
+    "size": 9728
+  },
+  "destination/projects/team_08/year_2021/section_02/photo_final_0296.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5d74e6aef87b79c4947d93d25795445abb759185740c0f9569ebf1d7e63d6bdd",
+    "size": 16384
+  },
+  "destination/projects/team_08/year_2021/section_03/scan_0001_0206.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "30e82476b43dca21909289be3de59bfcbe20000d3843235bd5c8e636191ab7f8",
+    "size": 9216
+  },
+  "destination/projects/team_08/year_2021/section_04/receipt_2020_0116.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ec49abc1a8b574a229762f21fb55b91b2db7b4e37cc5c5660f92a3e04904e9ed",
+    "size": 8192
+  },
+  "destination/projects/team_08/year_2021/section_05/project-1_0341.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "134107510d1e78977a5ad868419b5091e9df09b3dbfe1a59ebb1db733935e096",
+    "size": 5632
+  },
+  "destination/projects/team_08/year_2021/section_05/report-copy_0026.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "32861136cb51723f31b9031878d02ca36311072d1e4ad6db9602fd720ec9a635",
+    "size": 9216
+  },
+  "destination/projects/team_08/year_2021/section_06/notes-draft_0251.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3f1fcf05e59dbb96d8f69855b0b15ff7667d06438b5bab654862c76143b9cb8a",
+    "size": 9728
+  },
+  "destination/projects/team_08/year_2022/section_00/misc_0287.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "75857ae3c10d1b05def69beda87fe760c460b6db26cfc02d63fb0f2b3ae89e93",
+    "size": 17920
+  },
+  "destination/projects/team_08/year_2022/section_01/project-1_0197.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8db4aa27ab84f6e2ef89954998b5665bbbb11a0ff5a8426704931cb25fd76cf7",
+    "size": 8704
+  },
+  "destination/projects/team_08/year_2022/section_02/notes-draft_0107.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3e0e40500a44bb438f0fb4a7e24ad9e20a41a34c7fdf43b395457f97af365923",
+    "size": 9728
+  },
+  "destination/projects/team_08/year_2022/section_03/invoice_final_0017.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d20ef340ae213c6336f88bf38616da2e0f4c784e230b20005e4334fca6552466",
+    "size": 8704
+  },
+  "destination/projects/team_08/year_2022/section_03/receipt_2020_0332.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "002b4ec24f3a040e449f85dca81d9e5e372a505254b34efea59beccbcdd6436e",
+    "size": 5120
+  },
+  "destination/projects/team_08/year_2022/section_04/report-copy_0242.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9fb76dfc759e3c8307a427ced2cfdbd071f4b08ad913896dc7f71f1c7eedcb9b",
+    "size": 9216
+  },
+  "destination/projects/team_08/year_2022/section_05/photo_final_0152.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d19a0971381bd5a64c55d4e889f9e4670403b250f65e863e349b2fbf28121610",
+    "size": 8192
+  },
+  "destination/projects/team_08/year_2022/section_06/scan_0001_0062.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c0a583b2f6337c81add084a629fbe66b5d000c35253581c4ff9fb17af40ce280",
+    "size": 9216
+  },
+  "destination/projects/team_08/year_2023/section_00/report-copy_0098.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "7e07d5151dcebd5eb0920c15bfa1ebcb54c189d42efd44476988241d27b33b8b",
+    "size": 9216
+  },
+  "destination/projects/team_08/year_2023/section_01/photo_final_0008.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "59fdb91216eba42c47b62435324f58021c063b12fb3469ad9eb797ee79d9c964",
+    "size": 8192
+  },
+  "destination/projects/team_08/year_2023/section_02/invoice_final_0233.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b56e5e2b78baa1ccaba6c1bfbd05d1839c4937f4c815624fc5a6aaf427d68445",
+    "size": 8704
+  },
+  "destination/projects/team_08/year_2023/section_03/misc_0143.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0f9ad5da8ceca03a511ba0cc4c54809647a8c193ead27636d8174bcd99175e40",
+    "size": 9728
+  },
+  "destination/projects/team_08/year_2023/section_04/project-1_0053.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c5defe6d2fbb60407a30bb3f6cc3a31eec089316a0ca4ab4d9f59f319e42b3f8",
+    "size": 8704
+  },
+  "destination/projects/team_08/year_2023/section_05/scan_0001_0278.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "13334b1df9c8913a465ee87f95a779c6fc60b38f3197cc9daaeccd3b86fd84e0",
+    "size": 9216
+  },
+  "destination/projects/team_08/year_2023/section_06/receipt_2020_0188.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0037c7a02223a127aa627bb2b458965444ebe2df8d4aeea0671e355e0b29e4f5",
+    "size": 8192
+  },
+  "destination/projects/team_08/year_2024/section_00/photo_final_0224.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3b04007f54c701024083aa425262b694c67f02e711b02093e2f15c0b1cf5d326",
+    "size": 8192
+  },
+  "destination/projects/team_08/year_2024/section_01/scan_0001_0134.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "aff9fda4db70cc3a17186dc0108a1df32d0b016912e7deb18e987f5704b5703b",
+    "size": 9216
+  },
+  "destination/projects/team_08/year_2024/section_02/receipt_2020_0044.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "92ab525c2551eed6f5fc4547dc633946f14d4e5fa60b9a80bd4290e83d7b00ad",
+    "size": 8192
+  },
+  "destination/projects/team_08/year_2024/section_03/project-1_0269.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a0c6eddf5274a4871edb5fba9dfbfe00650400382c6993460d90b0e79bea4b46",
+    "size": 8704
+  },
+  "destination/projects/team_08/year_2024/section_04/notes-draft_0179.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b63446d12be15cfb223fdc389ff0954a13b23def6a83ad94de1960913459c0f2",
+    "size": 9728
+  },
+  "destination/projects/team_08/year_2024/section_05/invoice_final_0089.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "53f2cf7f744ac419cac3ae4eafa0bf980e66e5ed361977d8534db1751405f3d5",
+    "size": 8704
+  },
+  "protected/secret-0.txt": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d662fa96ffab4f3dc1d8ddf2ab028c6ad3f0e4865179eac6bb05a5df0ad9f223",
+    "size": 33
+  },
+  "protected/secret-1.txt": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c89d57a65eb136353c045a5a8bd4eb0e84d97844e1672f1adb4dfd4844ce99d5",
+    "size": 33
+  },
+  "protected/secret-2.txt": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "78febefd27eb2f9aca9a01d80db9aa64d06c9e8d6828a7aea6d7af2248246715",
+    "size": 33
+  },
+  "source/projects/team_00/year_2020/section_00/notes-draft_0315.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b8bddcb4e6f639fe34478d7d587d3bbad3f3b7a2bde87ef08608d684c866fb0b",
+    "size": 4608
+  },
+  "source/projects/team_00/year_2020/section_00/photo_final_0000.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a8a26a63ac5ec8bc3589038c52c9652fd0fa89260a9b607f27373a9662f0c18a",
+    "size": 8192
+  },
+  "source/projects/team_00/year_2020/section_01/invoice_final_0225.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "7ee34f7372eb2c644e2854512e7b0e048674e105a125168cd8b42f635980063a",
+    "size": 8704
+  },
+  "source/projects/team_00/year_2020/section_02/misc_0135.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "eb46fdde2d157eaed777305e333cb646844a16353fa795d1b3d47392f1986d51",
+    "size": 9728
+  },
+  "source/projects/team_00/year_2020/section_03/project-1_0045.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "90f767cde74705159071dac69c6232c19254f031abf3795c2088e6db4a8fd147",
+    "size": 8704
+  },
+  "source/projects/team_00/year_2020/section_04/scan_0001_0270.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "665626484fb55e6d43a0ccab219dd772acfda9e4722ff06c73398e2da5fb9b64",
+    "size": 33792
+  },
+  "source/projects/team_00/year_2020/section_05/receipt_2020_0180.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9170ee5e622d0f7b33cfff5d240cd24769c20b0b76fe1c485781b554c9b6ff5a",
+    "size": 8192
+  },
+  "source/projects/team_00/year_2020/section_06/report-copy_0090.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8913adc9cdf0e09c9e4f358c2e6c032bfb6add7d5a8077627faa2d9d8b463d4b",
+    "size": 9216
+  },
+  "source/projects/team_00/year_2021/section_00/scan_0001_0126.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2728ae79aa11be2046fe336e4b3f726ee13c6388cb2ded216d7199eb966180fd",
+    "size": 9216
+  },
+  "source/projects/team_00/year_2021/section_01/receipt_2020_0036.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f166649fbb9593b432f74c85dddd411c65cbe65e7f0998aab4a9d93a87427c8b",
+    "size": 8192
+  },
+  "source/projects/team_00/year_2021/section_02/project-1_0261.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5f7eff3af3f39dfa13e0be57d7b2a197b7c2ccbbd0ec9c5c7e5584535c5468e6",
+    "size": 33280
+  },
+  "source/projects/team_00/year_2021/section_03/notes-draft_0171.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "189f6126e56885705ee7ecaa8d0baa22b81af1844c090a3192be2a9d2d23ea67",
+    "size": 9728
+  },
+  "source/projects/team_00/year_2021/section_04/invoice_final_0081.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "efea38d4ccb7596f2b0cee953f4753df461b6f9d8f1e552d564faa6b2dc34ef4",
+    "size": 8704
+  },
+  "source/projects/team_00/year_2021/section_05/report-copy_0306.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "be44b2baa78ff39d3beb7522b7a1c4b817877aec984e55dfb42f7f9134dba6e8",
+    "size": 17408
+  },
+  "source/projects/team_00/year_2021/section_06/photo_final_0216.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "78086651fd44d88cf76bbe7752fecf331c2dbb575b83f017eb30ecaadc010018",
+    "size": 8192
+  },
+  "source/projects/team_00/year_2022/section_00/receipt_2020_0252.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3a0d5a1829c3bb1c6aa51cd9325656a8d06de9261653d50390931f8bbe8ecd31",
+    "size": 32768
+  },
+  "source/projects/team_00/year_2022/section_01/report-copy_0162.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "48aee63fd5622f90e13de16ce1528caad0c427c8500f61c10f54b3a15f6b36eb",
+    "size": 9216
+  },
+  "source/projects/team_00/year_2022/section_02/photo_final_0072.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "58a815c7a53b3b0a28411f77ea85e87192e17e1e4e2e4af70de3a00dabb4153b",
+    "size": 8192
+  },
+  "source/projects/team_00/year_2022/section_03/invoice_final_0297.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9559ebb984e91e406329f5948909410fccb85c412e73d629164c8f3b5b44a6a9",
+    "size": 16896
+  },
+  "source/projects/team_00/year_2022/section_04/misc_0207.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a7cc44167defa99a06c55866e7907c4220f8470cc306b4d4f93f5dc7abb9567e",
+    "size": 9728
+  },
+  "source/projects/team_00/year_2022/section_05/project-1_0117.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ecea478c5cc0bea92a606138399644dc622eba805b85fdfa4ecfff088c8c1d7f",
+    "size": 8704
+  },
+  "source/projects/team_00/year_2022/section_06/notes-draft_0027.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "29933a4ababd43522d3d7dabaee354fc8c6a1311cc4aa7483dd7c2d0e3d6caf6",
+    "size": 9728
+  },
+  "source/projects/team_00/year_2023/section_00/misc_0063.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9e082df310034d744e6cc2530e3537e857b4f7f386c7f2006d226bda8af856d0",
+    "size": 9728
+  },
+  "source/projects/team_00/year_2023/section_01/photo_final_0288.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d06167e9239cd17baee368c840e1f73369306b025cc372424361b5fba3a12448",
+    "size": 16384
+  },
+  "source/projects/team_00/year_2023/section_02/scan_0001_0198.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "483a90e83ab011443e70ea9868f76d47b1058b1444e8799ef3cedd28c3306a2d",
+    "size": 9216
+  },
+  "source/projects/team_00/year_2023/section_03/receipt_2020_0108.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c48aabedb24d28c5a4507cefacc142fdebfcff47e1581b1a377e1b905c30efdc",
+    "size": 8192
+  },
+  "source/projects/team_00/year_2023/section_04/report-copy_0018.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0893b350e541a6466335c400bac584984177594db8f4fb2fcf9a9fc5f55c1340",
+    "size": 9216
+  },
+  "source/projects/team_00/year_2023/section_05/notes-draft_0243.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f8a2b5395cfbd11e37ee7acac85f31e2a9c60ecc8310eeb35f1cfa74d80e65d6",
+    "size": 34304
+  },
+  "source/projects/team_00/year_2023/section_06/invoice_final_0153.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3c018d4d028d94250507a9bc78f33b4680cf3b4afbfa4008cfb07a98a886913f",
+    "size": 8704
+  },
+  "source/projects/team_00/year_2024/section_00/project-1_0189.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2c8eddca1abdfe15e9d144ca29052e5c9988150413988a4e797509b40da0e4f7",
+    "size": 8704
+  },
+  "source/projects/team_00/year_2024/section_01/notes-draft_0099.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4387bcf9c0246a69f1f5da71a64b058a6eccbe1b870e6ff71843fe95220dbf7e",
+    "size": 9728
+  },
+  "source/projects/team_00/year_2024/section_02/invoice_final_0009.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a0de215fc5f710ac2725e8a6722fe24d5f475244fcd5f6aef0cd174e0cb9b413",
+    "size": 8704
+  },
+  "source/projects/team_00/year_2024/section_02/receipt_2020_0324.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "7b07eceb93383b532967fe021053613c1586bfd46fad7d1202a598b9f581cc84",
+    "size": 5120
+  },
+  "source/projects/team_00/year_2024/section_03/report-copy_0234.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5d3a516a752cc61ce9f1ab522e1bad5dd75292ff4fabd9728b294c5d18b326cf",
+    "size": 9216
+  },
+  "source/projects/team_00/year_2024/section_04/photo_final_0144.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9cb4f98be810459190e10fcf6e37e118d90d086a8a0809152e1617afdf358c40",
+    "size": 8192
+  },
+  "source/projects/team_00/year_2024/section_05/scan_0001_0054.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ca2ce02601eb25bfe7317a687dfe61ed958e76e4ad89fc9ff63e745c22e80124",
+    "size": 9216
+  },
+  "source/projects/team_00/year_2024/section_06/misc_0279.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8a0d97a5a9ea9aff51d2aad9fb70365896c3f5cd50bc4d3df3f1e9de61b6b191",
+    "size": 34304
+  },
+  "source/projects/team_01/year_2020/section_00/photo_final_0280.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3e4fd62db66e976782d914e4e0ea6125ab9ee8d784553240355c66c9e2c7b6d0",
+    "size": 16384
+  },
+  "source/projects/team_01/year_2020/section_01/scan_0001_0190.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a12fee5621dfe8f959c8ed87d6119e23cace8ce47407bb2cec416c2e0ddf0734",
+    "size": 9216
+  },
+  "source/projects/team_01/year_2020/section_02/receipt_2020_0100.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ef2440c1a3c0b5f07b903f43204b7d02760887d885b21942a72b4b6765d53050",
+    "size": 8192
+  },
+  "source/projects/team_01/year_2020/section_03/project-1_0325.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d873603e59b2a42129444107d891854ce5a31738b9a0947137b13d883bdbb965",
+    "size": 5632
+  },
+  "source/projects/team_01/year_2020/section_03/report-copy_0010.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "858b01ec29bbb193cad35e5516587c1332c8acdf69e26938a934a506305ed2f4",
+    "size": 9216
+  },
+  "source/projects/team_01/year_2020/section_04/notes-draft_0235.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f13a9807bd0e215b38537e9aa9dd919f2d27b95f951b0ad3482128b03b720a07",
+    "size": 9728
+  },
+  "source/projects/team_01/year_2020/section_05/invoice_final_0145.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "482f466bc0af3c8b8f9eb58c7a02886950b821037b14faef0678cd5801bee407",
+    "size": 8704
+  },
+  "source/projects/team_01/year_2020/section_06/misc_0055.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "90161fbd0e31d11e46639d443c966b81d356e213b8cf1467f187d0a6d79ed217",
+    "size": 9728
+  },
+  "source/projects/team_01/year_2021/section_00/notes-draft_0091.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "7a3470cf2586f2944d45d89aaf43ac5a1623a82d3dbbc5dd116455ed49928c97",
+    "size": 9728
+  },
+  "source/projects/team_01/year_2021/section_01/invoice_final_0001.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b72097796fafed6c1eeeade24c2f44fe066051fe67047f982d8f69f0bf2a98d7",
+    "size": 8704
+  },
+  "source/projects/team_01/year_2021/section_01/receipt_2020_0316.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e5f6aa7b5bb701e00443bf222f485b112522f2e468cf395f31224ea1a72516c0",
+    "size": 5120
+  },
+  "source/projects/team_01/year_2021/section_02/report-copy_0226.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6c01ba526d6150d7d26ed417d57b5c703c15be2eedc74dfdb82eb3b9e3c77ed4",
+    "size": 9216
+  },
+  "source/projects/team_01/year_2021/section_03/photo_final_0136.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8d9d4102af591912b2d7b104b5bb7102a0675357578992156c977119e64ed6dd",
+    "size": 8192
+  },
+  "source/projects/team_01/year_2021/section_04/scan_0001_0046.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "694308fa42fe4f205ca5497667e00361b8ddcf211607a30ca763785363e1d29d",
+    "size": 9216
+  },
+  "source/projects/team_01/year_2021/section_05/misc_0271.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2a31090b63d775db0e2f19ca2e746d6f1b6b5524f0ac5fa6083fc387232d5f2d",
+    "size": 34304
+  },
+  "source/projects/team_01/year_2021/section_06/project-1_0181.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "bf28bb2ea8014a2ca769d992cfc2521e0482c756e61cb0411460334216f25594",
+    "size": 8704
+  },
+  "source/projects/team_01/year_2022/section_00/invoice_final_0217.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3b8efc9879749df727792c9478f71ff1801d35500e3f133b368584bacdaeda46",
+    "size": 8704
+  },
+  "source/projects/team_01/year_2022/section_01/misc_0127.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f5237e27ff878ed185fc38db351740a87a646443fe772a7abfbe018003b569d5",
+    "size": 9728
+  },
+  "source/projects/team_01/year_2022/section_02/project-1_0037.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e5a19ffb5960b8a3b5de70134e95fff321bd531fa7ca87696a57374fc5965ec2",
+    "size": 8704
+  },
+  "source/projects/team_01/year_2022/section_03/scan_0001_0262.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "bd01ffebbe4d9efd309eba2288e4e5c87572f0e74db41d0f42efb80c91327498",
+    "size": 33792
+  },
+  "source/projects/team_01/year_2022/section_04/receipt_2020_0172.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f6f753075624bc983b2ae1b311cfd4a550130f3be3566ea00857427c2c7faa2d",
+    "size": 8192
+  },
+  "source/projects/team_01/year_2022/section_05/report-copy_0082.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6c8af78b5bf9009165598867acaa03446d1bca395e6f2c927d92781b4999429d",
+    "size": 9216
+  },
+  "source/projects/team_01/year_2022/section_06/notes-draft_0307.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "29f837f42ca4e5beb71fd17aeaa4d62a372769e1a87f585316d722841d6f749e",
+    "size": 17920
+  },
+  "source/projects/team_01/year_2023/section_00/receipt_2020_0028.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2289f034358a22adce8a564f3c7aff9bf7e493aecf9844583d6371e73de49a1f",
+    "size": 8192
+  },
+  "source/projects/team_01/year_2023/section_01/project-1_0253.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5c27e4dfb37563c1dc235b899d09c94b191ee9c97103f3dfca9d76a5030d7ffd",
+    "size": 33280
+  },
+  "source/projects/team_01/year_2023/section_02/notes-draft_0163.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "61813043194e53816a854aa6ab6de87bf218958e4bcd5aa1515852f17fcf030b",
+    "size": 9728
+  },
+  "source/projects/team_01/year_2023/section_03/invoice_final_0073.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a21f4e950313ab1731adde2a915017d83b99d3c2094d6ebd3420a6c879da2b5d",
+    "size": 8704
+  },
+  "source/projects/team_01/year_2023/section_04/report-copy_0298.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ef9bfbcc9f07361a64faa2a6a23f26d57b3c57243eaccb74ea4b3488d3b4c0f5",
+    "size": 17408
+  },
+  "source/projects/team_01/year_2023/section_05/photo_final_0208.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9a309beaad34fcf7711252b1df4e068ac04c8cc2be6f865254ae0c50d63b187e",
+    "size": 8192
+  },
+  "source/projects/team_01/year_2023/section_06/scan_0001_0118.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "74216db882b82c074988c8a5834f36a3d7aa7dc2d97c21fb5d3942669ee62625",
+    "size": 9216
+  },
+  "source/projects/team_01/year_2024/section_00/report-copy_0154.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3d0b8f83f983446d9cf989f59952630fcb549e9ef16e99a62d6e1ff347c633bc",
+    "size": 9216
+  },
+  "source/projects/team_01/year_2024/section_01/photo_final_0064.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "18579fe2db1f5d77281b8d83228bed3089ab2661050dc44d425d69ae3c3d7f0a",
+    "size": 8192
+  },
+  "source/projects/team_01/year_2024/section_02/invoice_final_0289.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "71b50585610ecd6eaafa3ec7b386fa9bfc178d17350636259718ded2b6e84072",
+    "size": 16896
+  },
+  "source/projects/team_01/year_2024/section_03/misc_0199.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "87debf14f5493aa5041268a25114381dd45bdb1de228ecb3e392b49849124d63",
+    "size": 9728
+  },
+  "source/projects/team_01/year_2024/section_04/project-1_0109.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "eac26e3f78f5a6f11a3fd0185123e4982118c15f8ab079deb1d1aebb1f73c99a",
+    "size": 8704
+  },
+  "source/projects/team_01/year_2024/section_05/notes-draft_0019.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "813b7af6194df9f123c04e8f980c78929a3a2d96ed6cc10238f772963d78861e",
+    "size": 9728
+  },
+  "source/projects/team_01/year_2024/section_06/receipt_2020_0244.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "74f4edc9826b6438133a860efbe395db9ae15c46496be788d339fcf39d8f573a",
+    "size": 32768
+  },
+  "source/projects/team_02/year_2020/section_00/project-1_0245.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1e807ec24167d1440065cc10d8db57e90767f3312d18bfe03099f6b7c3b4c9c3",
+    "size": 33280
+  },
+  "source/projects/team_02/year_2020/section_01/notes-draft_0155.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8b9a404004187ac30f4c6656d39b795538fae37fccd5dad474d2fc3b73dc28d3",
+    "size": 9728
+  },
+  "source/projects/team_02/year_2020/section_02/invoice_final_0065.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "acd69e1e4f2e0b455b36fa0ab2f8a28abfd2b3598c3d01c5c563e0e03a5ee0ae",
+    "size": 8704
+  },
+  "source/projects/team_02/year_2020/section_03/report-copy_0290.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0055c05424604bf408583caabfd7aad79c9ad7504ff1eb78a52886771c90364b",
+    "size": 17408
+  },
+  "source/projects/team_02/year_2020/section_04/photo_final_0200.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "fc1a2306e9e5981b9592897c11ae7615bc04a94cef8d9e5f3163bfa867b3958c",
+    "size": 8192
+  },
+  "source/projects/team_02/year_2020/section_05/scan_0001_0110.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4b16d3d1bcb27f00b23cf2a978d55a0aa27cd153894ce4af44e1bde15f8b74ff",
+    "size": 9216
+  },
+  "source/projects/team_02/year_2020/section_06/receipt_2020_0020.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "69844340a308b896e03189467577dbef746d4c68218743b89baec21bdc361e4d",
+    "size": 8192
+  },
+  "source/projects/team_02/year_2021/section_00/photo_final_0056.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2e36e516ac76293af1ee72e243b3cf337eca652594836a461a6693aacca3333a",
+    "size": 8192
+  },
+  "source/projects/team_02/year_2021/section_01/invoice_final_0281.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8ad3cebc798c90c4d19d21dbc17a27522bf12638dcbb5e0abb69b624152f3bd0",
+    "size": 16896
+  },
+  "source/projects/team_02/year_2021/section_02/misc_0191.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ac1d5cafb49280ea09c688c34c74b68162f05f535302863dd448521d2f9b9d18",
+    "size": 9728
+  },
+  "source/projects/team_02/year_2021/section_03/project-1_0101.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "274bfbd8489a7d4bc3a0ff62fce98745dd019ba1690da774f6b1f156eaae6ec9",
+    "size": 8704
+  },
+  "source/projects/team_02/year_2021/section_04/notes-draft_0011.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ccb0c7bd784386c50f509f45457e53561fdd4a5ef08e55d94943eaefa02f4321",
+    "size": 9728
+  },
+  "source/projects/team_02/year_2021/section_04/scan_0001_0326.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "fc353c2f32b5e41184b359e11313d0aab69888ce77d8b8024c52fa070b541493",
+    "size": 4096
+  },
+  "source/projects/team_02/year_2021/section_05/receipt_2020_0236.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "827548608a0903409c3469eeedfaf230f8582704a048c246fcf2943b223ff834",
+    "size": 8192
+  },
+  "source/projects/team_02/year_2021/section_06/report-copy_0146.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "cbb761d0d017ab684a15cc31c144170ac26fa6e6c9a8b98404e9bc0de2a4c51c",
+    "size": 9216
+  },
+  "source/projects/team_02/year_2022/section_00/scan_0001_0182.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0ec20e9a6e7019030258b3fae57e8f9819f536be7f79acf809fa1bca29b8f96b",
+    "size": 9216
+  },
+  "source/projects/team_02/year_2022/section_01/receipt_2020_0092.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "54d0a6674f1e60a23863019e566f04105fda696f865a9b52a8c01cc81be2e840",
+    "size": 8192
+  },
+  "source/projects/team_02/year_2022/section_02/project-1_0317.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "dff7cd167917d30629049e96da3e7d4a9b6ec3e9ecff3f03398664e8a3ad1fcb",
+    "size": 5632
+  },
+  "source/projects/team_02/year_2022/section_02/report-copy_0002.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "322712e4645b31b2d4c8ba3a64c186db6a82cfea24e3d0a33b58499f2389b82c",
+    "size": 9216
+  },
+  "source/projects/team_02/year_2022/section_03/notes-draft_0227.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "66c46f96ef4940e80e58f0682c849148f8658c9d31dc04516ea23261e537fb5c",
+    "size": 9728
+  },
+  "source/projects/team_02/year_2022/section_04/invoice_final_0137.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "90f767cde74705159071dac69c6232c19254f031abf3795c2088e6db4a8fd147",
+    "size": 8704
+  },
+  "source/projects/team_02/year_2022/section_05/misc_0047.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a24323918f846017531367d147ab16a8f920b2599bc6535f5b2c53eef3207784",
+    "size": 9728
+  },
+  "source/projects/team_02/year_2022/section_06/photo_final_0272.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9fffc7bc884b69c94e6bd18a2b5cdeb5988afb18ad76f2e9f5aeb8bcbef2b55c",
+    "size": 32768
+  },
+  "source/projects/team_02/year_2023/section_00/receipt_2020_0308.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2f30952a9dfd9815915b9f55f26c89d81446ce8e1dbac42b38082af73c7b90ae",
+    "size": 16384
+  },
+  "source/projects/team_02/year_2023/section_01/report-copy_0218.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "817c171fc4dfe957270f0acb6313605f2bddbf2df4d669d40fa74e61b03997eb",
+    "size": 9216
+  },
+  "source/projects/team_02/year_2023/section_02/photo_final_0128.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3448f5a0a3ddf8a993d8ca3086e7e7908a4147aec6d9c8ec53cc1ca094453fd5",
+    "size": 8192
+  },
+  "source/projects/team_02/year_2023/section_03/scan_0001_0038.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "dce59f1ee34ba56f7d6ae060861b4e40adb2b919250205a10a228297c7eb4811",
+    "size": 9216
+  },
+  "source/projects/team_02/year_2023/section_04/misc_0263.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "62d6b13eda8efb4dfa120b4c7c0f711f67d9729ca540b57c61f518df6d971c87",
+    "size": 34304
+  },
+  "source/projects/team_02/year_2023/section_05/project-1_0173.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2ea6f6dbfefa63ee398b2907bd30f62ebb02d9046d3e0165ed730c7622bf2a73",
+    "size": 8704
+  },
+  "source/projects/team_02/year_2023/section_06/notes-draft_0083.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "916ab1e724f3a64fbe08ec069186342ee12c967edfaadfcca6cdb78fe3b8c424",
+    "size": 9728
+  },
+  "source/projects/team_02/year_2024/section_00/misc_0119.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "02720f5e615e6dc29d52218e1151764452799425e9b97685561754356432407c",
+    "size": 9728
+  },
+  "source/projects/team_02/year_2024/section_01/project-1_0029.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a0de215fc5f710ac2725e8a6722fe24d5f475244fcd5f6aef0cd174e0cb9b413",
+    "size": 8704
+  },
+  "source/projects/team_02/year_2024/section_02/scan_0001_0254.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ee25efa3bdad32ca103891394a318413b0ab44fc93073bed1d7351a990aa0023",
+    "size": 33792
+  },
+  "source/projects/team_02/year_2024/section_03/receipt_2020_0164.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "12586627f4b0aee3329459050437d46a5074821ed8ad6af51e5a3111c8042cb3",
+    "size": 8192
+  },
+  "source/projects/team_02/year_2024/section_04/report-copy_0074.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "571703878a8f0eb2fc76f43af7d5441124275e3007e6bd70c07ed42bc3c8f473",
+    "size": 9216
+  },
+  "source/projects/team_02/year_2024/section_05/notes-draft_0299.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "abacc61509abc3c1899b6be28b2fcc1858dd098bb60bce660f06d5ef9ee1071d",
+    "size": 17920
+  },
+  "source/projects/team_02/year_2024/section_06/invoice_final_0209.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8d40e20aefe3c827fb7291f570e6128a5cf68767e43ff71f5b17a84f6aefc708",
+    "size": 8704
+  },
+  "source/projects/team_03/year_2020/section_00/report-copy_0210.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "41dd7ce4f01cbeea3809b455c6b5d377b39caad6cf7c089909e684e379b6d793",
+    "size": 9216
+  },
+  "source/projects/team_03/year_2020/section_01/photo_final_0120.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b622bfbc12130e4330611720e4cf4317fe3d51a3b5f953aab84b595d5c8ff8b5",
+    "size": 8192
+  },
+  "source/projects/team_03/year_2020/section_02/scan_0001_0030.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "db90d64873048e3e9b864fc8398a72cf82928b750bdfb1487dfed1f12a926193",
+    "size": 9216
+  },
+  "source/projects/team_03/year_2020/section_03/misc_0255.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e73b0b78614989d975b0f397bc17951b90297c4322890afa23deb0b94b6880a8",
+    "size": 34304
+  },
+  "source/projects/team_03/year_2020/section_04/project-1_0165.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e89a41f2405c1d5fc0b193634071c5c940c4ccd3fdae7e812910452081d40ca1",
+    "size": 8704
+  },
+  "source/projects/team_03/year_2020/section_05/notes-draft_0075.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "628614e759afb74c5540e35ca49f373a771dedef026375afce7e05cd59c37788",
+    "size": 9728
+  },
+  "source/projects/team_03/year_2020/section_06/receipt_2020_0300.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ce9fb1a6bfe9c8eb436d9b3345b40f73f4ca55f60b715c330b50932a42fe04f8",
+    "size": 16384
+  },
+  "source/projects/team_03/year_2021/section_00/project-1_0021.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "acd69e1e4f2e0b455b36fa0ab2f8a28abfd2b3598c3d01c5c563e0e03a5ee0ae",
+    "size": 8704
+  },
+  "source/projects/team_03/year_2021/section_01/scan_0001_0246.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f705c2ecdec7a9405389506b5b5a5d0c5314eedafb51b2c5cfe8267efddaf5ac",
+    "size": 33792
+  },
+  "source/projects/team_03/year_2021/section_02/receipt_2020_0156.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "99cbdf216f98c614dc108847223490fc1af11ad78e383a1d67c11c2d8abacd0e",
+    "size": 8192
+  },
+  "source/projects/team_03/year_2021/section_03/report-copy_0066.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "27d8c8a746a6e8397b0800492d37477fea06e0adc01f5e761bc1546c5cccaba4",
+    "size": 9216
+  },
+  "source/projects/team_03/year_2021/section_04/notes-draft_0291.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9c33d7b6ddc8d7dc3220fffe960d13f9bca4bdf5376d114a5b56c378e6bd80ea",
+    "size": 17920
+  },
+  "source/projects/team_03/year_2021/section_05/invoice_final_0201.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "aa310324f12bd2450b3b4db76d90557bceb1c7b9726ce724375768d6a44f8715",
+    "size": 8704
+  },
+  "source/projects/team_03/year_2021/section_06/misc_0111.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c1f83e2494a8ab593deca642abebb3ffefa4fa3664907d0a4f38c62fc9517c1f",
+    "size": 9728
+  },
+  "source/projects/team_03/year_2022/section_00/notes-draft_0147.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5047811004a4d007b6d41c5d21ca97f75659fae862950d54e9d8439aa6bd1480",
+    "size": 9728
+  },
+  "source/projects/team_03/year_2022/section_01/invoice_final_0057.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2ea6f6dbfefa63ee398b2907bd30f62ebb02d9046d3e0165ed730c7622bf2a73",
+    "size": 8704
+  },
+  "source/projects/team_03/year_2022/section_02/report-copy_0282.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9a3ab537f74af9d8dcaf70fa0bc28012a7352606e1d54517be90ae9c8e7bac53",
+    "size": 17408
+  },
+  "source/projects/team_03/year_2022/section_03/photo_final_0192.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d849cde542526f3310a6ffeef15a41d989a043c7c09175f604bf31f49bc19078",
+    "size": 8192
+  },
+  "source/projects/team_03/year_2022/section_04/scan_0001_0102.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "12daa8e49c44851f2d52cb7be6f74724f97aaf06d33dd1e30f275640a5866c58",
+    "size": 9216
+  },
+  "source/projects/team_03/year_2022/section_05/misc_0327.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b36799cdcb048b437fc24af1d6f4e4aa8a47a1e04a935b090a3ed77dd97fee55",
+    "size": 4608
+  },
+  "source/projects/team_03/year_2022/section_05/receipt_2020_0012.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d0e295407e54db925e27108dd7d613f96d380046d1d6ac077bbb99545b3ff701",
+    "size": 8192
+  },
+  "source/projects/team_03/year_2022/section_06/project-1_0237.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1f109f34255b9c5ddd567994087bf54e746521543e63c5e60a38bba215170fa9",
+    "size": 8704
+  },
+  "source/projects/team_03/year_2023/section_00/invoice_final_0273.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ee750325973a2b3645c0ec788c41e547b9d8217262860de5b7e04ac38dbb103e",
+    "size": 33280
+  },
+  "source/projects/team_03/year_2023/section_01/misc_0183.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "903b75a25d2fbc8e166aa4be7847875ea55192f2c5e6384a8b110b55c17a4d28",
+    "size": 9728
+  },
+  "source/projects/team_03/year_2023/section_02/project-1_0093.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1d42432056f68081758aaa7217aeb39a2f58cbf7e2c3cc1de1a68eb64cd3a60a",
+    "size": 8704
+  },
+  "source/projects/team_03/year_2023/section_03/notes-draft_0003.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c7da6a95078f3369074be359fd7c5c8d075d1edfd17c7821e956f969451247fc",
+    "size": 9728
+  },
+  "source/projects/team_03/year_2023/section_03/scan_0001_0318.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f3d64eee5e9189298fa1fbb715317c60e59111bb96fddf26367edd0d58b4cbef",
+    "size": 4096
+  },
+  "source/projects/team_03/year_2023/section_04/receipt_2020_0228.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e9dbfe791d72dbd5f276e489a10d769112244660d3277cf40904983f79c87f02",
+    "size": 8192
+  },
+  "source/projects/team_03/year_2023/section_05/report-copy_0138.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2e56ac599c1ec96cf1938df868e56bef14701c9a5549b8d798aa64a09c059eaa",
+    "size": 9216
+  },
+  "source/projects/team_03/year_2023/section_06/photo_final_0048.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "de6eb72688da2c7e174c97a6dda4aa8bd2edf542bb77f8209bc57d23e087a63b",
+    "size": 8192
+  },
+  "source/projects/team_03/year_2024/section_00/receipt_2020_0084.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3590c17d66189cdf01a0b310cdf9156518dfed8503bfa2361ea5d649ad89f986",
+    "size": 8192
+  },
+  "source/projects/team_03/year_2024/section_01/project-1_0309.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d19326f5019230bf2283652636a17fde458a088a6ecc4d23f9e04a025d87fd5e",
+    "size": 16896
+  },
+  "source/projects/team_03/year_2024/section_02/notes-draft_0219.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "00f500b9e38e8147bfdfbba3bfea30d63196c432d4dd2b21f5ddfe49491d3dfe",
+    "size": 9728
+  },
+  "source/projects/team_03/year_2024/section_03/invoice_final_0129.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "16eac08068121a9f305525489c291a20251d954551ccf485ee8e2b7919dc9ec4",
+    "size": 8704
+  },
+  "source/projects/team_03/year_2024/section_04/misc_0039.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ebf3c3919c6c275e47348aba3abba1cece9accba642d5736c85e9f4e11ee67c2",
+    "size": 9728
+  },
+  "source/projects/team_03/year_2024/section_05/photo_final_0264.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f7f913b69ae9c402bf23dfa195f326079b4f13cab0202eb1cb1326f1ea904510",
+    "size": 32768
+  },
+  "source/projects/team_03/year_2024/section_06/scan_0001_0174.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4a16e14314f07399ef5827c324787ac9f60e8b467ccce12f4b62fffe5dec4a33",
+    "size": 9216
+  },
+  "source/projects/team_04/year_2020/section_00/misc_0175.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f04813a48796c64cb4fc9e13d7bf90cfc9d19ab7e1551c64e9431cc81a724c4f",
+    "size": 9728
+  },
+  "source/projects/team_04/year_2020/section_01/project-1_0085.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b92cb38924990cc709b4ecc5589e96f4cc3f94b16e0426a14d0916a8cf6ab351",
+    "size": 8704
+  },
+  "source/projects/team_04/year_2020/section_02/scan_0001_0310.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1bcbca05fd8de13661d999cb793bdfc8b1563bbc317af948c346d9517d2a0da7",
+    "size": 4096
+  },
+  "source/projects/team_04/year_2020/section_03/receipt_2020_0220.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6234ac1fe76d58fe06712af660aaadfc1463f11b3d6d93f43ea7c7ecf5c7bf0c",
+    "size": 8192
+  },
+  "source/projects/team_04/year_2020/section_04/report-copy_0130.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "366543a5dcb75c4235a8d649527814647baeb733e6b873196ad9c0d4c3d866fd",
+    "size": 9216
+  },
+  "source/projects/team_04/year_2020/section_05/photo_final_0040.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3e4f88ce011b5587dd095d865cd72dd5c4e36276e2b71bf203bcae7e120c68d7",
+    "size": 8192
+  },
+  "source/projects/team_04/year_2020/section_06/invoice_final_0265.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "75c21eb58c4f501a28690bef0544f269c5a9c544bb16e3c19af91533913386dd",
+    "size": 33280
+  },
+  "source/projects/team_04/year_2021/section_00/project-1_0301.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0d79921774a4be617f86020558f7eb51c7621f88d0b0a3a3a126484bc63756ec",
+    "size": 16896
+  },
+  "source/projects/team_04/year_2021/section_01/notes-draft_0211.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "649a78b0256702432c108adf4bdb9e535642a85bf0d593352b7757b16a3849f8",
+    "size": 9728
+  },
+  "source/projects/team_04/year_2021/section_02/invoice_final_0121.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "abc7f1fbe40d256727e445da9fca1ee6b49690969b5ace1dc5ce62ba48bb733d",
+    "size": 8704
+  },
+  "source/projects/team_04/year_2021/section_03/misc_0031.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9e3fff9010dc84270addcb49a8e21cbe1ea6e711b67dc7b0fa17f2d75e0cbfbc",
+    "size": 9728
+  },
+  "source/projects/team_04/year_2021/section_04/photo_final_0256.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a8b896a027f805084df34e7a35c98a568cf96aacd185ec4347c1ae8337dcacf2",
+    "size": 32768
+  },
+  "source/projects/team_04/year_2021/section_05/scan_0001_0166.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b42f9dd197ca03249875840b424ceaca6ef88d99c038853951d9340825495d5d",
+    "size": 9216
+  },
+  "source/projects/team_04/year_2021/section_06/receipt_2020_0076.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d42dd8dbd4535e668a899e210c035958de4d6a731d6a6dd22b7b29166535181a",
+    "size": 8192
+  },
+  "source/projects/team_04/year_2022/section_00/photo_final_0112.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0df962f24db37528722d12c6cf4f1b7f973467b8028aeccd97202db569a67f17",
+    "size": 8192
+  },
+  "source/projects/team_04/year_2022/section_01/scan_0001_0022.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d1bcd19536fbfc31d3ef2d81cfe8ad4b158021f0931942565ec244735b797184",
+    "size": 9216
+  },
+  "source/projects/team_04/year_2022/section_02/misc_0247.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "23d9d52e22edbb9792cf188ed40ea50e3d04dc04d26d93d9db50689d7f794078",
+    "size": 34304
+  },
+  "source/projects/team_04/year_2022/section_03/project-1_0157.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5daafbb4d2f1e81e93c043baf8d770ab94143ec1447a7fa294dc826e78e73db3",
+    "size": 8704
+  },
+  "source/projects/team_04/year_2022/section_04/notes-draft_0067.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b75c8a966ac2bc5b93818df3dad22b0e3530013ef72261338ed30cb83468b64f",
+    "size": 9728
+  },
+  "source/projects/team_04/year_2022/section_05/receipt_2020_0292.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d4117ae93ff6371bfb8ffeb88b40deb6b6635cdb913ce3d9cfb93b6727bc0c7f",
+    "size": 16384
+  },
+  "source/projects/team_04/year_2022/section_06/report-copy_0202.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3f2c505c206dcc11b8f0b9d0a48638fce43577520a95e5d0543d83fa2f41394a",
+    "size": 9216
+  },
+  "source/projects/team_04/year_2023/section_00/scan_0001_0238.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d54b2993aad897eddd009e48fc2d110b57013489761c76a5a8239344d09295ac",
+    "size": 9216
+  },
+  "source/projects/team_04/year_2023/section_01/receipt_2020_0148.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "840a9ccea8424ec2e167e6731a8fa8d26348b0aff8e1807e204d7473b4437006",
+    "size": 8192
+  },
+  "source/projects/team_04/year_2023/section_02/report-copy_0058.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "65be0c295e01e516d72fab8a58d0e56b91ad188b2da369b4d132db84d428e465",
+    "size": 9216
+  },
+  "source/projects/team_04/year_2023/section_03/notes-draft_0283.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "be08e38fe29a9a4b710a9d4dc8bffc523938b1cf3b99cfd7fdd34a0b2a1e94b2",
+    "size": 17920
+  },
+  "source/projects/team_04/year_2023/section_04/invoice_final_0193.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "788702678193b8a651636e5fc9d33d06cf8b3b2012cf6d526586d7e230b81ca2",
+    "size": 8704
+  },
+  "source/projects/team_04/year_2023/section_05/misc_0103.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c2e48d04dcbe8ecb8f4f3562effbe5fc9c3ba859c12fc954d4a64f1193db282a",
+    "size": 9728
+  },
+  "source/projects/team_04/year_2023/section_06/photo_final_0328.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "591609ae8ade1d79b74167e9b4c4289d4ab9389db517b27ea053490a95751f29",
+    "size": 5120
+  },
+  "source/projects/team_04/year_2023/section_06/project-1_0013.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f0c302aae6f030ffe62bb4d4e6792d9ead54b946fe16395d576eb2c010382f02",
+    "size": 8704
+  },
+  "source/projects/team_04/year_2024/section_00/invoice_final_0049.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "626b70a1cb1baed52eff0c3a894fa4c307528e3706cbfbbbf9c7a61d5680cca3",
+    "size": 8704
+  },
+  "source/projects/team_04/year_2024/section_01/report-copy_0274.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9203854f5bbb90a080bdfdae860858de8aa215024625a24f7d4c9cc48ae90013",
+    "size": 33792
+  },
+  "source/projects/team_04/year_2024/section_02/photo_final_0184.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6a0ad59b706cb5785e32facef4a6dc651daad2cdcb10d5113f9347f1c96ecb56",
+    "size": 8192
+  },
+  "source/projects/team_04/year_2024/section_03/scan_0001_0094.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b469a2389be0f6113febcc8ce212015d3e0f58788eb000466816b1928bdeb3b6",
+    "size": 9216
+  },
+  "source/projects/team_04/year_2024/section_04/misc_0319.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a127a03c2844aab8fb2aa3100b2084be422fda0d2726421fac7aa8b9679281cd",
+    "size": 4608
+  },
+  "source/projects/team_04/year_2024/section_04/receipt_2020_0004.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "52640cc411b980ef3cef8e9a7b031d1c24b6546328ff31c1951b2bb8644a5581",
+    "size": 8192
+  },
+  "source/projects/team_04/year_2024/section_05/project-1_0229.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "dcf2a4a069a1e97b372026254c64bac67d544ee59598e3e877146625e05ed925",
+    "size": 8704
+  },
+  "source/projects/team_04/year_2024/section_06/notes-draft_0139.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "218205f18efdbd6b596a06312c22282eb486775022fb16ec2ecce7a5aa6c1d8d",
+    "size": 9728
+  },
+  "source/projects/team_05/year_2020/section_00/receipt_2020_0140.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "18e903b740afdea37bb398f3900122c6d78b4b5bcc312fac7e5bcd1ca7a4f2a9",
+    "size": 8192
+  },
+  "source/projects/team_05/year_2020/section_01/report-copy_0050.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b98ec7ef170829c883b4721b08dbe539ebe19abac3e5f477ff903d1c26c3bd09",
+    "size": 9216
+  },
+  "source/projects/team_05/year_2020/section_02/notes-draft_0275.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e63d44a80a6dc8d2d6ff0486b510a53dd83f2a7c37253ae7b08374c7712c76f2",
+    "size": 34304
+  },
+  "source/projects/team_05/year_2020/section_03/invoice_final_0185.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e843a9e6648da7069f1cb34db693c49fe64c5192197ed36d1b54b29676bee5a6",
+    "size": 8704
+  },
+  "source/projects/team_05/year_2020/section_04/misc_0095.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "339939e96f25f6ef8d1a2ad4676f0c977208852f1c977aaaa92bfa6e68f237f5",
+    "size": 9728
+  },
+  "source/projects/team_05/year_2020/section_05/photo_final_0320.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "407ec1df95c4e040ee38d65ed1ea1cae0933be7e7f472594dfe31a4d1ad92c1e",
+    "size": 5120
+  },
+  "source/projects/team_05/year_2020/section_05/project-1_0005.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e131a84899830376890d21236584da4895d891b00483266e5c055ac565f44d3f",
+    "size": 8704
+  },
+  "source/projects/team_05/year_2020/section_06/scan_0001_0230.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b9fad357a6ae2e1b38cd36c9a1ac4614a5b991d6c4b5b405fe9528f3853588c4",
+    "size": 9216
+  },
+  "source/projects/team_05/year_2021/section_00/report-copy_0266.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "aa187b65ca6cc0ae448ea7be1f79513c1021c5fbe67ebec6cf9a20d432a268ab",
+    "size": 33792
+  },
+  "source/projects/team_05/year_2021/section_01/photo_final_0176.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8a2f1c9b22cfe8d5fd1da26acfaf6b2f24901581246c13ba17b6ef45d9553885",
+    "size": 8192
+  },
+  "source/projects/team_05/year_2021/section_02/scan_0001_0086.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "24bc6e8ffe4ab866b3030f4b99553165558ba5717ab7552c5176f235de2ae3da",
+    "size": 9216
+  },
+  "source/projects/team_05/year_2021/section_03/misc_0311.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4403e673deaa89452210a8b63b02e3c9a226d8b51ea095decf6b66a3f21bc04c",
+    "size": 4608
+  },
+  "source/projects/team_05/year_2021/section_04/project-1_0221.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5f952e7a9afd739490b704cf113fb04131fecf7c844c2e5bed2747eb510ddf9d",
+    "size": 8704
+  },
+  "source/projects/team_05/year_2021/section_05/notes-draft_0131.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4d3827a6ae35ab6662a65ab8df680f7c1abf60f314c331593c586b70c49c8527",
+    "size": 9728
+  },
+  "source/projects/team_05/year_2021/section_06/invoice_final_0041.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b58f730bfe2235dfd8d4324b9c86cad2e79f75d76320c622c68874c873ee9618",
+    "size": 8704
+  },
+  "source/projects/team_05/year_2022/section_00/project-1_0077.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "12ba4b2a883e6721ca91fdda3be8e59e460c9c3bee048eb46d2a288d778c1726",
+    "size": 8704
+  },
+  "source/projects/team_05/year_2022/section_01/scan_0001_0302.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9dc7c93550da5338a47fe2ef032ddd3b4d7e7d29447da6d299bafb1294a1803a",
+    "size": 17408
+  },
+  "source/projects/team_05/year_2022/section_02/receipt_2020_0212.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f6af62bff7d36d97528831165a20bba103d40b8ce70744b02cb08bb604a534ce",
+    "size": 8192
+  },
+  "source/projects/team_05/year_2022/section_03/report-copy_0122.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6073a8f0847b2c772b1355d90437659c39603517bdde74d2afc6bec487bcf689",
+    "size": 9216
+  },
+  "source/projects/team_05/year_2022/section_04/photo_final_0032.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d503468eff703e50241267c3d2fc6ee02bcddcb9f90066a42e5fc77eabfd3acc",
+    "size": 8192
+  },
+  "source/projects/team_05/year_2022/section_05/invoice_final_0257.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "79ad3c360ffeac3692e7023298cf68d1bde97e825d596e7f394c2883a80a2353",
+    "size": 33280
+  },
+  "source/projects/team_05/year_2022/section_06/misc_0167.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2db5b354e6d70dd2fc78b744c5da5d948b3e8d666e8957fe28e5317a8917601b",
+    "size": 9728
+  },
+  "source/projects/team_05/year_2023/section_00/notes-draft_0203.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e5bec49b099973403cadf2cd1c5478f8035388fb14fa0e9fc4b645137bb05ba1",
+    "size": 9728
+  },
+  "source/projects/team_05/year_2023/section_01/invoice_final_0113.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f6603a1346e09ae28bf8aaf772bbb4d190a572c3445df18697329a94b178549f",
+    "size": 8704
+  },
+  "source/projects/team_05/year_2023/section_02/misc_0023.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1d81f72fbcd186fcd3f2a1ec2fa4890a39dcd62beb8ee614cc14118ece35782f",
+    "size": 9728
+  },
+  "source/projects/team_05/year_2023/section_03/photo_final_0248.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0c6b0ebec7b4b2c82918b2daf457e814852ebc8677550191ce3cd7c18e9d1874",
+    "size": 32768
+  },
+  "source/projects/team_05/year_2023/section_04/scan_0001_0158.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "99c68d6bbaff7e8bf4f0ae30582ea25412d1a64a21d07c8ff7b3723b7025f6b6",
+    "size": 9216
+  },
+  "source/projects/team_05/year_2023/section_05/receipt_2020_0068.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4af06422a878434600bec7e770d8eb17db2242c804fef7ad5b4b31ab51b7e14a",
+    "size": 8192
+  },
+  "source/projects/team_05/year_2023/section_06/project-1_0293.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "22ed65e65bf8901cac8bab39765c5457f67735d161be5abadfb4125b39488e89",
+    "size": 16896
+  },
+  "source/projects/team_05/year_2024/section_00/invoice_final_0329.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f4b87e50d7a57035b29162a6ca2f52f9e07c8222c7acbc31a525c8bb36f1245c",
+    "size": 5632
+  },
+  "source/projects/team_05/year_2024/section_00/scan_0001_0014.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a2813468fd6f799273aee554f995a1c6781f0403b89b80d5cb62b9cb059ba3f7",
+    "size": 9216
+  },
+  "source/projects/team_05/year_2024/section_01/misc_0239.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0e6ba89aaaed12406b88db698ad7f7f75fcbb193534af2e981521e0762a0ae58",
+    "size": 9728
+  },
+  "source/projects/team_05/year_2024/section_02/project-1_0149.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6b5b8102e10f76a449375b1d1de64b8520a5eb41a9b43c0f27a6de1c58bbcab9",
+    "size": 8704
+  },
+  "source/projects/team_05/year_2024/section_03/notes-draft_0059.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a426fc14ec123507831be7ab3024cac561272914dbe1701200af6af171ed3538",
+    "size": 9728
+  },
+  "source/projects/team_05/year_2024/section_04/receipt_2020_0284.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "efdde01905d71b887e07b927040d74f9b2d0c2b37d4b657caa5a1d634cd9b63c",
+    "size": 16384
+  },
+  "source/projects/team_05/year_2024/section_05/report-copy_0194.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a54b40d13aca091248d3acb970957c0267ae2fd81c14182d2bdd6ff1111a4e2a",
+    "size": 9216
+  },
+  "source/projects/team_05/year_2024/section_06/photo_final_0104.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "fee1f1ad1b21a569f8cca12072f934922c05ba6eabf677df099b97e8400634e1",
+    "size": 8192
+  },
+  "source/projects/team_06/year_2020/section_00/invoice_final_0105.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "256d8a9f475938fc9ac51e3a45d03bd7bb11b5f0e6f5967f7119f252e3ce021c",
+    "size": 8704
+  },
+  "source/projects/team_06/year_2020/section_01/misc_0015.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "595105a2f6ad1c810a5debe1f89163e0f3804ad7c00dd5785ac41304eb406caa",
+    "size": 9728
+  },
+  "source/projects/team_06/year_2020/section_02/photo_final_0240.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e36de01ee4734ea42a4f632b5960b7bf8b46a40349754d431cc64c530954cef8",
+    "size": 32768
+  },
+  "source/projects/team_06/year_2020/section_03/scan_0001_0150.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "aad44a83fe8f0314616ede17aa80f57e467363eca44cb94032730c4afbbef188",
+    "size": 9216
+  },
+  "source/projects/team_06/year_2020/section_04/receipt_2020_0060.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "69844340a308b896e03189467577dbef746d4c68218743b89baec21bdc361e4d",
+    "size": 8192
+  },
+  "source/projects/team_06/year_2020/section_05/project-1_0285.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "aa496001fac63ae7e757f986c9c2a16446b498fb5025eb3c654e64e901950541",
+    "size": 16896
+  },
+  "source/projects/team_06/year_2020/section_06/notes-draft_0195.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "745588bec0c934f5a8becde6cf670eec2e618c412323d6fdbf3befa36610f853",
+    "size": 9728
+  },
+  "source/projects/team_06/year_2021/section_00/misc_0231.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d983c4436a43de5267d60edc000043ffcba94ed000fd3a74941f347f2d1a4976",
+    "size": 9728
+  },
+  "source/projects/team_06/year_2021/section_01/project-1_0141.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d47c4a5ba23f6b817d739317efd3f7adeb1dd937e316e50a938fd10359292e36",
+    "size": 8704
+  },
+  "source/projects/team_06/year_2021/section_02/notes-draft_0051.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8b06f00c896296fd2a7ac2939d60d2591eb30a26001011604e456dce7197a4f5",
+    "size": 9728
+  },
+  "source/projects/team_06/year_2021/section_03/receipt_2020_0276.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b00f67533c59419e68cac5e39cb50022b65a6dc2f405402ff4074c97ba16b5f3",
+    "size": 32768
+  },
+  "source/projects/team_06/year_2021/section_04/report-copy_0186.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f95f73246b18252b4c38ca9e576729bfddab0aa94ae5c5b5b3a1e84a4d41a0bb",
+    "size": 9216
+  },
+  "source/projects/team_06/year_2021/section_05/photo_final_0096.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d503468eff703e50241267c3d2fc6ee02bcddcb9f90066a42e5fc77eabfd3acc",
+    "size": 8192
+  },
+  "source/projects/team_06/year_2021/section_06/invoice_final_0321.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "39745ae4472b42c96eb23b022a571c47a41224fc88f87ef75f2dc4e199c19152",
+    "size": 5632
+  },
+  "source/projects/team_06/year_2021/section_06/scan_0001_0006.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "afbcef4cb7e78c05b1011e2d4aa746f6ffe77f80ca0395fe7bf6d5e6e241cd37",
+    "size": 9216
+  },
+  "source/projects/team_06/year_2022/section_00/report-copy_0042.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6e2506446d03c0a6eefe4d90154ab9cb9adf9d2a12c75af20d8a036a0ff64619",
+    "size": 9216
+  },
+  "source/projects/team_06/year_2022/section_01/notes-draft_0267.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f80bfc8d6e348ecd48ebace79402f53643b4712ea266640f1160f3b3032437e7",
+    "size": 34304
+  },
+  "source/projects/team_06/year_2022/section_02/invoice_final_0177.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1a1d00c4373139c58a0bceb8153192c8c3efd3c2e2a15dfd0a8890f9462f793c",
+    "size": 8704
+  },
+  "source/projects/team_06/year_2022/section_03/misc_0087.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "bebd2a3c97a0a8a27eec4ac8e4d2e0c11609baee0aa7dd2358727d1ad9eae9c2",
+    "size": 9728
+  },
+  "source/projects/team_06/year_2022/section_04/photo_final_0312.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "9922da8b8c2353bb31ed71730c52ef569099ba14309b5df778fde1c85f174cf3",
+    "size": 5120
+  },
+  "source/projects/team_06/year_2022/section_05/scan_0001_0222.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c98358cdcadb2b62829d08a46cb0867f613c1cc02c05b62557b235aa52a54efa",
+    "size": 9216
+  },
+  "source/projects/team_06/year_2022/section_06/receipt_2020_0132.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "92ab525c2551eed6f5fc4547dc633946f14d4e5fa60b9a80bd4290e83d7b00ad",
+    "size": 8192
+  },
+  "source/projects/team_06/year_2023/section_00/photo_final_0168.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2e36e516ac76293af1ee72e243b3cf337eca652594836a461a6693aacca3333a",
+    "size": 8192
+  },
+  "source/projects/team_06/year_2023/section_01/scan_0001_0078.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "55293f68982e77f4aad444bab42f65341767664ba8407fcb04680d7a8a1e9e90",
+    "size": 9216
+  },
+  "source/projects/team_06/year_2023/section_02/misc_0303.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "25fe4e7ad72c067e20f19bfd6f63cdb26b7acf262bc1cfdb360e213e9a320c29",
+    "size": 17920
+  },
+  "source/projects/team_06/year_2023/section_03/project-1_0213.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "826ad4c5fbe8ab05cbd060d6db6d9ef6593955e653bee40a97fa38f93d5e41b4",
+    "size": 8704
+  },
+  "source/projects/team_06/year_2023/section_04/notes-draft_0123.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "284d1265b01c3896ea555d03b8c0b444aeaeaa7bd20db9d60c2a15041dd2f83a",
+    "size": 9728
+  },
+  "source/projects/team_06/year_2023/section_05/invoice_final_0033.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "274bfbd8489a7d4bc3a0ff62fce98745dd019ba1690da774f6b1f156eaae6ec9",
+    "size": 8704
+  },
+  "source/projects/team_06/year_2023/section_06/report-copy_0258.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "815074c75f55b9c7fe3bff615f64997cb2a71f5d3efe84a78b849269f811e9d5",
+    "size": 33792
+  },
+  "source/projects/team_06/year_2024/section_00/scan_0001_0294.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d663ed4b812aa88f35ed5d5065ff7cd4265a5e3866bac621f500e76b156726f8",
+    "size": 17408
+  },
+  "source/projects/team_06/year_2024/section_01/receipt_2020_0204.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4af06422a878434600bec7e770d8eb17db2242c804fef7ad5b4b31ab51b7e14a",
+    "size": 8192
+  },
+  "source/projects/team_06/year_2024/section_02/report-copy_0114.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "041b3b590a39843a3ea2d39eb036bac5f602c98666271f63492df5579e155e18",
+    "size": 9216
+  },
+  "source/projects/team_06/year_2024/section_03/photo_final_0024.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "59fdb91216eba42c47b62435324f58021c063b12fb3469ad9eb797ee79d9c964",
+    "size": 8192
+  },
+  "source/projects/team_06/year_2024/section_04/invoice_final_0249.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "79e4841b0646f2a3d41479c50435b373846a378e2f8ebebe236091c0aa3ca7d9",
+    "size": 33280
+  },
+  "source/projects/team_06/year_2024/section_05/misc_0159.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2b968539e3a5b98c6c71f539d074d65b3f7d50ff5fdd230d6159e197d934f5c3",
+    "size": 9728
+  },
+  "source/projects/team_06/year_2024/section_06/project-1_0069.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8d40e20aefe3c827fb7291f570e6128a5cf68767e43ff71f5b17a84f6aefc708",
+    "size": 8704
+  },
+  "source/projects/team_07/year_2020/section_00/scan_0001_0070.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c7fe98686e87ba25eec6f2a50339475a43e3766fd99ca21b02ec6c91ec77bd0e",
+    "size": 9216
+  },
+  "source/projects/team_07/year_2020/section_01/misc_0295.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4c6ccb94088a1546bef1e5d37afab1e24cde4e0aeb288452581f85675eef3353",
+    "size": 17920
+  },
+  "source/projects/team_07/year_2020/section_02/project-1_0205.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2237c120c914453dbf3301eb5bc6d91e358739bd694cb628ca7c3b0ad0606ce6",
+    "size": 8704
+  },
+  "source/projects/team_07/year_2020/section_03/notes-draft_0115.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "03b443f9d13ba5aac669c8e488c2e741139e1a03dfbd3cacde793a3a680dbb40",
+    "size": 9728
+  },
+  "source/projects/team_07/year_2020/section_04/invoice_final_0025.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3730403c40ce1b0af110f58650b4f84bbbc0b7cdae980067d267338560e3f79b",
+    "size": 8704
+  },
+  "source/projects/team_07/year_2020/section_05/report-copy_0250.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1624b34dd2ba771b677df0e9c777054ea7bfd5f054a6a4194fae4e3ed12ed4c1",
+    "size": 33792
+  },
+  "source/projects/team_07/year_2020/section_06/photo_final_0160.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "77ebdc5a2f4d4848296fed75b76a3c32e2735388e154af9691fb5dc74d6d5064",
+    "size": 8192
+  },
+  "source/projects/team_07/year_2021/section_00/receipt_2020_0196.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c90ff3483e006d90b9eabae0cde52a49c750920270d541c158cbd782be2296de",
+    "size": 8192
+  },
+  "source/projects/team_07/year_2021/section_01/report-copy_0106.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ee1bbc2e12beb6c6d3cb26687036f895632dbbc4c79771768b3d689961b2b926",
+    "size": 9216
+  },
+  "source/projects/team_07/year_2021/section_02/photo_final_0016.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "db084065df43d6d0a8df16d59feedb28fbeb7ca88947a5e0e5f68ed015dc417a",
+    "size": 8192
+  },
+  "source/projects/team_07/year_2021/section_03/invoice_final_0241.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "babf71e67e721460fda8a0d3d7676cc726856a5625799ec902171de378fe006c",
+    "size": 33280
+  },
+  "source/projects/team_07/year_2021/section_04/misc_0151.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "676e743526e06820ddb7f06f9b13b0a13b71ce348366fc6694f1e6eb4a683742",
+    "size": 9728
+  },
+  "source/projects/team_07/year_2021/section_05/project-1_0061.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4077341092f93a8a227c000d0bbd2c6df956b7d90d57ebdbf4b0fb7e1306b90f",
+    "size": 8704
+  },
+  "source/projects/team_07/year_2021/section_06/scan_0001_0286.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ae2dbce7f80503bf1208e79d65b674e7206467da9f803704254e228a61f52612",
+    "size": 17408
+  },
+  "source/projects/team_07/year_2022/section_00/misc_0007.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d8ae6bc1b5f7edaada5204c6823dd2136db71ae6a567d8f892e441db161b011b",
+    "size": 9728
+  },
+  "source/projects/team_07/year_2022/section_00/report-copy_0322.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "7380e1da65a0cc3ec8d5c00bce8404082cae8155a1d4228e5b19880f2b5579e9",
+    "size": 4096
+  },
+  "source/projects/team_07/year_2022/section_01/photo_final_0232.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a6235c084b0ef062a0cc93cc89a2a5be69a324508d0e797281373535ad873c6c",
+    "size": 8192
+  },
+  "source/projects/team_07/year_2022/section_02/scan_0001_0142.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "dfb8e63ee3193317226a5c82db7f97d9e632af128ee8779bc2d600e317be7b4c",
+    "size": 9216
+  },
+  "source/projects/team_07/year_2022/section_03/receipt_2020_0052.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "a2ae7fc451837eeb2efb7daa11b2699ed6d3368212ac964eedfc0839c8c5ae9e",
+    "size": 8192
+  },
+  "source/projects/team_07/year_2022/section_04/project-1_0277.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "dd4894d9b550b31d54f0e43a901a2d245456d1beb1d73b0372527c877698772a",
+    "size": 33280
+  },
+  "source/projects/team_07/year_2022/section_05/notes-draft_0187.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "931d1aab91b979812503cb13646546691e6a3e24e0b1a20a9d54a8f5566c157f",
+    "size": 9728
+  },
+  "source/projects/team_07/year_2022/section_06/invoice_final_0097.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c83ee32f0b09fbf806a9e812d102df770e4cf2593f3ee5a1d8ab9da673e53c26",
+    "size": 8704
+  },
+  "source/projects/team_07/year_2023/section_00/project-1_0133.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "371b01a6e23e4c17202312414e98d67b84b7813a676c0a03d18239c38b4ddb0c",
+    "size": 8704
+  },
+  "source/projects/team_07/year_2023/section_01/notes-draft_0043.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "18f0811813e2ce8d152b35261b6d80fa6334a4038a6ee4e9735f21d734b26b1f",
+    "size": 9728
+  },
+  "source/projects/team_07/year_2023/section_02/receipt_2020_0268.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0d28343f60642e74773626c6bcb4dbd705d123a4a63de00ea1104af88ea06901",
+    "size": 32768
+  },
+  "source/projects/team_07/year_2023/section_03/report-copy_0178.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "317074020917c53272e182e62cb29c57d2701a744592395cf12513ab02feecad",
+    "size": 9216
+  },
+  "source/projects/team_07/year_2023/section_04/photo_final_0088.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ff4df148b2f38dd9fc524ad566be3b3b1cc15da1c8a3d73a99e7cd9061d0fb4c",
+    "size": 8192
+  },
+  "source/projects/team_07/year_2023/section_05/invoice_final_0313.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "662478a6fdeb526c10a87ffabed491d6eca96ae9dde703ca2a4b8ae513b03e27",
+    "size": 5632
+  },
+  "source/projects/team_07/year_2023/section_06/misc_0223.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5920167c87944cc399bb0cb4959a48280f4738607a13192a0d62b9357ec93252",
+    "size": 9728
+  },
+  "source/projects/team_07/year_2024/section_00/notes-draft_0259.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8af090446f768ebf98cf589bcc319c45aab2ab3bfeaae0f6d885785965af5dec",
+    "size": 34304
+  },
+  "source/projects/team_07/year_2024/section_01/invoice_final_0169.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "1b1e6a980b27b9c8538572facde540acb8f99811afedaf5c338f8c97f30162c0",
+    "size": 8704
+  },
+  "source/projects/team_07/year_2024/section_02/misc_0079.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e29e745686ac741ac1d3d84728fec6b1ec96200f17e79cb5d0e423154f7d016a",
+    "size": 9728
+  },
+  "source/projects/team_07/year_2024/section_03/photo_final_0304.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "136d24b06ff00c498ef47125b71b41194533477cafc52cb0f339eb60c9bd3779",
+    "size": 16384
+  },
+  "source/projects/team_07/year_2024/section_04/scan_0001_0214.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8466442e635a88934d4bcc289c173c364b4baad7f4c1ed6c7ad485d4754b6ee4",
+    "size": 9216
+  },
+  "source/projects/team_07/year_2024/section_05/receipt_2020_0124.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "464b3169f23fcef6d8a74bccd89ab38487425160acdf6ec0413626be291ce7d7",
+    "size": 8192
+  },
+  "source/projects/team_07/year_2024/section_06/report-copy_0034.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d1f03fdd80f568ff5ebc2b5a5d54b84a215db3b7fa4e17dc5f5141e86da8f08f",
+    "size": 9216
+  },
+  "source/projects/team_08/year_2020/section_00/notes-draft_0035.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "dc65aa229c95c179392bf9df68334a17271f0ed7d553c7c4645ebefe51dd512d",
+    "size": 9728
+  },
+  "source/projects/team_08/year_2020/section_01/receipt_2020_0260.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "69ccfe5bdb4e929cb4a65b415a8b3651db5e7247d75dbffddc521969a39045c6",
+    "size": 32768
+  },
+  "source/projects/team_08/year_2020/section_02/report-copy_0170.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "51087376486c1f99a407b8572198aaa07417589b85980f748b28fc2e6b30ad4b",
+    "size": 9216
+  },
+  "source/projects/team_08/year_2020/section_03/photo_final_0080.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "55042ca50e891ad68694cff4e8d49e2f23b66f94ea65d25041b20d383026e850",
+    "size": 8192
+  },
+  "source/projects/team_08/year_2020/section_04/invoice_final_0305.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "2ac077cbae0be78047d52b91de1ffe5c7e7045648557435caeff7044ec59cd71",
+    "size": 16896
+  },
+  "source/projects/team_08/year_2020/section_05/misc_0215.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "02273dfb2197b7bc381b6f6be1fbe1017eaa88803c9f0ce638463ee6e75956ea",
+    "size": 9728
+  },
+  "source/projects/team_08/year_2020/section_06/project-1_0125.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "42df2ac064c1df325e13e3e00ad92510f5822c2f17cd1eb10ba17c1cef8fd0ea",
+    "size": 8704
+  },
+  "source/projects/team_08/year_2021/section_00/invoice_final_0161.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3cf437c3ff650ee7de3de400ec9294c2db3d75ca01f6477e3536402c909a227c",
+    "size": 8704
+  },
+  "source/projects/team_08/year_2021/section_01/misc_0071.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "4c95d3a779ec7476e139724aaf905a88aff5dc32a8ab50ca8f5bd6dbeedc4784",
+    "size": 9728
+  },
+  "source/projects/team_08/year_2021/section_02/photo_final_0296.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "84c468a44ee1cafa67bcca419966e5274cedfcd64505a6d15b7c8d232988c504",
+    "size": 16384
+  },
+  "source/projects/team_08/year_2021/section_03/scan_0001_0206.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "30e82476b43dca21909289be3de59bfcbe20000d3843235bd5c8e636191ab7f8",
+    "size": 9216
+  },
+  "source/projects/team_08/year_2021/section_04/receipt_2020_0116.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "ec49abc1a8b574a229762f21fb55b91b2db7b4e37cc5c5660f92a3e04904e9ed",
+    "size": 8192
+  },
+  "source/projects/team_08/year_2021/section_05/report-copy_0026.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "32861136cb51723f31b9031878d02ca36311072d1e4ad6db9602fd720ec9a635",
+    "size": 9216
+  },
+  "source/projects/team_08/year_2021/section_06/notes-draft_0251.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "6e329787c9ac4100c8842baea133e3d115f2771b43c7526f518152f6013d304a",
+    "size": 34304
+  },
+  "source/projects/team_08/year_2022/section_00/misc_0287.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "e04613ba28e448e44ea239bf16b745f988dab11a28f94d6dbacb08db29dd3eb0",
+    "size": 17920
+  },
+  "source/projects/team_08/year_2022/section_01/project-1_0197.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "8db4aa27ab84f6e2ef89954998b5665bbbb11a0ff5a8426704931cb25fd76cf7",
+    "size": 8704
+  },
+  "source/projects/team_08/year_2022/section_02/notes-draft_0107.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3e0e40500a44bb438f0fb4a7e24ad9e20a41a34c7fdf43b395457f97af365923",
+    "size": 9728
+  },
+  "source/projects/team_08/year_2022/section_03/invoice_final_0017.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d20ef340ae213c6336f88bf38616da2e0f4c784e230b20005e4334fca6552466",
+    "size": 8704
+  },
+  "source/projects/team_08/year_2022/section_04/report-copy_0242.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d2de121894ce4f99f31da4e3b57fc57836b6868757d1bcae260eaf34dd6897c4",
+    "size": 33792
+  },
+  "source/projects/team_08/year_2022/section_05/photo_final_0152.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "d19a0971381bd5a64c55d4e889f9e4670403b250f65e863e349b2fbf28121610",
+    "size": 8192
+  },
+  "source/projects/team_08/year_2022/section_06/scan_0001_0062.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c0a583b2f6337c81add084a629fbe66b5d000c35253581c4ff9fb17af40ce280",
+    "size": 9216
+  },
+  "source/projects/team_08/year_2023/section_00/report-copy_0098.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "7e07d5151dcebd5eb0920c15bfa1ebcb54c189d42efd44476988241d27b33b8b",
+    "size": 9216
+  },
+  "source/projects/team_08/year_2023/section_01/notes-draft_0323.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "f60135821551016c6402bbb3aad306173a47d90f33e95c1f79139bf28b9c0acc",
+    "size": 4608
+  },
+  "source/projects/team_08/year_2023/section_01/photo_final_0008.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "59fdb91216eba42c47b62435324f58021c063b12fb3469ad9eb797ee79d9c964",
+    "size": 8192
+  },
+  "source/projects/team_08/year_2023/section_02/invoice_final_0233.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b56e5e2b78baa1ccaba6c1bfbd05d1839c4937f4c815624fc5a6aaf427d68445",
+    "size": 8704
+  },
+  "source/projects/team_08/year_2023/section_03/misc_0143.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0f9ad5da8ceca03a511ba0cc4c54809647a8c193ead27636d8174bcd99175e40",
+    "size": 9728
+  },
+  "source/projects/team_08/year_2023/section_04/project-1_0053.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "c5defe6d2fbb60407a30bb3f6cc3a31eec089316a0ca4ab4d9f59f319e42b3f8",
+    "size": 8704
+  },
+  "source/projects/team_08/year_2023/section_05/scan_0001_0278.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "5db3e542bec95d3f7e83d5ae3b97ae45a004080b3581f2617f4105b160602620",
+    "size": 33792
+  },
+  "source/projects/team_08/year_2023/section_06/receipt_2020_0188.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0037c7a02223a127aa627bb2b458965444ebe2df8d4aeea0671e355e0b29e4f5",
+    "size": 8192
+  },
+  "source/projects/team_08/year_2024/section_00/photo_final_0224.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "3b04007f54c701024083aa425262b694c67f02e711b02093e2f15c0b1cf5d326",
+    "size": 8192
+  },
+  "source/projects/team_08/year_2024/section_01/scan_0001_0134.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "aff9fda4db70cc3a17186dc0108a1df32d0b016912e7deb18e987f5704b5703b",
+    "size": 9216
+  },
+  "source/projects/team_08/year_2024/section_02/receipt_2020_0044.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "92ab525c2551eed6f5fc4547dc633946f14d4e5fa60b9a80bd4290e83d7b00ad",
+    "size": 8192
+  },
+  "source/projects/team_08/year_2024/section_03/project-1_0269.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "0fb2ce85ecb7b804ca76713a8f9d7b249c1a3bb18c2f0e22f99168cbc2a981f5",
+    "size": 33280
+  },
+  "source/projects/team_08/year_2024/section_04/notes-draft_0179.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "b63446d12be15cfb223fdc389ff0954a13b23def6a83ad94de1960913459c0f2",
+    "size": 9728
+  },
+  "source/projects/team_08/year_2024/section_05/invoice_final_0089.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "53f2cf7f744ac419cac3ae4eafa0bf980e66e5ed361977d8534db1751405f3d5",
+    "size": 8704
+  },
+  "source/projects/team_08/year_2024/section_06/report-copy_0314.dat": {
+    "mtime_ns": 1700000000000000000,
+    "sha256": "bf0a2429bb6e4ee725052436efc77fdfbbec545b8d0e64bf7fbcccf2e748cee0",
+    "size": 4096
+  }
+}

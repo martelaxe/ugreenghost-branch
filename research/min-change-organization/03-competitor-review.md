@@ -1,0 +1,17 @@
+# Existing organization tools and methods
+
+Research on primary documentation 2026-10-27. These are product capabilities as documented, not tests or proof that a particular feature is absent. Native UGREEN is not runtime-validated.
+
+| Product | Documented overlap | Distinction / evidence limitation |
+|---|---|---|
+| UGREEN `file-workflow` | `start(kind=organize)` returns planned status and plan summary; `run` uses workflow approval and returns totals. [Catalog audit](01-platform-capabilities.md). | Unknown whether it already avoids no-ops, handles conflicts or supports arbitrary policy; no device access. |
+| [Hazel](https://www.noodlesoft.com/manual/hazel/hazel-basics/about-folders-rules/) | File/folder rules can match content and move files; conditions and options define conflict behavior. [Rule preview](https://www.noodlesoft.com/manual/hazel/work-with-folders-rules/create-edit-rules/preview-a-rule/) shows matches, and [actions](https://www.noodlesoft.com/manual/hazel/attributes-actions/action-reference/) support rename/replace/duplicate handling. | Rule preview checks matching, not proof every eventual move succeeds. Rule author can exclude items; not evidence of global minimum optimization. |
+| [QNAP Qfiling](https://www.qnap.com/en-uk/how-to/tutorial/article/how-to-use-qfiling) | Vendor documentation describes filing rules, destination structure preview, original-name preservation, and skip/overwrite/rename conflict choices. | Exact no-op behavior and whether it can express this semantic policy were not verified. |
+| [DropIt](https://www.dropitproject.com/assets/guides/GuideEN.pdf) | Rules, actions, destinations and progress/status; vendor guide shows file-level operation dialog. | No claim it solves the same global constrained minimum-move problem without direct testing. |
+| [File Juggler](https://www.filejuggler.com/documentation/interface/) | Rules monitor folders, display matching files and whether each was processed; [actions](https://www.filejuggler.com/documentation/actions/) document collision options. | The vendor says unchanged files are not reprocessed, but network locations are rescanned ([processing details](https://www.filejuggler.com/documentation/introduction-to-file-juggler/)); our complex policy was not tested. |
+| [Synology File Station](https://kb.synology.com/en-id/DSM/help/FileStation/copymove?version=7) | Move/copy allows skip or overwrite on collision. | This source documents manual actions, not an optimizer or autonomous semantic planning. |
+| [rsync](https://rsync.samba.org/ftp/rsync/rsync.1) | `--dry-run`, checks and incremental synchronization are established. | Sync and content-derived organization have different semantics; it is not a direct implementation of this policy. |
+
+Idempotent declarative reconciliation, no-op detection, and choosing minimal changes are established planning ideas. A natural-language Skill may provide convenient explanations and uncertainty handling, but this is useful only if measured against an equally competent generic request and real native workflow. It is not a new algorithm just because it employs AI.
+
+[Ansible documentation](https://docs.ansible.com/projects/ansible/latest/module_plugin_guide/modules_intro.html) describes the existing desired-state principle: modules should be idempotent and avoid changes when already in the desired state. This is an analogy, not a file-organization competitor or proof that any Skill implementation is idempotent.
